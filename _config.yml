@@ -8,16 +8,16 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: A Painter
+title: Jenny Blyth Fine Art
 subtitle: Great artist
-name: A Painter
-description: Demo Eye Gallery site
+name: Jenny Blyth Fine Art
+description: An Eye Gallery site
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: ""
 # the base hostname & protocol for your site
-url: "http://black-hare.cloudvent.net"
+url: "http://brisk-capybara.cloudvent.net/"
 logo: "/assets/logo.png"
 email: a.ward@eyedivision.com
 
@@ -31,7 +31,7 @@ highlightjs_theme: "monokai-sublime"
 
 # Image CDN
 imagecdn:
-  staging: "http://ed-eyegallery-dev.imgix.net"
+  #staging: "http://ed-eyegallery-dev.imgix.net"
   #production: "http://ed-eyegallery.imgix.net"
 
 # Collections Example
@@ -74,7 +74,7 @@ appurl:
 ga_tracking_id: ""
 
 # Google Recaptcha used for contact form
-recaptcha_site_key: "6LcNYBQUAAAAAALGOjCFo1CKxb65aFTFelMJo1YF"
+recaptcha_site_key: ""
 
 # Social icons and sharing options
 #
@@ -95,29 +95,29 @@ social:
 
   - name: Facebook
     icon: icon-facebook_sign
-    username: eyedivision
-    url: https://www.facebook.com/eyedivision
+    username:
+    url:
     desc: Like on Facebook
     share: true
 
   - name: Instagram
     icon: icon-instagram
-    username: '@eyedivision'
-    url: https://instagram.com/eyedivision
+    username:
+    url:
     desc: Follow me on Instagram
     share: false
 
   - name: Twitter
     icon: icon-twitter_sign
-    username: '@EyeDivision'
-    url: https://twitter.com/EyeDivision
+    username:
+    url:
     desc: Follow us on Twitter
     share: true
 
   - name: Pinterest
     icon: icon-pinterest
     username:
-    url: http://uk.pinterest.com/
+    url:
     desc: Follow me on Pinterest
     share: true
 
