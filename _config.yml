@@ -31,8 +31,8 @@ highlightjs_theme: "monokai-sublime"
 
 # Image CDN
 imagecdn:
-  #staging: "http://ed-eyegallery-dev.imgix.net"
-  #production: "http://ed-eyegallery.imgix.net"
+  staging: "https://ed-jennyblythfineart-dev.imgix.net"
+  #production: "https://ed-eyegallery.imgix.net"
 
 # Collections Example
 collections:
