@@ -8,7 +8,9 @@ input {
         width: 50%;
     }
 }
-
+fieldset {
+  background-color: lighten($gray, 20%)
+}
 /// Shopping cart
 
 form.cart {
