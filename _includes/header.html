@@ -1,13 +1,10 @@
 <header class="navigation" role="banner">
   <div class="navigation-wrapper">
     <a href="{{ site.baseurl }}/" class="logo" title="Return home">
-      {% if site.logo %}
-        {% include img.html src=site.logo width=600 alt=site.title %}
-      <!-- <img src="{{ site.logo | prepend: site.baseurl }}" alt="{{ site.title }}"> -->
-      {% else %}
+
       <h1>{{ site.title }}</h1>
       <div class="subtitle">{{ site.subtitle }}</div>
-      {% endif %}
+
     </a>
     <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">
       <span class="menu-title">MENU</span> <svg class="icon icon-menu"><use xlink:href="#icon-reorder" /></svg>

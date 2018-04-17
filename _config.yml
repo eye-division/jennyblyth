@@ -9,7 +9,7 @@ exclude:
 
 # Site settings
 title: Jenny Blyth Fine Art
-subtitle: Great artist
+subtitle:
 name: Jenny Blyth Fine Art
 description: An Eye Gallery site
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -71,10 +71,10 @@ appurl:
 # disqus_shortname:
 
 # Google analytics
-ga_tracking_id: ""
+ga_tracking_id: "UA-16735011-20"
 
 # Google Recaptcha used for contact form
-recaptcha_site_key: ""
+recaptcha_site_key: "6Lfws1MUAAAAAFXrsgFE5OrdXG4WxY0yp8SQX7vK"
 
 # Social icons and sharing options
 #

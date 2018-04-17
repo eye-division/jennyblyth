@@ -2,24 +2,6 @@
 
   <div class="wrapper">
 
-    <div class="site-contact">
-
-      <ul class="social-media-list">
-
-        {% for social in site.social %}
-          {% if social.url != null %}
-          <li>
-            <a href="{{ social.url }}" title="{{ social.desc }}">
-              <svg class="icon {{ social.icon }}"><use xlink:href="#{{ social.icon }}" /></svg>
-              <span class="username">{% if social.username %}{{ social.username }}{% else %}{{ social.name }}{% endif %}</span>
-            </a>
-          </li>
-          {% endif %}
-        {% endfor %}
-
-      </ul>
-    </div>
-
 
     <div class="site-signature">
       <p class="text">&copy; All work is copyright the artist, no reproduction without permission.<br />

@@ -4,20 +4,11 @@
 
 /// logo
 .logo {
+    text-align: center;
     display: block;
     color: $base-font-color;
-    text-shadow: 0 2px 1px rgba(0,0,0,0.8) !important;
-    //background: rgba($navigation-color, 0.8);
     padding: 0 0.5em;
-    @include media ($small) {
-        //width: 40%;
-    }
-    //float: left;
-    //height: 6em;
-
-    span {
-        font-size: 1.25em;
-    }
+    font-size: modular-scale(5);
     h1 {
         margin-bottom: 0;
     }
