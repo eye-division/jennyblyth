@@ -138,42 +138,42 @@ images:
   - image_path: '/assets/images/536a53f41656b.jpg'
     image_title: "Class, 2014"
     image_description: "Class, 2014<br />Ink and Cyanotype Wash on Watercolour Paper<br />52 x 72 cm<br />&amp;pound;500 SOLD"
-  - image_path: '/assets/images/.jpg'
-    image_title: ""
-    image_description: ""
-  - image_path: '/assets/images/.jpg'
-    image_title: ""
-    image_description: "" 
-  - image_path: '/assets/images/.jpg'
-    image_title: ""
-    image_description: ""
-  - image_path: '/assets/images/.jpg'
-    image_title: ""
-    image_description: "" 
-  - image_path: '/assets/images/.jpg'
-    image_title: ""
-    image_description: ""
-  - image_path: '/assets/images/.jpg'
-    image_title: ""
-    image_description: "" 
-  - image_path: '/assets/images/.jpg'
-    image_title: ""
-    image_description: ""
-  - image_path: '/assets/images/.jpg'
-    image_title: ""
-    image_description: "" 
-  - image_path: '/assets/images/.jpg'
-    image_title: ""
-    image_description: ""
-  - image_path: '/assets/images/.jpg'
-    image_title: ""
-    image_description: "" 
-  - image_path: '/assets/images/.jpg'
-    image_title: ""
-    image_description: ""
-  - image_path: '/assets/images/.jpg'
-    image_title: ""
-    image_description: "" 
+  - image_path: '/assets/images/50cb1f530f267.jpg'
+    image_title: "Horse Latitudes 1"
+    image_description: "Horse Latitudes 1, 2010<br />black and white pin hole photograph on watercolour paper brushed with photographic emulsion<br />441 x 47 cm"
+  - image_path: '/assets/images/50ca1f401381c.jpg'
+    image_title: "Horse Latitudes 2"
+    image_description: "Horse Latitudes 2, 2010<br />black &amp;amp; white pin hole photograph on watercolour paper brushed with photographic emulsion<br />41 x 47 cm" 
+  - image_path: '/assets/images/50ca206feeac8.jpg'
+    image_title: "Horse Latitudes 3"
+    image_description: "Horse Latitudes 3, 2010<br />photograph on watercolour paper brushed with photographic emulsion"
+  - image_path: '/assets/images/50ca2111ed32e.jpg'
+    image_title: "Horse Latitudes 4"
+    image_description: "Horse Latitudes 4, 2010<br />black &amp;amp; white pin hole photograph on watercolour paper brushed with photographic emulsion<br />69 x 77 cm" 
+  - image_path: '/assets/images/50ca15da930a3.jpg'
+    image_title: "Horse Latitudes 5"
+    image_description: "Horse Latitudes 5"
+  - image_path: '/assets/images/50ca1bd7ea116.jpg'
+    image_title: "Horse Latitudes 6"
+    image_description: "Horse Latitudes 6, 2010<br />black and white pin hole photograph on watercolour paper brushed with photographic emulsion<br />68 x 75 cm framed" 
+  - image_path: '/assets/images/50ca21ba9ea07.jpg'
+    image_title: "Horse Latitudes 7"
+    image_description: "Horse Latitudes 7, 2010<br />black and white pin hole photograph on watercolour paper brushed with photographic emulsion"
+  - image_path: '/assets/images/50ca2451f3764.jpg'
+    image_title: "Horse Latitudes 8"
+    image_description: "Horse Latitudes 8, 2010<br />Pin-hole photograph<br />30.5 x 38 cm" 
+  - image_path: '/assets/images/50ca223c1fe72.jpg'
+    image_title: "Horse Latitudes 9"
+    image_description: "Horse Latitudes 9, 2010<br />black &amp;amp; white pin hole photograph on watercolour paper brushed with photographic emulsion"
+  - image_path: '/assets/images/4ccddebbbe535.jpg'
+    image_title: "Horse Latitudes 10"
+    image_description: "Horse Latitudes 10, 2010<br />black and white pin hole photograph on watercolour paper brushed with photographic emulsion<br />51 x 44.5 cm framed" 
+  - image_path: '/assets/images/50c9f1e5c5d04.jpg'
+    image_title: "Horse Latitudes 11"
+    image_description: "Horse Latitudes 11, 2010<br />pin-hole photograph on watercolour paper<br />45 x 42 cm framed"
+  - image_path: '/assets/images/50ca271a379cd.jpg'
+    image_title: "Horse Latitudes 12"
+    image_description: "Horse Latitudes 12, 2010<br />Pin-hole photograph on watercolour paper<br />40.5 x 30 cm" 
 _options:
   image_path:
     width: 1200
