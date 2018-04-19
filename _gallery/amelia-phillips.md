@@ -46,19 +46,19 @@ images:
     image_description: "Rust on Blue II, 2013<br /> Rusted Metal Relief and Monoprint<br /> 880x 640 mm"
   - image_path: '/assets/images/550c291388684.jpg'
     image_title: "Floe"
-    image_description: "Floe, 2014<br />Steel Etching with Marbling<br />990 x 685 mm<br />&amp;Acirc;&amp;pound;500"
+    image_description: "Floe, 2014<br />Steel Etching with Marbling<br />990 x 685 mm<br />&amp;pound;500"
   - image_path: '/assets/images/550448efed639.jpg'
     image_title: "Fauna"
     image_description: "Fauna, 2014<br />Steel Etching<br />1070 x 750mm"
   - image_path: '/assets/images/550c1a1de343a.jpg'
     image_title: "Rust Blue III"
-    image_description: "Rust Blue III, 2013<br />Rusted Metal Relief and Monoprint<br />880 x 640 mm<br />&amp;Acirc;&amp;pound;550 SOLD"
+    image_description: "Rust Blue III, 2013<br />Rusted Metal Relief and Monoprint<br />880 x 640 mm<br />&amp;pound;550 SOLD"
   - image_path: '/assets/images/550c19c6d6555.jpg'
     image_title: "Beneath"
-    image_description: "Beneath, 2014<br />Steel Etching<br />1070 x 750 mm<br />&amp;Acirc;&amp;pound;500 framed"
+    image_description: "Beneath, 2014<br />Steel Etching<br />1070 x 750 mm<br />&amp;pound;500 framed"
   - image_path: '/assets/images/550c1a63a22ab.jpg'
     image_title: "Drift"
-    image_description: "Drift, 2014<br />Steel Etching with Marbling<br />990 x 685 mm<br />&amp;Acirc;&amp;pound;550 framed"    
+    image_description: "Drift, 2014<br />Steel Etching with Marbling<br />990 x 685 mm<br />&amp;pound;550 framed"    
 _options:
   image_path:
     width: 1200

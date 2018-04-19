@@ -62,7 +62,7 @@ images:
     image_description: "Angelica archangelica / seed heads, 2012<br />acrylic on canvas<br />12 x 12 in"
   - image_path: '/assets/images/516584cebf19a.jpg'
     image_title: "In the Hothouse"
-    image_description: "In the Hothouse, 2012<br />Acrylic on canvas<br />12 x 12&amp;quot;<br />&amp;Acirc;&amp;pound;495 "
+    image_description: "In the Hothouse, 2012<br />Acrylic on canvas<br />12 x 12&amp;quot;<br />&amp;pound;495 "
   - image_path: '/assets/images/4e0c86a05a27a.jpg'
     image_title: "Honeysuckle"
     image_description: "Honeysuckle, 2010<br />acrylic on canvas<br />20 x 20&amp;quot"
