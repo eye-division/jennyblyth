@@ -17,7 +17,7 @@ description: An Eye Gallery site
 # root of your server.
 baseurl: ""
 # the base hostname & protocol for your site
-url: "http://brisk-capybara.cloudvent.net/"
+url: "https://www.jennyblythfineart.co.uk"
 logo: "/assets/logo.png"
 email: a.ward@eyedivision.com
 
@@ -34,7 +34,7 @@ highlightjs_theme: "monokai-sublime"
 # Image CDN
 imagecdn:
   staging: "https://ed-jennyblythfineart-dev.imgix.net"
-  #production: "https://ed-eyegallery.imgix.net"
+  production: "https://ed-jennyblythfineart.imgix.net"
 
 # Collections Example
 collections:
