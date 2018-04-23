@@ -12,13 +12,17 @@ layout: default
 
 <article id="content">
 
-  {% if page.main_image_path %}
-    <figure>
-    {% assign alt_text = page.title %}
-    {% if page.main_image_caption %} {% assign alt_text = page.main_image_caption %} {% endif %}
-    {% include img.html src=page.main_image_path alt=alt_text %}
-    <figcaption>{{ alt_text }}</figcaption>
-    </figure>
+  {% if site.showfeatured %}
+    {{ site.showfeatured }}
+    {% if page.main_image_path %}
+      <figure>
+      {% assign alt_text = page.title %}
+      {% if page.main_image_caption %} {% assign alt_text = page.main_image_caption %} {% endif %}
+      {% include img.html src=page.main_image_path alt=alt_text %}
+      <figcaption>{{ alt_text }}</figcaption>
+      </figure>
+    {% endif %}
+
   {% endif %}
 
   {% if page.images[0].image_path %}

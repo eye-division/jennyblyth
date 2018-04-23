@@ -6,12 +6,21 @@
 .logo {
     text-align: center;
     display: block;
+    float: left;
     color: $base-font-color;
     padding: 0 0.5em;
-    font-size: modular-scale(4);
+    @include media ($medium) {
+        float: none;
+    }
     h1 {
         margin-bottom: 0;
+        line-height: 1.2em;
+        font-size: modular-scale(2);
+        @include media ($medium) {
+            font-size: modular-scale(3);
+        }
     }
+
     .subtitle {
         color: $base-font-color;
         font-family: $subheading-font-family;

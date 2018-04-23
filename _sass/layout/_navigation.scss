@@ -20,7 +20,8 @@
 /// small view
 .navigation-menu-button {
     display: block;
-    text-align: right;
+    float: left;
+    text-align: left;
     margin: 0;
     font-size: 1.5em;
     padding-top: 0.5em;
@@ -51,7 +52,7 @@
 }
 
 nav {
-    float: right;
+    //float: left;
     @include media ($medium) {
         float: none;
         line-height: 1.5em;
@@ -80,7 +81,7 @@ ul.navigation-menu {
 
 li.nav-link {
     display: block;
-    text-align: right;
+    text-align: left;
     width: 100%;
     padding: 0.25em 0;
     @include media ($medium) {

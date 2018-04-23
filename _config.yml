@@ -21,6 +21,8 @@ url: "http://brisk-capybara.cloudvent.net/"
 logo: "/assets/logo.png"
 email: a.ward@eyedivision.com
 
+showfeatured:
+
 # Build settings
 markdown: kramdown
 paginate: 5
