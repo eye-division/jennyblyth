@@ -1,54 +1,52 @@
-<header class="navigation" role="banner">
-  <div class="navigation-wrapper">
-
-    <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">
-      <span class="menu-title">MENU</span> <svg class="icon icon-menu"><use xlink:href="#icon-reorder" /></svg>
-    </a>
-
-    <nav role="navigation">
-      <ul id="js-navigation-menu" class="dropdown navigation-menu show">
-
-        {% for link in site.data.nav %}
-
-          {% if link.subcategories != null %}
-
-          <!-- Drop down v2 -->
-          <li class="nav-link{% if page.url == link.href %} active{% endif %} dropdown-container">
-
-              <a href="#menu" class="dropdown-button">{{ link.title }}</a>
-
-              <ul class="dropdown-menu dropdown-select">
-
-                {% for subcategory in link.subcategories %}
-
-                     <li><a href="{{ subcategory.subhref | prepend: site.baseurl }}">{{ subcategory.subtitle }}</a></li>
-
-                {% endfor %}
-
-              </ul>
-
-
-          </li>
-
-          {% else %}
-
-          <li class="nav-link{% if page.url == link.href %} active{% endif %} {% if link.subcategories != null %} more{%endif %}">
-            <a href="{{ link.href | prepend: site.baseurl }}"  class="">{{ link.title }}</a>
-          </li>
-
-          {% endif %}
-
-        {% endfor %}
-
-      </ul>
-    </nav>
+<header class="header" role="banner">
 
     <a href="{{ site.baseurl }}/" class="logo" title="Return home">
 
       <h1>{{ site.title }}</h1>
-      <div class="subtitle">{{ site.subtitle }}</div>
 
     </a>
 
+</header>
+
+<header class="navigation">
+
+  <div class="navigation-wrapper">
+
+  <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">
+      <span class="menu-title">MENU</span> <svg class="icon icon-menu"><use xlink:href="#icon-reorder" /></svg>
+  </a>
+
+  <nav role="navigation">
+    <ul id="js-navigation-menu" class="dropdown navigation-menu show">
+
+        <li class="nav-link{% if page.url == '/' %} active{% endif %}">
+          <a href="/" class="">Home</a>
+        </li>
+        <li class="nav-link{% if page.url == '/exhibitions/' %} active{% endif %}">
+          <a href="/exhibitions/" class="">Exhibitions</a>
+        </li>
+        <!-- end row 1 -->
+        <li class="nav-link{% if page.url == '/about/' %} active{% endif %}">
+          <a href="/about/" class="">About</a>
+        </li>
+        <li class="nav-link{% if page.url == '/contact/' %} active{% endif %}">
+          <a href="/contact/" class="">Contact</a>
+        </li>
+
+        {% assign galleries = site.gallery %}
+
+        {% for gallery in galleries %}
+
+          <li class="nav-link{% if page.url == gallery.permalink | prepend: site.baseurl %} active{% endif %}">
+            <a href="{{ gallery.permalink | prepend: site.baseurl }}" class="">{{ gallery.title }}</a>
+          </li>
+
+        {% endfor %}
+
+
+
+    </ul>
+  </nav>
   </div>
+
 </header>

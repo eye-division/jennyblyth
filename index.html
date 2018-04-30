@@ -4,7 +4,7 @@ carousel:
   - image: /assets/images/57600d9cdc70d.jpg
     caption: "Josephine Trotter"
     link: /gallery/josephine-trotter/
-
+showsections: false
 _options:
   image:
     width: 1200
@@ -17,9 +17,7 @@ _comments:
   caption: optional caption
 ---
 
-    <div class="editable">
-    <p>Jenny Blyth has twenty-five years background in contemporary art. She was curator at Saatchi Gallery 1990-2002 and ran a floating gallery for ten years thereafter, originating projects and mounting exhibitions largely in London and Oxford. Jenny Blyth Fine Art curated 40 exhibitions at Art Jericho since 2009 based at the gallery for three years from 2011.</p>
-    </div>
+
 
     {% if page.carousel %}
     <!-- <div class="two-thirds no-gutter"> -->
@@ -46,52 +44,60 @@ _comments:
       <!-- </div> -->
       {% endif %}
 
-      <!-- Regular page promotions on front page -->
-      {% for section in site.pages %}
+    <div class="editable">
+    <p>Jenny Blyth has twenty-five years background in contemporary art. She was curator at Saatchi Gallery 1990-2002 and ran a floating gallery for ten years thereafter, originating projects and mounting exhibitions largely in London and Oxford. Jenny Blyth Fine Art curated 40 exhibitions at Art Jericho since 2009 based at the gallery for three years from 2011.</p>
+    </div>
 
-      {% if section.frontpage %}
+      {% if showsections == true %}
+          <!-- Regular page promotions on front page -->
+          {% for section in site.pages %}
 
-        {% if section.main_image_path %}
-          <section class="gallery-cover has-cover" style="background-image: url({{ section.main_image_path }});">
-        {% else %}
-          <section class="gallery-cover has-cover" style="background-image: url('http://placekitten.com/g/1200/300');">
-        {% endif %}
-          <a href="{{ section.url | prepend: site.baseurl }}">
-            <div class="scrim has-cover">
-              <article class="gallery--front">
-                <header class="gallery-header">
-                  <h2 class="title">{{ section.frontpagetitle }}</h2>
-                </header>
-                {% if section.homepage_description_markdown: %}
-                  {{ section.homepage_description_markdown:  | markdownify }}<br>
-                  <span class="readmore">Read more <span>{{nextPost.title}} <svg class="icon"><use xlink:href="#icon-double_angle_right" /></svg></span>
+          {% if section.frontpage %}
 
-                {% endif %}
-            </article>
-          </div>
-          </a>
-        </section>
+            {% if section.main_image_path %}
+              <section class="gallery-cover has-cover" style="background-image: url({{ section.main_image_path }});">
+            {% else %}
+              <section class="gallery-cover has-cover" style="background-image: url('http://placekitten.com/g/1200/300');">
+            {% endif %}
+              <a href="{{ section.url | prepend: site.baseurl }}">
+                <div class="scrim has-cover">
+                  <article class="gallery--front">
+                    <header class="gallery-header">
+                      <h2 class="title">{{ section.frontpagetitle }}</h2>
+                    </header>
+                    {% if section.homepage_description_markdown: %}
+                      {{ section.homepage_description_markdown:  | markdownify }}<br>
+                      <span class="readmore">Read more <span>{{nextPost.title}} <svg class="icon"><use xlink:href="#icon-double_angle_right" /></svg></span>
 
-      {% endif %}
+                    {% endif %}
+                </article>
+              </div>
+              </a>
+            </section>
+
+          {% endif %}
+
+        {% endfor %}
+
+         <!-- Galleries -->
+        {% for gallery in site.gallery %}
+          {% if gallery.frontpage %}
+            <section class="gallery-cover {% if gallery.main_image_path %}has-cover{% endif %}" {% if gallery.main_image_path %}style="background-image: url({{ gallery.main_image_path | prepend: gallery.baseurl }});"{% endif %}>
+              <a href="{{ gallery.url }}">
+                <div class="scrim {% if gallery.main_image_path %}has-cover{% endif %}">
+                <article class="gallery--front">
+                  <header class="gallery-header">
+                    <h2 class="title">{{ gallery.title }}</h2>
+                  </header>
+                  {% if gallery.homepage_description_markdown:  %}
+                    {{ gallery.homepage_description_markdown:  | markdownify }}
+                  {% endif %}
+              </article>
+              </div>
+            </a>
+          </section>
+          {% endif %}
 
     {% endfor %}
 
-      <!-- Galleries -->
-    {% for gallery in site.gallery %}
-      {% if gallery.frontpage %}
-        <section class="gallery-cover {% if gallery.main_image_path %}has-cover{% endif %}" {% if gallery.main_image_path %}style="background-image: url({{ gallery.main_image_path | prepend: gallery.baseurl }});"{% endif %}>
-          <a href="{{ gallery.url }}">
-            <div class="scrim {% if gallery.main_image_path %}has-cover{% endif %}">
-            <article class="gallery--front">
-              <header class="gallery-header">
-                <h2 class="title">{{ gallery.title }}</h2>
-              </header>
-              {% if gallery.homepage_description_markdown:  %}
-                {{ gallery.homepage_description_markdown:  | markdownify }}
-              {% endif %}
-          </article>
-          </div>
-        </a>
-      </section>
-      {% endif %}
-    {% endfor %}
+  {% endif %}

@@ -1,7 +1,7 @@
 ---
 title: Addy Gardner
 description_markdown: |
-  "Addy Gardner, Oxfordshire artist, trained in both Fine Art and Applied Psychology.  Sixteen years ago she declined the offer of an MA in Fine Art and set off to Edinburgh where she set up her studio inspired by the beauty of Scottish landscape.  She returned to Oxfordshire in 2004.
+  Addy Gardner, Oxfordshire artist, trained in both Fine Art and Applied Psychology.  Sixteen years ago she declined the offer of an MA in Fine Art and set off to Edinburgh where she set up her studio inspired by the beauty of Scottish landscape.  She returned to Oxfordshire in 2004.
 
   For those of you who know her work, you will find that Addy has moved on from what you might expect. She is painting beautiful and complex landscapes composed of layers of oil paint which individually retain both substance and translucency.  The effect is to capture the fluidity of the firmament - sunlight spilling through clouds, earth and sky bathed in luminosity.  Her subject is the landscape that she encounters around her which she recreates in the studio as photographic panoramic ‘sketches’. From that visual reference point, Addy creates paintings that echo her memories, thoughts, dreams and emotions – moments of ‘peak experience’.  There is a strong autobiographical element in her work that colours her compositions with titles such as “_The memory of the moment we first met_”.  An artist invites us to share their journey, yet the success of a painting is also determined by their ability to invite us to make our own.  Addy Gardner is chasing beauty, and is successful on both counts.
 
@@ -9,23 +9,23 @@ description_markdown: |
 
   **THE PAST WE HAVE SHARED**
 
-  **ADDY GARDNER ****September 2011**
+  **ADDY GARDNER** September 2011
 
   JBFA at Gallery 27 Cork St London W1  
 
   **EARTH & SKY**
 
-  **ADDY GARDNER ****December 2010 – January 2011**
+  **ADDY GARDNER** **December 2010 – January 2011**
 
   JBFA at Art Jericho.
 
-  **_“The sublime is that which we cannot appropriate, if only because we cannot discern any boundaries. If anything, it appropriates us ….” Malcolm Andrews_**
+  >The sublime is that which we cannot appropriate, if only because we cannot discern any boundaries. If anything, it appropriates us . . . Malcolm Andrews
 
   Moving seamlessly between configuration and abstract expressionism, Addy Gardner invites the viewer to journey between an earthly landscape and a canvas of dreams. Her painting aspires to ‘Peak Experience’ where the viewer releases their sense of self, to an awareness of a greater unity. Gardner commands an ability to create form, transforming the colours of earth and sky to a spectrum of light and ambivalence. Working in oil on canvas, Addy Gardner’s paintings are infused with vitality, imparting energy and a sense of joy.
 
-  **_ “My paintings draw on the tradition of the picturesque and sublime. They are a representation of the point at which beauty emerges in the natural world.” ..   Addy Gardner._**
+  >My paintings draw on the tradition of the picturesque and sublime. They are a representation of the point at which beauty emerges in the natural world.  Addy Gardner.
 
-  Jenny Blyth Fine Art presenting new work by Addy Gardner, an emerging painter based in Oxfordshire at Art Jericho in 2010 and thereafter in London’s Gallery 27 in Cork Street."
+  Jenny Blyth Fine Art presenting new work by Addy Gardner, an emerging painter based in Oxfordshire at Art Jericho in 2010 and thereafter in London’s Gallery 27 in Cork Street.
 homepage_description_markdown: 
 frontpage: true
 _gallery_date: 2016-05-01 00:00:00

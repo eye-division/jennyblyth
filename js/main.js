@@ -48,6 +48,11 @@
       touch: true
     });
 
+    // Bourbon expander
+    $('.expander-trigger').click(function(){
+      $(this).toggleClass("expander-hidden");
+    });
+
   }); // end doc ready
 
 })(jQuery); // End of use strict

@@ -21,21 +21,25 @@ body {
     display: grid;
     grid-template-areas:
       "header"
+      "navigation"
       "page"
       "footer";
-    grid-template-rows: minmax(120px, 10%) 1fr 20%;
+    grid-template-rows: minmax(60px, 10%) minmax(60px, 10%) 1fr 20%;
     grid-gap: 10px;
     height: 100vh;
     margin: 0;
     background-color: $base-background-color;
 }
 
-.navigation, .site-footer {
+.header, .navigation, .site-footer {
     @include flex(none);
     //@include flex(1 0 auto);
 }
-.navigation {
+.header  {
     grid-area: header;
+}
+.navigation {
+    grid-area: navigation;
 }
 .site-footer {
     grid-area: footer;

@@ -21,7 +21,7 @@ url: "https://www.jennyblythfineart.co.uk"
 logo: "/assets/logo.png"
 email: a.ward@eyedivision.com
 
-showfeatured:
+showfeatured: true
 
 # Build settings
 markdown: kramdown
@@ -50,7 +50,7 @@ defaults:
             path: ""
             type: "gallery"
         values:
-            layout: "gallery"
+            layout: "artist"
 
 # Payment settings
 # Environment settings

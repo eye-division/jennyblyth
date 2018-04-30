@@ -1,9 +1,9 @@
 // Google Fonts
-@import url(//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300|Lato:300,400);
+//@import url(//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300|Lato:300,400);
 /// Typography
-$base-font-family: ('Open Sans',  'Helvetica Neue', 'Helvetica', 'verdana', 'Arial', sans-serif); // $helvetica;
-$heading-font-family: ('Lato', 'Helvetica Neue', 'Helvetica', 'verdana', 'Arial', sans-serif); // $base-font-family;
-$subheading-font-family: ('Lato', 'Helvetica Neue', 'Helvetica', 'verdana', 'Arial', sans-serif);
+$base-font-family: ('Tahoma',  'verdana', 'Helvetica Neue', 'Helvetica',  'Arial', sans-serif); // $helvetica;
+$heading-font-family: ('Tahoma',  'verdana',  'Helvetica Neue', 'Helvetica', 'Arial', sans-serif); // $base-font-family;
+$subheading-font-family: ('Tahoma',  'verdana',  'Helvetica Neue', 'Helvetica', 'Arial', sans-serif);
 // Font Sizes
 $base-font-size: $em-base; // 16px
 
@@ -27,6 +27,7 @@ $medium-gray: rgb(153, 153, 153);
 $light-gray: rgb(221, 221, 221);
 $white: rgb(255, 255, 255);
 $kbgray: rgb(229, 229, 229);
+$jbgray: rgb(161, 161, 161);
 // Flat UI Colors. For more, see http://flatuicolors.com/
 $turquoise: rgb(26, 188, 156);	// Turqoise
 $green: rgb(39, 174, 96);	  	// Nephritis
@@ -73,26 +74,27 @@ $aaa-visited: rgb(128, 65, 128);
 
 // Gallery image hover
 $gallery-image-hover-opacity: 0.7;
-$gallery-image-hover-color: $medium-gray;
+$gallery-image-hover-color: $jbgray;
 
 // Borders
-$base-border-color: $medium-gray;
+$base-border-color: $jbgray;
 $base-border: 1px solid $base-border-color;
 $base-border-radius: 3px !default;
 
 // navigation
 $navigation-padding: 1em;
-$navigation-background: $kbgray;
+$navigation-background: $white;
 $navigation-height: 30px;
 $navigation-submenu-padding: 1em;
 $navigation-submenu-width: 15em;
+
 // navigation colours
-$navigation-color: $black;
-$navigation-color-hover: $medium-gray;
-$navigation-active-link-color: transparentize(white, 0.5);
+$navigation-color: $jbgray;
+$navigation-color-hover: $black;
+$navigation-active-link-color: transparentize(black, 0.5);
 
 // drop down variables
-$dropdown-color: $base-font-color;
+$dropdown-color: $navigation-color;
 $dropdown-description-color: lighten($dropdown-color, 40%);
 $dropdown-border: 1px solid silver;
 $dropdown-background: $base-background-color;
@@ -103,7 +105,5 @@ $dropdown-padding: 1em;
 $dropdown-distance-from-menu: 50px;
 $dropdown-arrow-top-distance: 0;
 
-/// Forms
-$form-box-shadow: inset 0 1px 3px rgba(rgb(0, 0, 0), 0.06);
-$form-box-shadow-focus: $form-box-shadow, 0 0 5px adjust-color($action-color, $lightness: -5%, $alpha: -0.3);
+
 
