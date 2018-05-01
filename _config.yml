@@ -11,15 +11,15 @@ exclude:
 title: Jenny Blyth Fine Art
 subtitle:
 name: Jenny Blyth Fine Art
-description: An Eye Gallery site
+description: Art gallery based in Oxford
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: ""
 # the base hostname & protocol for your site
 url: "https://www.jennyblythfineart.co.uk"
-logo: "/assets/logo.png"
-email: a.ward@eyedivision.com
+logo: "/siteicon.png"
+email: jennyblyth@btconnect.com
 
 showfeatured: true
 
@@ -76,7 +76,7 @@ appurl:
 ga_tracking_id: "UA-16735011-20"
 
 # Google Recaptcha used for contact form
-recaptcha_site_key: "6Lfws1MUAAAAAFXrsgFE5OrdXG4WxY0yp8SQX7vK"
+recaptcha_site_key: "6LcpjFYUAAAAACuk6c7I64IlKVUsFmk_tCDLOmsn"
 
 # Social icons and sharing options
 #
@@ -127,10 +127,10 @@ social:
 # These are for automatically generating sharing metadata for FB and Twitter
 
 protocols:
-    fb_image: "/assets/logo.png"
-    fb_image_width: 612
-    fb_image_height: 605
+    fb_image: "/siteicon.png"
+    fb_image_width: 480
+    fb_image_height: 480
     fb_image_type: "image/png"
 
-    twitter_image: "/assets/logo.png"
+    twitter_image: "/siteicon.png"
 

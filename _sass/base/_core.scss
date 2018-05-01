@@ -24,12 +24,15 @@ body {
       "navigation"
       "page"
       "footer";
-    grid-template-rows: minmax(80px, 10%) minmax(160px, 20%) 1fr 20%;
+    grid-template-rows: minmax(80px, 10%) 0 1fr 20%;
     grid-gap: 10px;
     height: 100vh;
     margin: 0;
     background-color: $base-background-color;
     /// our grid is made up of
+    @include media ($medium) {
+        grid-template-rows: minmax(80px, 10%) minmax(160px, 20%) 1fr 20%;
+    }
 }
 
 .header, .navigation, .site-footer {
