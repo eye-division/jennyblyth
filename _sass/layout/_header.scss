@@ -6,24 +6,25 @@
     color: $white;
     background-color: $jbgray;
 }
-.logo {
+.header--logo { // this is the site-title h1 header
     text-align: center;
     text-transform: uppercase;
-    display: block;
     color: $white;
-    padding: 0 0.5em;
-    @include media ($medium) {
-        float: none;
-    }
-    h1 {
         margin-bottom: 0;
         font-size: modular-scale(4);
         @include media ($medium) {
             line-height: 2em;
             font-size: modular-scale(5);
         }
-    }
+}
 
+.logo {
+    text-align: center;
+    display: block;
+    padding: 0 0.5em;
+    @include media ($medium) {
+        float: none;
+    }
     .subtitle {
         color: $white;
         font-family: $subheading-font-family;
