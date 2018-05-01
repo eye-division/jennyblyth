@@ -25,14 +25,14 @@
         <li class="nav-link{% if page.url == '/exhibitions/' %} active{% endif %}">
           <a href="/exhibitions/" class="">Exhibitions</a>
         </li>
-        <!-- end row 1 -->
-        <li class="nav-link{% if page.url == '/about/' %} active{% endif %}">
+
+        <!-- <li class="nav-link{% if page.url == '/about/' %} active{% endif %}">
           <a href="/about/" class="">About</a>
-        </li>
-        <li class="nav-link{% if page.url == '/contact/' %} active{% endif %}">
+        </li> -->
+        <li class="nav-link{% if page.url == '/contact/' %} active{% endif %} last">
           <a href="/contact/" class="">Contact</a>
         </li>
-
+        <!-- end row 1 -->
         {% assign galleries = site.gallery %}
 
         {% for gallery in galleries %}

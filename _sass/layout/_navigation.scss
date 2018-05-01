@@ -131,7 +131,13 @@ li.active {
     }
 }
 
+.nav-link.last::after {
 
+  @include media ($medium) {
+    display: table;
+    content: "";
+  }
+}
 
 .show-menu {
   display: block;
