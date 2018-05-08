@@ -1,13 +1,13 @@
 ---
 title: JOSEPHINE TROTTER
 description_markdown: >-
-  JOSEPHINE TROTTER : British Landscape
+  **JOSEPHINE TROTTER : British Landscape**
 
 
-  11-23 JUNE 2018
+  **11-23 JUNE 2018**
 
 
-  Gallery 8 Duke Street St James's London SW1Y 6BN
+  **Gallery 8 Duke Street St James's London SW1Y 6BN**
 
 
   50 New paintings of British Landscape, Interiors & Still Life
