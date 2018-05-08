@@ -464,31 +464,31 @@ images:
     image_description: >-
       St Mawes from Place<br />Oil on canvas<br />24 x 33 in<br
       />&amp;pound;20,000
-  - image_path: /uploads/dsc-3711-1.jpg
-    image_title: 'Devon Reds, Towards Brailes Hill'
+  - image_path: /uploads/dsc-3950.jpg
+    image_title: 'Hotel Tresanton, St Mawes, Cornwall 2017'
     image_description: >-
-      Devon Reds, Towards Brailes Hill, 2015<br />oil on canvas<br />2015<br
-      />&amp;pound;25,000 SOLD
-  - image_path: /uploads/dsc-3711-3.jpg
-    image_title: 'Blue Howgills, Cumbria'
+      Hotel Tresanton, St Mawes, Cornwall 2017 <br />oil on canvas<br
+      />&amp;pound;20,000
+  - image_path: /uploads/dsc-3946.jpg
+    image_title: 'From the Allotments, Illfracombe, 2017'
     image_description: >-
-      Blue Howgills, Cumbria, 2015<br />oil on canvas<br />28 x 36&amp;quot;<br
-      />&amp;pound;12,000 SOLD
-  - image_path: /assets/images/5761775b05480.jpg
-    image_title: 'Great Tew, Oxfordshire'
+      From the Allotments, Illlfracombe 2017<br />oil on canvas<br />32 x
+      24&amp;quot;<br />&amp;pound;15,000
+  - image_path: /uploads/dsc-3987.jpg
+    image_title: 'Churchyard, Illfracombe 2017'
     image_description: >-
-      Great Tew, Oxfordshire, 2014<br />oil on canvas<br />28 x 36&amp;quot;<br
-      />&amp;pound;12,000
-  - image_path: /assets/images/5767eddc4ca7a.jpg
-    image_title: 'Llantellen with Poplars, Monmouthshire'
+      Churchyard, Illfracombe 2017<br />oil on canvas<br />24 x 20&amp;quot;<br
+      />&amp;pound;10,000
+  - image_path: /uploads/dsc-3709.jpg
+    image_title: 'St Just in Roseland, St Mawes 2017'
     image_description: >-
-      Llantellen with Poplars, Monmouthshire, 2014<br />oil on canvass<br />24 x
-      28 in<br />&amp;pound;10,000
-  - image_path: /assets/images/5760198084544.jpg
-    image_title: 'Mwnt Bay, Pembrokeshire'
+      St Just in Roseland, St Mawes 2017<br />oil on canvass<br />30 x 24 in<br
+      />&amp;pound;15,000
+  - image_path: /uploads/dsc-3684-1.jpg
+    image_title: 'Puttesbrough, North Devon 2017'
     image_description: >-
-      Mwnt Bay, Pembrokeshire, 2015<br />oil on canvas<br />2015<br
-      />&amp;pound;10,000 SOLD
+      Puttesbrough, North Devon 2017<br />oil on canvas<br />24 x 30
+      in<br/>&amp;pound;12,000 SOLD
   - image_path: /assets/images/575ed2f92b839.jpg
     image_title: 'The River Lune, The Blue Howgills, Cumbria'
     image_description: >-
