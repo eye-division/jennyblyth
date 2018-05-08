@@ -457,7 +457,7 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/josephine-trotter/
 archive: false
 display_title: true
-main_image_path: /uploads/dsc-3679.jpg
+main_image_path: /uploads/dsc-3711.jpg
 images:
   - image_path: /assets/images/57600d9cdc70d.jpg
     image_title: 'Brailes Hill with Rapeseed, May'
@@ -618,6 +618,9 @@ images:
   - image_path: /assets/images/4ea33d3c7e1fc.jpg
     image_title: Pheasants
     image_description: 'Pheasants, 2011<br />Oil on canvas<br />20 x 24 cm (50 x 61 cm)<br />SOLD'
+  - image_path:
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
