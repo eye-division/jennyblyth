@@ -457,7 +457,7 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/josephine-trotter/
 archive: false
 display_title: true
-main_image_path: /assets/images/57600d9cdc70d.jpg
+main_image_path: /uploads/dsc-3679.jpg
 images:
   - image_path: /assets/images/57600d9cdc70d.jpg
     image_title: 'Brailes Hill with Rapeseed, May'
@@ -629,6 +629,7 @@ _options:
     height: 800
     resize_style: contain
     mime_type: image/jpeg
+    correct_orientation: true
 _comments:
   title: Gallery title
   permalink: Be careful editing this
