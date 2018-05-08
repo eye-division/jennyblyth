@@ -464,7 +464,7 @@ images:
     image_description: >-
       St Mawes from Place<br />Oil on canvas<br />24 x 33 in<br
       />&amp;pound;20,000
-  - image_path: /assets/images/576018bcb6976.jpg
+  - image_path: /uploads/dsc-3711-1.jpg
     image_title: 'Devon Reds, Towards Brailes Hill'
     image_description: >-
       Devon Reds, Towards Brailes Hill, 2015<br />oil on canvas<br />2015<br
@@ -627,6 +627,7 @@ _options:
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
+    correct_orientation: true
   main_image_path:
     width: 1200
     height: 800
