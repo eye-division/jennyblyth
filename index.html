@@ -17,9 +17,7 @@ _comments:
   caption: optional caption
 ---
 
-
-
-    {% if page.carousel %}
+{% if page.carousel %}
     <!-- <div class="two-thirds no-gutter"> -->
     <section>
       <div class="flexslider">
@@ -45,7 +43,7 @@ _comments:
       {% endif %}
 
     <div class="editable">
-    <p>Jenny Blyth has twenty-five years background in contemporary art. She was curator at Saatchi Gallery 1990-2002 and ran a floating gallery for ten years thereafter, originating projects and mounting exhibitions largely in London and Oxford. Jenny Blyth Fine Art curated 40 exhibitions at Art Jericho since 2009 based at the gallery for three years from 2011.</p>
+      <p>Jenny Blyth has twenty seven years experience in contemporary art. She was curator at Saatchi Gallery 1990-2002 and ran a floating gallery for ten years thereafter, originating projects and mounting exhibitions largely in London and Oxford. Jenny Blyth Fine Art (JBFA) curated 40 exhibitions at Art Jericho in Oxford between 2010 and 2017.&nbsp; In June 2018, JBFA will be exhibiting 50 new paintings by JOSEPHINE TROTTER at Gallery 8 in Mayfair SW1Y 6BN.&nbsp; It will Trotter's 23rd solo exhibition featuring British Landscape, Interiors and Still Life.</p>
     </div>
 
       {% if showsections == true %}
@@ -66,11 +64,11 @@ _comments:
                       <h2 class="title">{{ section.frontpagetitle }}</h2>
                     </header>
                     {% if section.homepage_description_markdown: %}
-                      {{ section.homepage_description_markdown:  | markdownify }}<br>
+                      {{ section.homepage_description_markdown:  | markdownify }}<br />
                       <span class="readmore">Read more <span>{{nextPost.title}} <svg class="icon"><use xlink:href="#icon-double_angle_right" /></svg></span>
 
                     {% endif %}
-                </article>
+                </span></article>
               </div>
               </a>
             </section>
@@ -101,3 +99,4 @@ _comments:
     {% endfor %}
 
   {% endif %}
+</section>
