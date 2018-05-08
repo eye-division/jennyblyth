@@ -459,7 +459,7 @@ archive: false
 display_title: true
 main_image_path: /uploads/dsc-3711.jpg
 images:
-  - image_path: /assets/images/57600d9cdc70d.jpg
+  - image_path: /uploads/dsc-3711-2.jpg
     image_title: 'St. Mawes from Place, Cornwall 2017'
     image_description: >-
       St Mawes from Place<br />Oil on canvas<br />24 x 33 in<br
@@ -469,7 +469,7 @@ images:
     image_description: >-
       Devon Reds, Towards Brailes Hill, 2015<br />oil on canvas<br />2015<br
       />&amp;pound;25,000 SOLD
-  - image_path: /assets/images/576000a00cabd.jpg
+  - image_path: /uploads/dsc-3711-3.jpg
     image_title: 'Blue Howgills, Cumbria'
     image_description: >-
       Blue Howgills, Cumbria, 2015<br />oil on canvas<br />28 x 36&amp;quot;<br
