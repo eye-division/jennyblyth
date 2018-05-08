@@ -460,10 +460,10 @@ display_title: true
 main_image_path: /uploads/dsc-3711.jpg
 images:
   - image_path: /assets/images/57600d9cdc70d.jpg
-    image_title: 'Brailes Hill with Rapeseed, May'
+    image_title: 'St. Mawes from Place, Cornwall 2017'
     image_description: >-
-      Brailes Hill with Rapeseed, May, 2014<br />Oil on canvas<br />36 x 48
-      in<br />&amp;pound;30,000 SOLD
+      St Mawes from Place<br />Oil on canvas<br />24 x 33 in<br
+      />&amp;pound;20,000
   - image_path: /assets/images/576018bcb6976.jpg
     image_title: 'Devon Reds, Towards Brailes Hill'
     image_description: >-
