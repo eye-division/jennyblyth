@@ -549,73 +549,83 @@ images:
   - image_path: /uploads/dsc-3733.jpg
     image_title: Shropshire 2017
     image_description: 'Shropshire 2017<br />oil on canvas<br />20 x 24 in<br />&amp;pound;10,000'
-  - image_path: /assets/images/576000ee28a98.jpg
-    image_title: 'The Road to Clash Gour, Black Mount'
+  - image_path: /uploads/dsc-3729.jpg
+    image_title: 'River Tern with Rape, Shropshire 2016'
     image_description: >-
-      The Road to Clash Gour, Black Mount, 2015<br />oil on canvass<br />24 x 36
-      in<br />&amp;pound;10,000
-  - image_path: /assets/images/576004e04b115.jpg
-    image_title: Loch Etive
+      River Tern with Rape 2016<br />oil on canvass<br />24 x 30 in<br
+      />&amp;pound;10,000
+  - image_path: /uploads/dsc-3740.jpg
+    image_title: Vegetable Garden with Rape 2016
     image_description: >-
-      Loch Etive, 2015<br />oil on canvas<br />20 x 30 in<br />&amp;pound;8,000
-      SOLD
-  - image_path: /assets/images/57600fe58bfc2.jpg
-    image_title: Polly
-    image_description: 'Polly, 2015<br />oil on canvas<br />30 x 24 in<br />&amp;pound;8,000'
-  - image_path: /assets/images/576010f3f2275.jpg
-    image_title: 'Barn in Kelleth, Cumbria'
+      Vegetable Garden with Rape 2016<br />oil on canvas<br />24 x 30 in<br
+      />&amp;pound;10,000
+  - image_path: /uploads/dsc-3958.jpg
+    image_title: 'Haddon Hall, Derbyshire 2016'
     image_description: >-
-      Barn in Kelleth, Cumbria, 2015<br />oil on canvas<br />24 x 20 in<br
-      />&amp;pound;6,000 SOLD
-  - image_path: /assets/images/525d86be49be0.jpg
-    image_title: North Yorkshire
-    image_description: 'North Yorkshire, 2013<br />oil on canvas<br />&amp;pound;15,000 SOLD'
-  - image_path: /assets/images/5332e5b881d42.jpg
-    image_title: 'Brailles Hill from Nill Farm, Oxfordshire'
+      Haddon Hall, Derbyshire 2016<br />oil on canvas<br />24 x 32 in<br
+      />&amp;pound;12,000
+  - image_path: /uploads/dsc-3982.jpg
+    image_title: The Skirrid from Malvern 2016
     image_description: >-
-      Brailles Hill from Nill Farm, Oxfordshire, 2013<br />Oil on canvas<br />48
-      x 60&amp;quot; in <br />&amp;pound;25,000 SOLD
-  - image_path: /assets/images/5332e5ec7d5f5.jpg
-    image_title: 'Hawkedon, Suffolk'
+      The Skirrid from Malvern 2016<br />oil on canvas<br />24 x 20 in<br
+      />&amp;pound;10,000
+  - image_path: /uploads/dsc-3688.jpg
+    image_title: Capel-y-ffin 2017
+    image_description: Capel-y-ffin 2017<br />oil on canvas<br />20 x 24 in&amp;pound;8000
+  - image_path: /uploads/dsc-3980.jpg
+    image_title: 'Farm near Bures, Suffolk 2016'
     image_description: >-
-      Hawkedon, Suffolk, 2013<br />oil on canvas<br />24 x 30&amp;quot;<br
-      />&amp;pound;8000 SOLD
-  - image_path: /assets/images/5332e48f2cf83.jpg
-    image_title: 'Towards Brailles Hill, Oxfordshire'
+      Farm near Bures, Suffolk 2016<br />oil on canvas<br />24 x 20
+      in&amp;pound;10000
+  - image_path: /uploads/dsc-3743.jpg
+    image_title: 'River Stour, Suffolk 2016'
     image_description: >-
-      Towards Brailles Hill, Oxfordshire, 2012<br />oil on canvas<br />36 x 48
-      in<br />&amp;pound;20,000 SOLD
-  - image_path: /assets/images/5332e65e20eb5.jpg
-    image_title: 'From Egerdon, Towards Dorset'
+      River Stour, Suffolk 2016<br />oil on canvas<br />30 x 24
+      in&amp;pound;12000
+  - image_path: /uploads/dsc-3702.jpg
+    image_title: 'Near Bampton, North Devon 2017'
     image_description: >-
-      From Egerdon, Towards Dorset, 2013<br />oil on canvas<br />24 x
-      30&amp;quot;<br />&amp;pound;8000 SOLD
-  - image_path: /assets/images/5332e7766730c.jpg
-    image_title: 'Abereiddy, Pembrokeshire'
+      Near Bampton, North Devon 2017<br />oil on canvas<br />24 x 30 in<br
+      />&amp;pound;12000 sold
+  - image_path: /uploads/dsc-3696.jpg
+    image_title: 'Nethercote, Near Bampton 2017'
     image_description: >-
-      Abereiddy, Pembrokeshire, 2011<br />Oil on canvas<br />20 x
-      24&amp;quot;<br />&amp;pound;7,500 SOLD
-  - image_path: /assets/images/5332ff769ab26.jpg
-    image_title: White Horse at Calne
+      Nethercote, Near Bampton 2017<br />oil on canvas<br />24 x 30
+      in&amp;quot;<br />&amp;pound;12000
+  - image_path: /uploads/dsc-3737.jpg
+    image_title: Interior with Tulips 2016
     image_description: >-
-      White Horse at Calne, 2013<br />oil on canvas<br />24 x 32&amp;quot;<br
-      />&amp;pound;8000 SOLD
-  - image_path: /assets/images/5332ff96cffda.jpg
-    image_title: Quince
+      Interior with Tulips 2016<br />oil on canvas<br />20 x 24 in&amp;<br
+      />&amp;pound;10000
+  - image_path: /uploads/dsc-3941.jpg
+    image_title: Yellow Interior 2016
     image_description: >-
-      Quince, 2014<br />oil on canvas<br />20 x 24&amp;quot;<br
-      />&amp;pound;7,000 SOLD
-  - image_path: /assets/images/533300773ffda.jpg
-    image_title: North Yorkshire Moors
+      Yellow Interior 2016<br />oil on canvas<br />40 x 30 in&amp;<br
+      />&amp;pound;15000
+  - image_path: /uploads/dsc-3971.jpg
+    image_title: Two Cabbages 2017
     image_description: >-
-      North Yorkshire Moors, 2013<br />Oil on canvas<br />28 x 36 in (71 x 91
-      cm)<br />&amp;pound;12,000 SOLD
-  - image_path: /assets/images/4ea33d3c7e1fc.jpg
-    image_title: Pheasants
-    image_description: 'Pheasants, 2011<br />Oil on canvas<br />20 x 24 cm (50 x 61 cm)<br />SOLD'
-  - image_path:
-    image_title:
-    image_description:
+      Two Cabbages 2017<br />oil on canvas<br />20 x 24 in&amp;<br
+      />&amp;pound;12000
+  - image_path: /uploads/dsc-3727.jpg
+    image_title: Leeks 2017
+    image_description: Leeks 2017<br />oil on canvas<br />20 x 24 in <br />&amp;pound;10000
+  - image_path: /uploads/dsc-3955.jpg
+    image_title: Lily Pond 2017
+    image_description: Lily Pond 2017<br />oil on canvas<br />32 x 24 in<br />&amp;pound;12000
+  - image_path: /uploads/dsc-3705.jpg
+    image_title: Dahlias I 2018
+    image_description: Dahlias I 2018<br />oil on canvas<br />24 x 20 in<br />&amp;pound;6000
+  - image_path: /uploads/dsc-3998.jpg
+    image_title: Yellow Jug with Fish 2018
+    image_description: >-
+      Yellow Jug with Fish 2018<br />oil on canvas<br />18 x 14 in<br
+      />&amp;pound;6000
+  - image_path: /uploads/dsc-4004.jpg
+    image_title: Three Nasturtiums with Jug 2018
+    image_description: >-
+      Three Nasturtiums with Jug 2018<br />oil on canvas<br />16 x 13 in<br
+      />&amp;pound;6000
 _options:
   image_path:
     width: 1200
