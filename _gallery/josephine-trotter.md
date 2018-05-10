@@ -10,7 +10,8 @@ description_markdown: >-
   **Gallery 8 Duke Street St James's London SW1Y 6BN**
 
 
-  50 New paintings of British Landscape, Interiors & Still Life
+  Jenny Blyth Fine Art shows 50 New paintings by Josephine Trotter of British
+  Landscape, Interiors & Still Life
 
 
   *Ann Dumas, curator at The Royal Academy, London* :
@@ -35,9 +36,6 @@ description_markdown: >-
 
   Full essay (see below) from JOSEPHINE TROTTER published by Jenny Blyth Fine
   Art in 2016.&nbsp; Enquiries: jennyblyth@btconnect.com
-
-
-  &nbsp;
 
 
   "Josephine Trotter lives at one with the landscape that surrounds her in the
@@ -169,9 +167,6 @@ description_markdown: >-
   Gallery 8, Duke Street St. James', London SW1Y 6BN
 
 
-  Fifty new paintings
-
-
   13 - 25 JUNE 2016
 
 
@@ -179,9 +174,6 @@ description_markdown: >-
 
 
   Gallery 8, Duke Street St. James', London SW1Y 6BN
-
-
-  Fifty new paintings
 
 
   25 March - 12 April 2014
