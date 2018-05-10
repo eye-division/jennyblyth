@@ -13,10 +13,7 @@ description_markdown: >-
   50 New paintings of British Landscape, Interiors & Still Life
 
 
-  &nbsp;
-
-
-  Ann Dumas, curator at The Royal Academy, London 2016 :
+  *Ann Dumas, curator at The Royal Academy, London writes*:
 
 
   "Josephine Trotter lives at one with the landscape that surrounds her in the
@@ -450,7 +447,7 @@ description_markdown: >-
   and tells us of what and where we are in the world. Josephine Trotter gets it
   right enough, and we are surprised and engaged by it, and better, for it\_.
   London March 2006. William Packer Art Critic with Financial Times since
-  1974.\_"
+  1974.\_" (copyright Ann Dumas 2018)
 homepage_description_markdown:
 frontpage: true
 _gallery_date: 2016-05-01 00:00:00
@@ -489,71 +486,69 @@ images:
     image_description: >-
       Puttesbrough, North Devon 2017<br />oil on canvas<br />24 x 30
       in<br/>&amp;pound;12,000 SOLD
-  - image_path: /assets/images/575ed2f92b839.jpg
-    image_title: 'The River Lune, The Blue Howgills, Cumbria'
+  - image_path: /uploads/dsc-3934.jpg
+    image_title: 'Towards Brailes Hill, Oxfordshire 2016'
     image_description: >-
-      The River Lune, The Blue Howgills, Cumbria, 2015<br />oil on canvas<br
-      />24 x 30&amp;quot;<br />&amp;pound;12,000
-  - image_path: /assets/images/576003e2e33b4.jpg
-    image_title: 'Brailes Hill with Wheatfields, May'
+      Towards Brailes Hill, Oxfordshire 2016<br />oil on canvas<br />36 x
+      48&amp;quot;<br />&amp;pound;30,000
+  - image_path: /uploads/dsc-3747.jpg
+    image_title: 'Nill Farm, Oxfordshire 2017'
     image_description: >-
-      Brailes Hill with Wheatfields, May, 2014<br />oil on canvas<br />28 x 36
-      in<br />&amp;pound;12,000
-  - image_path: /assets/images/5760166b32128.jpg
-    image_title: Kirkby Stephen
+      Nill Farm, Oxfordshire 2017<br />oil on canvas<br />54 x 96 in<br
+      />&amp;pound;
+  - image_path: /uploads/dsc-3966.jpg
+    image_title: Brailes Hill from Longdon Manor 2016
     image_description: >-
-      Kirkby Stephen, 2015<br />oil on canvas<br />20 x 24 in<br
-      />&amp;pound;8,000 SOLD
-  - image_path: /assets/images/5779782c627b6.jpg
-    image_title: Interior with Tapestry
+      Brailes Hill from Longdon Manor 2016<br />oil on canvas<br />26 x 36 in<br
+      />&amp;pound;12,000
+  - image_path: /uploads/dsc-3719.jpg
+    image_title: Cattle at Nill Farm 2017
     image_description: >-
-      Interior with Tapestry, 2016<br />oil on canvas<br />32 x 24 in<br
+      Cattle at Nill Farm 2017<br />oil on canvas<br />24 x 30 in<br
       />&amp;pound;10,000
-  - image_path: /assets/images/57797a7206311.jpg
-    image_title: Pink Tulips
+  - image_path: /uploads/dsc-3682.jpg
+    image_title: Yorkshire Wolds 2016
     image_description: >-
-      Pink Tulips, 2015<br />oil on canvass<br />24 x 20&amp;quot;<br
-      />&amp;pound;6,000
-  - image_path: /assets/images/57617c1acaca7.jpg
-    image_title: Interior with Angel
+      Yorkshire Wolds, Yorkminster 2016<br />oil on canvas<br />30 x 44
+      in&amp;quot;<br />&amp;pound;20,000
+  - image_path: /uploads/dsc-3693.jpg
+    image_title: 'St Martin''s Church, Cwmyoy 2017'
     image_description: >-
-      Interior with Angel, 2016<br />oil on canvas<br />32 x 24 in<br
-      />&amp;pound;10,000 SOLD
-  - image_path: /assets/images/575fff3db2ec0.jpg
-    image_title: 'The Inn at Whitewell, Lancashire'
-    image_description: >-
-      The Inn at Whitewell, Lancashire, 2015<br />oil on canvas<br />28 x 3
-      inches<br />&amp;pound;12,000
-  - image_path: /assets/images/576004975240c.jpg
-    image_title: 'The Churchyard at Bettws Newydd, Monmouthshire'
-    image_description: >-
-      The Churchyard at Bettws Newydd, Monmouthshire, 2015<br />oil on canvas<br
-      />24 x 30&amp;quot;<br />&amp;pound;8,000
-  - image_path: /assets/images/5760112956cfa.jpg
-    image_title: Bryngwyn
-    image_description: >-
-      Bryngwyn, 2015<br />oil on canvas<br />20 x 24 in<br />&amp;pound;6,000
-      SOLD
-  - image_path: /assets/images/57617a917bf4b.jpg
-    image_title: Red Dining Room with Dog
-    image_description: >-
-      Red Dining Room with Dog, 2016<br />oil on canvas<br />30 x 40 in<br
+      St Martin's Church, Cwmyoy 2017<br />oil on canvas<br />24 x 30 in<br
       />&amp;pound;15,000
-  - image_path: /assets/images/576017bb13f24.jpg
-    image_title: 'May Tree, LLantellen, Monmouthshire'
+  - image_path: /uploads/dsc-3963.jpg
+    image_title: 'Ty''r Chanter, Brecon Beacons 2017'
     image_description: >-
-      May Tree, LLantellen, Monmouthshire, 2014<br />oil on canvas<br />28 x 36
-      in<br />&amp;pound;10,000 SOLD
-  - image_path: /assets/images/57617ca2503da.jpg
-    image_title: Red Interior with Candles
+      Ty'r Chanter, Brecon Beacons 2017<br />oil on canvas<br />24 x 32 in<br
+      />&amp;pound;15,000
+  - image_path: /uploads/dsc-3925.jpg
+    image_title: 'Penybryn, Welsh Borders 2017'
     image_description: >-
-      Red Interior with Candles, 2016<br />oil on canvas<br />24 x 28 in<br
-      />&amp;pound;7,000
-  - image_path: /assets/images/576180de3925c.jpg
-    image_title: Dove House Interior
+      Penybryn, Welsh Borders 2017<br />oil on canvas<br />30 x 40
+      in&amp;quot;<br />&amp;pound;15,000
+  - image_path: /uploads/dsc-3928.jpg
+    image_title: 'Blue Woods, Penybryn 2017'
     image_description: >-
-      Dove House Interior, 2015<br />oil on canvas<br />24 x 30 in<br
-      />&amp;pound;10,000 SOLD
+      Blue Woods, Penybryn 2017<br />oil on canvas<br />24 x 32 in<br
+      />&amp;pound;10,000
+  - image_path: /uploads/dsc-3699.jpg
+    image_title: 'Near Llanthony, Black Mountains 2017'
+    image_description: >-
+      Near Llanthony, Black Mountains<br />oil on canvas<br />20 x 24 in<br
+      />&amp;pound;10,000
+  - image_path: /uploads/dsc-3679-1.jpg
+    image_title: Monmouthshire & Brecon Canal with May Trees 2017
+    image_description: >-
+      Monmouthshire & Brecon Canal with May Trees 2017<br />oil on canvas<br
+      />24 x 30 in<br />&amp;pound;12,000
+  - image_path: /uploads/dsc-3718.jpg
+    image_title: 'Red Barn, Brecon Beacons 2017'
+    image_description: >-
+      Red Barn, Brecon Beacons 2017<br />oil on canvas<br />20 x 24 in<br
+      />&amp;pound;10,000
+  - image_path: /uploads/dsc-3733.jpg
+    image_title: Shropshire 2017
+    image_description: 'Shropshire 2017<br />oil on canvas<br />20 x 24 in<br />&amp;pound;10,000'
   - image_path: /assets/images/576000ee28a98.jpg
     image_title: 'The Road to Clash Gour, Black Mount'
     image_description: >-
