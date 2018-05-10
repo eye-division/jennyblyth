@@ -16,6 +16,23 @@ description_markdown: >-
   *Ann Dumas, curator at The Royal Academy, London writes*:
 
 
+  ***"Trotters latest work shows her at the height of her powers.&nbsp; She is
+  an artist rooted in the tradition of modern Post-Impressionist painting bu her
+  deeply felt, poetic response to her native landscape brings a strong and
+  totally individual vision to her subjects.&nbsp; She is a superlative painter
+  in the truest sense of the word.'&nbsp;***&copy; Ann Dumas 2018
+
+
+  ***...Trotter's gift for distilling in her paintings that first ecstatic
+  response to a scene brings to mind Van Gogh, an artist she admires.&nbsp; Like
+  Van Gogh, she reacts immediately and powerfully to a motif that she finds
+  compelling.... The sense of rapture that this conveys is at the heart of all
+  Trotter's work and is expressed, above all, through radiant colour.'***
+
+
+  &nbsp;
+
+
   "Josephine Trotter lives at one with the landscape that surrounds her in the
   Oxfordshire hills. Her home exudes an atmosphere of wellbeing, warmth, nature
   and art that spills over into the celebration of life that makes her paintings
