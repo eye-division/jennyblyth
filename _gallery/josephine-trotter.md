@@ -13,7 +13,7 @@ description_markdown: >-
   50 New paintings of British Landscape, Interiors & Still Life
 
 
-  *Ann Dumas, curator at The Royal Academy, London writes*:
+  *Ann Dumas, curator at The Royal Academy, London* :
 
 
   ***"Trotters latest work shows her at the height of her powers.&nbsp; She is
@@ -23,11 +23,18 @@ description_markdown: >-
   in the truest sense of the word.'&nbsp;***&copy; Ann Dumas 2018
 
 
-  ***...Trotter's gift for distilling in her paintings that first ecstatic
+  ***…Trotter's gift for distilling in her paintings that first ecstatic
   response to a scene brings to mind Van Gogh, an artist she admires.&nbsp; Like
   Van Gogh, she reacts immediately and powerfully to a motif that she finds
-  compelling.... The sense of rapture that this conveys is at the heart of all
+  compelling…. The sense of rapture that this conveys is at the heart of all
   Trotter's work and is expressed, above all, through radiant colour.'***
+
+
+  &copy; Ann Dumas 2018
+
+
+  Full essay (see below) from JOSEPHINE TROTTER published by Jenny Blyth Fine
+  Art in 2016.&nbsp; Enquiries: jennyblyth@btconnect.com
 
 
   &nbsp;
