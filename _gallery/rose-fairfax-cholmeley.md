@@ -16,7 +16,7 @@ description_markdown: |
   Whether rambling on long summer days over honey gorse and heather clad hills, prawning the rock pools of deserted beaches, or working winter days holed up in their studio at Wytham, Rosie and Robin remain _Far from the Madding Crowd_.
 homepage_description_markdown: 
 frontpage: true
-_gallery_date: 2016-05-01 00:00:00
+gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/rosie-fairfax-cholmeley/
 archive: false
 display_title: true

@@ -16,7 +16,7 @@ description_markdown: |
   A second series based on the paintings of Wilhelm Hammershoi is shown together with earlier work from the Jerwood series that secured her **The Jerwood Makers Open** in 2013
 homepage_description_markdown: 
 frontpage: true
-_gallery_date: 2016-05-01 00:00:00
+gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/maisie-maud-broadhead/
 archive: false
 display_title: true

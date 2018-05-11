@@ -26,14 +26,11 @@
           <a href="/exhibitions/" class="">Exhibitions</a>
         </li>
 
-        <!-- <li class="nav-link{% if page.url == '/about/' %} active{% endif %}">
-          <a href="/about/" class="">About</a>
-        </li> -->
         <li class="nav-link{% if page.url == '/contact/' %} active{% endif %} last">
           <a href="/contact/" class="">Contact</a>
         </li>
         <!-- end row 1 -->
-        {% assign galleries = site.gallery %}
+        {% assign galleries = site.gallery | sort: 'gallery_date' | reverse %}
 
         {% for gallery in galleries %}
 

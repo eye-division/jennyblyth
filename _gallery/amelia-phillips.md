@@ -20,7 +20,7 @@ description_markdown: |
   Amelia Phillips has exhibited at various galleries and venues in Falmouth during her three years at Falmouth University and subsequently at IO Gallery, Brighton and at the Artists’ Open House Festival in Hove.
 homepage_description_markdown: 
 frontpage: true
-_gallery_date: 2016-05-01 00:00:00
+gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/amelia-phillips/
 archive: false
 display_title: true

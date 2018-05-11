@@ -42,7 +42,7 @@ description_markdown: |
   A graduate of Advance Printmaking at Central St. Martin’s (1991-2) and Fine Art and Printmaking at Cheltenham College of Art (2001-4), Carolyn Horton was awarded an EEC Scholarship for Fresco Painting in Venice (1983) and the Prix de Rome at the French Academy for Conservation and Printmaking (1987-88). She worked in Florence, Oxford and Paris at The Uffizzi, The Bodleian and The Louvre, and in California she studied conservation of Old Masters working with an array of Japanese paper, under the pupillage of Keido Keyes. She now lives and works from her studio in Gloucestershire.
 homepage_description_markdown: 
 frontpage: true
-_gallery_date: 2016-05-01 00:00:00
+gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/carolyn-horton/
 archive: false
 display_title: true

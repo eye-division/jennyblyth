@@ -14,7 +14,7 @@ description_markdown: |
   Walton's portfolio of Otmoor is a treasure trove. Capturing the ever-changing beauty of the moor, he pitches us from daylight to dusk in oils and watercolour, and across moonlit reeds hatched onto paper.  He is as strong in monochrome as in high colour, articulate in abstraction as in figuration, a truly gifted and inquisitive artist with his heart immersed in landscape... _Jenny Blyth_ 2016
 homepage_description_markdown: 
 frontpage: true
-_gallery_date: 2016-05-01 00:00:00
+gallery_date: 2016-05-01 00:00:00
 permalink: '/gallery/andrew-walton/'
 archive: false
 display_title: true

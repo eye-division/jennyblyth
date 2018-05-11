@@ -18,7 +18,7 @@ description_markdown: |
   O’Brien has exhibited many times at Royal Academy Summer Exhibition and her work is represented in the Bridgman Art Library. _The Fruit Eaters_ was the chosen image used to promote the Academy’s 22<sup>nd</sup> Anniversary year. For twenty five years, collectors in Europe, the United States, Canada, the Netherlands, Ireland, New Zealand and Australia have sought her work.
 homepage_description_markdown: 
 frontpage: true
-_gallery_date: 2016-05-01 00:00:00
+gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/patricia-obrien/
 archive: false
 display_title: true

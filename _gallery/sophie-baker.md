@@ -26,7 +26,7 @@ description_markdown: |
   1997-1998 Art Foundation, Chelsea College of Art
 homepage_description_markdown: 
 frontpage: true
-_gallery_date: 2016-05-01 00:00:00
+gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/sophie-baker/
 archive: false
 display_title: true

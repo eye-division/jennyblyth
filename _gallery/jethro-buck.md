@@ -38,7 +38,7 @@ description_markdown: |
   INTACH grants are awarded to British students and academics who wish to learn traditional Indian crafts.
 homepage_description_markdown: 
 frontpage: true
-_gallery_date: 2016-05-01 00:00:00
+gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/jethro-buck/
 archive: false
 display_title: true

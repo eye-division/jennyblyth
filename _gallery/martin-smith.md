@@ -24,7 +24,7 @@ description_markdown: |
   * Claire CHRISTIE SMITH see above
 homepage_description_markdown: 
 frontpage: true
-_gallery_date: 2016-05-01 00:00:00
+gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/martin-smith/
 archive: false
 display_title: true

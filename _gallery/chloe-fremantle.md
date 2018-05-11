@@ -30,7 +30,7 @@ description_markdown: |
     Taeko Makino’s exquisite wood engravings of peonies, camellias, chrysanthemums inlaid with gilt draw directly on Japanese tradition of fine art. The artist lives and works in Tokyo.
 homepage_description_markdown: 
 frontpage: true
-_gallery_date: 2016-05-01 00:00:00
+gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/chloe-fremantle/
 archive: false
 display_title: true

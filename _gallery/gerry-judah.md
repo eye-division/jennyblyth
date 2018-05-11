@@ -58,7 +58,7 @@ description_markdown: |
   Gerry Judah's work has been exhibited at the Whitechapel Art Gallery, Camden Arts Centre and Yorkshire Sculpture Park and has entered many international public and private collections including the Charles Saatchi Collection London, Anita and Poju Zabludowicz Collection London, Imperial War Museum London, Essy & Fatima Maleki Collection London, David Roberts Collection London, Chris Drake Collection Sussex, Centre for Arts Israel, Irena Hochman Collection New York, Bobby Kapoor Collection India, Museum of Old and New Art Australia and The Earl of March Goodwood.
 homepage_description_markdown: 
 frontpage: true
-_gallery_date: 2016-05-01 00:00:00
+gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/gerry-judah/
 archive: false
 display_title: true

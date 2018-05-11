@@ -50,7 +50,7 @@ description_markdown: |
   Day Bowman’s painting takes us on a compelling journey beyond our habitual comfort zones to the wild and deserted industrial wastelands that fringe our urban abode and infrastructure and our designated coastal countryside. Her paintings, which are both brittle and beautiful, celebrate these tough and forgotten ‘Edgelands’, exploring the twilight zone between figuration and abstraction. Day Bowman studied painting at Chelsea School of Art and London University.
 homepage_description_markdown: 
 frontpage: true
-_gallery_date: 2016-05-01 00:00:00
+gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/day-bowman/
 archive: false
 display_title: true

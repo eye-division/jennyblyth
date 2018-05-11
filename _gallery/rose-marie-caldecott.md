@@ -32,7 +32,7 @@ description_markdown: |
   The motifs she uses to infer man's interference with nature, range from paths through the woods, to the neo-romantic folly above that was so very characteristic of 18th Century landscaped gardens. In her prints, she has included greenhouses as an expression of our attempts to capture an idealised form of nature.
 homepage_description_markdown: 
 frontpage: true
-_gallery_date: 2016-05-01 00:00:00
+gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/rose-marie-caldecott/
 archive: false
 display_title: true

@@ -16,7 +16,7 @@ description_markdown: |
   Claire Christie Sadler trained in music as a cellist, performing and teaching, but ultimately found herself as drawn to art as to music. She has not put the bow down, but attended Foundation and thereafter a Fine Arts Degree over five years.  For her, the act of music making and art are inextricably bound.  The art of playing and drawing are for her hewn from the same bough and the intention with which she draws the bow across the strings or graphite across paper, informs that ‘mark’.  She is captivated by the performative act of drawing.
 homepage_description_markdown: 
 frontpage: true
-_gallery_date: 2016-05-01 00:00:00
+gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/claire-christie-sadler/
 archive: false
 display_title: true

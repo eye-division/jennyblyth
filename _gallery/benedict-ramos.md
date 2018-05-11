@@ -14,7 +14,7 @@ description_markdown: |
   Ramos conveys a fascination and love of natural form and transformation through close and sustained observation. His purpose is ‘revealing beauty’ - as Blake said, _“To see a World in a Grain of Sand / And a Heaven in a Wild Flower”._ Choosing subjects that are regarded as beauty personified, his challenge is, as artist, to capture and retain the attention of the viewer. Ramos does this well. There is an element of the still life in his portraits of flowers that draws on Dutch and Spanish Old Masters – an exquisite rendering of colour and tone. In his portraits of trees, Ramos explores the abstract form and patterning of his subjects whilst retaining their poetic power.
 homepage_description_markdown: 
 frontpage: true
-_gallery_date: 2016-05-01 00:00:00
+gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/benedict-ramos/
 archive: false
 display_title: true

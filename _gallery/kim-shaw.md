@@ -22,7 +22,7 @@ description_markdown: |
   Kim Shaw has spent 20 years working with photography. With a background in fashion and advertising, she became freelance so she could work daily in the darkroom. She apprenticed with ‘Avid’ Brickman, “Prince of Portraits”, in Portland, Oregon in the early nineties, and attended Pacific North West College of Art (PNCA) where she studied photography.
 homepage_description_markdown: 
 frontpage: true
-_gallery_date: 2016-05-01 00:00:00
+gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/kim-shaw/
 archive: false
 display_title: true

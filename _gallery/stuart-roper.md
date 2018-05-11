@@ -12,7 +12,7 @@ description_markdown: |
   _Stuart Roper: “I enjoy painting from the natural landscape; my fascination with trees is prompted by the way the light changes their colours - purple trunks with dashes of pink, turquoise leaves against burgundy-coloured bark. As a painter, I am increasingly drawn to the astonishingly vivid colour in nature around me.”_
 homepage_description_markdown: 
 frontpage: true
-_gallery_date: 2016-05-01 00:00:00
+gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/stuart-roper/
 archive: false
 display_title: true

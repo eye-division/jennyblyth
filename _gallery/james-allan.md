@@ -18,7 +18,7 @@ description_markdown: |
   The patterning and spatial elements in Allan's work are satisfying and entice us to explore and unravel his compositions.  Allan paints from his studio at home to a backcloth of sublime modulations of Bach. Large windows pan out over a quilt of gardens that are defined by walls, fences, garden sheds and the shadows that they cast. Echoes of these shapes. patterns and juxtapositions are as evident in his compositions as are electrical and digital elements, musical references and the patterning that characterises allotments. Essentially Allan's paintings are liberated.
 homepage_description_markdown: 
 frontpage: true
-_gallery_date: 2016-05-01 00:00:00
+gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/james-allan/
 archive: false
 display_title: true

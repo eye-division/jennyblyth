@@ -16,7 +16,7 @@ description_markdown: |
   Helen Slater : BA Hons. 3D Design: Glass & Ceramics, Sunderland University. MA in Glass and Ceramics, Royal College of Art. Senior Lecturer at Brookes, 3 D Design. Visiting lecturer, De Montfort University, Leicestershire. She is currently studying for a PhD at The Royal College of Art. The artist lives and works from her studio in Kingham, Oxfordshire.
 homepage_description_markdown: 
 frontpage: true
-_gallery_date: 2016-05-01 00:00:00
+gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/helen-slater/
 archive: false
 display_title: true

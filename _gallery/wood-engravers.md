@@ -14,7 +14,7 @@ description_markdown: |
   Art Jericho have hosted the Society of Wood Engravers every year for the past 5 years, and it has always been an extremely popular show with visitors travelling from far afield to see the work on exhibition. One of the reasons that this show has been so popular is the level of skill and artisanship that is core to the work. These incredibly intricate images are carved into wood from which the engravings are then printed. The subject matter is very varied from rural and city landscapes to still lives and nature. This is the first year that Jenny Blyth Fine Art has hosted The Society of Wood Engravers at Art Jericho.
 homepage_description_markdown: 
 frontpage: true
-_gallery_date: 2016-05-01 00:00:00
+gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/wood-engravers/
 archive: false
 display_title: true

@@ -12,7 +12,7 @@ description_markdown: |
   Grover is a consummate realist painter and screen printer, who perversely creates paintings that are whimsical and nostalgic. Much of his work explores narrative with recent studies of local life in South London from local shopkeepers and their wares, to scenes from urban parks. There is a quirkiness and storybook element to the style of his compositions that goes beyond the narrative, but this exhibition is an unabashed celebration of his joyous vinyl paintings - Motown songs from the seventies such as _Stand By Me_ sung by Ben E. King and _It Should Have Been Me_ by Yvonne Fair, to more recent classics such as Thin Lizzy's _Whiskey in the Jar_ from Decca. In contrast to the tattered paper sleeves that Martin Grover paints meticulously, these paintings have Pop Art appeal and take us back to the 'treasures' of a music scene now embraced and shared by the younger generation. _Jenny Blyth 2015_
 homepage_description_markdown: 
 frontpage: true
-_gallery_date: 2016-05-01 00:00:00
+gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/martin-grover/
 archive: false
 display_title: true

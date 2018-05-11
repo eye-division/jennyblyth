@@ -78,7 +78,7 @@ description_markdown: |
   Antonia Bruce 2010.
 homepage_description_markdown: 
 frontpage: true
-_gallery_date: 2016-05-01 00:00:00
+gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/antonia-bruce/
 archive: false
 display_title: true

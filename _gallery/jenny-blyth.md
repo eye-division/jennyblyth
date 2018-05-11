@@ -16,7 +16,7 @@ description_markdown: |
   Jenny Blyth shows photography, ‘The Meadow as Muse’, and a much loved Oxfordshire landscape in Art Weeks 20-29 May 2017 : Venue 475 : 133 Godstow Road OX2 8PG
 homepage_description_markdown: 
 frontpage: true
-_gallery_date: 2016-05-01 00:00:00
+gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/jenny-blyth/
 archive: false
 display_title: true

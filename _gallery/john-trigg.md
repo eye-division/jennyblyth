@@ -42,7 +42,7 @@ description_markdown: |
   **_“It is a rite of passage for teenage boys to test themselves and the rule makers. In their black wet suits, with head cut at the neck, hands cut at the wrists and feet at the ankles, I was struck by the beauty and grace of the Image. There was something ‘religious’ in this look and style as they plummeted into the water, a defiance too, coupled with a pale vulnerability. No fat on these boys. Lean, mean and with a whiff of reckless danger in the air.”_ **_John Trigg_
 homepage_description_markdown: 
 frontpage: true
-_gallery_date: 2016-05-01 00:00:00
+gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/john-trigg/
 archive: false
 display_title: true

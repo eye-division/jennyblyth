@@ -22,7 +22,7 @@ description_markdown: |
   Oxford, with all the beauty and history that it invokes, provides Cotterill with the perfect foil for his painting. Although the ‘dreaming spires’ are but a backcloth for an almost Dickensian representation of urbanity, his compositions recapture the spirit of times remembered and they impart a moody timelessness.
 homepage_description_markdown: 
 frontpage: true
-_gallery_date: 2016-05-01 00:00:00
+gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/william-cotterill/
 archive: false
 display_title: true

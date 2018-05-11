@@ -8,7 +8,7 @@ description_markdown: |
   It is no surprise that Florence Amey's paintings manifest an expression of core energy and zest for life. Despite a classical training, her compositions are not tethered to landscape or literal figuration - her painting is truly abstract expressionist, articulating a bejewelled colour spectrum of emotion that spans a _ph_ from darker depths to a sense of joy and liberation. Colour is her voice, but not at the expense of form. Layering appears to come easily, so that we are drawn through one portal to explore another. Her paintings shimmer, a moment's kaleidoscope on the page, morphing from one composition to another, to secure a tipping point of perfect balance.
 homepage_description_markdown: 
 frontpage: true
-_gallery_date: 2016-05-01 00:00:00
+gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/florence-amey/
 archive: false
 display_title: true

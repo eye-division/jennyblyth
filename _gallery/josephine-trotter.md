@@ -466,7 +466,7 @@ description_markdown: >-
   1974.\_" (copyright Ann Dumas 2018)
 homepage_description_markdown:
 frontpage: true
-_gallery_date: 2016-05-01 00:00:00
+gallery_date: 2018-06-11 00:00:00
 permalink: /gallery/josephine-trotter/
 archive: false
 display_title: true

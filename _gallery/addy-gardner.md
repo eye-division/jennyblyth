@@ -28,7 +28,7 @@ description_markdown: |
   Jenny Blyth Fine Art presenting new work by Addy Gardner, an emerging painter based in Oxfordshire at Art Jericho in 2010 and thereafter in London’s Gallery 27 in Cork Street.
 homepage_description_markdown: 
 frontpage: true
-_gallery_date: 2016-05-01 00:00:00
+gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/addy-gardner/
 archive: false
 display_title: true

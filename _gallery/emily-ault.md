@@ -24,7 +24,7 @@ description_markdown: |
   Deciduous woods are an increasingly rare and precious haven for wildlife, and Shotover provides a home for polecats, stoats and weasels, badger, fox, brown hare, hedgehogs, voles, mice, shrews, grey squirrels, moles and bats. There are over a 1000 species of beetles on Shotover, and many butterflies and moths. Any true English woodland is of course home to roe, fallow and muntjac deer.  If quiet, you can catch a glimpse as they pick their way through the trees.
 homepage_description_markdown: 
 frontpage: true
-_gallery_date: 2016-05-01 00:00:00
+gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/emily-ault/
 archive: false
 display_title: true
