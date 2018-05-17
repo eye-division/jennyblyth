@@ -497,11 +497,6 @@ images:
     image_description: >-
       St Mawes from Place<br />Oil on canvas<br />24 x 33 in<br
       />&amp;pound;20,000
-  - image_path: /uploads/dsc-3684-1.jpg
-    image_title: 'Puttesbrough, North Devon 2017'
-    image_description: >-
-      Puttesbrough, North Devon 2017<br />oil on canvas<br />24 x 30
-      in<br/>&amp;pound;12,000 SOLD
   - image_path: /uploads/dsc-3934.jpg
     image_title: 'Towards Brailes Hill, Oxfordshire 2016'
     image_description: >-
@@ -598,6 +593,11 @@ images:
     image_description: >-
       River Stour, Suffolk 2016<br />oil on canvas<br />30 x 24
       in&amp;pound;12000
+  - image_path: /uploads/dsc-3684-1.jpg
+    image_title: 'Puttesbrough, North Devon 2017'
+    image_description: >-
+      Puttesbrough, North Devon 2017<br />oil on canvas<br />24 x 30
+      in<br/>&amp;pound;12,000 SOLD
   - image_path: /uploads/dsc-3702.jpg
     image_title: 'Near Bampton, North Devon 2017'
     image_description: >-
