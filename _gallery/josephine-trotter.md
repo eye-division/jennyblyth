@@ -14,14 +14,14 @@ description_markdown: >-
   Landscape, Interiors & Still Life
 
 
-  *Ann Dumas, curator at The Royal Academy, London* :
+  *Ann Dumas, curator at The Royal Academy, London writes* :
 
 
   ***"Trotters latest work shows her at the height of her powers.&nbsp; She is
-  an artist rooted in the tradition of modern Post-Impressionist painting bu her
-  deeply felt, poetic response to her native landscape brings a strong and
+  an artist rooted in the tradition of modern Post-Impressionist painting but
+  her deeply felt, poetic response to her native landscape brings a strong and
   totally individual vision to her subjects.&nbsp; She is a superlative painter
-  in the truest sense of the word.'&nbsp;***&copy; Ann Dumas 2018
+  in the truest sense of the word.'&nbsp;***
 
 
   ***…Trotter's gift for distilling in her paintings that first ecstatic
@@ -29,9 +29,6 @@ description_markdown: >-
   Van Gogh, she reacts immediately and powerfully to a motif that she finds
   compelling…. The sense of rapture that this conveys is at the heart of all
   Trotter's work and is expressed, above all, through radiant colour.'***
-
-
-  &copy; Ann Dumas 2018
 
 
   Full essay (see below) from JOSEPHINE TROTTER published by Jenny Blyth Fine
@@ -463,7 +460,7 @@ description_markdown: >-
   and tells us of what and where we are in the world. Josephine Trotter gets it
   right enough, and we are surprised and engaged by it, and better, for it\_.
   London March 2006. William Packer Art Critic with Financial Times since
-  1974.\_" (copyright Ann Dumas 2018)
+  1974."&nbsp; &nbsp;***&copy; Ann Dumas 2018***
 homepage_description_markdown:
 frontpage: true
 gallery_date: 2018-06-11 00:00:00
