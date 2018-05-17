@@ -1,10 +1,10 @@
 ---
 title: JENNY BLYTH
 description_markdown: >-
-  ## MEADOW AS MUSE : Photography : Jenny Blyth
+  ## MEADOW AS MUSE&nbsp;
 
 
-  Venue 475 : 133 Godstow Road Wolvercote Oxford OX2 8PG
+  Artweeks 2017 : Venue 475 : 133 Godstow Road Wolvercote Oxford OX2 8PG
 
 
   Hours Daily : 11 am – 6 pm Email: jennyblyth@btconnect.com
