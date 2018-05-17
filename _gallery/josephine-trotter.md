@@ -477,16 +477,16 @@ images:
     image_description: >-
       Hotel Tresanton, St Mawes, Cornwall 2017 <br />oil on canvas<br
       />&amp;pound;20,000
-  - image_path: /uploads/dsc-3709.jpg
-    image_title: 'St Just in Roseland, St Mawes 2017'
-    image_description: >-
-      St Just in Roseland, St Mawes 2017<br />oil on canvass<br />30 x 24 in<br
-      />&amp;pound;15,000
   - image_path: /uploads/dsc-3946.jpg
     image_title: 'From the Allotments, Illfracombe, 2017'
     image_description: >-
       From the Allotments, Illlfracombe 2017<br />oil on canvas<br />32 x
       24&amp;quot;<br />&amp;pound;15,000
+  - image_path: /uploads/dsc-3709.jpg
+    image_title: 'St Just in Roseland, St Mawes 2017'
+    image_description: >-
+      St Just in Roseland, St Mawes 2017<br />oil on canvass<br />30 x 24 in<br
+      />&amp;pound;15,000
   - image_path: /uploads/dsc-3987.jpg
     image_title: 'Churchyard, Illfracombe 2017'
     image_description: >-
@@ -497,16 +497,16 @@ images:
     image_description: >-
       St Mawes from Place<br />Oil on canvas<br />24 x 33 in<br
       />&amp;pound;20,000
-  - image_path: /uploads/dsc-3934.jpg
-    image_title: 'Towards Brailes Hill, Oxfordshire 2016'
-    image_description: >-
-      Towards Brailes Hill, Oxfordshire 2016<br />oil on canvas<br />36 x
-      48&amp;quot;<br />&amp;pound;30,000
   - image_path: /uploads/dsc-3747.jpg
     image_title: 'Nill Farm, Oxfordshire 2017'
     image_description: >-
       Nill Farm, Oxfordshire 2017<br />oil on canvas<br />54 x 96 in<br
       />&amp;pound;
+  - image_path: /uploads/dsc-3934.jpg
+    image_title: 'Towards Brailes Hill, Oxfordshire 2016'
+    image_description: >-
+      Towards Brailes Hill, Oxfordshire 2016<br />oil on canvas<br />36 x
+      48&amp;quot;<br />&amp;pound;30,000
   - image_path: /uploads/dsc-3966.jpg
     image_title: Brailes Hill from Longdon Manor 2016
     image_description: >-
@@ -570,11 +570,6 @@ images:
     image_description: >-
       Vegetable Garden with Rape 2016<br />oil on canvas<br />24 x 30 in<br
       />&amp;pound;10,000
-  - image_path: /uploads/dsc-3958.jpg
-    image_title: 'Haddon Hall, Derbyshire 2016'
-    image_description: >-
-      Haddon Hall, Derbyshire 2016<br />oil on canvas<br />24 x 32 in<br
-      />&amp;pound;12,000
   - image_path: /uploads/dsc-3982.jpg
     image_title: The Skirrid from Malvern 2016
     image_description: >-
@@ -593,6 +588,11 @@ images:
     image_description: >-
       River Stour, Suffolk 2016<br />oil on canvas<br />30 x 24
       in&amp;pound;12000
+  - image_path: /uploads/dsc-3958.jpg
+    image_title: 'Haddon Hall, Derbyshire 2016'
+    image_description: >-
+      Haddon Hall, Derbyshire 2016<br />oil on canvas<br />24 x 32 in<br
+      />&amp;pound;12,000
   - image_path: /uploads/dsc-3684-1.jpg
     image_title: 'Puttesbrough, North Devon 2017'
     image_description: >-
@@ -608,6 +608,14 @@ images:
     image_description: >-
       Nethercote, Near Bampton 2017<br />oil on canvas<br />24 x 30
       in&amp;quot;<br />&amp;pound;12000
+  - image_path: /uploads/dsc-3971.jpg
+    image_title: Two Cabbages 2017
+    image_description: >-
+      Two Cabbages 2017<br />oil on canvas<br />20 x 24 in&amp;<br
+      />&amp;pound;12000
+  - image_path: /uploads/dsc-3727.jpg
+    image_title: Leeks 2017
+    image_description: Leeks 2017<br />oil on canvas<br />20 x 24 in <br />&amp;pound;10000
   - image_path: /uploads/dsc-3737.jpg
     image_title: Interior with Tulips 2016
     image_description: >-
@@ -618,14 +626,6 @@ images:
     image_description: >-
       Yellow Interior 2016<br />oil on canvas<br />40 x 30 in&amp;<br
       />&amp;pound;15000
-  - image_path: /uploads/dsc-3971.jpg
-    image_title: Two Cabbages 2017
-    image_description: >-
-      Two Cabbages 2017<br />oil on canvas<br />20 x 24 in&amp;<br
-      />&amp;pound;12000
-  - image_path: /uploads/dsc-3727.jpg
-    image_title: Leeks 2017
-    image_description: Leeks 2017<br />oil on canvas<br />20 x 24 in <br />&amp;pound;10000
   - image_path: /uploads/dsc-3955.jpg
     image_title: Lily Pond 2017
     image_description: Lily Pond 2017<br />oil on canvas<br />32 x 24 in<br />&amp;pound;12000
