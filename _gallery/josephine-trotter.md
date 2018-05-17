@@ -31,8 +31,11 @@ description_markdown: >-
   Trotter's work and is expressed, above all, through radiant colour.'***
 
 
+  Enquiries:&nbsp; &nbsp; jennyblyth@btconnect.com
+
+
   Full essay (see below) from JOSEPHINE TROTTER published by Jenny Blyth Fine
-  Art in 2016.&nbsp; Enquiries: jennyblyth@btconnect.com
+  Art in 2016.&nbsp;
 
 
   "Josephine Trotter lives at one with the landscape that surrounds her in the
@@ -45,12 +48,12 @@ description_markdown: >-
   her inspiration, especially in their wonderful variety of greens.
 
 
-  In *Brailles Hill in May*, 2015 (fig.00) expanses of brilliant yellow rape
-  glow against the fresh spring green fields striped with pink furrows,
-  sparkling in the early summer sunshine. Hills fold into each other, pile up
-  against the sky and culminate in the distinctive profile of Brailles Hill, a
-  local landmark. The sense of rapture that this work conveys is at the heart of
-  all Trotter’s work and is expressed, above all, through radiant colour.
+  In *Brailes Hill in May*, 2015 (fig.00) expanses of brilliant yellow rape glow
+  against the fresh spring green fields striped with pink furrows, sparkling in
+  the early summer sunshine. Hills fold into each other, pile up against the sky
+  and culminate in the distinctive profile of Brailles Hill, a local landmark.
+  The sense of rapture that this work conveys is at the heart of all Trotter’s
+  work and is expressed, above all, through radiant colour.
 
 
   Trotter’s gift for distilling in her paintings that first ecstatic response to
