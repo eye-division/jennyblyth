@@ -472,16 +472,16 @@ archive: false
 display_title: true
 main_image_path: /uploads/dsc-3711.jpg
 images:
-  - image_path: /uploads/dsc-3711-2.jpg
-    image_title: 'St. Mawes from Place, Cornwall 2017'
-    image_description: >-
-      St Mawes from Place<br />Oil on canvas<br />24 x 33 in<br
-      />&amp;pound;20,000
   - image_path: /uploads/dsc-3950.jpg
     image_title: 'Hotel Tresanton, St Mawes, Cornwall 2017'
     image_description: >-
       Hotel Tresanton, St Mawes, Cornwall 2017 <br />oil on canvas<br
       />&amp;pound;20,000
+  - image_path: /uploads/dsc-3709.jpg
+    image_title: 'St Just in Roseland, St Mawes 2017'
+    image_description: >-
+      St Just in Roseland, St Mawes 2017<br />oil on canvass<br />30 x 24 in<br
+      />&amp;pound;15,000
   - image_path: /uploads/dsc-3946.jpg
     image_title: 'From the Allotments, Illfracombe, 2017'
     image_description: >-
@@ -492,11 +492,11 @@ images:
     image_description: >-
       Churchyard, Illfracombe 2017<br />oil on canvas<br />24 x 20&amp;quot;<br
       />&amp;pound;10,000
-  - image_path: /uploads/dsc-3709.jpg
-    image_title: 'St Just in Roseland, St Mawes 2017'
+  - image_path: /uploads/dsc-3711-2.jpg
+    image_title: 'St. Mawes from Place, Cornwall 2017'
     image_description: >-
-      St Just in Roseland, St Mawes 2017<br />oil on canvass<br />30 x 24 in<br
-      />&amp;pound;15,000
+      St Mawes from Place<br />Oil on canvas<br />24 x 33 in<br
+      />&amp;pound;20,000
   - image_path: /uploads/dsc-3684-1.jpg
     image_title: 'Puttesbrough, North Devon 2017'
     image_description: >-
