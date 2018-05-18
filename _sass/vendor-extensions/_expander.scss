@@ -1,0 +1,32 @@
+/// expander trigger layout
+
+.expander-trigger {
+    border-bottom: 1px solid $light-gray;
+    color: $action-color;
+    cursor: pointer;
+    display: block;
+    font-size: 1em;
+    margin-bottom: 1em;
+    padding-bottom: 1em / 4;
+    text-decoration: none;
+    user-select: none;
+     &::before {
+      content: "\25BC";
+      font-size: 0.7em;
+      margin-right: 0.5em;
+    }
+}
+.expander-content p {
+  color: $base-font-color;
+  line-height: $base-line-height;
+}
+
+.expander-hidden {
+  &::before {
+    content: "\25BA";
+    font-size: 0.7em;
+  }
+}
+.expander-hidden + .expander-content {
+  display: none;
+}

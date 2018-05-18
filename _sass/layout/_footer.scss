@@ -42,12 +42,7 @@
 .site-signature {
     margin-top: 1em;
     text-align: center;
-    @include span-columns(12);
-    @include media ($medium) {
-        @include span-columns(6);
-        margin-right: 0;
-        margin-top: 0;
-    }
+
     font-size: 0.9em;
     a {
         text-decoration: underline;

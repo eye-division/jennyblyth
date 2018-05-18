@@ -8,18 +8,20 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: A Painter
-subtitle: Great artist
-name: A Painter
-description: Demo Eye Gallery site
+title: Jenny Blyth Fine Art
+subtitle:
+name: Jenny Blyth Fine Art
+description: Art gallery based in Oxford
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: ""
 # the base hostname & protocol for your site
-url: "http://black-hare.cloudvent.net"
-logo: "/assets/logo.png"
-email: a.ward@eyedivision.com
+url: "https://www.jennyblythfineart.co.uk"
+logo: "/siteicon.png"
+email: jennyblyth@btconnect.com
+
+showfeatured: true
 
 # Build settings
 markdown: kramdown
@@ -31,8 +33,8 @@ highlightjs_theme: "monokai-sublime"
 
 # Image CDN
 imagecdn:
-  staging: "http://ed-eyegallery-dev.imgix.net"
-  #production: "http://ed-eyegallery.imgix.net"
+  staging: "https://ed-jennyblythfineart-dev.imgix.net"
+  production: "https://ed-jennyblythfineart.imgix.net"
 
 # Collections Example
 collections:
@@ -48,7 +50,7 @@ defaults:
             path: ""
             type: "gallery"
         values:
-            layout: "gallery"
+            layout: "artist"
 
 # Payment settings
 # Environment settings
@@ -71,10 +73,10 @@ appurl:
 # disqus_shortname:
 
 # Google analytics
-ga_tracking_id: ""
+ga_tracking_id: "UA-16735011-20"
 
 # Google Recaptcha used for contact form
-recaptcha_site_key: "6LcNYBQUAAAAAALGOjCFo1CKxb65aFTFelMJo1YF"
+recaptcha_site_key: "6LcpjFYUAAAAACuk6c7I64IlKVUsFmk_tCDLOmsn"
 
 # Social icons and sharing options
 #
@@ -95,29 +97,29 @@ social:
 
   - name: Facebook
     icon: icon-facebook_sign
-    username: eyedivision
-    url: https://www.facebook.com/eyedivision
+    username:
+    url:
     desc: Like on Facebook
     share: true
 
   - name: Instagram
     icon: icon-instagram
-    username: '@eyedivision'
-    url: https://instagram.com/eyedivision
+    username:
+    url:
     desc: Follow me on Instagram
     share: false
 
   - name: Twitter
     icon: icon-twitter_sign
-    username: '@EyeDivision'
-    url: https://twitter.com/EyeDivision
+    username:
+    url:
     desc: Follow us on Twitter
     share: true
 
   - name: Pinterest
     icon: icon-pinterest
     username:
-    url: http://uk.pinterest.com/
+    url:
     desc: Follow me on Pinterest
     share: true
 
@@ -125,10 +127,10 @@ social:
 # These are for automatically generating sharing metadata for FB and Twitter
 
 protocols:
-    fb_image: "/assets/logo.png"
-    fb_image_width: 612
-    fb_image_height: 605
+    fb_image: "/siteicon.png"
+    fb_image_width: 480
+    fb_image_height: 480
     fb_image_type: "image/png"
 
-    twitter_image: "/assets/logo.png"
+    twitter_image: "/siteicon.png"
 

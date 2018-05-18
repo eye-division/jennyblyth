@@ -38,29 +38,30 @@
     @include media ($medium) {
         //@include outer-container;
     }
-
-    a {
-        img {
-            opacity: 1;
-            transition: all 0.2s ease-in-out;
-            &:hover,
-            &:active,
-            &:focus {
-                opacity: 0.8;
-                transition: all 0.2s ease-in-out
+    .page-content {
+        a {
+            img {
+                opacity: 1;
+                transition: all 0.2s ease-in-out;
+                &:hover,
+                &:active,
+                &:focus {
+                    opacity: 0.8;
+                    transition: all 0.2s ease-in-out
+                }
             }
-        }
-        h3 {
-            color: $base-font-color;
-        }
-
-        &:active,
-        &:focus,
-        &:hover {
-            text-decoration: none;
-            color: shade($action-color, 20%);
             h3 {
-                //color: $camouflage;
+                color: $base-font-color;
+            }
+
+            &:active,
+            &:focus,
+            &:hover {
+                text-decoration: none;
+                color: shade($action-color, 20%);
+                h3 {
+                    //color: $camouflage;
+                }
             }
         }
     }

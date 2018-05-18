@@ -2,27 +2,31 @@
 // This file contains all styles related to the header
 // -----------------------------------------------------------------------------
 
-/// logo
-.logo {
-    display: block;
-    color: $base-font-color;
-    text-shadow: 0 2px 1px rgba(0,0,0,0.8) !important;
-    //background: rgba($navigation-color, 0.8);
-    padding: 0 0.5em;
-    @include media ($small) {
-        //width: 40%;
-    }
-    //float: left;
-    //height: 6em;
-
-    span {
-        font-size: 1.25em;
-    }
-    h1 {
+.header {
+    color: $white;
+    background-color: $jbgray;
+}
+.header--logo { // this is the site-title h1 header
+    text-align: center;
+    text-transform: uppercase;
+    color: $white;
         margin-bottom: 0;
+        font-size: modular-scale(4);
+        @include media ($medium) {
+            line-height: 2em;
+            font-size: modular-scale(5);
+        }
+}
+
+.logo {
+    text-align: center;
+    display: block;
+    padding: 0 0.5em;
+    @include media ($medium) {
+        float: none;
     }
     .subtitle {
-        color: $base-font-color;
+        color: $white;
         font-family: $subheading-font-family;
         font-weight: 400;
         font-style: italic;
@@ -32,7 +36,7 @@
     &:focus,
     &:hover {
         text-decoration: none;
-        //color: shade($link-color, 10%);
+        color: $white;
     }
     &:active,
     &:focus {

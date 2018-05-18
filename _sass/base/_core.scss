@@ -21,21 +21,29 @@ body {
     display: grid;
     grid-template-areas:
       "header"
+      "navigation"
       "page"
       "footer";
-    grid-template-rows: minmax(180px, 10%) 1fr 20%;
+    grid-template-rows: minmax(80px, 10%) 0 1fr 20%;
     grid-gap: 10px;
     height: 100vh;
     margin: 0;
     background-color: $base-background-color;
+    /// our grid is made up of
+    @include media ($medium) {
+        grid-template-rows: minmax(80px, 10%) minmax(160px, 20%) 1fr 20%;
+    }
 }
 
-.navigation, .site-footer {
+.header, .navigation, .site-footer {
     @include flex(none);
     //@include flex(1 0 auto);
 }
-.navigation {
+.header  {
     grid-area: header;
+}
+.navigation {
+    grid-area: navigation;
 }
 .site-footer {
     grid-area: footer;

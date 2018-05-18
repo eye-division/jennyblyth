@@ -1,53 +1,49 @@
-<header class="navigation" role="banner">
-  <div class="navigation-wrapper">
+<header class="header" role="banner">
+
     <a href="{{ site.baseurl }}/" class="logo" title="Return home">
-      {% if site.logo %}
-        {% include img.html src=site.logo width=600 alt=site.title %}
-      <!-- <img src="{{ site.logo | prepend: site.baseurl }}" alt="{{ site.title }}"> -->
-      {% else %}
-      <h1>{{ site.title }}</h1>
-      <div class="subtitle">{{ site.subtitle }}</div>
-      {% endif %}
+
+      <h1 class="header--logo">{{ site.title }}</h1>
+
     </a>
-    <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">
+
+</header>
+
+<header class="navigation">
+
+  <div class="navigation-wrapper">
+
+  <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">
       <span class="menu-title">MENU</span> <svg class="icon icon-menu"><use xlink:href="#icon-reorder" /></svg>
-    </a>
-    <nav role="navigation">
-      <ul id="js-navigation-menu" class="dropdown navigation-menu show">
+  </a>
 
-        {% for link in site.data.nav %}
+  <nav role="navigation">
+    <ul id="js-navigation-menu" class="dropdown navigation-menu show">
 
-          {% if link.subcategories != null %}
+        <li class="nav-link{% if page.url == '/' %} active{% endif %}">
+          <a href="/" class="">Home</a>
+        </li>
+        <li class="nav-link{% if page.url == '/exhibitions/' %} active{% endif %}">
+          <a href="/exhibitions/" class="">Exhibitions</a>
+        </li>
 
-          <!-- Drop down v2 -->
-          <li class="nav-link{% if page.url == link.href %} active{% endif %} dropdown-container">
+        <li class="nav-link{% if page.url == '/contact/' %} active{% endif %} last">
+          <a href="/contact/" class="">Contact</a>
+        </li>
+        <!-- end row 1 -->
+        {% assign galleries = site.gallery | sort: 'gallery_date' | reverse %}
 
-              <a href="#menu" class="dropdown-button">{{ link.title }}</a>
+        {% for gallery in galleries %}
 
-              <ul class="dropdown-menu dropdown-select">
-
-                {% for subcategory in link.subcategories %}
-
-                     <li><a href="{{ subcategory.subhref | prepend: site.baseurl }}">{{ subcategory.subtitle }}</a></li>
-
-                {% endfor %}
-
-              </ul>
-
-
+          <li class="nav-link{% if page.url == gallery.permalink | prepend: site.baseurl %} active{% endif %}">
+            <a href="{{ gallery.permalink | prepend: site.baseurl }}" class="">{{ gallery.title }}</a>
           </li>
-
-          {% else %}
-
-          <li class="nav-link{% if page.url == link.href %} active{% endif %} {% if link.subcategories != null %} more{%endif %}">
-            <a href="{{ link.href | prepend: site.baseurl }}"  class="">{{ link.title }}</a>
-          </li>
-
-          {% endif %}
 
         {% endfor %}
 
-      </ul>
-    </nav>
+
+
+    </ul>
+  </nav>
   </div>
+
 </header>

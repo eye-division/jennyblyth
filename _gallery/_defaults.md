@@ -3,7 +3,7 @@ title:
 description_markdown: 
 homepage_description_markdown: 
 frontpage: true
-_gallery_date: 
+gallery_date: 
 permalink:
 archive: false
 main_image_path:

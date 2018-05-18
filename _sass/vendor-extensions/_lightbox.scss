@@ -2,12 +2,20 @@
 // Lightbox2 edits
 // -----------------------------------------------------------------------------
 
+.lightboxOverlay {
+  background-color: $white;
+  opacity: 0.9;
+}
 .lb-dataContainer {
     //background: $black;
     padding: 1em
 }
+.lb-data {
+  color: $black;
+}
 /// Lightbox font size fix
 .lb-data .lb-number {
+  color: lighten($black,10%);
     //font-size: inherit;
 }
 /// close icon
@@ -16,7 +24,7 @@
   font-size: 30px;
   display: inline-block;
   content: 'x';
-  color: $white;
+  color: $black;
   display: block;
 }
 .lb-data .lb-close {
