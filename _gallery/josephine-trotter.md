@@ -474,19 +474,13 @@ main_image_path: /uploads/dsc-3711.jpg
 images:
   - image_path: /uploads/dsc-3950.jpg
     image_title: 'Hotel Tresanton, St Mawes, Cornwall 2017'
-    image_description: >-
-      Hotel Tresanton, St Mawes, Cornwall 2017 <br />oil on canvas<br
-      />&amp;pound;20,000
+    image_description: '<br />oil on canvas<br />&amp;pound;20,000'
   - image_path: /uploads/dsc-3946.jpg
     image_title: 'From the Allotments, Illfracombe, 2017'
-    image_description: >-
-      From the Allotments, Illlfracombe 2017<br />oil on canvas<br />32 x
-      24&amp;quot;<br />&amp;pound;12,000
+    image_description: '<br />oil on canvas<br />32 x 24&amp;quot;<br />&amp;pound;12,000'
   - image_path: /uploads/dsc-3709.jpg
     image_title: 'St Just in Roseland, St Mawes 2017'
-    image_description: >-
-      St Just in Roseland, St Mawes 2017<br />oil on canvass<br />30 x 24 in<br
-      />&amp;pound;12,000
+    image_description: '<br />oil on canvass<br />30 x 24 in<br />&amp;pound;12,000'
   - image_path: /uploads/dsc-3987.jpg
     image_title: 'Churchyard, Illfracombe 2017'
     image_description: >-
@@ -573,7 +567,7 @@ images:
   - image_path: /uploads/dsc-3688.jpg
     image_title: Capel-y-ffin 2017
     image_description: |-
-      <br />oil on canvas<br />20 x 24 in&amp;
+      <br />oil on canvas<br />20 x 24 in<br/>&amp;
       pound;8,500
   - image_path: /uploads/dsc-3980.jpg
     image_title: 'Farm near Bures, Suffolk 2016'
