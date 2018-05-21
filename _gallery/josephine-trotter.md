@@ -481,22 +481,22 @@ images:
     image_title: 'From the Allotments, Illfracombe, 2017'
     image_description: >-
       From the Allotments, Illlfracombe 2017<br />oil on canvas<br />32 x
-      24&amp;quot;<br />&amp;pound;15,000
+      24&amp;quot;<br />&amp;pound;12,000
   - image_path: /uploads/dsc-3709.jpg
     image_title: 'St Just in Roseland, St Mawes 2017'
     image_description: >-
       St Just in Roseland, St Mawes 2017<br />oil on canvass<br />30 x 24 in<br
-      />&amp;pound;15,000
+      />&amp;pound;12,000
   - image_path: /uploads/dsc-3987.jpg
     image_title: 'Churchyard, Illfracombe 2017'
     image_description: >-
       Churchyard, Illfracombe 2017<br />oil on canvas<br />24 x 20&amp;quot;<br
-      />&amp;pound;10,000
+      />&amp;pound;8,500
   - image_path: /uploads/dsc-3711-2.jpg
     image_title: 'St. Mawes from Place, Cornwall 2017'
     image_description: >-
       St Mawes from Place<br />Oil on canvas<br />24 x 33 in<br
-      />&amp;pound;20,000
+      />&amp;pound;15,000
   - image_path: /uploads/dsc-3747.jpg
     image_title: 'Nill Farm, Oxfordshire 2017'
     image_description: >-
@@ -511,12 +511,7 @@ images:
     image_title: Brailes Hill from Longdon Manor 2016
     image_description: >-
       Brailes Hill from Longdon Manor 2016<br />oil on canvas<br />26 x 36 in<br
-      />&amp;pound;12,000
-  - image_path: /uploads/dsc-3719.jpg
-    image_title: Cattle at Nill Farm 2017
-    image_description: >-
-      Cattle at Nill Farm 2017<br />oil on canvas<br />24 x 30 in<br
-      />&amp;pound;10,000
+      />&amp;pound;15,000
   - image_path: /uploads/dsc-3682.jpg
     image_title: Yorkshire Wolds 2016
     image_description: >-
@@ -546,22 +541,22 @@ images:
     image_title: 'Near Llanthony, Black Mountains 2017'
     image_description: >-
       Near Llanthony, Black Mountains<br />oil on canvas<br />20 x 24 in<br
-      />&amp;pound;10,000
+      />&amp;pound;8,500
   - image_path: /uploads/dsc-3679-1.jpg
     image_title: Monmouthshire & Brecon Canal with May Trees 2017
     image_description: >-
       Monmouthshire & Brecon Canal with May Trees 2017<br />oil on canvas<br
-      />24 x 30 in<br />&amp;pound;12,000
+      />24 x 30 in<br />&amp;pound;10,000
   - image_path: /uploads/dsc-3718.jpg
     image_title: 'Red Barn, Brecon Beacons 2017'
     image_description: >-
       Red Barn, Brecon Beacons 2017<br />oil on canvas<br />20 x 24 in<br
-      />&amp;pound;10,000
+      />&amp;pound;8,500
   - image_path: /uploads/dsc-3733.jpg
     image_title: Shropshire 2017
-    image_description: 'Shropshire 2017<br />oil on canvas<br />20 x 24 in<br />&amp;pound;10,000'
+    image_description: 'Shropshire 2017<br />oil on canvas<br />20 x 24 in<br />&amp;pound;8,500'
   - image_path: /uploads/dsc-3729.jpg
-    image_title: 'River Tern with Rape, Shropshire 2016'
+    image_title: 'River Teme with Rape, Shropshire 2016'
     image_description: >-
       River Tern with Rape 2016<br />oil on canvass<br />24 x 30 in<br
       />&amp;pound;10,000
@@ -569,7 +564,7 @@ images:
     image_title: Vegetable Garden with Rape 2016
     image_description: >-
       Vegetable Garden with Rape 2016<br />oil on canvas<br />24 x 30 in<br
-      />&amp;pound;10,000
+      />&amp;pound;8,500
   - image_path: /uploads/dsc-3982.jpg
     image_title: The Skirrid from Malvern 2016
     image_description: >-
@@ -577,17 +572,17 @@ images:
       />&amp;pound;10,000
   - image_path: /uploads/dsc-3688.jpg
     image_title: Capel-y-ffin 2017
-    image_description: Capel-y-ffin 2017<br />oil on canvas<br />20 x 24 in&amp;pound;8000
+    image_description: 'Capel-y-ffin 2017<br />oil on canvas<br />20 x 24 in&amp;pound;8,500'
   - image_path: /uploads/dsc-3980.jpg
     image_title: 'Farm near Bures, Suffolk 2016'
     image_description: >-
       Farm near Bures, Suffolk 2016<br />oil on canvas<br />24 x 20
-      in&amp;pound;10000
+      in&amp;pound;8,500
   - image_path: /uploads/dsc-3743.jpg
     image_title: 'River Stour, Suffolk 2016'
     image_description: >-
       River Stour, Suffolk 2016<br />oil on canvas<br />30 x 24
-      in&amp;pound;12000
+      in&amp;pound;10,000
   - image_path: /uploads/dsc-3958.jpg
     image_title: 'Haddon Hall, Derbyshire 2016'
     image_description: >-
@@ -597,51 +592,58 @@ images:
     image_title: 'Puttesbrough, North Devon 2017'
     image_description: >-
       Puttesbrough, North Devon 2017<br />oil on canvas<br />24 x 30
-      in<br/>&amp;pound;12,000 SOLD
+      in<br/>&amp;pound;12,000
   - image_path: /uploads/dsc-3702.jpg
     image_title: 'Near Bampton, North Devon 2017'
     image_description: >-
       Near Bampton, North Devon 2017<br />oil on canvas<br />24 x 30 in<br
-      />&amp;pound;12000 sold
+      />&amp;pound;12,000 SOLD
   - image_path: /uploads/dsc-3696.jpg
     image_title: 'Nethercote, Near Bampton 2017'
     image_description: >-
       Nethercote, Near Bampton 2017<br />oil on canvas<br />24 x 30
-      in&amp;quot;<br />&amp;pound;12000
+      in&amp;quot;<br />&amp;pound;12,000
   - image_path: /uploads/dsc-3971.jpg
     image_title: Two Cabbages 2017
     image_description: >-
       Two Cabbages 2017<br />oil on canvas<br />20 x 24 in&amp;<br
-      />&amp;pound;12000
+      />&amp;pound;12,000
   - image_path: /uploads/dsc-3727.jpg
     image_title: Leeks 2017
-    image_description: Leeks 2017<br />oil on canvas<br />20 x 24 in <br />&amp;pound;10000
+    image_description: 'Leeks 2017<br />oil on canvas<br />20 x 24 in <br />&amp;pound;8,500'
   - image_path: /uploads/dsc-3737.jpg
     image_title: Interior with Tulips 2016
     image_description: >-
       Interior with Tulips 2016<br />oil on canvas<br />20 x 24 in&amp;<br
-      />&amp;pound;10000
+      />&amp;pound;8,500
   - image_path: /uploads/dsc-3941.jpg
     image_title: Yellow Interior 2016
     image_description: >-
       Yellow Interior 2016<br />oil on canvas<br />40 x 30 in&amp;<br
-      />&amp;pound;15000
+      />&amp;pound;12,000
   - image_path: /uploads/dsc-3955.jpg
     image_title: Lily Pond 2017
-    image_description: Lily Pond 2017<br />oil on canvas<br />32 x 24 in<br />&amp;pound;12000
+    image_description: 'Lily Pond 2017<br />oil on canvas<br />32 x 24 in<br />&amp;pound;10,000'
   - image_path: /uploads/dsc-3705.jpg
     image_title: Dahlias I 2018
-    image_description: Dahlias I 2018<br />oil on canvas<br />24 x 20 in<br />&amp;pound;6000
+    image_description: >-
+      Dahlias with Jug 2018<br />oil on canvas<br/>12 x 8 in<br
+      />&amp;pound;5,000
   - image_path: /uploads/dsc-3998.jpg
     image_title: Yellow Jug with Fish 2018
     image_description: >-
       Yellow Jug with Fish 2018<br />oil on canvas<br />18 x 14 in<br
-      />&amp;pound;6000
+      />&amp;pound;6,000
   - image_path: /uploads/dsc-4004.jpg
     image_title: Three Nasturtiums with Jug 2018
     image_description: >-
       Three Nasturtiums with Jug 2018<br />oil on canvas<br />16 x 13 in<br
-      />&amp;pound;6000
+      />&amp;pound;6,000
+  - image_path: /uploads/dining-room-with-dog-sm.jpg
+    image_title: Red Dining Room with Dog
+    image_description: >-
+      Red Dining Room with Dog 2016<br />oil on canvas<br />30 x 40 in<br
+      />&amp;pound;10,000
 _options:
   image_path:
     width: 1200
