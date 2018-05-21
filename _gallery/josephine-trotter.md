@@ -572,7 +572,9 @@ images:
       />&amp;pound;10,000
   - image_path: /uploads/dsc-3688.jpg
     image_title: Capel-y-ffin 2017
-    image_description: '<br />oil on canvas<br />20 x 24 in&amp;pound;8,500'
+    image_description: |-
+      <br />oil on canvas<br />20 x 24 in&amp;
+      pound;8,500
   - image_path: /uploads/dsc-3980.jpg
     image_title: 'Farm near Bures, Suffolk 2016'
     image_description: >-
