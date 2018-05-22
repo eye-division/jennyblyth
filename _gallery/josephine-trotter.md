@@ -504,7 +504,7 @@ images:
     image_description: '<br />oil on canvas<br />24 x 30 in<br />&amp;pound;15,000'
   - image_path: /uploads/dsc-3963.jpg
     image_title: 'Ty''r Chanter, Brecon Beacons 2017'
-    image_description: '<br />oil on canvas<br />24 x 32 in<br />&amp;pound;15,000'
+    image_description: '<br />oil on canvas<br />24 x 32 in<br />&amp;pound;12,000'
   - image_path: /uploads/dsc-3925.jpg
     image_title: 'Penybryn, Welsh Borders 2017'
     image_description: '<br />oil on canvas<br />30 x 40 in&amp;quot;<br />&amp;pound;15,000'
@@ -534,9 +534,7 @@ images:
     image_description: '<br />oil on canvas<br />24 x 20 in<br />&amp;pound;10,000'
   - image_path: /uploads/dsc-3688.jpg
     image_title: Capel-y-ffin 2017
-    image_description: |-
-      <br />oil on canvas<br />20 x 24 in<br/>&amp;
-      pound;8,500
+    image_description: '<br />oil on canvas<br />20 x 24 in<br/>&amp;pound;8,500'
   - image_path: /uploads/dsc-3980.jpg
     image_title: 'Farm near Bures, Suffolk 2016'
     image_description: '<br />oil on canvas<br />24 x 20 in&amp;pound;8,500'
