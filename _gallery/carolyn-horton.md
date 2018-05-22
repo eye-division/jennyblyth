@@ -125,7 +125,7 @@ images:
     image_title: Chicken and Doves
     image_description: >-
       Chicken and Doves, 2016<br />Monotypes and chine colle on paper lined
-      canvas<br />180 x 170 cm<br />&amp;pound;10000
+      canvas<br />180 x 170 cm<br />&amp;pound;
   - image_path: /assets/images/583de82e5ccb2.jpg
     image_title: Mr Tumnus
     image_description: >-
