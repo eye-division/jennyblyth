@@ -537,10 +537,10 @@ images:
     image_description: '<br />oil on canvas<br />20 x 24 in<br/>&amp;pound;8,500'
   - image_path: /uploads/dsc-3980.jpg
     image_title: 'Farm near Bures, Suffolk 2016'
-    image_description: '<br />oil on canvas<br />24 x 20 in&amp;pound;8,500'
+    image_description: '<br />oil on canvas<br />24 x 20 in<br/>&amp;pound;8,500'
   - image_path: /uploads/dsc-3743.jpg
     image_title: 'River Stour, Suffolk 2016'
-    image_description: '<br />oil on canvas<br />30 x 24 in&amp;pound;10,000'
+    image_description: '<br />oil on canvas<br />30 x 24 in<br/>&amp;pound;10,000'
   - image_path: /uploads/dsc-3958.jpg
     image_title: 'Haddon Hall, Derbyshire 2016'
     image_description: '<br />oil on canvas<br />24 x 32 in<br />&amp;pound;12,000'
@@ -555,21 +555,21 @@ images:
     image_description: '<br />oil on canvas<br />24 x 30 in&amp;quot;<br />&amp;pound;12,000'
   - image_path: /uploads/dsc-3971.jpg
     image_title: Two Cabbages 2017
-    image_description: '<br />oil on canvas<br />20 x 24 in&amp;<br />&amp;pound;12,000'
+    image_description: '<br />oil on canvas<br />20 x 24 in<br/>&amp;pound;12,000'
   - image_path: /uploads/dsc-3727.jpg
     image_title: Leeks 2017
     image_description: '<br />oil on canvas<br />20 x 24 in <br />&amp;pound;8,500'
   - image_path: /uploads/dsc-3737.jpg
     image_title: Interior with Tulips 2016
-    image_description: '<br />oil on canvas<br />20 x 24 in&amp;<br />&amp;pound;8,500'
+    image_description: '<br />oil on canvas<br />20 x 24 in;<br />&amp;pound;8,500'
   - image_path: /uploads/dsc-3955.jpg
     image_title: Lily Pond 2017
     image_description: '<br />oil on canvas<br />32 x 24 in<br />&amp;pound;10,000'
   - image_path: /uploads/dsc-4001.jpg
     image_title: Yellow Interior 2016
-    image_description: '<br />oil on canvas<br />40 x 30 in&amp;<br />&amp;pound;12,000'
+    image_description: '<br />oil on canvas<br />40 x 30 in&amp;<br />&amp;pound;6,000'
   - image_path: /uploads/dsc-3705.jpg
-    image_title: Dahlias I 2018
+    image_title: Dahlias with Jug 2018
     image_description: '<br />oil on canvas<br/>12 x 8 in<br />&amp;pound;5,000'
   - image_path: /uploads/dsc-3998.jpg
     image_title: Yellow Jug with Fish 2018
@@ -578,7 +578,7 @@ images:
     image_title: Three Nasturtiums with Jug 2018
     image_description: '<br />oil on canvas<br />16 x 13 in<br />&amp;pound;6,000'
   - image_path: /uploads/dining-room-with-dog-sm.jpg
-    image_title: Red Dining Room with Dog
+    image_title: Red Dining Room with Dog 2016
     image_description: '<br />oil on canvas<br />30 x 40 in<br />&amp;pound;10,000'
   - image_path: /uploads/dsc-3941-1.jpg
     image_title: Connie in Dressing Gown
