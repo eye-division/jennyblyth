@@ -20,7 +20,8 @@
     }
 }
 
-.gallery {
+// section - .gallery--block
+.gallery--block {
     /// make it a flexbox so items can be aligned vertically
     @include display(flex);
     @include align-items(flex-start);
@@ -38,6 +39,9 @@
     @include media ($medium) {
         //@include outer-container;
     }
+}
+
+.gallery {
     .page-content {
         a {
             img {

@@ -13,7 +13,7 @@ layout: default
 <article id="content">
 
   {% if page.images[0].image_path %}
-  <section class="gallery">
+  <section class="gallery--block">
     {% for image in page.images %}
       {% if image.image_path %}
       <div class="gallery-box {% cycle 'alpha', '', 'last' %}">
