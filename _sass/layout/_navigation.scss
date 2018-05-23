@@ -93,7 +93,7 @@ li.nav-link {
     border-bottom: 1px solid tint($jbgray,50%);
     @include media ($medium) {
         background: transparent;
-        display: inline;
+        display: inline-block;
         text-decoration: none;
         width: auto;
         border: none;
