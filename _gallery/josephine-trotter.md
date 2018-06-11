@@ -474,7 +474,7 @@ main_image_path: /uploads/dsc-3711.jpg
 images:
   - image_path: /uploads/dsc-3950.jpg
     image_title: 'Hotel Tresanton, St Mawes, Cornwall 2017'
-    image_description: '<br />oil on canvas<br />&amp;pound;20,000'
+    image_description: '<br />oil on canvas<br />&amp;pound;15,000'
   - image_path: /uploads/dsc-3946.jpg
     image_title: 'From the Allotments, Illfracombe, 2017'
     image_description: '<br />oil on canvas<br />32 x 24&amp;quot;<br />&amp;pound;12,000'
@@ -489,16 +489,16 @@ images:
     image_description: '<br />Oil on canvas<br />24 x 33 in<br />&amp;pound;15,000'
   - image_path: /uploads/dsc-3747.jpg
     image_title: 'Nill Farm, Oxfordshire 2017'
-    image_description: <br />oil on canvas<br />54 x 96 in<br />&amp;pound;
+    image_description: '<br />oil on canvas<br />54 x 96 in<br />&amp;pound;55,000'
   - image_path: /uploads/dsc-3934.jpg
     image_title: 'Towards Brailes Hill, Oxfordshire 2016'
-    image_description: '<br />oil on canvas<br />36 x 48&amp;quot;<br />&amp;pound;30,000'
+    image_description: '<br />oil on canvas<br />36 x 48&amp;quot;<br />&amp;pound;25,000'
   - image_path: /uploads/dsc-3966.jpg
     image_title: Brailes Hill from Longdon Manor 2016
     image_description: '<br />oil on canvas<br />26 x 36 in<br />&amp;pound;15,000'
   - image_path: /uploads/dsc-3682.jpg
     image_title: Yorkshire Wolds 2016
-    image_description: '<br />oil on canvas<br />30 x 44 in&amp;quot;<br />&amp;pound;20,000'
+    image_description: '<br />oil on canvas<br />30 x 44 in&amp;quot;<br />&amp;pound;15,000'
   - image_path: /uploads/dsc-3693.jpg
     image_title: 'St Martin''s Church, Cwmyoy 2017'
     image_description: '<br />oil on canvas<br />24 x 30 in<br />&amp;pound;15,000'
