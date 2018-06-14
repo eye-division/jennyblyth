@@ -507,7 +507,7 @@ images:
     image_description: '<br />oil on canvas<br />24 x 32 in<br />&amp;pound;12,000'
   - image_path: /uploads/dsc-3925.jpg
     image_title: 'Penybryn, Welsh Borders 2017'
-    image_description: '<br />oil on canvas<br />30 x 40 in&amp;quot;<br />&amp;pound;15,000'
+    image_description: '<br />oil on canvas<br />30 x 40 in&amp;quot;<br />&amp;pound;15,000 SOLD'
   - image_path: /uploads/dsc-3928.jpg
     image_title: 'Blue Woods, Penybryn 2017'
     image_description: '<br />oil on canvas<br />24 x 32 in<br />&amp;pound;10,000'
@@ -531,13 +531,13 @@ images:
     image_description: '<br />oil on canvas<br />24 x 30 in<br />&amp;pound;8,500'
   - image_path: /uploads/dsc-3982.jpg
     image_title: The Skirrid from Malvern 2016
-    image_description: '<br />oil on canvas<br />24 x 20 in<br />&amp;pound;10,000'
+    image_description: '<br />oil on canvas<br />24 x 20 in<br />&amp;pound;10,000 SOLD'
   - image_path: /uploads/dsc-3688.jpg
     image_title: Capel-y-ffin 2017
     image_description: '<br />oil on canvas<br />20 x 24 in<br/>&amp;pound;6,500'
   - image_path: /uploads/dsc-3980.jpg
     image_title: 'Farm near Bures, Suffolk 2016'
-    image_description: '<br />oil on canvas<br />24 x 20 in<br/>&amp;pound;8,500'
+    image_description: '<br />oil on canvas<br />24 x 20 in<br/>&amp;pound;8,500 SOLD'
   - image_path: /uploads/dsc-3743.jpg
     image_title: 'River Stour, Suffolk 2016'
     image_description: '<br />oil on canvas<br />30 x 24 in<br/>&amp;pound;10,000'
@@ -555,7 +555,7 @@ images:
     image_description: '<br />oil on canvas<br />24 x 30 in&amp;quot;<br />&amp;pound;12,000'
   - image_path: /uploads/dsc-3971.jpg
     image_title: Two Cabbages 2017
-    image_description: '<br />oil on canvas<br />20 x 24 in<br/>&amp;pound;12,000'
+    image_description: '<br />oil on canvas<br />20 x 24 in<br/>&amp;pound;12,000 SOLD'
   - image_path: /uploads/dsc-3727.jpg
     image_title: Leeks 2017
     image_description: '<br />oil on canvas<br />20 x 24 in <br />&amp;pound;8,500'
@@ -573,7 +573,7 @@ images:
     image_description: '<br />oil on canvas<br/>12 x 8 in<br />&amp;pound;5,000'
   - image_path: /uploads/dsc-3998.jpg
     image_title: Yellow Jug with Fish 2018
-    image_description: '<br />oil on canvas<br />18 x 14 in<br />&amp;pound;6,000'
+    image_description: '<br />oil on canvas<br />18 x 14 in<br />&amp;pound;6,000 SOLD'
   - image_path: /uploads/dsc-4004.jpg
     image_title: Three Nasturtiums with Jug 2018
     image_description: '<br />oil on canvas<br />16 x 13 in<br />&amp;pound;6,000'
