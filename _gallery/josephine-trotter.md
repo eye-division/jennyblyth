@@ -513,7 +513,7 @@ images:
     image_description: '<br />oil on canvas<br />24 x 32 in<br />&amp;pound;10,000'
   - image_path: /uploads/dsc-3699.jpg
     image_title: 'Near Llanthony, Black Mountains 2017'
-    image_description: '<br />oil on canvas<br />20 x 24 in<br />&amp;pound;8,500'
+    image_description: '<br />oil on canvas<br />20 x 24 in<br />&amp;pound;8,500 SOLD'
   - image_path: /uploads/dsc-3679-1.jpg
     image_title: Monmouthshire & Brecon Canal with May Trees 2017
     image_description: '<br />oil on canvas<br />24 x 30 in<br />&amp;pound;10,000'
@@ -525,7 +525,7 @@ images:
     image_description: '<br />oil on canvas<br />20 x 24 in<br />&amp;pound;6,500'
   - image_path: /uploads/dsc-3729.jpg
     image_title: 'River Teme with Rape, Shropshire 2016'
-    image_description: '<br />oil on canvass<br />24 x 30 in<br />&amp;pound;10,000'
+    image_description: '<br />oil on canvass<br />24 x 30 in<br />&amp;pound;10,000 SOLD'
   - image_path: /uploads/dsc-3740.jpg
     image_title: Vegetable Garden with Rape 2016
     image_description: '<br />oil on canvas<br />24 x 30 in<br />&amp;pound;8,500'
