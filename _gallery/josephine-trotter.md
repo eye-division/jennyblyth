@@ -546,7 +546,7 @@ images:
     image_description: '<br />oil on canvas<br />24 x 32 in<br />&amp;pound;8,500'
   - image_path: /uploads/dsc-3684-1.jpg
     image_title: 'Puttesbrough, North Devon 2017'
-    image_description: '<br />oil on canvas<br />24 x 30 in<br/>&amp;pound;12,000'
+    image_description: '<br />oil on canvas<br />24 x 30 in<br/>&amp;pound;12,000 SOLD'
   - image_path: /uploads/dsc-3702.jpg
     image_title: 'Near Bampton, North Devon 2017'
     image_description: '<br />oil on canvas<br />24 x 30 in<br />&amp;pound;12,000 SOLD'
