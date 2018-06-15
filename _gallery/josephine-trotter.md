@@ -495,16 +495,16 @@ images:
     image_description: '<br />oil on canvas<br />36 x 48&amp;quot;<br />&amp;pound;25,000'
   - image_path: /uploads/dsc-3966.jpg
     image_title: Brailes Hill from Longdon Manor 2016
-    image_description: '<br />oil on canvas<br />26 x 36 in<br />&amp;pound;15,000'
+    image_description: '<br />oil on canvas<br />26 x 36 in<br />&amp;pound;10,000'
   - image_path: /uploads/dsc-3682.jpg
     image_title: Yorkshire Wolds 2016
     image_description: '<br />oil on canvas<br />30 x 44 in&amp;quot;<br />&amp;pound;15,000'
   - image_path: /uploads/dsc-3693.jpg
     image_title: 'St Martin''s Church, Cwmyoy 2017'
-    image_description: '<br />oil on canvas<br />24 x 30 in<br />&amp;pound;12,000'
+    image_description: '<br />oil on canvas<br />24 x 30 in<br />&amp;pound;12,000 SOLD'
   - image_path: /uploads/dsc-3963.jpg
     image_title: 'Ty''r Chanter, Brecon Beacons 2017'
-    image_description: '<br />oil on canvas<br />24 x 32 in<br />&amp;pound;12,000'
+    image_description: '<br />oil on canvas<br />24 x 32 in<br />&amp;pound;10,000'
   - image_path: /uploads/dsc-3925.jpg
     image_title: 'Penybryn, Welsh Borders 2017'
     image_description: '<br />oil on canvas<br />30 x 40 in&amp;quot;<br />&amp;pound;15,000 SOLD'
@@ -546,13 +546,13 @@ images:
     image_description: '<br />oil on canvas<br />24 x 32 in<br />&amp;pound;8,500'
   - image_path: /uploads/dsc-3684-1.jpg
     image_title: 'Puttesbrough, North Devon 2017'
-    image_description: '<br />oil on canvas<br />24 x 30 in<br/>&amp;pound;12,000 SOLD'
+    image_description: '<br />oil on canvas<br />24 x 30 in<br/>&amp;pound;10,000 SOLD'
   - image_path: /uploads/dsc-3702.jpg
     image_title: 'Near Bampton, North Devon 2017'
     image_description: '<br />oil on canvas<br />24 x 30 in<br />&amp;pound;12,000 SOLD'
   - image_path: /uploads/dsc-3696.jpg
     image_title: 'Nethercote, Near Bampton 2017'
-    image_description: '<br />oil on canvas<br />24 x 30 in&amp;quot;<br />&amp;pound;12,000'
+    image_description: '<br />oil on canvas<br />24 x 30 in&amp;quot;<br />&amp;pound;10,000'
   - image_path: /uploads/dsc-3971.jpg
     image_title: Two Cabbages 2017
     image_description: '<br />oil on canvas<br />20 x 24 in<br/>&amp;pound;12,000 SOLD'
