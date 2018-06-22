@@ -561,7 +561,7 @@ images:
     image_description: '<br />oil on canvas<br />20 x 24 in <br />&amp;pound;8,500'
   - image_path: /uploads/dsc-3737.jpg
     image_title: Interior with Tulips 2016
-    image_description: '<br />oil on canvas<br />20 x 24 in;<br />&amp;pound;8,500'
+    image_description: '<br />oil on canvas<br />20 x 24 in;<br />&amp;pound;8,500 SOLD'
   - image_path: /uploads/dsc-3955.jpg
     image_title: Lily Pond 2017
     image_description: '<br />oil on canvas<br />32 x 24 in<br />&amp;pound;10,000'
