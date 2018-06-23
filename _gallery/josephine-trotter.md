@@ -570,7 +570,7 @@ images:
     image_description: '<br />oil on canvas<br />40 x 30 in&amp;<br />&amp;pound;6,000'
   - image_path: /uploads/dsc-3705.jpg
     image_title: Dahlias with Jug 2018
-    image_description: '<br />oil on canvas<br/>12 x 8 in<br />&amp;pound;5,000'
+    image_description: '<br />oil on canvas<br/>12 x 8 in<br />&amp;pound;6,000'
   - image_path: /uploads/dsc-3998.jpg
     image_title: Yellow Jug with Fish 2018
     image_description: '<br />oil on canvas<br />18 x 14 in<br />&amp;pound;6,000 SOLD'
