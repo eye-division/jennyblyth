@@ -498,7 +498,9 @@ images:
     image_description: '<br />oil on canvas<br />26 x 36 in<br />&amp;pound;10,000'
   - image_path: /uploads/dsc-3682.jpg
     image_title: Yorkshire Wolds 2016
-    image_description: '<br />oil on canvas<br />30 x 44 in&amp;quot;<br />&amp;pound;15,000 SOLD'
+    image_description: >-
+      <br />oil on canvas<br />30 x 44 in&amp;quot;<br
+      />&amp;pound;15,000<br/>SOLD
   - image_path: /uploads/dsc-3693.jpg
     image_title: 'St Martin''s Church, Cwmyoy 2017'
     image_description: '<br />oil on canvas<br />24 x 30 in<br />&amp;pound;12,000 SOLD'
