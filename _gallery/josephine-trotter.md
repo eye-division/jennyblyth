@@ -479,7 +479,7 @@ images:
     image_title: 'From the Allotments, Illfracombe, 2017'
     image_description: '<br />oil on canvas<br />32 x 24&amp;quot;<br />&amp;pound;12,000'
   - image_path: /uploads/dsc-3709.jpg
-    image_title: 'St Just in Roseland, St Mawes 2017'
+    image_title: 'St Just in Roseland, St Mawes 2017 SOLD'
     image_description: '<br />oil on canvass<br />30 x 24 in<br />&amp;pound;12,000 SOLD'
   - image_path: /uploads/dsc-3987.jpg
     image_title: 'Churchyard, Illfracombe 2017'
