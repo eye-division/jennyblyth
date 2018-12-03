@@ -114,6 +114,11 @@ archive: false
 display_title: true
 main_image_path: /assets/images/583dedac5cb03.jpg
 images:
+  - image_path: /uploads/curtain-call.jpg
+    image_title: >-
+      Curtain Call<br />Monotypes and chine colle on paper lined canvas<br /> 93
+      x 80 cm<br/> Euros 3500
+    image_description:
   - image_path: /assets/images/583de82e5ccb2.jpg
     image_title: Faune
     image_description: |-
@@ -305,11 +310,6 @@ images:
     image_description:
   - image_path:
     image_title: Sweeping the Goose (Gold and White)
-    image_description:
-  - image_path: /uploads/curtain-call.jpg
-    image_title: >-
-      Curtain Call<br />Monotypes and chine colle on paper lined canvas<br /> 93
-      x 80 cm<br/> Euros 3500
     image_description:
 _options:
   image_path:
