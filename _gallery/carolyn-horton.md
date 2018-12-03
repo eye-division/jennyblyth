@@ -153,6 +153,12 @@ images:
     image_description: >-
       Blowing Blue Dust 2016<br />Monotypes, chine colle, stencil and gold leaf
       on paper<br />&amp;pound;650 SOLD
+  - image_path: /uploads/say-it-with-flowers.jpg
+    image_title:
+    image_description: >-
+      Say It With Flowers 2009<br />hard and soft ground etching, chine collee
+      collaged onto mirror behind wooden frame<br />98 x 48 cm<br
+      />&amp;pound;2500
   - image_path: /assets/images/50cb4fc7e3c5b.jpg
     image_title:
     image_description: >-
@@ -165,12 +171,12 @@ images:
       Two For Joy (back) 2010<br />hard ground etching, collagraph collaged onto
       Japanese kozo and gampi paper stretched onto canvas in screen frame<br
       />176 x 150 cm<br />&amp;pound;8,000
-  - image_path: /uploads/say-it-with-flowers.jpg
-    image_title:
+  - image_path: /assets/images/4b993798e180e.jpg
+    image_title: Clementine
     image_description: >-
-      Say It With Flowers 2009<br />hard and soft ground etching, chine collee
-      collaged onto mirror behind wooden frame<br />98 x 48 cm<br
-      />&amp;pound;2500
+      Clementine, 2010<br />hard and soft ground etching,chine collee collaged
+      onto Japanese kozo paper stretched onto canvas<br />120 x 55 cm<br
+      />&amp;pound;1350
   - image_path: /assets/images/4b9a2d8a1cd36.jpg
     image_title:
     image_description: >-
@@ -188,12 +194,6 @@ images:
     image_description: >-
       Puppies, 2010<br />Aquatint on Japanese gampi paper stretched onto
       canvas<br />40 x 30 cm<br />&amp;pound;500
-  - image_path: /assets/images/4b993798e180e.jpg
-    image_title: Clementine
-    image_description: >-
-      Clementine, 2010<br />hard and soft ground etching,chine collee collaged
-      onto Japanese kozo paper stretched onto canvas<br />120 x 55 cm<br
-      />&amp;pound;1350
   - image_path: /assets/images/525d15a5692e1.jpg
     image_title: Pink &amp;amp; Grey Camisoles
     image_description: >-
