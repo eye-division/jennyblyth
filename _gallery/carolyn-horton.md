@@ -118,7 +118,7 @@ images:
     image_title: Mr Tumnus
     image_description: >-
       Mr Tumnus, 2016<br />Monotypes and chine colle on paper lined canvas<br
-      />&amp;euros; 1500
+      />&amp; Euros 1500
   - image_path: /assets/images/583de866679d4.jpg
     image_title: Chevalier 4
     image_description: >-
