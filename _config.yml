@@ -1,8 +1,10 @@
 # External gems
-gems:
+plugins:
  # - jekyll-archives # Sorry, not GitHub pages friendly!
-  - jekyll-sitemap
-  - jekyll-paginate
+ # - jekyll-assets
+ # - autoprefixer-rails
+   - jekyll-seo-tag
+   - jekyll-sitemap
 
 exclude:
   - "/vendor/"
@@ -25,9 +27,7 @@ showfeatured: true
 
 # Build settings
 markdown: kramdown
-paginate: 5
-paginate_path: "/page:num/"
-inter_post_navigation: false
+
 permalink: pretty
 highlightjs_theme: "monokai-sublime"
 

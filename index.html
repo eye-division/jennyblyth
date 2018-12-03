@@ -1,8 +1,8 @@
 ---
 layout: home
 carousel:
-  - image: /uploads/dsc-3711-4.jpg
-    caption: Josephine Trotter
+  - image: /uploads/curtain-call.jpg
+    caption: Carolyn Horton
     link: /gallery/josephine-trotter/
 showsections: true
 _options:
@@ -65,8 +65,8 @@ _comments:
                     <header class="gallery-header">
                       <h2 class="title">{{ section.frontpagetitle }}</h2>
                     </header>
-                    {% if section.homepage_description_markdown: %}
-                      {{ section.homepage_description_markdown:  | markdownify }}<br />
+                    {% if section.homepage_description_markdown %}
+                      {{ section.homepage_description_markdown | markdownify }}<br />
                       <span class="readmore">Read more <span>{{nextPost.title}} <svg class="icon"><use xlink:href="#icon-double_angle_right" /></svg></span>
 
                     {% endif %}
@@ -89,8 +89,8 @@ _comments:
                   <header class="gallery-header">
                     <h2 class="title">{{ gallery.title }}</h2>
                   </header>
-                  {% if gallery.homepage_description_markdown:  %}
-                    {{ gallery.homepage_description_markdown:  | markdownify }}
+                  {% if gallery.homepage_description_markdown  %}
+                    {{ gallery.homepage_description_markdown | markdownify }}
                   {% endif %}
               </article>
               </div>

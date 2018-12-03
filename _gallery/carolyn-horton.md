@@ -108,7 +108,7 @@ description_markdown: >-
   and works from her studio in Gloucestershire.
 homepage_description_markdown:
 frontpage: true
-gallery_date: 2016-05-01 00:00:00
+gallery_date: 2018-12-01 00:00:00
 permalink: /gallery/carolyn-horton/
 archive: false
 display_title: true
