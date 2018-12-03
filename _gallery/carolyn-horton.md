@@ -56,16 +56,10 @@ description_markdown: >-
   top hats, girls in exquisite costumes with doves, jugglers and acrobats teamed
   and focussed, and the art, charm and wit of exchange between players. In
   short, Horton captures the 'frissant' that makes the circus irresistible to us
-  all.
-
-
-  Jenny Blyth 2016
+  all. &copy; Jenny Blyth 2018.
 
 
   #### Jenny Blyth Fine Art showed CAROLYN HORTON at AFFORDABLE ART FAIR 2013
-
-
-  ### &nbsp;
 
 
   ### LONG DOGS & LINGERIE
