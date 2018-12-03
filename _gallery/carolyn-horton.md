@@ -114,11 +114,6 @@ archive: false
 display_title: true
 main_image_path: /assets/images/583dedac5cb03.jpg
 images:
-  - image_path: /assets/images/583dedac5cb03.jpg
-    image_title: Chicken and Doves
-    image_description: >-
-      Chicken and Doves, 2016<br />Monotypes and chine colle on paper lined
-      canvas<br />180 x 170 cm<br />&amp;pound 10,000; SOLD
   - image_path: /assets/images/583de82e5ccb2.jpg
     image_title: Mr Tumnus
     image_description: >-
@@ -134,16 +129,21 @@ images:
     image_description: >-
       Chevalier I, 2016<br />Monotypes, chine colle, stencil and gold leaf on
       paper<br />&amp;pound;750 SOLD
-  - image_path: /assets/images/583de905334c2.jpg
-    image_title: Juggler
+  - image_path: /assets/images/583dedac5cb03.jpg
+    image_title: Chicken and Doves
     image_description: >-
-      Juggler, 2016<br />Monotypes, Chine colle, stencil on paper lined
-      canvas<br />90 x 90 cm
+      Chicken and Doves, 2016<br />Monotypes and chine colle on paper lined
+      canvas<br />180 x 170 cm<br />&amp;pound 10,000 SOLD
   - image_path: /assets/images/583de94fa6d51.jpg
     image_title: Blowing White Dust
     image_description: >-
       Blowing White Dust, 0000<br />Monotypes, chine colle, stencil on paper<br
       />2016<br />&amp;pound;650
+  - image_path: /assets/images/583de905334c2.jpg
+    image_title: Juggler
+    image_description: >-
+      Juggler, 2016<br />Monotypes, Chine colle, stencil on paper lined
+      canvas<br />90 x 90 cm
   - image_path: /assets/images/583de99aef1a0.jpg
     image_title: Blowing Blue Dust
     image_description: >-
