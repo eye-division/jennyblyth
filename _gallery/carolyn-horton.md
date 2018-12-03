@@ -65,14 +65,13 @@ description_markdown: >-
   ### LONG DOGS & LINGERIE
 
 
-  &nbsp;FEBRUARY 2010&nbsp; The Gallery in Cork Street London W1 and
+  &nbsp;FEBRUARY 2010&nbsp; The Gallery in Cork Street London W1&nbsp;
 
 
-  8 APRIL – 1 MAY 2010 ART JERICHO, OXFORD.
+  APRIL – MAY 2010 Art Jericho, Oxford.
 
 
-  Jenny Blyth showing new work by CAROLYN HORTON at The Gallery in Cork Street
-  London W1&nbsp; and Art Jericho, Oxford,
+  Jenny Blyth Fine Art shows new work by CAROLYN HORTON.
 
 
   Carolyn Horton’s experience has given her the authority to extend the medium
@@ -120,14 +119,14 @@ images:
       Chicken and Doves, 2016<br />Monotypes and chine colle on paper lined
       canvas<br />180 x 170 cm<br />&amp;pound 10,000 SOLD
   - image_path: /uploads/curtain-call.jpg
-    image_title: >-
+    image_title:
+    image_description: >-
       Curtain Call<br />Monotypes and chine colle on gampi paper lined canvas<br
       /> 93 x 80 cm<br/> Euros 3500
-    image_description:
   - image_path: /assets/images/583de82e5ccb2.jpg
-    image_title:
+    image_title: Faune 2016
     image_description: |-
-      Faune 2016<br />Monotypes and chine colle on paper lined canvas<br />
+      Monotypes and chine colle on paper lined canvas<br />
       50 x 70 cm<br/> Euros 1400
   - image_path: /assets/images/583de866679d4.jpg
     image_title: Chevalier 4
