@@ -1,5 +1,5 @@
 ---
-title: Carolyn Horton
+title: CAROLYN HORTON
 description_markdown: >-
   ### *THE CIRCUS IS COMING TO TOWN !*
 
