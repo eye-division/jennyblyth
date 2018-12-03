@@ -125,7 +125,7 @@ images:
       /> 93 x 80 cm<br/> Euros 3500
     image_description:
   - image_path: /assets/images/583de82e5ccb2.jpg
-    image_title: Faune
+    image_title:
     image_description: |-
       Faune 2016<br />Monotypes and chine colle on paper lined canvas<br />
       50 x 70 cm<br/> Euros 1400
@@ -149,23 +149,23 @@ images:
     image_description: >-
       Juggler, 2016<br />Monotypes, Chine colle, stencil on paper lined
       canvas<br />90 x 90 cm<br />£1600
-  - image_path: /assets/images/50cb4fc7e3c5b.jpg
-    image_title: Two For Joy
-    image_description: >-
-      Two For Joy (front), 2010<br />hard ground etching, collagraph collaged
-      onto Japanese kozo and gampi paper stretched onto canvas in screen
-      frame<br />176 x 150 cm
-  - image_path: /assets/images/4b9a2390a8de8.jpg
-    image_title: Two For Joy
-    image_description: >-
-      Two For Joy (back), 2010<br />hard ground etching, collagraph collaged
-      onto Japanese kozo and gampi paper stretched onto canvas in screen
-      frame<br />176 x 150 cm<br />&amp;pound;8,000
   - image_path: /assets/images/583de99aef1a0.jpg
     image_title: Blowing Blue Dust
     image_description: >-
       Blowing Blue Dust, 2016<br />Monotypes, chine colle, stencil and gold leaf
       on paper<br />&amp;pound;650 SOLD
+  - image_path: /assets/images/50cb4fc7e3c5b.jpg
+    image_title:
+    image_description: >-
+      Two For Joy (front), 2010<br />hard ground etching, collagraph collaged
+      onto Japanese kozo and gampi paper stretched onto canvas in screen
+      frame<br />176 x 150 cm&amp;pound;8,000
+  - image_path: /assets/images/4b9a2390a8de8.jpg
+    image_title:
+    image_description: >-
+      Two For Joy (back), 2010<br />hard ground etching, collagraph collaged
+      onto Japanese kozo and gampi paper stretched onto canvas in screen
+      frame<br />176 x 150 cm<br />&amp;pound;8,000
   - image_path: /assets/images/4b9935367262d.jpg
     image_title: Say It With Flowers
     image_description: >-
@@ -176,7 +176,7 @@ images:
     image_title:
     image_description: >-
       Finn on Green 2009<br />hard ground etching, collaged onto Japanese gampi
-      paper stretched onto canvas<br />90 x 90 cm,br/.&amp;1900 SOLD
+      paper stretched onto canvas<br />90 x 90 cm,<br/>&amp;pound;1900 SOLD
   - image_path: /assets/images/4b9a2d8a1cd36.jpg
     image_title: Nancy
     image_description: >-
