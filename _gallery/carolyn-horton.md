@@ -4,14 +4,14 @@ description_markdown: >-
   ### THE CIRCUS IS COMING TO TOWN&nbsp;
 
 
-  **24 NOVEMBER - 23 DECEMBER 2016**
+  **NOVEMBER - DECEMBER 2016**
 
 
-  at ART JERICHO 6 King Street Oxford OX2 6DF
+  JBFA at ART JERICHO 6 King Street Oxford OX2 6DF
 
 
-  Prints, Collage, Chine Collee, Etchings, Monotypes inspired by Gifford Circus
-  (text & images below)
+  Prints, Collage, Chine Collee, Etchings, Monotypes inspired by Gifford
+  Circus.&nbsp;
 
 
   The circus has delighted and astounded audiences since Phillip Astley, 'father
@@ -65,10 +65,10 @@ description_markdown: >-
   ### LONG DOGS & LINGERIE
 
 
-  &nbsp;FEBRUARY 2010&nbsp; The Gallery in Cork Street London W1&nbsp;
+  **&nbsp;FEBRUARY 2010&nbsp; The Gallery in Cork Street London W1&nbsp;**
 
 
-  APRIL – MAY 2010 Art Jericho, Oxford.
+  **APRIL – MAY 2010 Art Jericho, Oxford.**
 
 
   Jenny Blyth Fine Art shows new work by CAROLYN HORTON.
