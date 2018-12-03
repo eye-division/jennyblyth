@@ -115,10 +115,10 @@ display_title: true
 main_image_path: /assets/images/583dedac5cb03.jpg
 images:
   - image_path: /assets/images/583de82e5ccb2.jpg
-    image_title: Mr Tumnus
-    image_description: >-
-      Mr Tumnus, 2016<br />Monotypes and chine colle on paper lined canvas<br
-      />&amp; Euros 1500
+    image_title: Faune
+    image_description: |-
+      Faune 2016<br />Monotypes and chine colle on paper lined canvas<br />
+      50 x 70 cm<br/> Euros 1400
   - image_path: /assets/images/583de866679d4.jpg
     image_title: Chevalier 4
     image_description: >-
