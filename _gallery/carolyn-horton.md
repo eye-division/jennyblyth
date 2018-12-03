@@ -124,9 +124,9 @@ images:
       Curtain Call<br />Monotypes and chine colle on gampi paper lined canvas<br
       /> 93 x 80 cm<br/> Euros 3500
   - image_path: /assets/images/583de82e5ccb2.jpg
-    image_title: Faune 2016
+    image_title:
     image_description: |-
-      Monotypes and chine colle on paper lined canvas<br />
+      Faune 2016<br/>Monotypes and chine colle on paper lined canvas<br />
       50 x 70 cm<br/> Euros 1400
   - image_path: /assets/images/583de866679d4.jpg
     image_title:
