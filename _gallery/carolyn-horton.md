@@ -1,7 +1,7 @@
 ---
 title: CAROLYN HORTON
 description_markdown: >-
-  ### *THE CIRCUS IS COMING TO TOWN !*
+  ### THE CIRCUS IS COMING TO TOWN&nbsp;
 
 
   **24 NOVEMBER - 23 DECEMBER 2016**
@@ -166,17 +166,12 @@ images:
       Two For Joy (back), 2010<br />hard ground etching, collagraph collaged
       onto Japanese kozo and gampi paper stretched onto canvas in screen
       frame<br />176 x 150 cm<br />&amp;pound;8,000
-  - image_path: /assets/images/4b9935367262d.jpg
+  - image_path: /uploads/say-it-with-flowers.jpg
     image_title: Say It With Flowers
     image_description: >-
       Say It With Flowers, 2009<br />hard and soft ground etching, chine collee
-      collaged onto Japanese kozo paper stretched onto canvas<br />98 x 48 cm<br
-      />&amp;pound;1250
-  - image_path: /assets/images/4b96598d7dda1.jpg
-    image_title:
-    image_description: >-
-      Finn on Green 2009<br />hard ground etching, collaged onto Japanese gampi
-      paper stretched onto canvas<br />90 x 90 cm,<br/>&amp;pound;1900 SOLD
+      collaged onto mirror behind wooden frame<br />98 x 48 cm<br
+      />&amp;pound;2500
   - image_path: /assets/images/4b9a2d8a1cd36.jpg
     image_title: Nancy
     image_description: >-
@@ -185,7 +180,7 @@ images:
       />&amp;pound;900
   - image_path: /assets/images/525d190306051.jpg
     image_title: >-
-      Leto on Lace2009<br />hard and soft ground etching, chine collee collaged
+      Leto on Lace 2009<br />hard and soft ground etching, chine collee collaged
       onto Japanese kozo paper stretched onto canvas<br />70 x 90
       cm<br/>&amp;pound;2500 SOLD
     image_description: Leto on Lace
