@@ -65,14 +65,13 @@ description_markdown: >-
   ### LONG DOGS & LINGERIE
 
 
-  &nbsp;FEBRUARY 2010&nbsp; The Gallery in Cork Street London W1 and
+  &nbsp;FEBRUARY 2010&nbsp; The Gallery in Cork Street London W1&nbsp;
 
 
-  8 APRIL – 1 MAY 2010 ART JERICHO, OXFORD.
+  APRIL – MAY 2010 Art Jericho, Oxford.
 
 
-  Jenny Blyth showing new work by CAROLYN HORTON at The Gallery in Cork Street
-  London W1&nbsp; and Art Jericho, Oxford,
+  Jenny Blyth Fine Art shows new work by CAROLYN HORTON.
 
 
   Carolyn Horton’s experience has given her the authority to extend the medium
