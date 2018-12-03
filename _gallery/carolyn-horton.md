@@ -138,12 +138,12 @@ images:
     image_title: Blowing White Dust
     image_description: >-
       Blowing White Dust, 0000<br />Monotypes, chine colle, stencil on paper<br
-      />2016<br />&amp;pound;650
+      />2016<br />&amp;pound;650 SOLD
   - image_path: /assets/images/583de905334c2.jpg
     image_title: Juggler
     image_description: >-
       Juggler, 2016<br />Monotypes, Chine colle, stencil on paper lined
-      canvas<br />90 x 90 cm
+      canvas<br />90 x 90 cm<br />£1800
   - image_path: /assets/images/583de99aef1a0.jpg
     image_title: Blowing Blue Dust
     image_description: >-
@@ -300,6 +300,17 @@ images:
     image_description: >-
       Quilla on Blue, 2009<br />hard ground etching, collaged onto Japanese
       gampi paper stretched onto canvas<br />90 x 90 cm<br />SOLD
+  - image_path:
+    image_title: Sweeping the Goose (Blue & White)
+    image_description:
+  - image_path:
+    image_title: Sweeping the Goose (Gold and White)
+    image_description:
+  - image_path: /uploads/curtain-call.jpg
+    image_title: >-
+      Curtain Call<br />Monotypes and chine colle on paper lined canvas<br /> 93
+      x 80 cm<br/> Euros 3500
+    image_description:
 _options:
   image_path:
     width: 1200
