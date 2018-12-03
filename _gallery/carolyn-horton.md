@@ -114,9 +114,9 @@ display_title: true
 main_image_path: /assets/images/583dedac5cb03.jpg
 images:
   - image_path: /assets/images/583dedac5cb03.jpg
-    image_title: Chicken and Doves
+    image_title:
     image_description: >-
-      Chicken and Doves, 2016<br />Monotypes and chine colle on paper lined
+      Chicken and Doves 2016<br />Monotypes and chine colle on paper lined
       canvas<br />180 x 170 cm<br />&amp;pound 10,000 SOLD
   - image_path: /uploads/curtain-call.jpg
     image_title:
@@ -129,52 +129,52 @@ images:
       Monotypes and chine colle on paper lined canvas<br />
       50 x 70 cm<br/> Euros 1400
   - image_path: /assets/images/583de866679d4.jpg
-    image_title: Chevalier 4
+    image_title:
     image_description: >-
       Chevalier 4, 2016<br />Monotypes, chine colle, stencil on paper<br
       />&amp;pound;975 SOLD
   - image_path: /assets/images/583de8996bcb8.jpg
-    image_title: Chevalier I
+    image_title:
     image_description: >-
       Chevalier I, 2016<br />Monotypes, chine colle, stencil and gold leaf on
       paper<br />&amp;pound;750 SOLD
   - image_path: /assets/images/583de905334c2.jpg
-    image_title: Juggler
+    image_title:
     image_description: >-
-      Juggler, 2016<br />Monotypes, Chine colle, stencil on paper lined
-      canvas<br />90 x 90 cm<br />£1600
+      Juggler 2016<br />Monotypes, Chine colle, stencil on paper lined canvas<br
+      />90 x 90 cm<br />£1600
   - image_path: /assets/images/583de94fa6d51.jpg
-    image_title: Blowing White Dust
+    image_title:
     image_description: >-
-      Blowing White Dust, 0000<br />Monotypes, chine colle, stencil on paper<br
+      Blowing White Dust, 2016<br />Monotypes, chine colle, stencil on paper<br
       />2016<br />&amp;pound;650 SOLD
   - image_path: /assets/images/583de99aef1a0.jpg
-    image_title: Blowing Blue Dust
+    image_title:
     image_description: >-
-      Blowing Blue Dust, 2016<br />Monotypes, chine colle, stencil and gold leaf
+      Blowing Blue Dust 2016<br />Monotypes, chine colle, stencil and gold leaf
       on paper<br />&amp;pound;650 SOLD
   - image_path: /assets/images/50cb4fc7e3c5b.jpg
     image_title:
     image_description: >-
-      Two For Joy (front), 2010<br />hard ground etching, collagraph collaged
+      Two For Joy (front) 2010<br />hard ground etching, collagraph collaged
       onto Japanese kozo and gampi paper stretched onto canvas in screen
-      frame<br />176 x 150 cm&amp;pound;8,000
+      frame<br />176 x 150 cm &amp;pound;8,000
   - image_path: /assets/images/4b9a2390a8de8.jpg
     image_title:
     image_description: >-
-      Two For Joy (back), 2010<br />hard ground etching, collagraph collaged
-      onto Japanese kozo and gampi paper stretched onto canvas in screen
-      frame<br />176 x 150 cm<br />&amp;pound;8,000
+      Two For Joy (back) 2010<br />hard ground etching, collagraph collaged onto
+      Japanese kozo and gampi paper stretched onto canvas in screen frame<br
+      />176 x 150 cm<br />&amp;pound;8,000
   - image_path: /uploads/say-it-with-flowers.jpg
-    image_title: Say It With Flowers
+    image_title:
     image_description: >-
-      Say It With Flowers, 2009<br />hard and soft ground etching, chine collee
+      Say It With Flowers 2009<br />hard and soft ground etching, chine collee
       collaged onto mirror behind wooden frame<br />98 x 48 cm<br
       />&amp;pound;2500
   - image_path: /assets/images/4b9a2d8a1cd36.jpg
-    image_title: Nancy
+    image_title:
     image_description: >-
-      Nancy, 2009<br />hard and soft ground etching, chine collee collaged onto
+      Nancy 2009<br />hard and soft ground etching, chine collee collaged onto
       Japanese kozo paper stretched onto canvas<br />62 x 90 cm<br
       />&amp;pound;900
   - image_path: /assets/images/525d190306051.jpg
@@ -183,6 +183,11 @@ images:
       onto Japanese kozo paper stretched onto canvas<br />70 x 90
       cm<br/>&amp;pound;2500 SOLD
     image_description: Leto on Lace
+  - image_path: /assets/images/4b993899d46e9.jpg
+    image_title: Puppies
+    image_description: >-
+      Puppies, 2010<br />Aquatint on Japanese gampi paper stretched onto
+      canvas<br />40 x 30 cm<br />&amp;pound;500
   - image_path: /assets/images/4b993798e180e.jpg
     image_title: Clementine
     image_description: >-
@@ -201,17 +206,17 @@ images:
       Blue Camisole, 2010<br />soft and hard ground etching, collaged onto
       Japanese gampi paper stretched onto canvas<br />60 x 80 cm<br
       />&amp;pound;750 SOLD
+  - image_path: /uploads/knickers-in-a-twist.JPG
+    image_title:
+    image_description: >-
+      Knickers in a Twist 2017<br />hard & soft ground etching<br/>diameter xx
+      cm<br />&amp;pound;2500
   - image_path: /assets/images/50cb50d68aaab.jpg
     image_title: Pink Stockings
     image_description: >-
       Pink Stockings, 2010<br />soft ground etching, chine collee and collagraph
       collaged onto Japanese gampi paper stretched onto canvas<br />70 x 90
       cm<br />&amp;pound;850
-  - image_path: /assets/images/4b993899d46e9.jpg
-    image_title: Puppies
-    image_description: >-
-      Puppies, 2010<br />Aquatint on Japanese gampi paper stretched onto
-      canvas<br />40 x 30 cm<br />&amp;pound;500
   - image_path: /assets/images/4b9655f693bca.jpg
     image_title: Whippet and Drapery
     image_description: >-
