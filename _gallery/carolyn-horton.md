@@ -139,16 +139,16 @@ images:
     image_description: >-
       Chevalier I, 2016<br />Monotypes, chine colle, stencil and gold leaf on
       paper<br />&amp;pound;750 SOLD
-  - image_path: /assets/images/583de94fa6d51.jpg
-    image_title: Blowing White Dust
-    image_description: >-
-      Blowing White Dust, 0000<br />Monotypes, chine colle, stencil on paper<br
-      />2016<br />&amp;pound;650 SOLD
   - image_path: /assets/images/583de905334c2.jpg
     image_title: Juggler
     image_description: >-
       Juggler, 2016<br />Monotypes, Chine colle, stencil on paper lined
       canvas<br />90 x 90 cm<br />£1600
+  - image_path: /assets/images/583de94fa6d51.jpg
+    image_title: Blowing White Dust
+    image_description: >-
+      Blowing White Dust, 0000<br />Monotypes, chine colle, stencil on paper<br
+      />2016<br />&amp;pound;650 SOLD
   - image_path: /assets/images/583de99aef1a0.jpg
     image_title: Blowing Blue Dust
     image_description: >-
