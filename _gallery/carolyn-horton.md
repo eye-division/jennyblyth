@@ -62,30 +62,29 @@ description_markdown: >-
   Jenny Blyth 2016
 
 
-  ### Jenny Blyth Fine Art showed work by CAROLYN HORTON at AFFORDABLE ART FAIR
-  2013
+  #### Jenny Blyth Fine Art showed CAROLYN HORTON at AFFORDABLE ART FAIR 2013
 
 
-  Battersea from 23 - 28 October 2013, Stand K1.
-
-
-  ### CAROLYN HORTON
+  ### &nbsp;
 
 
   ### LONG DOGS & LINGERIE
 
 
-  \*\* 8 APRIL – 1 MAY 2010 \*\*
+  &nbsp;FEBRUARY 2010&nbsp; The Gallery in Cork Street London W1 and
 
 
-  Jenny Blyth Fine Art and Art Jericho present an exhibition of new work by
-  CAROLYN HORTON.
+  8 APRIL – 1 MAY 2010 ART JERICHO, OXFORD.
 
 
-  \*\*‘Carolyn Horton’s experience has given her the authority to extend the
-  medium of printmaking in new and uncharted directions…. The result is an
+  Jenny Blyth showing new work by CAROLYN HORTON at The Gallery in Cork Street
+  London W1&nbsp; and Art Jericho, Oxford,
+
+
+  Carolyn Horton’s experience has given her the authority to extend the medium
+  of printmaking in new and uncharted directions…. The result is an
   extraordinary marriage of observation and imagination’ Norman Ackroyd R. A.
-  1997 \*\*
+  1997&nbsp;
 
 
   CAROLYN HORTON creates an intimate world of paper that springs from her
