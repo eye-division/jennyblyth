@@ -1,8 +1,10 @@
 ---
 title: CAROLYN HORTON
 description_markdown: >-
-  CAROLYN HORTON showing at The Louvre, Paris at Carrousel du Louvre, Salle Le
-  Notre, 99 rue de Rivoli, 75001 Paris
+  ### CAROLYN HORTON showing at The Louvre, Paris
+
+
+  at Carrousel du Louvre, Salle Le Notre, 99 rue de Rivoli, 75001 Paris
 
 
   13- 16 December 2018
