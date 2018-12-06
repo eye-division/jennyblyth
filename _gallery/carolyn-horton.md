@@ -7,10 +7,10 @@ description_markdown: >-
   at Carrousel du Louvre, Salle Le Notre, 99 rue de Rivoli, 75001 Paris
 
 
-  13- 16 December 2018
+  **13- 16 DECEMBER 2018**
 
 
-  Private View:&nbsp; Jeudi 13 decembre 18.00 pm
+  **Private View:&nbsp; Jeudi 13 decembre 18.00 pm**
 
 
   Carolyn Horton is an artist specialising in printmaking, drawing and painting,
