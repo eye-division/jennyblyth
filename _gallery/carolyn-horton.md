@@ -1,26 +1,16 @@
 ---
 title: CAROLYN HORTON
 description_markdown: >-
-  ### THE CIRCUS IS COMING TO TOWN&nbsp;
+  ### &nbsp;
 
 
-  **NOVEMBER - DECEMBER 2016**
-
-
-  JBFA at ART JERICHO 6 King Street Oxford OX2 6DF
-
-
-  Prints, Collage, Chine Collee, Etchings, Monotypes inspired by Gifford
-  Circus.&nbsp;
-
-
-  Horton is an artist specialising in printmaking, drawing and painting, and
-  master paper restorer of Old Master works of art on paper Her world is paper -
-  from hand-dyed, ‘Gampi’, as fine as gossamer, to hand-made, with weight and
-  texture. Pegged up in the studio, paper sheets hang like exotic laundry -
-  richly coloured with patterns ‘lifted’ from surfaces such as old scoured
-  printing plates - spotted and spangled to recreate the sawdust of the ring,
-  the shimmer of an over-skirt, the speckledy-hen feathers of a chicken.
+  Carolyn Horton is an artist specialising in printmaking, drawing and painting,
+  and master paper restorer of Old Master works of art on paper Her world is
+  paper - from hand-dyed, ‘Gampi’, as fine as gossamer, to hand-made, with
+  weight and texture. Pegged up in the studio, paper sheets hang like exotic
+  laundry - richly coloured with patterns ‘lifted’ from surfaces such as old
+  scoured printing plates - spotted and spangled to recreate the sawdust of the
+  ring, the shimmer of an over-skirt, the speckledy-hen feathers of a chicken.
 
 
   Composing her narrative from a m&ecirc;l&eacute;e of chosen themes from the
@@ -38,6 +28,19 @@ description_markdown: >-
   point engraving, hard and soft ground etching, again with chine coll&eacute;
   that she scalpels out and collages onto canvases lined with Japanese Kozo
   paper.
+
+
+  ### THE CIRCUS IS COMING TO TOWN&nbsp;
+
+
+  **NOVEMBER - DECEMBER 2016**
+
+
+  JBFA at ART JERICHO 6 King Street Oxford OX2 6DF
+
+
+  Prints, Collage, Chine Collee, Etchings, Monotypes inspired by Gifford
+  Circus.&nbsp;
 
 
   The circus has delighted and astounded audiences since Phillip Astley, 'father
