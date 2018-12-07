@@ -218,29 +218,6 @@ images:
       Two For Joy (back) 2010<br />hard ground etching, collagraph collaged onto
       Japanese kozo and gampi paper stretched onto canvas in screen frame<br
       />176 x 150 cm<br />&amp;pound;8,000
-  - image_path: /assets/images/4b993798e180e.jpg
-    image_title: Clementine
-    image_description: >-
-      Clementine, 2010<br />hard and soft ground etching,chine collee collaged
-      onto Japanese kozo paper stretched onto canvas<br />120 x 55 cm<br
-      />&amp;pound;1350
-  - image_path: /assets/images/4b9a2d8a1cd36.jpg
-    image_title:
-    image_description: >-
-      Nancy 2009<br />hard and soft ground etching, chine collee collaged onto
-      Japanese kozo paper stretched onto canvas<br />62 x 90 cm<br
-      />&amp;pound;900
-  - image_path: /assets/images/525d190306051.jpg
-    image_title: >-
-      Leto on Lace 2009<br />hard and soft ground etching, chine collee collaged
-      onto Japanese kozo paper stretched onto canvas<br />70 x 90
-      cm<br/>&amp;pound;2500 SOLD
-    image_description: Leto on Lace
-  - image_path: /assets/images/4b993899d46e9.jpg
-    image_title: Puppies
-    image_description: >-
-      Puppies, 2010<br />Aquatint on Japanese gampi paper stretched onto
-      canvas<br />40 x 30 cm<br />&amp;pound;500
   - image_path: /assets/images/525d15a5692e1.jpg
     image_title: Pink &amp;amp; Grey Camisoles
     image_description: >-
@@ -258,12 +235,35 @@ images:
     image_description: >-
       Knickers in a Twist 2017<br />hard & soft ground etching<br/>diameter xx
       cm<br />&amp;pound;2500
+  - image_path: /assets/images/4b993798e180e.jpg
+    image_title: Clementine
+    image_description: >-
+      Clementine, 2010<br />hard and soft ground etching,chine collee collaged
+      onto Japanese kozo paper stretched onto canvas<br />120 x 55 cm<br
+      />&amp;pound;1350
   - image_path: /assets/images/50cb50d68aaab.jpg
     image_title: Pink Stockings
     image_description: >-
       Pink Stockings, 2010<br />soft ground etching, chine collee and collagraph
       collaged onto Japanese gampi paper stretched onto canvas<br />70 x 90
       cm<br />&amp;pound;850
+  - image_path: /assets/images/525d190306051.jpg
+    image_title: >-
+      Leto on Lace 2009<br />hard and soft ground etching, chine collee collaged
+      onto Japanese kozo paper stretched onto canvas<br />70 x 90
+      cm<br/>&amp;pound;2500 SOLD
+    image_description: Leto on Lace
+  - image_path: /assets/images/4b9a2d8a1cd36.jpg
+    image_title:
+    image_description: >-
+      Nancy 2009<br />hard and soft ground etching, chine collee collaged onto
+      Japanese kozo paper stretched onto canvas<br />62 x 90 cm<br
+      />&amp;pound;900
+  - image_path: /assets/images/4b993899d46e9.jpg
+    image_title: Puppies
+    image_description: >-
+      Puppies, 2010<br />Aquatint on Japanese gampi paper stretched onto
+      canvas<br />40 x 30 cm<br />&amp;pound;500
   - image_path: /assets/images/4b9655f693bca.jpg
     image_title: Whippet and Drapery
     image_description: >-
