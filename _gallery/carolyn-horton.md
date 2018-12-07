@@ -180,11 +180,11 @@ images:
     image_description: >-
       Chevalier I, 2016<br />Monotypes, chine colle, stencil and gold leaf on
       paper<br />&amp;pound;750 SOLD
-  - image_path: /uploads/sweeping-the-goose.jpg
-    image_title: Sweeping the Goose (Blue & White)
-    image_description:
   - image_path: /uploads/dappled-horses.jpg
     image_title:
+    image_description:
+  - image_path: /uploads/sweeping-the-goose.jpg
+    image_title: Sweeping the Goose (Blue & White)
     image_description:
   - image_path: /assets/images/583de905334c2.jpg
     image_title:
