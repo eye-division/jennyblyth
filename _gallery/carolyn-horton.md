@@ -228,7 +228,7 @@ images:
       Japanese kozo and gampi paper stretched onto canvas in screen frame<br
       />176 x 150 cm<br />&amp;pound;8,000
   - image_path: /assets/images/525d15a5692e1.jpg
-    image_title: Pink &amp;amp; Grey Camisoles
+    image_title: Pink & Grey Camisoles
     image_description: >-
       Pink &amp;amp; Grey Camisoles 2010<br />soft and hard ground etching,
       collaged onto Japanese gampi paper stretched onto canvas<br />60 x 80
@@ -240,7 +240,7 @@ images:
       Japanese gampi paper stretched onto canvas<br />60 x 80 cm<br
       />&amp;pound;750 SOLD
   - image_path: /uploads/knickers-in-a-twist.JPG
-    image_title:
+    image_title: Knickers in a Twist
     image_description: >-
       Knickers in a Twist 2017<br />hard & soft ground etching<br/>diameter xx
       cm<br />&amp;pound;2500
@@ -263,7 +263,7 @@ images:
       cm<br/>&amp;pound;2500 SOLD
     image_description: Leto on Lace
   - image_path: /assets/images/4b9a2d8a1cd36.jpg
-    image_title:
+    image_title: Nancy
     image_description: >-
       Nancy 2009<br />hard and soft ground etching, chine collee collaged onto
       Japanese kozo paper stretched onto canvas<br />62 x 90 cm<br
