@@ -114,7 +114,7 @@ description_markdown: >-
 
   Carolyn Horton’s experience has given her the authority to extend the medium
   of printmaking into new, uncharted directions…. ‘*The result is an
-  extraordinary marriage of observation and imagination*’ Norman Ackroyd R. A.
+  extraordinary marriage of observation and imagination*’ Norman Ackroyd R.A.
   1997.&nbsp;
 
 
