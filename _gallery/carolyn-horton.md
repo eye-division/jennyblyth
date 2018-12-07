@@ -113,36 +113,39 @@ description_markdown: >-
 
 
   Carolyn Horton’s experience has given her the authority to extend the medium
-  of printmaking in new and uncharted directions…. The result is an
-  extraordinary marriage of observation and imagination’ Norman Ackroyd R. A.
-  1997&nbsp;
+  of printmaking into new, uncharted directions…. ‘*The result is an
+  extraordinary marriage of observation and imagination*’ Norman Ackroyd R.A.
+  1997.&nbsp;
 
 
-  CAROLYN HORTON creates an intimate world of paper that springs from her
-  personal life, experience and surroundings. Drawing on thirty years of
-  drawing, printmaking and conservation, working with Old Master Prints and
-  Drawings from Perugino to Picasso, she has stepped across from the invisible
-  world of restoration to create her own work.
+  Drawing on 45 years of drawing, printmaking and conservation, working with Old
+  Master Prints and Drawings from Perugino to Picasso, Horton has stepped across
+  from the invisible world of restoration to create her own work - an intimate
+  world of paper.
 
 
-  Horse hair mattresses and sofas are upholstered in Japanese Kozo paper
-  providing ‘canvases’ for her contemporary collage. Curled up, or languishing
-  amongst discarded dressing gowns, long dogs capture a moment in the day.
-  Drawing on her love of the classical and an enjoyment of theatre, Horton
-  prints onto hand-coloured paper composing a m&eacute;lange of whippets, silk
-  stockings and camisoles that are strewn across beds and trail over armchairs
-  and screens. Delicate chine coll&eacute;e prints are pasted onto canvases to
-  create compositions that are unique and beautifully executed.
+  Art Deco sofa frames are upholstered in Japanese Kozo paper providing
+  ‘canvases’ for her contemporary collage. Curled up or languishing amongst
+  discarded dressing gowns, long dogs capture a moment in the day. Drawing on
+  her love of the classical and an enjoyment of theatre, Horton prints onto
+  hand-coloured or monotyped Kozo or Gampi paper composing a m&eacute;lange of
+  whippets, silk stockings and camisoles that are strewn across beds and trail
+  over armchairs and screens. Delicate chine coll&eacute;e prints are collaged
+  onto canvases to create compositions that are unique and beautifully executed.
 
 
-  A graduate of Advance Printmaking at Central St. Martin’s (1991-2) and Fine
+  A graduate in Advanced Printmaking at Central St. Martin’s (1990-2) and Fine
   Art and Printmaking at Cheltenham College of Art (2001-4), Carolyn Horton was
-  awarded an EEC Scholarship for Fresco Painting in Venice (1983) and the Prix
+  awarded an EEC Scholarship for Fresco Painting in Venice (1982) and the Prix
   de Rome at the French Academy for Conservation and Printmaking (1987-88). She
-  worked in Florence, Oxford and Paris at The Uffizzi, The Bodleian and The
-  Louvre, and in California she studied conservation of Old Masters working with
-  an array of Japanese paper, under the pupillage of Keido Keyes. She now lives
-  and works from her studio in Gloucestershire.
+  worked in Florence, Venice, Lausanne, Oxford and Paris at The Uffizi, The
+  Bodleian and The Louvre, and in California she studied conservation of Old
+  Master drawings working with an array of Japanese paper, with her teacher and
+  mentor, Keiko Keyes. She now lives and works from her studio in
+  Buckinghamshire.
+
+
+  &nbsp;
 homepage_description_markdown:
 frontpage: true
 gallery_date: 2018-12-01 00:00:00
