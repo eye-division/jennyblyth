@@ -180,6 +180,9 @@ images:
     image_description: >-
       Chevalier I, 2016<br />Monotypes, chine colle, stencil and gold leaf on
       paper<br />&amp;pound;750 SOLD
+  - image_path: /uploads/sweeping-the-goose.jpg
+    image_title: Sweeping the Goose (Blue & White)
+    image_description:
   - image_path: /uploads/dappled-horses.jpg
     image_title:
     image_description:
@@ -357,9 +360,6 @@ images:
     image_description: >-
       Quilla on Blue, 2009<br />hard ground etching, collaged onto Japanese
       gampi paper stretched onto canvas<br />90 x 90 cm<br />&amp;pound;2500SOLD
-  - image_path:
-    image_title: Sweeping the Goose (Blue & White)
-    image_description:
   - image_path:
     image_title: Sweeping the Goose (Gold and White)
     image_description:
