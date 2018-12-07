@@ -206,6 +206,9 @@ images:
     image_description: >-
       Blowing Blue Dust 2016<br />Monotypes, chine colle, stencil and gold leaf
       on paper<br />&amp;pound;650 SOLD
+  - image_path: /uploads/white-goose.jpg
+    image_title: Sweeping the Goose (Gold and White)
+    image_description:
   - image_path: /uploads/say-it-with-flowers.jpg
     image_title:
     image_description: >-
@@ -361,7 +364,7 @@ images:
       Quilla on Blue, 2009<br />hard ground etching, collaged onto Japanese
       gampi paper stretched onto canvas<br />90 x 90 cm<br />&amp;pound;2500SOLD
   - image_path:
-    image_title: Sweeping the Goose (Gold and White)
+    image_title:
     image_description:
 _options:
   image_path:
