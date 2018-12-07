@@ -14,22 +14,23 @@ description_markdown: >-
 
 
   Carolyn Horton is an artist specialising in printmaking, drawing and painting,
-  and master paper restorer of Old Master works of art on paper Her world is
+  and master paper restorer of Old Master works of art on paper. Her world is
   paper - from hand-dyed, ‘Gampi’, as fine as gossamer, to hand-made, with
   weight and texture. Pegged up in the studio, paper sheets hang like exotic
   laundry - richly coloured with patterns ‘lifted’ from surfaces such as old
   scoured printing plates - spotted and spangled to recreate the sawdust of the
-  ring, the shimmer of an over-skirt, the speckledy-hen feathers of a chicken.
+  circus ring, the shimmer of an over-skirt, the speckledy-hen feathers of a
+  chicken.
 
 
   Composing her narrative from a m&ecirc;l&eacute;e of chosen themes from the
   past 16 years, Horton weaves together tableaux that combine different elements
   of stage, dress and performance. The printing process she has developed is
   unique and labour intensive - her attention to detail immaculate, not
-  surprising given her trade of over forty years in restoration.
+  surprising given her trade of forty years in restoration.
 
 
-  She first sketches the ideas/images onto tracing paper.&nbsp; Then uses the
+  Horton first sketches her images onto tracing paper.&nbsp; Then uses the
   monotype (one off) technique by inking up a flat copper plate and re-drawing
   through the paper onto the rolled out black ink.&nbsp; This is wiped off
   leaving only the desired image. Colour is introduced with added chine collee
@@ -184,6 +185,11 @@ images:
     image_description: >-
       Juggler 2016<br />Monotypes, Chine colle, stencil on paper lined canvas<br
       />90 x 90 cm<br />£1600
+  - image_path: /uploads/jugglers-ii.jpg
+    image_title:
+    image_description: >-
+      Jugglers II 2016<br />Monotypes, Chine colle, stencil on paper lined
+      canvas<br />90 x 90 cm<br />£1600
   - image_path: /assets/images/583de94fa6d51.jpg
     image_title:
     image_description: >-
