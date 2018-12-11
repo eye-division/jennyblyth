@@ -200,6 +200,11 @@ images:
     image_description: >-
       Jugglers II 2016<br />Monotypes, Chine colle, stencil on paper lined
       canvas<br />90 x 90 cm<br />£1600
+  - image_path: /uploads/rabbit.jpg
+    image_title:
+    image_description: >-
+      Tightrope Rabbit 2016<br />Drypoint etching with chine collee<br />30 x 33
+      cm<br/>&amp;pound;600. Edition of 5.
   - image_path: /assets/images/583de94fa6d51.jpg
     image_title:
     image_description: >-
@@ -341,9 +346,6 @@ images:
       So Far, No Further, 2009<br />hard and soft ground etching, chine collee
       and collagraph mounted onto Japanese Kozo paper on sofa frame<br />140 x
       65 x 38 cm<br />&amp;pound;5000 Not for Sale
-  - image_path:
-    image_title:
-    image_description:
   - image_path: /assets/images/4b9a2a25cc2ce.jpg
     image_title: Pieta
     image_description: >-
