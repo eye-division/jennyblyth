@@ -182,10 +182,14 @@ images:
       paper<br />&amp;pound;750 SOLD
   - image_path: /uploads/dappled-horses.jpg
     image_title:
-    image_description:
+    image_description: >-
+      Chevalier 4, 2016<br />Monotypes, chine colle, stencil and gold leaf
+      collaged on paper<br />39 x 50 cm<br/>&amp;pound;950 SOLD
   - image_path: /uploads/sweeping-the-goose.jpg
-    image_title: Sweeping the Goose (Blue & White)
-    image_description:
+    image_title:
+    image_description: >-
+      Sweeping the Goose (Blue & White) 2016<br />Monotype, collages on paper
+      lined canvas<br />35 x 25 cm<br/>&amp;pound;500
   - image_path: /assets/images/583de905334c2.jpg
     image_title:
     image_description: >-
@@ -207,8 +211,12 @@ images:
       Blowing Blue Dust 2016<br />Monotypes, chine colle, stencil and gold leaf
       on paper<br />&amp;pound;650 SOLD
   - image_path: /uploads/white-goose.jpg
-    image_title: Sweeping the Goose (Gold and White)
-    image_description:
+    image_title: >-
+      Sweeping the Goose (Blue & White) 2016<br />Monotype, collages on paper
+      lined canvasr<br />35 x 25 cm<br/>&amp;pound;500
+    image_description: >-
+      Sweeping the Goose (Gold & White) 2016<br />Monotype, collages on paper
+      lined canvas<br />35 x 25 cm<br/>&amp;pound;500
   - image_path: /uploads/say-it-with-flowers.jpg
     image_title:
     image_description: >-
@@ -228,94 +236,95 @@ images:
       Japanese kozo and gampi paper stretched onto canvas in screen frame<br
       />176 x 150 cm<br />&amp;pound;8,000
   - image_path: /assets/images/525d15a5692e1.jpg
-    image_title: Pink & Grey Camisoles
+    image_title:
     image_description: >-
-      Pink &amp;amp; Grey Camisoles 2010<br />soft and hard ground etching,
-      collaged onto Japanese gampi paper stretched onto canvas<br />60 x 80
-      cm<br />&amp;pound;750
+      Pink & Grey Camisoles 2010<br />soft and hard ground etching, collaged
+      onto Japanese gampi paper stretched onto canvas<br />60 x 80 cm<br
+      />&amp;pound;750
   - image_path: /assets/images/4b965526b5629.jpg
-    image_title: Blue Camisole
+    image_title:
     image_description: >-
       Blue Camisole, 2010<br />soft and hard ground etching, collaged onto
       Japanese gampi paper stretched onto canvas<br />60 x 80 cm<br
       />&amp;pound;750 SOLD
   - image_path: /uploads/knickers-in-a-twist.JPG
-    image_title: Knickers in a Twist
+    image_title:
     image_description: >-
       Knickers in a Twist 2017<br />hard & soft ground etching<br/>diameter xx
       cm<br />&amp;pound;2500
   - image_path: /assets/images/4b993798e180e.jpg
-    image_title: Clementine
+    image_title:
     image_description: >-
       Clementine, 2010<br />hard and soft ground etching,chine collee collaged
       onto Japanese kozo paper stretched onto canvas<br />120 x 55 cm<br
       />&amp;pound;1350
   - image_path: /assets/images/50cb50d68aaab.jpg
-    image_title: Pink Stockings
+    image_title:
     image_description: >-
       Pink Stockings, 2010<br />soft ground etching, chine collee and collagraph
       collaged onto Japanese gampi paper stretched onto canvas<br />70 x 90
       cm<br />&amp;pound;850
   - image_path: /assets/images/525d190306051.jpg
-    image_title: >-
+    image_title:
+    image_description: >-
       Leto on Lace 2009<br />hard and soft ground etching, chine collee collaged
       onto Japanese kozo paper stretched onto canvas<br />70 x 90
       cm<br/>&amp;pound;2500 SOLD
-    image_description: Leto on Lace
   - image_path: /assets/images/4b9a2d8a1cd36.jpg
-    image_title: Nancy
+    image_title:
     image_description: >-
       Nancy 2009<br />hard and soft ground etching, chine collee collaged onto
       Japanese kozo paper stretched onto canvas<br />62 x 90 cm<br
       />&amp;pound;900
   - image_path: /assets/images/4b993899d46e9.jpg
-    image_title: Puppies
+    image_title:
     image_description: >-
       Puppies, 2010<br />Aquatint on Japanese gampi paper stretched onto
       canvas<br />40 x 30 cm<br />&amp;pound;500
   - image_path: /assets/images/4b9655f693bca.jpg
-    image_title: Whippet and Drapery
+    image_title:
     image_description: >-
-      , 2010<br />hard ground etching, chine collee and collagraph collaged onto
-      Japanese kozo paper stretched onto canvas<br />90 x 90 cm<br />SOLD
+      Whippet & Dra[eru 2010<br />hard ground etching, chine collee and
+      collagraph collaged onto Japanese kozo paper stretched onto canvas<br />90
+      x 90 cm<br />SOLD
   - image_path: /assets/images/4b991e423f164.jpg
-    image_title: Le Peignoir
+    image_title:
     image_description: >-
       Le Peignoir, 2009<br />hard and soft ground etching, collagraph, on chine
       collee mounted onto Japanese Kozo paper on canvas<br />180 x 80 cm<br
       />&amp;pound;3000
   - image_path: /assets/images/50cb52b3a2a4f.jpg
-    image_title: The Golden iPod
+    image_title:
     image_description: >-
       The Golden iPod, 2010<br />hard ground etching, chine collee and
       collagraph collaged onto Japanese kozo paper stretched onto canvas<br
       />170 x 85 cm<br />&amp;pound;2500
   - image_path: /assets/images/4b9934bca37cc.jpg
-    image_title: Silk Pyjamas (one)
+    image_title:
     image_description: >-
       Silk Pyjamas (one), 2009<br />hard ground and soft ground etching, chine
       collee collaged onto Japanese Kozo paper stretched onto canvas<br />180 x
       80 cm<br />&amp;pound;1500
   - image_path: /assets/images/4b993744117fb.jpg
-    image_title: Red Evening
+    image_title:
     image_description: >-
       Red Evening, 2009<br />hard and soft ground etching, chine collee collaged
       onto Japanese kozo paper stretched onto canvas<br />180 x 80 cm<br
       />&amp;pound;2500 SOLD
   - image_path: /assets/images/4b99390e232f4.jpg
-    image_title: Leto x 2
+    image_title:
     image_description: >-
       Leto x 2, 2009<br />hard ground etching, chine collee and collagraph
       collaged onto Japanese gampi paper stretched onto canvas<br />56 x 95
       cm<br />&amp;pound;1200
   - image_path: /assets/images/4b9935d11ac87.jpg
-    image_title: Pieta
+    image_title:
     image_description: >-
       Pieta, 2009<br />hard and soft ground etching, chine collee collaged onto
       Japanese kozo paper stretched onto canvas<br />120 x 55 cm<br
       />&amp;pound;1250
   - image_path: /assets/images/4b9a28e0d7cfa.jpg
-    image_title: Hide and Seek (front)
+    image_title:
     image_description: >-
       Hide and Seek (front), 2019<br />soft ground etching, chine collee and
       collagraph collaged onto Japanese kozo and gampi paper stretched onto
@@ -331,7 +340,7 @@ images:
     image_description: >-
       So Far, No Further, 2009<br />hard and soft ground etching, chine collee
       and collagraph mounted onto Japanese Kozo paper on sofa frame<br />140 x
-      65 x 38 cm<br />&amp;pound;5000 NFS
+      65 x 38 cm<br />&amp;pound;5000 Not for Sale
   - image_path:
     image_title:
     image_description:
