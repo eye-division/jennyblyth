@@ -222,12 +222,6 @@ images:
     image_description: >-
       Sweeping the Goose (Gold & White) 2016<br />Monotype, collages on paper
       lined canvas<br />35 x 25 cm<br/>&amp;pound;500
-  - image_path: /uploads/say-it-with-flowers.jpg
-    image_title:
-    image_description: >-
-      Say It With Flowers 2009<br />hard and soft ground etching, chine collee
-      collaged onto mirror behind wooden frame<br />98 x 48 cm<br
-      />&amp;pound;2500
   - image_path: /assets/images/50cb4fc7e3c5b.jpg
     image_title:
     image_description: >-
@@ -240,6 +234,12 @@ images:
       Two For Joy (back) 2010<br />hard ground etching, collagraph collaged onto
       Japanese kozo and gampi paper stretched onto canvas in screen frame<br
       />176 x 150 cm<br />&amp;pound;8,000
+  - image_path: /uploads/say-it-with-flowers.jpg
+    image_title:
+    image_description: >-
+      Say It With Flowers 2009<br />hard and soft ground etching, chine collee
+      collaged onto mirror behind wooden frame<br />98 x 48 cm<br
+      />&amp;pound;2500
   - image_path: /assets/images/525d15a5692e1.jpg
     image_title:
     image_description: >-
