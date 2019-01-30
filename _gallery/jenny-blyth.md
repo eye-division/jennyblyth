@@ -65,7 +65,7 @@ gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/jenny-blyth/
 archive: false
 display_title: true
-main_image_path: /assets/eyegallery-box-trans.png
+main_image_path: /assets/images/591eef6cdc862.jpg
 images:
   - image_path: /uploads/Reflections 4.JPG
     image_title: 'Reflections 4, 2018'
