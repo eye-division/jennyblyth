@@ -87,6 +87,9 @@ images:
     image_description: |-
       Photograph printed in pigmented inks onto archival cotton rag paper
       Edition of 12.
+  - image_path: /uploads/Seagulls.jpg
+    image_title:
+    image_description:
   - image_path: /assets/images/591eef6cdc862.jpg
     image_title: 'Walnut Spinney, Winter, 2017'
     image_description: >-
