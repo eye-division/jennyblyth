@@ -7,7 +7,7 @@ description_markdown: >-
   **18 February - 28 March 2019**
 
 
-  **Jenny Blyth shows photographs of Wolfson College, Port Meadow, Oxford and
+  **Jenny Blyth shows 50 photographs of Wolfson College, Port Meadow, Oxford and
   beyond…**
 
 
