@@ -87,9 +87,6 @@ images:
     image_description: |-
       Photograph printed in pigmented inks onto archival cotton rag paper
       Edition of 12.
-  - image_path: /uploads/Seagulls.jpg
-    image_title:
-    image_description:
   - image_path: /assets/images/591eef6cdc862.jpg
     image_title: 'Walnut Spinney, Winter, 2017'
     image_description: >-
@@ -100,26 +97,26 @@ images:
     image_description: >-
       Lime Trees, Snowscape, 2016<br />Photography, pigmented inks on cotton rag
       paper<br />12 x 8 in<br />&amp;pound;195 Ed 1/25
-  - image_path: /assets/images/591ef21d9b28e.jpg
-    image_title: 'Summer Storm, May, 2015'
-    image_description: >-
-      Summer Storm, May, 2015<br />Photography, pigmented inks on cotton rag
-      paper<br />12 x 8 in<br />&amp;pound;195  Ed 1/25
   - image_path: /assets/images/5925f0d5b1c84.jpg
     image_title: 'Morning Mist, 2016'
     image_description: >-
       Morning Mist, 2016<br />Photography, pigmented inks on cotton rag paper<br
       />12 x 8 in<br />&amp;Acirc;&amp;pound;195 Ed of 25
-  - image_path: /assets/images/5925ebab9e529.jpg
-    image_title: 'Flood Plains, 2016'
-    image_description: >-
-      Flood Plains, 2016<br />Photography, pigmented inks on cotton rag paper<br
-      />12 x 8 in<br />&amp;pound;195  Ed 1/25
   - image_path: /assets/images/5925ee2ab3ab6.jpg
     image_title: 'Flight Downstream, 2017'
     image_description: >-
       Flight Downstream, 2017<br />Photography, pigmented inks on cotton rag
       paper<br />12 x 8 in<br />&amp;pound;195 Ed 1/25
+  - image_path: /assets/images/5925ebab9e529.jpg
+    image_title: 'Flood Plains, 2016'
+    image_description: >-
+      Flood Plains, 2016<br />Photography, pigmented inks on cotton rag paper<br
+      />12 x 8 in<br />&amp;pound;195  Ed 1/25
+  - image_path: /assets/images/591ef21d9b28e.jpg
+    image_title: 'Summer Storm, May, 2015'
+    image_description: >-
+      Summer Storm, May, 2015<br />Photography, pigmented inks on cotton rag
+      paper<br />12 x 8 in<br />&amp;pound;195  Ed 1/25
   - image_path: /assets/images/5925ed3ec074e.jpg
     image_title: 'Cattle &amp;amp; Hawthorn, 2016'
     image_description: >-
@@ -135,6 +132,9 @@ images:
     image_description: >-
       Apollo Presides, Ashmolean, 2017<br />Photography, pigmented inks on
       cotton rag paper<br />12 x 8 in<br />&amp;pound;195 Ed 1/25
+  - image_path: /uploads/Seagulls.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
