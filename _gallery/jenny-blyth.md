@@ -4,14 +4,14 @@ description_markdown: >-
   ## REFLECTING THE LANDSCAPE
 
 
-  18 February - 28 March 2019
+  **18 February - 28 March 2019**
 
 
-  Jenny Blyth shows photographs of Wolfson College, Port Meadow, Oxford and
-  beyond...
+  **Jenny Blyth shows photographs of Wolfson College, Port Meadow, Oxford and
+  beyond…**
 
 
-  Wolfson College, Linton Road, OX2 6UD
+  **Wolfson College, Linton Road, OX2 6UD**
 
 
   *Open daily 10 am till 7 pm subject to College commitments.&nbsp; Visitors are
