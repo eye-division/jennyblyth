@@ -72,6 +72,26 @@ images:
     image_description: >-
       Summer Storm, May, 2015<br />Photography, pigmented inks on cotton rag
       paper<br />12 x 8 in<br />&amp;pound;195  Ed 1/25
+  - image_path: /uploads/Reflections 4.JPG
+    image_title: 'Reflections 4, 2018'
+    image_description: |-
+      Photograph printed in pigmented inks onto archival cotton rag paper
+      Edition of 12.
+  - image_path: /uploads/Reflections 2.JPG
+    image_title: 'Reflections 2, 2018'
+    image_description: |-
+      Photograph printed in pigmented inks onto archival cotton rag paper
+      Edition of 12.
+  - image_path: /uploads/Reflection%203.JPG
+    image_title: 'Reflections 3, 2018'
+    image_description: |-
+      Photograph printed in pigmented inks onto archival cotton rag paper
+      Edition of 12.
+  - image_path: /uploads/Reflections%201.JPG
+    image_title: 'Reflections 1, 2018'
+    image_description: |-
+      Photograph printed in pigmented inks onto archival cotton rag paper
+      Edition of 12.
   - image_path: /assets/images/591eef6cdc862.jpg
     image_title: 'Walnut Spinney, Winter, 2017'
     image_description: >-
