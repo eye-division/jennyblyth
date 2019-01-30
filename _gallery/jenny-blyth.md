@@ -55,7 +55,10 @@ description_markdown: >-
 
 
   I am not technicially minded, and shy away from photoshop so that the images
-  are as true as they can be." &copy; Jenny Blyth 2019
+  are as true as they can be."
+
+
+  &copy; Jenny Blyth 2019
 
 
   &nbsp;
