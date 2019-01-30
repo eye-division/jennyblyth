@@ -69,24 +69,24 @@ main_image_path: /assets/images/591eef6cdc862.jpg
 images:
   - image_path: /uploads/Reflections 4.JPG
     image_title: 'Reflections 4, 2018'
-    image_description: |-
-      Photograph printed in pigmented inks onto archival cotton rag paper
-      Edition of 12.
+    image_description: >-
+      Photograph printed in pigmented inks onto archival cotton rag
+      paper<br>Edition of 12.
   - image_path: /uploads/Reflections 2.JPG
     image_title: 'Reflections 2, 2018'
-    image_description: |-
-      Photograph printed in pigmented inks onto archival cotton rag paper
-      Edition of 12.
+    image_description: >-
+      Photograph printed in pigmented inks onto archival cotton rag
+      paper<br>Edition of 12.
   - image_path: /uploads/Reflection%203.JPG
     image_title: 'Reflections 3, 2018'
-    image_description: |-
-      Photograph printed in pigmented inks onto archival cotton rag paper
-      Edition of 12.
+    image_description: >-
+      Photograph printed in pigmented inks onto archival cotton rag
+      paper<br>Edition of 12.
   - image_path: /uploads/Reflections%201.JPG
     image_title: 'Reflections 1, 2018'
-    image_description: |-
-      Photograph printed in pigmented inks onto archival cotton rag paper
-      Edition of 12.
+    image_description: >-
+      Photograph printed in pigmented inks onto archival cotton rag
+      paper<br>Edition of 12.
   - image_path: /assets/images/591eef6cdc862.jpg
     image_title: 'Walnut Spinney, Winter, 2017'
     image_description: >-
@@ -122,6 +122,11 @@ images:
     image_description: >-
       Cattle &amp;amp; Hawthorn, 2016<br />Photography, pigmented inks on cotton
       rag paper<br />12 x 8 in<br />&amp;pound;195 Ed 1/25
+  - image_path: /uploads/Seagulls.jpg
+    image_title: 'Seagulls, University Parks Oxford 2018'
+    image_description: >-
+      Photograph printed in pigmented inks onto archival cotton rag
+      paper<br>Edition of 12.
   - image_path: /assets/images/5925f01bf1d2c.jpg
     image_title: 'The Golden Thread, 2016'
     image_description: >-
@@ -132,9 +137,6 @@ images:
     image_description: >-
       Apollo Presides, Ashmolean, 2017<br />Photography, pigmented inks on
       cotton rag paper<br />12 x 8 in<br />&amp;pound;195 Ed 1/25
-  - image_path: /uploads/Seagulls.jpg
-    image_title:
-    image_description:
 _options:
   image_path:
     width: 1200
