@@ -65,13 +65,8 @@ gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/jenny-blyth/
 archive: false
 display_title: true
-main_image_path: /assets/images/591ef21d9b28e.jpg
+main_image_path: /assets/images/591eef6cdc862.jpg
 images:
-  - image_path: /assets/images/591ef21d9b28e.jpg
-    image_title: 'Summer Storm, May, 2015'
-    image_description: >-
-      Summer Storm, May, 2015<br />Photography, pigmented inks on cotton rag
-      paper<br />12 x 8 in<br />&amp;pound;195  Ed 1/25
   - image_path: /uploads/Reflections 4.JPG
     image_title: 'Reflections 4, 2018'
     image_description: |-
@@ -102,6 +97,11 @@ images:
     image_description: >-
       Lime Trees, Snowscape, 2016<br />Photography, pigmented inks on cotton rag
       paper<br />12 x 8 in<br />&amp;pound;195 Ed 1/25
+  - image_path: /assets/images/591ef21d9b28e.jpg
+    image_title: 'Summer Storm, May, 2015'
+    image_description: >-
+      Summer Storm, May, 2015<br />Photography, pigmented inks on cotton rag
+      paper<br />12 x 8 in<br />&amp;pound;195  Ed 1/25
   - image_path: /assets/images/5925f0d5b1c84.jpg
     image_title: 'Morning Mist, 2016'
     image_description: >-
