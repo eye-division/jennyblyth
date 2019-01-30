@@ -1,16 +1,43 @@
 ---
 title: JENNY BLYTH
 description_markdown: >-
-  ## MEADOW AS MUSE&nbsp;
+  ## REFLECTING THE LANDSCAPE
 
 
-  Artweeks 2017 : Venue 475 : 133 Godstow Road Wolvercote Oxford OX2 8PG
+  18 February - 28 March 2019
 
 
-  Hours Daily : 11 am – 6 pm Email: jennyblyth@btconnect.com
+  Jenny Blyth shows photographs of Wolfson College, Port Meadow, Oxford and
+  beyond...
 
 
-  "I never tire of Port Meadow and have walked daily whatever the weather for
+  Wolfson College, Linton Road, OX2 6UD
+
+
+  *Open daily 10 am till 7 pm subject to College commitments.&nbsp; Visitors are
+  advised to ring the College Lodge (10865) 274100 before visiting.*
+
+
+  enquiries :&nbsp; jennyblyth@btconnect.com
+
+
+  "I have spent a year through the seasons photographing Wolfson College and the
+  gardens that run down to the River Cherwell.&nbsp; The Brutalist architecture
+  was groundbreaking in its time and remains at odds in a city known for its
+  dreaming spires.&nbsp; The gardens and trees are now matured, and nature has
+  softened the geometry of the buildings creating reflections and shadows that
+  play out across the surfaces changing colours, textures and moods so that each
+  day and hour is different.&nbsp; I have been struck by the joy in the
+  environment of Wolfson that was designed to engender 'humane' living.
+  &nbsp;&nbsp;
+
+
+  I walk daily whatever the weather and find a sense of oneness with nature that
+  I attempt to capture in my photographs.&nbsp; I am drawn to the poetry in the
+  landscape, and find that I am chasing beauty.
+
+
+  I never tire of Port Meadow and have walked daily whatever the weather for
   years. I love the huge skies, and stepping onto the meadow that stretches
   towards Oxford, it presents like an old Dutch master, an ever-changing canvas.
   It is large enough to lose yourself in nature, to embrace the elements, and
@@ -27,15 +54,11 @@ description_markdown: >-
   of the river like a golden thread.
 
 
-  I attempt to capture a sense of oneness in my photographs. I have always been
-  drawn to the poetry in photography, and try to catch the moment as it feels on
-  the day. I am not technicially minded, and shy away from photoshop so that the
-  images are as true as they can be." &copy; Jenny Blyth 2017
+  I am not technicially minded, and shy away from photoshop so that the images
+  are as true as they can be." &copy; Jenny Blyth 2019
 
 
-  Jenny Blyth shows photography, ‘The Meadow as Muse’, and a much loved
-  Oxfordshire landscape in Art Weeks 20-29 May 2017 : Venue 475 : 133 Godstow
-  Road OX2 8PG
+  &nbsp;
 homepage_description_markdown:
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
