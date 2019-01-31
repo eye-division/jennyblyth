@@ -27,8 +27,8 @@ description_markdown: >-
   dreaming spires.&nbsp; The gardens and trees are now matured, and nature has
   softened the geometry of the buildings creating reflections and shadows that
   play out across the surfaces changing colours, textures and moods so that each
-  day and hour is different.&nbsp; I have been struck by the joy in the
-  environment of Wolfson that was designed to engender 'humane' living.
+  day, each hour is different.&nbsp; I have been struck by the calm and joy in
+  the environment of Wolfson that was designed to engender 'humane' living.
   &nbsp;&nbsp;
 
 
@@ -37,24 +37,24 @@ description_markdown: >-
   landscape, and find that I am chasing beauty.
 
 
-  I never tire of Port Meadow and have walked daily whatever the weather for
-  years. I love the huge skies, and stepping onto the meadow that stretches
-  towards Oxford, it presents like an old Dutch master, an ever-changing canvas.
-  It is large enough to lose yourself in nature, to embrace the elements, and
-  familiar enough to encourage a quiet meditation.
+  I never tire of Port Meadow and have walked come rain or shine for years. I
+  love the huge skies, and stepping onto the meadow that stretches towards
+  Oxford, it presents like an old Dutch master, an ever-changing canvas. It is
+  large enough to lose yourself in nature, to embrace the elements, and familiar
+  enough to encourage a quiet meditation.
 
 
   The seasons transform the landscape, shape-shifting and refreshing the
   palette. There is invariably something unexpected and beautiful to observe
-  whether that is a hawthorn bush heady with musk scented flowers, or a murmer
+  whether that is a hawthorn bush heady with musk scented flowers, or a murmur
   of plover that contours the broad backs of horses, their long tails sashaying.
   Gun-metal skies threaten thunder over a buttercup ocean in May, while hoar
-  frost on winter days crystalliizes the floodplains under high blue skies. In
+  frost on winter days crystallises the floodplains under high blue skies. In
   autumn, the last of the black poplars shed yellow leaves that fringe the edge
   of the river like a golden thread.
 
 
-  I am not technicially minded, and shy away from photoshop so that the images
+  I am not technically minded, and shy away from photoshop so that the images
   are as true as they can be."
 
 
