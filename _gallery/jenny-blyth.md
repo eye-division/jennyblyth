@@ -68,7 +68,7 @@ gallery_date: 2019-01-01 00:00:00
 permalink: /gallery/jenny-blyth/
 archive: false
 display_title: true
-main_image_path: /assets/images/591eef6cdc862.jpg
+main_image_path: /assets/images/Raasay & Skye Across Applecross Bay.jpg
 images:
   - image_path: /uploads/Reflections 4.JPG
     image_title: 'Reflections II, Rust & Blue 2018'
@@ -90,12 +90,6 @@ images:
     image_description: >-
       Photograph printed in pigmented inks onto archival cotton rag paper<br
       />&amp;pound;195  Limited Edition of 12.
-  - image_path: /assets/images/591eef6cdc862.jpg
-    image_title: 'Walnut Spinney, Winter, 2017'
-    image_description: >-
-      The Walnut Spinney - Snowscape 2016<br />Photograph printed in pigmented
-      inks on cotton rag paper<br />60 x 50 cm<br />&amp;pound;195 Limited
-      Edition of 25
   - image_path: /uploads/raasay--skye-across-applecross-bay.jpg
     image_title: Raasay & Skye Across Applecross Bay 2018
     image_description: >-
@@ -106,6 +100,12 @@ images:
     image_description: >-
       Photograph printed in pigmented inks onto archival cotton rag paper<br
       />50 x 60 cm<br />&amp;pound;195  Limited Edition of 12.
+  - image_path: /assets/images/591eef6cdc862.jpg
+    image_title: 'Walnut Spinney, Winter, 2017'
+    image_description: >-
+      The Walnut Spinney - Snowscape 2016<br />Photograph printed in pigmented
+      inks on cotton rag paper<br />60 x 50 cm<br />&amp;pound;195 Limited
+      Edition of 25
   - image_path: /assets/images/5925eefb6ff61.jpg
     image_title: 'Lime Trees, Snowscape, 2016'
     image_description: >-
