@@ -145,6 +145,12 @@ images:
       Apollo Presides, Ashmolean, 2017<br />Photograph printed in pigmented inks
       on cotton rag paper<br />40 x 50 cm<br />&amp;pound;175 Limited Edition of
       25
+  - image_path: /uploads/raasay--skye-across-applecross-bay.jpg
+    image_title: Raasay & Skye Across Applecross Bay 2018
+    image_description:
+  - image_path: /uploads/towards-the-inner-sound-from-sand-bay.jpg
+    image_title: Towards the Inner Sound from Sand Bay 2018
+    image_description:
 _options:
   image_path:
     width: 1200
