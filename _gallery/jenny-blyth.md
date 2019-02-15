@@ -155,6 +155,11 @@ images:
       Apollo Presides, Ashmolean, 2017<br />Photograph printed in pigmented inks
       on cotton rag paper<br />40 x 50 cm<br />&amp;pound;175 Limited Edition of
       25
+  - image_path: /uploads/sea-grasses-applecross-bay.jpg
+    image_title: 'Sea Grasses, Applecross Bay'
+    image_description: >-
+      Photograph printed in pigmented inks onto archival cotton rag paper<br
+      />50 x 60 cm<br />&amp;pound;195  Limited Edition of 12.
 _options:
   image_path:
     width: 1200
