@@ -96,6 +96,16 @@ images:
       The Walnut Spinney - Snowscape 2016<br />Photograph printed in pigmented
       inks on cotton rag paper<br />60 x 50 cm<br />&amp;pound;195 Limited
       Edition of 25
+  - image_path: /uploads/raasay--skye-across-applecross-bay.jpg
+    image_title: Raasay & Skye Across Applecross Bay 2018
+    image_description: >-
+      Photograph printed in pigmented inks onto archival cotton rag paper<br
+      />50 x 60 cm<br />&amp;pound;195  Limited Edition of 12.
+  - image_path: /uploads/towards-the-inner-sound-from-sand-bay.jpg
+    image_title: Towards the Inner Sound from Sand Bay 2018
+    image_description: >-
+      Photograph printed in pigmented inks onto archival cotton rag paper<br
+      />50 x 60 cm<br />&amp;pound;195  Limited Edition of 12.
   - image_path: /assets/images/5925eefb6ff61.jpg
     image_title: 'Lime Trees, Snowscape, 2016'
     image_description: >-
@@ -145,16 +155,6 @@ images:
       Apollo Presides, Ashmolean, 2017<br />Photograph printed in pigmented inks
       on cotton rag paper<br />40 x 50 cm<br />&amp;pound;175 Limited Edition of
       25
-  - image_path: /uploads/raasay--skye-across-applecross-bay.jpg
-    image_title: Raasay & Skye Across Applecross Bay 2018
-    image_description: >-
-      Photograph printed in pigmented inks onto archival cotton rag paper<br
-      />50 x 60 cm<br />&amp;pound;195  Limited Edition of 12.
-  - image_path: /uploads/towards-the-inner-sound-from-sand-bay.jpg
-    image_title: Towards the Inner Sound from Sand Bay 2018
-    image_description: >-
-      Photograph printed in pigmented inks onto archival cotton rag paper<br
-      />50 x 60 cm<br />&amp;pound;195  Limited Edition of 12.
 _options:
   image_path:
     width: 1200
