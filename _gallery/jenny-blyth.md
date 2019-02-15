@@ -71,75 +71,80 @@ display_title: true
 main_image_path: /assets/images/591eef6cdc862.jpg
 images:
   - image_path: /uploads/Reflections 4.JPG
-    image_title: 'Reflections 4, 2018'
+    image_title: 'Reflections II, Rust & Blue 2018'
     image_description: >-
-      Photograph printed in pigmented inks onto archival cotton rag
-      paper<br>Edition of 12.
+      Photograph printed in pigmented inks onto archival cotton rag paper<br
+      />50 x 60 cm<br />&amp;pound;195  Limited Edition of 12.
   - image_path: /uploads/Reflections 2.JPG
-    image_title: 'Reflections 2, 2018'
+    image_title: 'Reflections VIII, Moon in Blue 2018'
     image_description: >-
-      Photograph printed in pigmented inks onto archival cotton rag
-      paper<br>Edition of 12.
+      Photograph printed in pigmented inks onto archival cotton rag paper<br
+      />50 x 60 cm<br />&amp;pound;195  Limited Edition of 12.
   - image_path: /uploads/Reflection%203.JPG
-    image_title: 'Reflections 3, 2018'
+    image_title: 'Reflections V : Clouds & Bars, 2018'
     image_description: >-
-      Photograph printed in pigmented inks onto archival cotton rag
-      paper<br>Edition of 12.
+      Photograph printed in pigmented inks onto archival cotton rag paper<br
+      />50 x 60 cm<br />&amp;pound;195  Limited Edition of 12.
   - image_path: /uploads/Reflections%201.JPG
-    image_title: 'Reflections 1, 2018'
+    image_title: 'Reflections X : Tree Houses 2018'
     image_description: >-
-      Photograph printed in pigmented inks onto archival cotton rag
-      paper<br>Edition of 12.
+      Photograph printed in pigmented inks onto archival cotton rag paper<br
+      />&amp;pound;195  Limited Edition of 12.
   - image_path: /assets/images/591eef6cdc862.jpg
     image_title: 'Walnut Spinney, Winter, 2017'
     image_description: >-
-      Walnut Spinney, Winter, 2017<br />Photography, pigmented inks on cotton
-      rag paper<br />12 x 8 in<br />&amp;pound;195 Ed 1/25
+      The Walnut Spinney - Snowscape 2016<br />Photograph printed in pigmented
+      inks on cotton rag paper<br />60 x 50 cm<br />&amp;pound;195 Limited
+      Edition of 25
   - image_path: /assets/images/5925eefb6ff61.jpg
     image_title: 'Lime Trees, Snowscape, 2016'
     image_description: >-
-      Lime Trees, Snowscape, 2016<br />Photography, pigmented inks on cotton rag
-      paper<br />12 x 8 in<br />&amp;pound;195 Ed 1/25
+      Lime Trees, Snowscape, 2016<br />Photograph printed in pigmented inks on
+      cotton rag paper<br />40 x 50 cm<br />&amp;pound;175 Limited Edition of
+      25.
   - image_path: /assets/images/5925f0d5b1c84.jpg
     image_title: 'Morning Mist, 2016'
     image_description: >-
-      Morning Mist, 2016<br />Photography, pigmented inks on cotton rag paper<br
-      />12 x 8 in<br />&amp;Acirc;&amp;pound;195 Ed of 25
+      Morning Mist, 2016<br />Photograph printed in pigmented inks on cotton rag
+      paper<br />40 x 50 cm<br />&amp;Acirc;&amp;pound;175 Limited Edition of 25
   - image_path: /assets/images/5925ee2ab3ab6.jpg
     image_title: 'Flight Downstream, 2017'
     image_description: >-
-      Flight Downstream, 2017<br />Photography, pigmented inks on cotton rag
-      paper<br />12 x 8 in<br />&amp;pound;195 Ed 1/25
+      Flight Downstream, 2017<br />Photograph printed in pigmented inks on
+      cotton rag paper<br />40 x 50 cm<br />&amp;pound;175 Limited Edition of 25
   - image_path: /assets/images/5925ebab9e529.jpg
     image_title: 'Flood Plains, 2016'
     image_description: >-
-      Flood Plains, 2016<br />Photography, pigmented inks on cotton rag paper<br
-      />12 x 8 in<br />&amp;pound;195  Ed 1/25
+      Flood Plains, 2016<br />Photograph printed in pigmented inks on cotton rag
+      paper<br />50 x 40 cm<br />&amp;pound;175  Limited Edition of 25
   - image_path: /assets/images/591ef21d9b28e.jpg
     image_title: 'Summer Storm, May, 2015'
     image_description: >-
-      Summer Storm, May, 2015<br />Photography, pigmented inks on cotton rag
-      paper<br />12 x 8 in<br />&amp;pound;195  Ed 1/25
+      Summer Storm, May, 2015<br />Photograph printed in pigmented inks on
+      cotton rag paper<br />40 z 50 cm<br />&amp;pound;175  Limited Edition of
+      25
   - image_path: /assets/images/5925ed3ec074e.jpg
     image_title: 'Cattle &amp;amp; Hawthorn, 2016'
     image_description: >-
-      Cattle &amp;amp; Hawthorn, 2016<br />Photography, pigmented inks on cotton
-      rag paper<br />12 x 8 in<br />&amp;pound;195 Ed 1/25
+      Cattle &amp;amp; Hawthorn, 2016<br />Photograph printed in pigmented inks
+      on cotton rag paper<br />40 x 50 cm<br />&amp;pound;175 Limited Edition of
+      25
   - image_path: /uploads/Seagulls.jpg
     image_title: 'Seagulls, University Parks Oxford 2018'
     image_description: >-
-      Photograph printed in pigmented inks onto archival cotton rag
-      paper<br>Edition of 12.
+      Photograph printed in pigmented inks onto archival cotton rag paper<br
+      />60 x 50 cm<br />&amp;pound;195  Edition of 25.
   - image_path: /assets/images/5925f01bf1d2c.jpg
     image_title: 'The Golden Thread, 2016'
     image_description: >-
-      The Golden Thread, 2016<br />Photography, pigmented inks on cotton rag
-      paper<br />12 x 8 in<br />&amp;Acirc;&amp;pound;195 Ed 1/25
+      The Golden Thread, 2016<br />Photograph printed in pigmented inks on
+      cotton rag paper<br />40 x 50 cm<br />&amp;pound;175 Limited Edition of 25
   - image_path: /assets/images/591ef3b5b0a74.jpg
     image_title: 'Apollo Presides, Ashmolean, 2017'
     image_description: >-
-      Apollo Presides, Ashmolean, 2017<br />Photography, pigmented inks on
-      cotton rag paper<br />12 x 8 in<br />&amp;pound;195 Ed 1/25
+      Apollo Presides, Ashmolean, 2017<br />Photograph printed in pigmented inks
+      on cotton rag paper<br />40 x 50 cm<br />&amp;pound;175 Limited Edition of
+      25
 _options:
   image_path:
     width: 1200
