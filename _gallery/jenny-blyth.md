@@ -141,9 +141,8 @@ images:
   - image_path: /assets/images/5925ed3ec074e.jpg
     image_title: 'Cattle &amp;amp; Hawthorn, 2016'
     image_description: >-
-      Cattle &amp;amp; Hawthorn, 2016<br />Photograph printed in pigmented inks
-      on cotton rag paper<br />40 x 50 cm<br />&amp;pound;175 Limited Edition of
-      25
+      Cattle and Hawthorn, 2016<br />Photograph printed in pigmented inks on
+      cotton rag paper<br />40 x 50 cm<br />&amp;pound;175 Limited Edition of 25
   - image_path: /uploads/Seagulls.jpg
     image_title: 'Seagulls, University Parks Oxford 2018'
     image_description: >-
