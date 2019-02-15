@@ -95,6 +95,11 @@ images:
     image_description: >-
       Photograph printed in pigmented inks onto archival cotton rag paper<br
       />50 x 60 cm<br />&amp;pound;195  Limited Edition of 12.
+  - image_path: /uploads/sea-grasses-applecross-bay.jpg
+    image_title: 'Sea Grasses, Applecross Bay'
+    image_description: >-
+      Photograph printed in pigmented inks onto archival cotton rag paper<br
+      />50 x 60 cm<br />&amp;pound;195  Limited Edition of 12.
   - image_path: /uploads/towards-the-inner-sound-from-sand-bay.jpg
     image_title: Towards the Inner Sound from Sand Bay 2018
     image_description: >-
