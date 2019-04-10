@@ -4,18 +4,11 @@ description_markdown: >-
   ## REFLECTING THE LANDSCAPE
 
 
-  **18 February - 28 March 2019**
+  **Jenny Blyth shows 50 photographs of Port Meadow, Oxfordshire and
+  Beyond…(Scottish Highlands)**
 
 
-  **Jenny Blyth shows 50 photographs of Wolfson College, Port Meadow, Oxford and
-  beyond…**
-
-
-  **Wolfson College, Linton Road, OX2 6UD**
-
-
-  *Open daily 10 am till 7 pm subject to College commitments.&nbsp; Visitors are
-  advised to ring the College Lodge (10865) 274100 before visiting.*
+  **4 May - 1 June 2019**
 
 
   enquiries :&nbsp; jennyblyth@btconnect.com
@@ -59,6 +52,15 @@ description_markdown: >-
 
 
   &copy; Jenny Blyth 2019
+
+
+  **18 February - 28 March 2019**
+
+
+  **Reflecting the Landscape at**
+
+
+  **Wolfson College, Linton Road, OX2 6UD**
 
 
   &nbsp;
