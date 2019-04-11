@@ -212,6 +212,11 @@ images:
     image_description: >-
       The Real Contours of Our Feelings, 2013<br />oil on canvas<br />100 x 240
       cm<br />&amp;pound;3950
+  - image_path: /uploads/memories-im-forced-to-forget-0277lg.jpg
+    image_title:
+    image_description: >-
+      Memories I am forced to forget 2019<br />oil on canvas<br />120 x 90 cm<br
+      />&amp;pound;
   - image_path:
     image_title:
     image_description:
