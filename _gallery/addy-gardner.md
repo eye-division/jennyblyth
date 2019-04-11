@@ -154,6 +154,12 @@ images:
     image_description: >-
       The Real Contours of Our Feelings, 2013<br />oil on canvas<br />100 x 240
       cm<br />&amp;pound;3950
+  - image_path: /uploads/two-rivers-i-lg.jpg
+    image_title:
+    image_description: Two Rivers I 2018
+  - image_path:
+    image_title:
+    image_description:
   - image_path:
     image_title:
     image_description:
