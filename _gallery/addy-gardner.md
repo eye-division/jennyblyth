@@ -151,9 +151,9 @@ images:
   - image_path: /uploads/for-your-whole-lives-to-be-an-adventure-0426-med-1.jpg
     image_title:
     image_description: For Your Whole Lives To Be An Adventure 2019
-  - image_path:
+  - image_path: /uploads/tworiversi-lg-1.jpg
     image_title:
-    image_description:
+    image_description: Two Rivers II 2018
   - image_path:
     image_title:
     image_description:
