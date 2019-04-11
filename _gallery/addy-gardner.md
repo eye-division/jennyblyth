@@ -157,9 +157,9 @@ images:
   - image_path: /uploads/two-rivers-i-lg.jpg
     image_title:
     image_description: Two Rivers I 2018
-  - image_path:
+  - image_path: /uploads/breathing-lg.jpg
     image_title:
-    image_description:
+    image_description: Breathing 2018
   - image_path:
     image_title:
     image_description:
