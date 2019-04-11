@@ -16,8 +16,8 @@ description_markdown: >-
   **North Wall Arts Centre, South Parade, Summertown OX2 7JN**
 
 
-  ***Touching The Earth***marks the moment where these two artists meet - a
-  point of balance where the intangible meets substance.&nbsp; Both artists
+  ***Touching The Earth&nbsp;***marks the moment where these two artists meet -
+  a point of balance where the intangible meets substance.&nbsp; Both artists
   delight in the earthiness of an organic sense of form whilst celebrating an
   ethereal ambivalence.&nbsp;
 
@@ -142,16 +142,18 @@ main_image_path: /uploads/two-rivers-i-lg-1.jpg
 images:
   - image_path: /uploads/for-your-whole-lives-to-be-an-adventure-0426-med-1.jpg
     image_title:
-    image_description: For Your Whole Lives To Be An Adventure 2019
+    image_description: >-
+      For Your Whole Lives To Be An Adventure 2019<br />oil on canvas<br />122 x
+      152 cm<br />&amp;pound;
   - image_path: /uploads/tworiversi-lg-1.jpg
     image_title:
-    image_description: Two Rivers II 2018
+    image_description: Two Rivers II 2018<br />oil on canvas<br />90 x 120 cm<br />&amp;pound;
   - image_path: /uploads/two-rivers-i-lg.jpg
     image_title:
-    image_description: Two Rivers I 2018
+    image_description: Two Rivers I 2018<br />oil on canvas<br />90 x 120<br />&amp;pound;
   - image_path: /uploads/breathing-lg.jpg
     image_title:
-    image_description: Breathing 2018
+    image_description: Breathing 2018<br />oil on canvas<br />100 x 100 cm<br />&amp;pound;
   - image_path: /assets/images/5378b1cfd1326.jpg
     image_title: Last Light I
     image_description: 'Last Light I, 2014<br />oil on canvas<br />60 x 60 cm<br />&amp;pound;950'
