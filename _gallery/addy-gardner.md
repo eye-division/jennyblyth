@@ -140,33 +140,53 @@ archive: false
 display_title: true
 main_image_path: /uploads/two-rivers-i-lg-1.jpg
 images:
-  - image_path: /uploads/for-your-whole-lives-to-be-an-adventure-0426-med-1.jpg
-    image_title:
-    image_description: >-
-      For Your Whole Lives To Be An Adventure 2019<br />oil on canvas<br />122 x
-      152 cm<br />&amp;pound;
   - image_path: /uploads/tworiversi-lg-1.jpg
     image_title:
     image_description: Two Rivers II 2018<br />oil on canvas<br />90 x 120 cm<br />&amp;pound;
   - image_path: /uploads/two-rivers-i-lg.jpg
     image_title:
     image_description: Two Rivers I 2018<br />oil on canvas<br />90 x 120<br />&amp;pound;
+  - image_path: /uploads/for-your-whole-lives-to-be-an-adventure-0426-med-1.jpg
+    image_title:
+    image_description: >-
+      For Your Whole Lives To Be An Adventure 2019<br />oil on canvas<br />122 x
+      152 cm<br />&amp;pound;
+  - image_path: /uploads/reflections-of-love.jpg
+    image_title:
+    image_description: >-
+      Reflections of love 2019<br />charcoal, graphite and acrylic on paper<br
+      />32 x 40<br />&amp;pound;
+  - image_path: /uploads/memories-im-forced-to-forget-0277lg.jpg
+    image_title:
+    image_description: >-
+      Memories I am forced to forget 2019<br />oil on canvas<br />120 x 90 cm<br
+      />&amp;pound;
+  - image_path: /assets/images/544281e929a5e.jpg
+    image_title: The Real Contours of Our Feelings
+    image_description: >-
+      The Real Contours of Our Feelings, 2013<br />oil on canvas<br />100 x 240
+      cm<br />&amp;pound;3950
   - image_path: /uploads/breathing-lg.jpg
     image_title:
     image_description: Breathing 2018<br />oil on canvas<br />100 x 100 cm<br />&amp;pound;
+  - image_path: /assets/images/5378ba9fa96af.jpg
+    image_title: But her heart is gold 2013
+    image_description: >-
+      But her heart is gold 2013, 2013<br />oil on canvas<br />90 x 120 cm<br
+      />&amp;pound;2950
   - image_path: /assets/images/5378b1cfd1326.jpg
     image_title: Last Light I
     image_description: 'Last Light I, 2014<br />oil on canvas<br />60 x 60 cm<br />&amp;pound;950'
-  - image_path: /assets/images/5378b1f200fd0.jpg
-    image_title: The memory of the moment we first met III
-    image_description: >-
-      The memory of the moment we first met III, 2013<br />oil on canvas<br />60
-      x 60<br />&amp;pound;950
   - image_path: /assets/images/5378b97c0af5f.jpg
     image_title: In anticipation of the first day of your life
     image_description: >-
       In anticipation of the first day of your life, 2014<br />oil on canvas<br
       />100 x 100 cm<br />&amp;pound;2750 SOLD
+  - image_path: /assets/images/5378b1f200fd0.jpg
+    image_title: The memory of the moment we first met III
+    image_description: >-
+      The memory of the moment we first met III, 2013<br />oil on canvas<br />60
+      x 60<br />&amp;pound;950
   - image_path: /assets/images/4e4e13a074a1e.jpg
     image_title: The Blue Fields of Heaven
     image_description: >-
@@ -177,11 +197,6 @@ images:
     image_description: >-
       Hawkshead I, 2013<br />oil on canvas<br />60 x 60 cm<br />&amp;pound;950
       SOLD
-  - image_path: /assets/images/5378ba9fa96af.jpg
-    image_title: But her heart is gold 2013
-    image_description: >-
-      But her heart is gold 2013, 2013<br />oil on canvas<br />90 x 120 cm<br
-      />&amp;pound;2950
   - image_path: /assets/images/5378bac79eed5.jpg
     image_title: Through the layers of mist
     image_description: >-
@@ -207,21 +222,6 @@ images:
     image_description: >-
       Breathing ourselves out and beyond, 2014<br />oil on canvas<br />60 x 180
       cm<br />&amp;pound;2500
-  - image_path: /assets/images/544281e929a5e.jpg
-    image_title: The Real Contours of Our Feelings
-    image_description: >-
-      The Real Contours of Our Feelings, 2013<br />oil on canvas<br />100 x 240
-      cm<br />&amp;pound;3950
-  - image_path: /uploads/memories-im-forced-to-forget-0277lg.jpg
-    image_title:
-    image_description: >-
-      Memories I am forced to forget 2019<br />oil on canvas<br />120 x 90 cm<br
-      />&amp;pound;
-  - image_path: /uploads/reflections-of-love.jpg
-    image_title:
-    image_description: >-
-      Reflections of love 2019<br />charcoal, graphite and acrylic on paper<br
-      />32 x 40<br />&amp;pound;
 _options:
   image_path:
     width: 1200
