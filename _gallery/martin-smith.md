@@ -30,9 +30,9 @@ description_markdown: >-
   &nbsp;Patterns of sound and shape are transposed, so that the language of
   marble and alabaster is alchemized into sculpture. &nbsp; The beauty of
   Smith’s chosen stone is in the degree of opacity and tone, ranging from the
-  deep brown agate alabasters of Touching the Earth, to the rare and translucent
-  Volterra ivories of Lock Stones that are soft to the touch and warm when lit
-  from behind.
+  deep brown agate alabasters of *Touching The Earth*, to the rare and
+  translucent Volterra ivories of *Lock Stones* that are soft to the touch and
+  warm when lit from behind.
 
 
   **Addy Gardner** studied Psychology before committing to Fine Art twenty years
