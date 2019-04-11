@@ -217,9 +217,11 @@ images:
     image_description: >-
       Memories I am forced to forget 2019<br />oil on canvas<br />120 x 90 cm<br
       />&amp;pound;
-  - image_path:
+  - image_path: /uploads/reflections-of-love.jpg
     image_title:
-    image_description:
+    image_description: >-
+      Reflections of love 2019<br />charcoal, graphite and acrylic on paper<br
+      />32 x 40<br />&amp;pound;
 _options:
   image_path:
     width: 1200
