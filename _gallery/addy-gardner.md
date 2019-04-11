@@ -96,6 +96,12 @@ images:
   - image_path: /uploads/tworiversi-lg-1.jpg
     image_title:
     image_description: Two Rivers II 2018
+  - image_path: /uploads/two-rivers-i-lg.jpg
+    image_title:
+    image_description: Two Rivers I 2018
+  - image_path: /uploads/breathing-lg.jpg
+    image_title:
+    image_description: Breathing 2018
   - image_path: /assets/images/5378b1cfd1326.jpg
     image_title: Last Light I
     image_description: 'Last Light I, 2014<br />oil on canvas<br />60 x 60 cm<br />&amp;pound;950'
@@ -154,12 +160,6 @@ images:
     image_description: >-
       The Real Contours of Our Feelings, 2013<br />oil on canvas<br />100 x 240
       cm<br />&amp;pound;3950
-  - image_path: /uploads/two-rivers-i-lg.jpg
-    image_title:
-    image_description: Two Rivers I 2018
-  - image_path: /uploads/breathing-lg.jpg
-    image_title:
-    image_description: Breathing 2018
   - image_path:
     image_title:
     image_description:
