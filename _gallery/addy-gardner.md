@@ -16,6 +16,56 @@ description_markdown: >-
   **North Wall Arts Centre, South Parade, Summertown OX2 7JN**
 
 
+  ***Touching The Earth***marks the moment where these two artists meet - a
+  point of balance where the intangible meets substance.&nbsp; Both artists
+  delight in the earthiness of an organic sense of form whilst celebrating an
+  ethereal ambivalence.&nbsp;
+
+
+  **Addy Gardner** studied Psychology before committing to Fine Art twenty years
+  ago.&nbsp; Her genre is abstracted landscape, popular with landscape painters
+  but Gardner distinguishes her work through an experiential journey that
+  reflects the scene before her, entwined with memories and thoughts evoked by
+  the beauty she finds in the landscape. ‘Peak Experience’ has been her goal,
+  and that moment of ‘ah-ness’ the pivotal point for her compositions.&nbsp;
+  Drawing inspiration from the landscape of the Windrush Valley and woodlands,
+  her work is about her life and relationships – historical, and of the moment.
+
+
+  Addy Gardner’s collection of new paintings marks a departure from safer
+  territory that she knows works well for her, towards fresh pastures and new
+  horizons, a journey that every painter must make.&nbsp; This makes for
+  exciting viewing for us as we share her journey and spirit of adventure.
+
+
+  When talking about sculpture, **Martin Smith** enthuses about jazz with equal
+  passion.&nbsp; Transported by iconic trumpeters and saxophonists from Miles
+  Davis to Ben Webster, he describes an alchemy of easy liberation where music,
+  mellifluous and light, ‘*comes through them like breath’,* and how that
+  process of synesthesia for him is expressed through sculpture, ‘*the breath of
+  stone’*.&nbsp; Patterns of sound and shape are transposed, so that the
+  language of marble and alabaster is alchemized into sculpture.&nbsp;
+
+
+  The beauty of Smith’s chosen stone is in the degree of opacity and tone,
+  ranging from the deep brown agate alabasters of *Touching the Earth,* to the
+  rare and translucent Volterra ivories of *Lock Stones* that are soft to the
+  touch and warm when lit from behind.
+
+
+  Text by Jenny Blyth &copy; 2019 &nbsp;&nbsp; For images/info contact Jenny
+  Blyth &nbsp; Mob: 07798 526 252&nbsp; jennyblyth@btconnect.com
+
+
+  **SKYFALL : Paintings & Drawings by ADDY GARDNER**
+
+
+  **DECEMBER 2016&nbsp;**
+
+
+  **Jenny Blyth Fine Art at Art Jericho, Oxford**
+
+
   Addy Gardner, Oxfordshire artist, trained in both Fine Art and Applied
   Psychology. Sixteen years ago she declined the offer of an MA in Fine Art and
   set off to Edinburgh where she set up her studio inspired by the beauty of
