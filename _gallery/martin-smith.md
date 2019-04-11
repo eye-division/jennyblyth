@@ -137,9 +137,9 @@ images:
   - image_path: /uploads/touching-the-earth-1.jpg
     image_title:
     image_description: Touching the Earth 2019
-  - image_path:
+  - image_path: /uploads/lamentation.jpg
     image_title:
-    image_description:
+    image_description: Lamentation 2016
   - image_path:
     image_title:
     image_description:
