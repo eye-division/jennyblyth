@@ -16,8 +16,8 @@ description_markdown: >-
   North Wall Arts Centre, South Parade, Summertown, Oxford OX2 7JN
 
 
-  ***Touching The Earth***marks the moment where these two artists meet - a
-  point of balance where the intangible meets substance.&nbsp; Both artists
+  ***Touching The Earth&nbsp;***marks the moment where these two artists meet -
+  a point of balance where the intangible meets substance.&nbsp; Both artists
   delight in the earthiness of an organic sense of form whilst celebrating an
   ethereal ambivalence.&nbsp;
 
@@ -134,6 +134,15 @@ images:
     image_description: >-
       Marine Form VI, 2016<br />Alabaster on Rajisthan marble base<br />35 x 24
       x 32 cm<br />&amp;pound;800
+  - image_path: /uploads/touching-the-earth-1.jpg
+    image_title:
+    image_description: Touching the Earth 2019
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
