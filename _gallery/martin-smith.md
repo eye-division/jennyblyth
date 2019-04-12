@@ -117,7 +117,7 @@ gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/martin-smith/
 archive: false
 display_title: true
-main_image_path: /assets/images/57dc095af3837.jpg
+main_image_path: /uploads/touching-the-earth-2.jpg
 images:
   - image_path: /assets/images/57dc095af3837.jpg
     image_title: Wave
