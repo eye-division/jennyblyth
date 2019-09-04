@@ -53,6 +53,9 @@ images:
   - image_path: /assets/images/55ba0699ac806.jpg
     image_title: Sin Titulo 4
     image_description: 'Sin Titulo 4, 2014<br />acrylic on paper<br />75 x 55 cm'
+  - image_path: /uploads/a-painting-highres-1.jpg
+    image_title: Sin Titulo 6
+    image_description: 'Sin Titulo 6, 2018<br />acrylic on paper<br />55 x 75 cm'
 _options:
   image_path:
     width: 1200
@@ -74,3 +77,4 @@ _comments:
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
 ---
+
