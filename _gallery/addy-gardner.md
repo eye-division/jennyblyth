@@ -1,16 +1,25 @@
 ---
 title: Addy Gardner
 description_markdown: >-
-  **TOUCHING THE EARTH**
+  Currently showing at **CAREY BLYTH**
+
+
+  8 Woodstock Road OX2 6HT
+
+
+  wed-sun 11-5 pm
+
+
+  **TOUCHING THE EARTH&nbsp;**
+
+
+  **7 MAY - 1 JUNE 2019**
 
 
   Paintings by **Addy Gardner** and Sulpture by **Martin Smith**
 
 
   *Curated by Jenny Blyth*
-
-
-  **7 MAY - 1 JUNE 2019**
 
 
   **North Wall Arts Centre, South Parade, Summertown OX2 7JN**
