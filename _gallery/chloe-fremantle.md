@@ -89,7 +89,7 @@ gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/chloe-fremantle/
 archive: false
 display_title: true
-main_image_path: /assets/images/556e1efb8b29f.jpg
+main_image_path: /uploads/cf-memento-mori-blue-1.jpg
 images:
   - image_path: /assets/images/556e1efb8b29f.jpg
     image_title: Spring Cherry (london)
