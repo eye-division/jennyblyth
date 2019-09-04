@@ -1,7 +1,7 @@
 ---
 title: Paul Amey
 description_markdown: >-
-  **[…](/)PAUL AMEY**
+  **PAUL AMEY**
 
 
   Amey is both sculptor and painter. Medium holds no boundaries for him and his
