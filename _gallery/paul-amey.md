@@ -1,5 +1,5 @@
 ---
-title: Paul AMEY
+title: Paul Amey
 description_markdown: >-
   **PAUL AMEY**
 
