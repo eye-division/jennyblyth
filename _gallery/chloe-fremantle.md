@@ -124,6 +124,16 @@ images:
     image_description: >-
       In the Hothouse, 2012<br />Acrylic on canvas<br />12 x 12&amp;quot;<br
       />&amp;pound;495
+  - image_path: /uploads/cf-memento-mori-blue-2.jpg
+    image_title: Memento Mori in Blue
+    image_description: >-
+      Memento Mori in Blue 2018<br />Acrylic on canvas<br />130 x 137 cm<br
+      />&amp;pound;5350
+  - image_path: /uploads/55-16birchtrees5creamsacr20-3x20-3cmschloefremantle.jpg
+    image_title: >-
+      Birch Copse 2016<br />Acrylic on canvas<br />90 x 120 cm<br
+      />&amp;pound;3950
+    image_description:
   - image_path: /assets/images/4e0c86a05a27a.jpg
     image_title: Honeysuckle
     image_description: 'Honeysuckle, 2010<br />acrylic on canvas<br />20 x 20&amp;quot'
@@ -175,16 +185,11 @@ images:
   - image_path: /assets/images/50c21fadbbfab.jpg
     image_title: Aurora
     image_description: Aurora
-  - image_path: /uploads/cf-memento-mori-blue-2.jpg
-    image_title: Memento Mori in Blue
+  - image_path: /uploads/cf-memento-mori-blue-3.jpg
+    image_title:
     image_description: >-
-      Memento Mori in Blue 2018<br />Acrylic on canvas<br />130 x 137 cm<br
+      Memento Mori 2018<br />Acrylic on canvas<br />130 x 137 cm<br
       />&amp;pound;5350
-  - image_path: /uploads/55-16birchtrees5creamsacr20-3x20-3cmschloefremantle.jpg
-    image_title: >-
-      Birch Copse 2016<br />Acrylic on canvas<br />90 x 120 cm<br
-      />&amp;pound;3950
-    image_description:
 _options:
   image_path:
     width: 1200
