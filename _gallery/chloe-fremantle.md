@@ -91,6 +91,34 @@ archive: false
 display_title: true
 main_image_path: /uploads/cf-memento-mori-blue-1.jpg
 images:
+  - image_path: /uploads/cf-memento-mori-blue-2.jpg
+    image_title: Memento Mori in Blue
+    image_description: >-
+      Memento Mori in Blue 2018<br />Acrylic on canvas<br />130 x 137 cm<br
+      />&amp;pound;5350
+  - image_path: /uploads/cf-memento-mori-blue-3.jpg
+    image_title:
+    image_description: >-
+      Memento Mori 2018<br />Acrylic on canvas<br />130 x 137 cm<br
+      />&amp;pound;5350
+  - image_path: /uploads/55-16birchtrees5creamsacr20-3x20-3cmschloefremantle.jpg
+    image_title: >-
+      Birch Copse 2016<br />Acrylic on canvas<br />90 x 120 cm<br
+      />&amp;pound;3950
+    image_description:
+  - image_path: /assets/images/50c21dc4477a5.jpg
+    image_title: Overview
+    image_description: 'Overview, 2012<br />Acrylic on canvas<br />3 x 4 feet<br />&amp;pound;4950'
+  - image_path: /assets/images/50c1fc980bb90.jpg
+    image_title: Within
+    image_description: >-
+      Within, 2012<br />Acrylic on canvas<br />3 x 4 feet<br />&amp;pound;4950
+      SOLD
+  - image_path: /assets/images/50c21d145f44f.jpg
+    image_title: Late Summer Muse
+    image_description: >-
+      Late Summer Muse, 2012<br />Acrylic on canvas<br />36 x 48 in<br
+      />&amp;pound;4950 SOLD
   - image_path: /assets/images/556e1efb8b29f.jpg
     image_title: Spring Cherry (london)
     image_description: 'Spring Cherry (london), 2014<br />Acrylic on canvas<br />42 x 45'
@@ -100,15 +128,12 @@ images:
   - image_path: /assets/images/556e219b82a0c.jpg
     image_title: Westfield
     image_description: 'Westfield, 2014<br />acrylic on canvas<br />42 x 45 cm'
-  - image_path: /assets/images/525e93b5e6d8b.jpg
-    image_title: Close Up
-    image_description: 'Close Up, 2013<br />acrylic on canvas<br />36 x 36 in'
-  - image_path: /assets/images/50c21dc4477a5.jpg
-    image_title: Overview
-    image_description: 'Overview, 2012<br />Acrylic on canvas<br />3 x 4 feet<br />&amp;pound;4950'
   - image_path: /assets/images/525e91c7684eb.jpg
     image_title: Within
     image_description: 'Within, 2013<br />acrylic on canvas<br />36 x 36 in'
+  - image_path: /assets/images/525e93b5e6d8b.jpg
+    image_title: Close Up
+    image_description: 'Close Up, 2013<br />acrylic on canvas<br />36 x 36 in'
   - image_path: /assets/images/5165833244613.jpg
     image_title: Magnolia denudata
     image_description: >-
@@ -124,16 +149,6 @@ images:
     image_description: >-
       In the Hothouse, 2012<br />Acrylic on canvas<br />12 x 12&amp;quot;<br
       />&amp;pound;495
-  - image_path: /uploads/cf-memento-mori-blue-2.jpg
-    image_title: Memento Mori in Blue
-    image_description: >-
-      Memento Mori in Blue 2018<br />Acrylic on canvas<br />130 x 137 cm<br
-      />&amp;pound;5350
-  - image_path: /uploads/55-16birchtrees5creamsacr20-3x20-3cmschloefremantle.jpg
-    image_title: >-
-      Birch Copse 2016<br />Acrylic on canvas<br />90 x 120 cm<br
-      />&amp;pound;3950
-    image_description:
   - image_path: /assets/images/4e0c86a05a27a.jpg
     image_title: Honeysuckle
     image_description: 'Honeysuckle, 2010<br />acrylic on canvas<br />20 x 20&amp;quot'
@@ -145,16 +160,6 @@ images:
   - image_path: /assets/images/525e9532c9f60.jpg
     image_title: Fountain
     image_description: 'Fountain, 2012<br />acrylic on canvas<br />12 x 12 in'
-  - image_path: /assets/images/50c1fc980bb90.jpg
-    image_title: Within
-    image_description: >-
-      Within, 2012<br />Acrylic on canvas<br />3 x 4 feet<br />&amp;pound;4950
-      SOLD
-  - image_path: /assets/images/50c21d145f44f.jpg
-    image_title: Late Summer Muse
-    image_description: >-
-      Late Summer Muse, 2012<br />Acrylic on canvas<br />36 x 48 in<br
-      />&amp;pound;4950 SOLD
   - image_path: /assets/images/50c2202f2ce00.jpg
     image_title: Glimpses
     image_description: 'Glimpses, 2010<br />52 x 60 in'
@@ -185,11 +190,11 @@ images:
   - image_path: /assets/images/50c21fadbbfab.jpg
     image_title: Aurora
     image_description: Aurora
-  - image_path: /uploads/cf-memento-mori-blue-3.jpg
+  - image_path: /uploads/55-16birchtrees5creamsacr20-3x20-3cmschloefremantle-1.jpg
     image_title:
     image_description: >-
-      Memento Mori 2018<br />Acrylic on canvas<br />130 x 137 cm<br
-      />&amp;pound;5350
+      Birch Copse 2016<br />Acrylic on canvas<br />90 x 120 cm<br
+      />&amp;pound;3950
 _options:
   image_path:
     width: 1200
