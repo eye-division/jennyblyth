@@ -190,6 +190,11 @@ images:
     image_description: >-
       Memento Mori 2018<br />Acrylic on canvas<br />130 x 137 cm<br
       />&amp;pound;5350
+  - image_path: /uploads/55-16birchtrees5creamsacr20-3x20-3cmschloefremantle-1.jpg
+    image_title:
+    image_description: >-
+      Birch Copse 2016<br />Acrylic on canvas<br />90 x 120 cm<br
+      />&amp;pound;3950
 _options:
   image_path:
     width: 1200
