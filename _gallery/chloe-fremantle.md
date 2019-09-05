@@ -1,7 +1,7 @@
 ---
 title: Chloe Fremantle
 description_markdown: >-
-  ## **Currently showing at CAREY BLYTH**
+  ### **Currently showing at CAREY BLYTH**
 
 
   8 Woodstock Road Oxford OX2 6HT (Wed-Sun 11-5 pm)
@@ -211,3 +211,4 @@ _comments:
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
 ---
+
