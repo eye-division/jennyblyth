@@ -1,7 +1,7 @@
 ---
 title: Paul Amey
 description_markdown: >-
-  **PAUL AMEY**
+  **[...](/)PAUL AMEY**
 
 
   **Currently showing at CAREY BLYTH 8 Woodstock Road OX2 6HT**
