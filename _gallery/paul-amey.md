@@ -4,24 +4,27 @@ description_markdown: >-
   **PAUL AMEY**
 
 
-  Amey is both sculptor and painter. Medium holds no boundaries for him and his
-  horizons span from the beauty and discipline of the Academy, embracing Matisse
-  and Bonnard, to the delights of Craigie Aitchison and Folk Art.
+  **Currently showing at CAREY BLYTH 8 Woodstock Road OX2 6HT**
+
+
+  Paul Amey is both sculptor and painter. Medium holds no boundaries for him and
+  his horizons span from the beauty and discipline of the Academy, embracing
+  Matisse and Bonnard, to the delights of Craigie Aitchison and Folk Art.
 
 
   Master painters invariably speak of light and colour, and Amey has that. His
-  palette is stunning and unexpected whilist sculpture informs his exploration
-  of space. &nbsp;Light and colour ignite his paintings whether refracted
+  palette is stunning and unexpected whilst sculpture informs his exploration of
+  space. &nbsp;Light and colour ignite his paintings whether refracted
   highlights in the ***Swimming Pool Series*** or backlit bars on hot summer
   nights.&nbsp; His ***Table Top Series*** invite us to rediscover *still life*
-  where everyday objects become fascinating to us, whether the delicate lacework
-  of freesias or discarded shopping bags – each are equally playful.
+  where everyday objects become fascinating to us, whether the beautiful flowers
+  or discarded shopping bags – he is equally playful with each.
 
 
   Paul Amey graduated in Fine Art from Hornsey College of Art in 1979.&nbsp; He
-  has been painting and sculpting for thirty years plus.&nbsp; He set up the
-  Chiltern Sculpture Trail in 1990 and taught Fine Art for many years.&nbsp; He
-  has exhibited at Modern Art, Oxford and museums and galleries in London and
+  has been painting and sculpting for thirty five years plus.&nbsp; He set up
+  the Chiltern Sculpture Trail in 1990 and taught fine art for many years.&nbsp;
+  He has exhibited at Modern Art, Oxford and museums and galleries in London and
   Amsterdam, New York and Los Angeles with sculpture and paintings placed in
   public and private collections.
 
@@ -43,6 +46,9 @@ images:
       Two sizes :
       84 x 41 cm £1200 (framed with mount); £900 (with mount no frame)
       69 x 50 cm £750 (framed with mount); £600 (with mount no frame)
+  - image_path: /uploads/PaulAmey_TableTop3.jpg
+    image_title: Table Top 3/Vase with Green Mugs
+    image_description:
 _options:
   image_path:
     width: 1200
