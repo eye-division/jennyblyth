@@ -1,7 +1,7 @@
 ---
 title: Paul Amey
 description_markdown: >-
-  **[…](/)PAUL AMEY**
+  **PAUL AMEY**
 
 
   **Currently showing at CAREY BLYTH 8 Woodstock Road OX2 6HT**
@@ -32,8 +32,8 @@ description_markdown: >-
   &nbsp;
 homepage_description_markdown:
 frontpage: true
-gallery_date:
-permalink:
+gallery_date: 2016-04-01 00:00:00
+permalink: /gallery/paul-amey/
 archive: false
 main_image_path: /uploads/table-top-giclee-sm.jpg
 display_title: true
