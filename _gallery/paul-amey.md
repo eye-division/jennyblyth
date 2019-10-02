@@ -17,8 +17,8 @@ description_markdown: >-
   space. &nbsp;Light and colour ignite his paintings whether refracted
   highlights in the ***Swimming Pool Series*** or backlit bars on hot summer
   nights.&nbsp; His ***Table Top Series*** invite us to rediscover *still life*
-  where everyday objects become fascinating to us, whether the beautiful flowers
-  or discarded shopping bags – he is equally playful with each.
+  where everyday objects become fascinating to us and whether flowers or
+  discarded shopping bags – he is equally playful with each subject.
 
 
   Paul Amey graduated in Fine Art from Hornsey College of Art in 1979.&nbsp; He
@@ -70,3 +70,4 @@ _comments:
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
 ---
+
