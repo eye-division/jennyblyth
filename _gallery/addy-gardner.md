@@ -1,7 +1,7 @@
 ---
 title: Addy Gardner
 description_markdown: >-
-  **Currently showing at** **CAREY BLYTH**
+  **Showing soon at** **CAREY BLYTH**
 
 
   8 Woodstock Road OX2 6HT (Wed-Sun 11-5 pm)
