@@ -1,6 +1,9 @@
 ---
 title: Martin Smith
 description_markdown: >-
+  **Currently showing at CAREY BLYTH 8 Woodstock Road OX2 6HT**
+
+
   TOUCHING THE EARTH&nbsp;
 
 
