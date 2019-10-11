@@ -1,14 +1,14 @@
 ---
 title: Netta CAREY
 description_markdown: >-
-  *[...](/gallery/alladale-iv/)"I was lucky enough to receive a formal training
-  in art and design and the lessons I learnt then are a fundamental part of my
-  work to this day. A working study of composition, drawing from life - often
-  for months at a time, day in and day out - and an understanding of colour both
-  in terms of design and energetic connection - are an essential part of who I
-  am. I paint now from photographs that I abstract to form images, or simply
-  from instinct - in essence I try to capture a moment in time that resonates
-  for longer than the moment that it takes to see it.*
+  *"I was lucky enough to receive a formal training in art and design and the
+  lessons I learnt then are a fundamental part of my work to this day. A working
+  study of composition, drawing from life - often for months at a time, day in
+  and day out - and an understanding of colour both in terms of design and
+  energetic connection - are an essential part of who I am. I paint now from
+  photographs that I abstract to form images, or simply from instinct - in
+  essence I try to capture a moment in time that resonates for longer than the
+  moment that it takes to see it.*
 
 
   Netta Carey explores the landscape and spirit of the Scottish Highlands at
@@ -27,22 +27,22 @@ description_markdown: >-
   where she has studios.
 homepage_description_markdown:
 frontpage: true
-gallery_date:
+gallery_date: 2019-10-11 15:27:54
 permalink:
 archive: false
-main_image_path:
+main_image_path: /uploads/IMG_7009 (1).jpg
 display_title: true
 images:
-  - image_path:
-    image_title:
-    image_description:
   - image_path: /uploads/img-7013-1.jpg
     image_title: Alladale IV
     image_description:
-  - image_path: /uploads/img-7009-1.jpg
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
     image_title: Alladale II
     image_description:
-  - image_path: /uploads/IMG_7009 (1).jpg
+  - image_path:
     image_title:
     image_description:
 _options:
