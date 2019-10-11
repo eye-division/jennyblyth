@@ -30,14 +30,17 @@ frontpage: true
 gallery_date:
 permalink:
 archive: false
-main_image_path:
+main_image_path: /uploads/IMG_7009 (1).jpg
 display_title: true
 images:
+  - image_path: /uploads/img-7013-1.jpg
+    image_title: Alladale IV
+    image_description:
   - image_path:
     image_title:
     image_description:
-  - image_path: /uploads/img-7013-1.jpg
-    image_title: Alladale IV
+  - image_path:
+    image_title: Alladale II
     image_description:
 _options:
   image_path:
