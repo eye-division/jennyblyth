@@ -1,8 +1,8 @@
 ---
-title: Netta CAREY
+title: Netta Carey
 description_markdown: >-
-  *[...](/)"I was lucky enough to receive a formal training in art and design
-  and the lessons I learnt then are a fundamental part of my work to this day. A
+  *[…](/)"I was lucky enough to receive a formal training in art and design and
+  the lessons I learnt then are a fundamental part of my work to this day. A
   working study of composition, drawing from life - often for months at a time,
   day in and day out - and an understanding of colour both in terms of design
   and energetic connection - are an essential part of who I am. I paint now from
