@@ -14,7 +14,7 @@ description_markdown: >-
   Netta Carey explores the landscape and spirit of the Scottish Highlands at
   Alladale where Paul Lister has over the past 16 years created a rewilding
   project.&nbsp; Lister’s intention has been to return the 23,000 acre estate to
-  a natural wooded haven for wildlife, to include wolves, bears and lynx.&nbsp;
+  a natural wooded haven for wildlife.&nbsp;
 
 
   Carey’s paintings capture the wild heart of Scotland, particularly the quiet
@@ -22,9 +22,9 @@ description_markdown: >-
   purple of heather to the skies and stretching the russet-red bracken across
   her canvases, scale is undiminished by the absence of human
   intervention.&nbsp; Carey abstracts the landscape into bands of colour.&nbsp;
-  Our eye delights in the colourfield, quickly unravelling the composition into
-  landscape where the locyhs gleam and glisten in a spectrum of whites under a
-  thunderous sky.
+  Our eye delights, quickly translating her colourfield composition to landscape
+  where&nbsp; lochs gleam and glisten in a spectrum of whites under a thunderous
+  sky.
 
 
   Netta Carey trained at the Paris American Academy (1982-83), London College of
