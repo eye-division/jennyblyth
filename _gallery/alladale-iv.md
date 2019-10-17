@@ -15,10 +15,16 @@ description_markdown: >-
   Alladale where Paul Lister has over the past 16 years created a rewilding
   project.&nbsp; Lister’s intention has been to return the 23,000 acre estate to
   a natural wooded haven for wildlife, to include wolves, bears and lynx.&nbsp;
+
+
   Carey’s paintings capture the wild heart of Scotland, particularly the quiet
-  strength and beauty of Alladale in all its richness where deep purple heather
-  and russet-red bracken stretch across her canvases in bands of autumnal
-  colours, and scale is undiminished by the absence of human habitation.
+  strength and beauty of Alladale in all its richness. Transposing the deep
+  purple of heather to the skies and stretching the russet-red bracken across
+  her canvases, scale is undiminished by the absence of human
+  intervention.&nbsp; Carey abstracts the landscape into bands of colour.&nbsp;
+  Our eye delights in the colourfield, quickly unravelling the composition into
+  landscape where the locyhs gleam and glisten in a spectrum of whites under a
+  thunderous sky.
 
 
   Netta Carey trained at the Paris American Academy (1982-83), London College of
@@ -45,9 +51,9 @@ homepage_description_markdown: >-
   Carey’s paintings capture the wild heart of Scotland, particularly the quiet
   strength and beauty of Alladale in all its richness.&nbsp; Transposing the
   deep purple of heather to the skies and stretching the russet-red bracken
-  across her canvases, scale is undiminished by the absense of human
+  across her canvases, scale is undiminished by the absecse of human
   intervention. Carey abstracts the landscape into bands of colour. Our eye
-  delights in the colourfield quickly unravelling the compostion into landscape
+  delights in the colourfield quickly unravelling the composition into landscape
   where the lochs gleam and glisten in a spectrum of whites between the
   shorelines under a thunderous sky.
 
