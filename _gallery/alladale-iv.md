@@ -14,7 +14,7 @@ description_markdown: >-
   Netta Carey explores the landscape and spirit of the Scottish Highlands at
   Alladale where Paul Lister has over the past 16 years created a rewilding
   project.&nbsp; Lister’s intention has been to return the 23,000 acre estate to
-  a natural wooded haven for wildlife, to include wolves, bears and lynx.&nbsp;
+  a natural wooded haven for wildlife.&nbsp;
 
 
   Carey’s paintings capture the wild heart of Scotland, particularly the quiet
@@ -22,9 +22,9 @@ description_markdown: >-
   purple of heather to the skies and stretching the russet-red bracken across
   her canvases, scale is undiminished by the absence of human
   intervention.&nbsp; Carey abstracts the landscape into bands of colour.&nbsp;
-  Our eye delights in the colourfield, quickly unravelling the composition into
-  landscape where the locyhs gleam and glisten in a spectrum of whites under a
-  thunderous sky.
+  Our eye delights, quickly translating her colourfield composition to landscape
+  where&nbsp; lochs gleam and glisten in a spectrum of whites under a thunderous
+  sky.
 
 
   Netta Carey trained at the Paris American Academy (1982-83), London College of
@@ -66,20 +66,23 @@ frontpage: true
 gallery_date: 2019-10-11 15:28:51
 permalink: /gallery/netta-carey/
 archive: false
-main_image_path: /uploads/IMG_7009 (1).jpg
+main_image_path: /uploads/IMG_7013 (1).jpg
 display_title: true
 images:
   - image_path: /uploads/img-7013-1.jpg
     image_title: Alladale IV
     image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
+  - image_path: /uploads/IMG_7009 (1).jpg
     image_title: Alladale II
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /uploads/Carey 3.jpg
+    image_title: Alladale II
+    image_description:
+  - image_path: /uploads/IMG_6472.jpg
+    image_title: Compassion
+    image_description:
+  - image_path: /uploads/Carey Peaceful Setting.jpg
+    image_title: Peaceful Setting
     image_description:
 _options:
   image_path:
