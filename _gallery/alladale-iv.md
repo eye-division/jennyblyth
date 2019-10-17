@@ -52,7 +52,7 @@ homepage_description_markdown: >-
   where she has studios.[...](__notset__)
 frontpage: true
 gallery_date: 2019-10-11 15:28:51
-permalink:
+permalink: /gallery/netta-carey/
 archive: false
 main_image_path: /uploads/IMG_7009 (1).jpg
 display_title: true
