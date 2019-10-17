@@ -13,8 +13,8 @@ description_markdown: >-
 
   Netta Carey explores the landscape and spirit of the Scottish Highlands at
   Alladale where Paul Lister has over the past 16 years created a rewilding
-  project.&nbsp; Lister’s intention is to return the 23,000 acre estate to a
-  natural wooded haven for wildlife, to include wolves, bears and lynx.&nbsp;
+  project.&nbsp; Lister’s intention has been to return the 23,000 acre estate to
+  a natural wooded haven for wildlife, to include wolves, bears and lynx.&nbsp;
   Carey’s paintings capture the wild heart of Scotland, particularly the quiet
   strength and beauty of Alladale in all its richness where deep purple heather
   and russet-red bracken stretch across her canvases in bands of autumnal
@@ -38,18 +38,24 @@ homepage_description_markdown: >-
 
   Netta Carey explores the landscape and spirit of the Scottish Highlands at
   Alladale where Paul Lister has over the past 16 years created a rewilding
-  project.&nbsp; Lister’s intention is to return the 23,000 acre estate to a
-  natural wooded haven for wildlife, to include wolves, bears and lynx.&nbsp;
+  project.&nbsp; Lister’s intention has been to return the 23,000 acre estate to
+  a natural wooded haven for wildlife.&nbsp;
+
+
   Carey’s paintings capture the wild heart of Scotland, particularly the quiet
-  strength and beauty of Alladale in all its richness where deep purple heather
-  and russet-red bracken stretch across her canvases in bands of autumnal
-  colours, and scale is undiminished by the absence of human habitation.
+  strength and beauty of Alladale in all its richness.&nbsp; Transposing the
+  deep purple of heather to the skies and stretching the russet-red bracken
+  across her canvases, scale is undiminished by the absense of human
+  intervention. Carey abstracts the landscape into bands of colour. Our eye
+  delights in the colourfield quickly unravelling the compostion into landscape
+  where the lochs gleam and glisten in a spectrum of whites between the
+  shorelines under a thunderous sky.
 
 
   Netta Carey trained at the Paris American Academy (1982-83), London College of
   Printing (1984-87), Chelsea School of Art (1983-84) and L’Ecole Des Beaux
   Artes, Nantes (1986).&nbsp; She lives and works in Oxfordshire and Snowdonia
-  where she has studios.[...](__notset__)
+  where she has studios.[…](__notset__)
 frontpage: true
 gallery_date: 2019-10-11 15:28:51
 permalink: /gallery/netta-carey/
@@ -90,3 +96,4 @@ _comments:
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
 ---
+
