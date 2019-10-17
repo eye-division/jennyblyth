@@ -66,20 +66,23 @@ frontpage: true
 gallery_date: 2019-10-11 15:28:51
 permalink: /gallery/netta-carey/
 archive: false
-main_image_path: /uploads/IMG_7009 (1).jpg
+main_image_path: /uploads/IMG_7013 (1).jpg
 display_title: true
 images:
   - image_path: /uploads/img-7013-1.jpg
     image_title: Alladale IV
     image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
+  - image_path: /uploads/IMG_7009 (1).jpg
     image_title: Alladale II
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /uploads/Carey 3.jpg
+    image_title: Alladale II
+    image_description:
+  - image_path: /uploads/IMG_6472.jpg
+    image_title: Compassion
+    image_description:
+  - image_path: /uploads/Carey Peaceful Setting.jpg
+    image_title: Peaceful Setting
     image_description:
 _options:
   image_path:
