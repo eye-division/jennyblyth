@@ -157,7 +157,9 @@ images:
       />&amp;pound 1,750
   - image_path: /uploads/ingoodcompany2019.jpg
     image_title: In Good Company
-    image_description:
+    image_description: >-
+      In Good Company<br />oil and acrylic on aluminium<60 x 100 cm<br
+      />&amp;pound 1,500
   - image_path: /uploads/trinity1.jpg
     image_title: Trinity
     image_description:
