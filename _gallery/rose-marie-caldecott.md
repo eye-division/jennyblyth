@@ -145,6 +145,18 @@ archive: false
 display_title: true
 main_image_path: /uploads/r-m-caldecott-the-quiet-season-1.jpg
 images:
+  - image_path: /uploads/morning-after-harvest.jpg
+    image_title: Morning After Harvest
+    image_description:
+  - image_path: /uploads/full-moon-confluence.jpg
+    image_title: Full Moon Consequence
+    image_description:
+  - image_path: /uploads/ingoodcompany2019.jpg
+    image_title: In Good Company
+    image_description:
+  - image_path: /uploads/trinity1.jpg
+    image_title: Trinity
+    image_description:
   - image_path: /assets/images/56c0c1aec7c59.jpg
     image_title: Untitled
     image_description: Untitled
@@ -195,17 +207,8 @@ images:
   - image_path: /assets/images/53dc0141a8414.jpg
     image_title: The Swan
     image_description: 'The Swan, 2012<br />oil on board<br />60.s x 121 cm<br />&amp;pound;600'
-  - image_path: /uploads/full-moon-confluence.jpg
-    image_title: Full Moon Consequence
-    image_description:
-  - image_path: /uploads/morning-after-harvest.jpg
-    image_title: Morning After Harvest
-    image_description:
-  - image_path: /uploads/trinity1.jpg
-    image_title: Trinity
-    image_description:
-  - image_path: /uploads/ingoodcompany2019.jpg
-    image_title: In Good Company
+  - image_path: /uploads/hedgerow-20-x-34-cm.jpg
+    image_title: Hedgerow
     image_description:
 _options:
   image_path:
