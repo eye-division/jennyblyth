@@ -64,7 +64,7 @@ _options:
     mime_type: "image/jpeg"
 _comments:
   title: Gallery title
-  permalink: Be careful editing this
+  permalink: "This is required to make the menus work - enter everything in lower case, no digits, no spaces in this format /gallery/my-new-gallery/"
   main_image_path: Image used to represent your gallery
   images: Add and edit your gallery images here
   image_description: Might only be shown in the close up of an image
