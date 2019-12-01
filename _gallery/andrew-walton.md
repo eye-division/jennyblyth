@@ -1,7 +1,7 @@
 ---
 title: Andrew Walton
 description_markdown: >-
-  From December 1 2019 at Carey Blyth Gallery
+  From December 1 2019 at **CAREY BLYTH&nbsp;**
 
 
   8 Woodstock Road Oxford OX2 6HT (wed-sun 11-5 pm)
@@ -52,16 +52,16 @@ description_markdown: >-
   **21 APRIL - 29 MAY 2016**
 
 
-  > Andrew Walton: "I was born just after WW2. My parents had moved to Noke when
-  they married in the early 1940s. We lived in a tiny cottage totally lacking
-  modern amenities. No electricity, water from the well and an earth loo in 'The
-  Elm Barn', a shed with a grand name, all set in a third of an acre of orchard.
-  An artist’s retreat from the hurly burly of war torn London, this was my world
-  - apple trees to climb, a stream to splash in, a duck pond beyond the gate
-  where my brother and I launched catamaran boats whittled from elder sticks.
-  The village was a place apart - a road petering out on the edge of the moor,
-  smelling of cows and cow parsley, deep ditches fringed by pollarded willows,
-  and a huge sky. This is the place my life started.”
+  > *Andrew Walton: "I was born just after WW2. My parents had moved to Noke
+  when they married in the early 1940s. We lived in a tiny cottage totally
+  lacking modern amenities. No electricity, water from the well and an earth loo
+  in 'The Elm Barn', a shed with a grand name, all set in a third of an acre of
+  orchard. An artist’s retreat from the hurly burly of war torn London, this was
+  my world - apple trees to climb, a stream to splash in, a duck pond beyond the
+  gate where my brother and I launched catamaran boats whittled from elder
+  sticks. The village was a place apart - a road petering out on the edge of the
+  moor, smelling of cows and cow parsley, deep ditches fringed by pollarded
+  willows, and a huge sky. This is the place my life started.”*
 
 
   Andrew Walton has spent the past two years retracing the Moor of his childhood
@@ -95,17 +95,43 @@ gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/andrew-walton/
 archive: false
 display_title: true
-main_image_path: /assets/images/5712635a40702.jpg
+main_image_path: /uploads/andrew-walton-fen-of-otta-otmoor.JPG
 images:
   - image_path: /uploads/stubble-7.jpg
-    image_title:
-    image_description: 'The Izzards, 2019<br />ink on paper<br />42 x 54 cm<br/>£1500'
-  - image_path: /assets/images/5712635a40702.jpg
-    image_title: Otmoor from Beckley Hill
-    image_description: 'Otmoor from Beckley Hill, 2015<br />oil on board<br />12 x 15 1/2 in'
+    image_title: The Izzards
+    image_description: |-
+      The Izzards, 2019<br />ink on paper<br />42 x 54 cm<br/>£1500
+      (one of seven ink drawings of Otmoor marshland)
+  - image_path: /uploads/andrew-walton-fen-of-otta-otmoor.JPG
+    image_title: Fen A Otta
+    image_description: Fen A Otta<br />oil on board<30 x 60 cm<br />&amp;pound 1250
+  - image_path: /uploads/aw-otmoor-towards-cement-works.jpg
+    image_title: Otmoor Towards Shipton on Cherwell
+    image_description: >-
+      Otmoor Towards Shipton on Cherwell<br />oil on board<30 x 40 cm<br
+      />&amp;pound 975
+  - image_path: /uploads/aw-seacourt-from-botley-hill.jpg
+    image_title: Seacourt from Botley Hill
+    image_description: >-
+      Seacourt from Botley Hill <br />oil on board<30 x 40 cm<br />&amp;pound
+      975
+  - image_path: /uploads/aw-towards-woodeaton-from-common-road.jpg
+    image_title: Towards Woodeaton from Common Road
+    image_description: >-
+      Towards Woodeaton from Common Road <br />oil on board<30 x 40 cm<br
+      />&amp;pound 975
+  - image_path: /uploads/aw-kennington-water-meadows.jpg
+    image_title: Kennington Water Meadow
+    image_description: Kennington Water Meadow <br />oil on board<30 x 40 cm<br />&amp;pound 975
+  - image_path: /uploads/aw-hinksey-park.jpg
+    image_title: Hinksey Park
+    image_description: Hinksey Park <br />oil on board<30 x 40 cm<br />&amp;pound 975
   - image_path: /assets/images/5712669f8c9a1.jpg
     image_title: Otmoor Clay
     image_description: 'Otmoor Clay, 2015<br />oil on board<br />12 x 15 1/2 in'
+  - image_path: /assets/images/5712635a40702.jpg
+    image_title: Otmoor from Beckley Hill
+    image_description: 'Otmoor from Beckley Hill, 2015<br />oil on board<br />12 x 15 1/2 in'
   - image_path: /assets/images/5712632aa15fe.jpg
     image_title: Orange Moon
     image_description: 'Orange Moon, 2015<br />oil on canvas<br />30 x 40 in'
@@ -121,9 +147,6 @@ images:
   - image_path: /assets/images/571266e33f11e.jpg
     image_title: Untitled
     image_description: Untitled
-  - image_path: /assets/images/57126721e7781.jpg
-    image_title: Untitled
-    image_description: Untitled
   - image_path: /assets/images/5712673d61bb6.jpg
     image_title: Untitled
     image_description: Untitled
@@ -132,27 +155,6 @@ images:
     image_description:
   - image_path: /assets/images/.jpg
     image_title:
-    image_description:
-  - image_path: /assets/images/.jpg
-    image_title:
-    image_description:
-  - image_path: /assets/images/.jpg
-    image_title:
-    image_description:
-  - image_path: /assets/images/.jpg
-    image_title:
-    image_description:
-  - image_path: /assets/images/.jpg
-    image_title:
-    image_description:
-  - image_path: /assets/images/.jpg
-    image_title:
-    image_description:
-  - image_path: /assets/images/.jpg
-    image_title:
-    image_description:
-  - image_path: /uploads/stubble-7.jpg
-    image_title: The Izzards
     image_description:
 _options:
   image_path:

@@ -1,25 +1,50 @@
 ---
 title: Addy Gardner
 description_markdown: >-
-  **Showing soon at** **CAREY BLYTH**
+  **ADDY GARDNER showing at CAREY BLYTH&nbsp;**
 
 
   8 Woodstock Road OX2 6HT (Wed-Sun 11-5 pm)
 
 
-  **TOUCHING THE EARTH&nbsp;**
+  **January 2020**
 
 
-  **7 MAY - 1 JUNE 2019**
+  *"My paintings are born from an emotional response to places I visit and views
+  that I witness in my day to day life. Outwardly they relate to different light
+  and colour in the landscape. I then relate these to inward feelings and
+  memories and things which are currently going on in my life. Sometimes also
+  the history of a place and a feeling about a place will have an effect on the
+  painting. All of them are about beauty in the landscape and moments where this
+  beauty affects us.”*
 
 
-  Paintings by **Addy Gardner** and Sulpture by **Martin Smith**
+  Essentially Addy Gardner’s paintings are autobiographical, reflecting her
+  thoughts and preoccupations which morph into compositions capturing the drama
+  of darker moments and lighter dawns of realisation, a sense &nbsp;of self and
+  'peak experience'.
 
 
-  *Curated by Jenny Blyth*
+  Abstract expressionism in Addy's work generally treads a fine line with
+  figuration, as land meets sky, affording us an insight into the artist's
+  journey whilst inviting us to explore our own path. This particular painting
+  ***Along By The Willows, Deep In*** ***Thought*** &nbsp;is the artist’s
+  response to walking by the River Windrush.&nbsp; Winter is receding and there
+  is a promise of Spring and new beginnings.&nbsp; The willows are bare with
+  whiplike branches but the light is cool and fresh against the greens and
+  browns of the earth.
 
 
-  **North Wall Arts Centre, South Parade, Summertown OX2 7JN**
+  Addy Gardner trained in Psychology before studying Fine Art, and it is the
+  combination of the two that distinguishes her abstracted landscapes from so
+  many others.
+
+
+  MAY - JUNE 2019 : TOUCHING THE EARTH&nbsp;&nbsp;
+
+
+  Paintings by **Addy Gardner** and Sculpture by **Martin Smith,** c*urated by
+  Jenny Blyth at North Wall Arts Centre, Oxford*
 
 
   ***Touching The Earth&nbsp;***marks the moment where these two artists meet -
@@ -63,13 +88,11 @@ description_markdown: >-
   Blyth &nbsp; Mob: 07798 526 252&nbsp; jennyblyth@btconnect.com
 
 
-  **SKYFALL : Paintings & Drawings by ADDY GARDNER**
+  **SKYFALL : Paintings & Drawings by ADDY GARDNER** curated by Jenny Blyth Fine
+  Art at Art Jericho, Oxford
 
 
   **DECEMBER 2016&nbsp;**
-
-
-  **Jenny Blyth Fine Art at Art Jericho, Oxford**
 
 
   Addy Gardner, Oxfordshire artist, trained in both Fine Art and Applied
@@ -98,19 +121,13 @@ description_markdown: >-
   Art Fair Battersea in October 2013.
 
 
-  **THE PAST WE HAVE SHARED**
-
-
-  **ADDY GARDNER** September 2011
+  **THE PAST WE HAVE SHARED : ADDY GARDNER** September 2011
 
 
   JBFA at Gallery 27 Cork St London W1
 
 
-  **EARTH & SKY**
-
-
-  **ADDY GARDNER** **December 2010 – January 2011**
+  **EARTH & SKY : ADDY GARDNER** **December 2010 – January 2011**
 
 
   JBFA at Art Jericho.
@@ -135,9 +152,7 @@ description_markdown: >-
   Addy Gardner.
 
 
-  Jenny Blyth Fine Art presenting new work by Addy Gardner, an emerging painter
-  based in Oxfordshire at Art Jericho in 2010 and thereafter in London’s Gallery
-  27 in Cork Street.
+  &nbsp;
 homepage_description_markdown:
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
@@ -244,7 +259,9 @@ _options:
     mime_type: image/jpeg
 _comments:
   title: Gallery title
-  permalink: "This is required to make the menus work - enter everything in lower case, no digits, no spaces in this format /gallery/my-new-gallery/"
+  permalink: >-
+    This is required to make the menus work - enter everything in lower case, no
+    digits, no spaces in this format /gallery/my-new-gallery/
   main_image_path: Image used to represent your gallery
   images: Add and edit your gallery images here
   image_description: Might only be shown in the close up of an image
