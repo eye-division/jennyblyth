@@ -204,6 +204,9 @@ images:
   - image_path: /uploads/trinity1.jpg
     image_title: Trinity
     image_description:
+  - image_path: /uploads/ingoodcompany2019.jpg
+    image_title: In Good Company
+    image_description:
 _options:
   image_path:
     width: 1200
