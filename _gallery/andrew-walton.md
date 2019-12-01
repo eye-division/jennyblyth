@@ -97,6 +97,9 @@ archive: false
 display_title: true
 main_image_path: /assets/images/5712635a40702.jpg
 images:
+  - image_path: /uploads/stubble-7.jpg
+    image_title:
+    image_description: 'The Izzards, 2019<br />ink on paper<br />42 x 54 cm<br/>£1500'
   - image_path: /assets/images/5712635a40702.jpg
     image_title: Otmoor from Beckley Hill
     image_description: 'Otmoor from Beckley Hill, 2015<br />oil on board<br />12 x 15 1/2 in'
@@ -148,8 +151,8 @@ images:
   - image_path: /assets/images/.jpg
     image_title:
     image_description:
-  - image_path: /assets/images/.jpg
-    image_title:
+  - image_path: /uploads/stubble-7.jpg
+    image_title: The Izzards
     image_description:
 _options:
   image_path:
