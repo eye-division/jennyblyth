@@ -10,39 +10,6 @@ description_markdown: >-
   **January 2020**
 
 
-  "My paintings are born from an emotional response to places I visit and views
-  that I witness in my day to day life. Outwardly they relate to different light
-  and colour in the landscape. I then relate these to inward feelings and
-  memories and things which are currently going on in my life. Sometimes also
-  the history of a place and a feeling about a place will have an effect on the
-  painting. All of them are about beauty in the landscape and moments where this
-  beauty affects us.”
-
-
-  Essentially Addy Gardner’s paintings are autobiographical, reflecting her
-  thoughts and preoccupations which morph into compositions capturing the drama
-  of darker moments and lighter dawns of realisation, a sense &nbsp;of self and
-  'peak experience'.
-
-
-  Abstract expressionism in Addy's work generally treads a fine line with
-  figuration, as land meets sky, affording us an insight into the artist's
-  journey whilst inviting us to explore our own path. This particular painting
-  ***Along By The Willows, Deep In*** ***Thought*** &nbsp;is the artist’s
-  response to walking by the River Windrush.&nbsp; Winter is receding and there
-  is a promise of Spring and new beginnings.&nbsp; The willows are bare with
-  whiplike branches but the light is cool and fresh against the greens and
-  browns of the earth.
-
-
-  Addy Gardner trained in Psychology before studying Fine Art, and it is the
-  combination of the two that distinguishes her abstracted landscapes from so
-  many others.
-
-
-  **ADDY GARDNER**
-
-
   *"My paintings are born from an emotional response to places I visit and views
   that I witness in my day to day life. Outwardly they relate to different light
   and colour in the landscape. I then relate these to inward feelings and
@@ -73,10 +40,7 @@ description_markdown: >-
   many others.
 
 
-  &nbsp;
-
-
-  **&nbsp;7 MAY - 1 JUNE 2019 : TOUCHING THE EARTH&nbsp; **
+  MAY - JUNE 2019 : TOUCHING THE EARTH&nbsp;&nbsp;
 
 
   Paintings by **Addy Gardner** and Sculpture by **Martin Smith,** c*urated by
