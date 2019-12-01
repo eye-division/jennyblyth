@@ -198,6 +198,9 @@ images:
   - image_path: /uploads/full-moon-confluence.jpg
     image_title: Full Moon Consequence
     image_description:
+  - image_path: /uploads/morning-after-harvest.jpg
+    image_title: Morning After Harvest
+    image_description:
 _options:
   image_path:
     width: 1200
