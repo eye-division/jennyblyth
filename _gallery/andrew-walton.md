@@ -52,16 +52,16 @@ description_markdown: >-
   **21 APRIL - 29 MAY 2016**
 
 
-  > Andrew Walton: "I was born just after WW2. My parents had moved to Noke when
-  they married in the early 1940s. We lived in a tiny cottage totally lacking
-  modern amenities. No electricity, water from the well and an earth loo in 'The
-  Elm Barn', a shed with a grand name, all set in a third of an acre of orchard.
-  An artist’s retreat from the hurly burly of war torn London, this was my world
-  - apple trees to climb, a stream to splash in, a duck pond beyond the gate
-  where my brother and I launched catamaran boats whittled from elder sticks.
-  The village was a place apart - a road petering out on the edge of the moor,
-  smelling of cows and cow parsley, deep ditches fringed by pollarded willows,
-  and a huge sky. This is the place my life started.”
+  > *Andrew Walton: "I was born just after WW2. My parents had moved to Noke
+  when they married in the early 1940s. We lived in a tiny cottage totally
+  lacking modern amenities. No electricity, water from the well and an earth loo
+  in 'The Elm Barn', a shed with a grand name, all set in a third of an acre of
+  orchard. An artist’s retreat from the hurly burly of war torn London, this was
+  my world - apple trees to climb, a stream to splash in, a duck pond beyond the
+  gate where my brother and I launched catamaran boats whittled from elder
+  sticks. The village was a place apart - a road petering out on the edge of the
+  moor, smelling of cows and cow parsley, deep ditches fringed by pollarded
+  willows, and a huge sky. This is the place my life started.”*
 
 
   Andrew Walton has spent the past two years retracing the Moor of his childhood
