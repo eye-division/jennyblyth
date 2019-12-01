@@ -162,7 +162,7 @@ images:
       />&amp;pound 1,500
   - image_path: /uploads/trinity1.jpg
     image_title: Trinity
-    image_description:
+    image_description: Trinity <br />oil and acrylic on aluminium<20 x 34 cm<br />&amp;pound 450
   - image_path: /assets/images/56c0c1aec7c59.jpg
     image_title: Untitled
     image_description: Untitled
