@@ -163,6 +163,11 @@ images:
   - image_path: /uploads/trinity1.jpg
     image_title: Trinity
     image_description: Trinity <br />oil and acrylic on aluminium<20 x 34 cm<br />&amp;pound 550
+  - image_path: /uploads/hedgerow-20-x-34-cm.jpg
+    image_title: Hedgerow
+    image_description: >-
+      Morning After Harvest <br />oil and acrylic on aluminium<24 x 30 cm<br
+      />&amp;pound 450 SOLD
   - image_path: /assets/images/56c0c1aec7c59.jpg
     image_title: Untitled
     image_description: Untitled
@@ -213,11 +218,11 @@ images:
   - image_path: /assets/images/53dc0141a8414.jpg
     image_title: The Swan
     image_description: 'The Swan, 2012<br />oil on board<br />60.s x 121 cm<br />&amp;pound;600'
-  - image_path: /uploads/hedgerow-20-x-34-cm.jpg
-    image_title: Hedgerow
+  - image_path: /uploads/r-m-caldecott-the-quiet-season-2.jpg
+    image_title:
     image_description: >-
-      Morning After Harvest <br />oil and acrylic on aluminium<24 x 30 cm<br
-      />&amp;pound 450 SOLD
+      The Quiet Season <br />oil and acrylic on aluminium<66 x 122 cm<br
+      />&amp;pound 1,500 SOLD
 _options:
   image_path:
     width: 1200
