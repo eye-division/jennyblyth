@@ -1,7 +1,7 @@
 ---
 title: Andrew Walton
 description_markdown: >-
-  From December 1 2019 at Carey Blyth Gallery
+  From December 1 2019 at **CAREY BLYTH&nbsp;**
 
 
   8 Woodstock Road Oxford OX2 6HT (wed-sun 11-5 pm)
