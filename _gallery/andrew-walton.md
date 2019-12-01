@@ -124,6 +124,9 @@ images:
   - image_path: /assets/images/5712673d61bb6.jpg
     image_title: Untitled
     image_description: Untitled
+  - image_path: /uploads/stubble-7.jpg
+    image_title:
+    image_description: 'The Izzards, 2019<br />ink on paper<br />42 x 54 cm<br/>£1500'
   - image_path: /assets/images/.jpg
     image_title:
     image_description:
@@ -148,8 +151,8 @@ images:
   - image_path: /assets/images/.jpg
     image_title:
     image_description:
-  - image_path: /assets/images/.jpg
-    image_title:
+  - image_path: /uploads/stubble-7.jpg
+    image_title: The Izzards
     image_description:
 _options:
   image_path:
