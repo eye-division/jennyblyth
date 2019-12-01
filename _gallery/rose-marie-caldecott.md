@@ -215,7 +215,9 @@ images:
     image_description: 'The Swan, 2012<br />oil on board<br />60.s x 121 cm<br />&amp;pound;600'
   - image_path: /uploads/hedgerow-20-x-34-cm.jpg
     image_title: Hedgerow
-    image_description:
+    image_description: >-
+      Morning After Harvest <br />oil and acrylic on aluminium<24 x 30 cm<br
+      />&amp;pound 450 SOLD
 _options:
   image_path:
     width: 1200
