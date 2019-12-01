@@ -201,6 +201,9 @@ images:
   - image_path: /uploads/morning-after-harvest.jpg
     image_title: Morning After Harvest
     image_description:
+  - image_path: /uploads/trinity1.jpg
+    image_title: Trinity
+    image_description:
 _options:
   image_path:
     width: 1200
