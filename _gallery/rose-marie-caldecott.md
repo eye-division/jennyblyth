@@ -152,7 +152,9 @@ images:
       />&amp;pound 1,500
   - image_path: /uploads/full-moon-confluence.jpg
     image_title: Full Moon Consequence
-    image_description:
+    image_description: >-
+      Full Moon Consequence <br />oil and acrylic on aluminium<60 x 100 cm<br
+      />&amp;pound 1,750
   - image_path: /uploads/ingoodcompany2019.jpg
     image_title: In Good Company
     image_description:
