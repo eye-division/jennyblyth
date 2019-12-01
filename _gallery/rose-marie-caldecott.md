@@ -145,6 +145,11 @@ archive: false
 display_title: true
 main_image_path: /uploads/r-m-caldecott-the-quiet-season-1.jpg
 images:
+  - image_path: /uploads/r-m-caldecott-the-quiet-season-2.jpg
+    image_title:
+    image_description: >-
+      The Quiet Season <br />oil and acrylic on aluminium<66 x 122 cm<br
+      />&amp;pound 1,500 SOLD
   - image_path: /uploads/morning-after-harvest.jpg
     image_title: Morning After Harvest
     image_description: >-
@@ -218,11 +223,6 @@ images:
   - image_path: /assets/images/53dc0141a8414.jpg
     image_title: The Swan
     image_description: 'The Swan, 2012<br />oil on board<br />60.s x 121 cm<br />&amp;pound;600'
-  - image_path: /uploads/r-m-caldecott-the-quiet-season-2.jpg
-    image_title:
-    image_description: >-
-      The Quiet Season <br />oil and acrylic on aluminium<66 x 122 cm<br
-      />&amp;pound 1,500 SOLD
 _options:
   image_path:
     width: 1200
