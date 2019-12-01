@@ -127,7 +127,7 @@ images:
   - image_path: /assets/images/5712673d61bb6.jpg
     image_title: Untitled
     image_description: Untitled
-  - image_path: /assets/images/.jpg
+  - image_path: /uploads/aw-otmoor-towards-cement-works.jpg
     image_title:
     image_description:
   - image_path: /assets/images/.jpg
@@ -139,17 +139,17 @@ images:
   - image_path: /assets/images/.jpg
     image_title:
     image_description:
-  - image_path: /assets/images/.jpg
-    image_title:
+  - image_path: /uploads/aw-kennington-water-meadows.jpg
+    image_title: Kennington Water Meadow
     image_description:
-  - image_path: /assets/images/.jpg
-    image_title:
+  - image_path: /uploads/aw-hinksey-park.jpg
+    image_title: Hinksey Park
     image_description:
-  - image_path: /assets/images/.jpg
-    image_title:
+  - image_path: /uploads/aw-towards-woodeaton-from-common-road.jpg
+    image_title: Towards Woodeaton from Common Road
     image_description:
-  - image_path: /assets/images/.jpg
-    image_title:
+  - image_path: /uploads/aw-seacourt-from-botley-hill.jpg
+    image_title: Seacourt from Botley Hill
     image_description:
   - image_path: /uploads/stubble-7.jpg
     image_title: The Izzards
