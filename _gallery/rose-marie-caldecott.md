@@ -147,7 +147,9 @@ main_image_path: /uploads/r-m-caldecott-the-quiet-season-1.jpg
 images:
   - image_path: /uploads/morning-after-harvest.jpg
     image_title: Morning After Harvest
-    image_description:
+    image_description: >-
+      Morning After Harvest <br />oil and acrylic on aluminium<60 x 100 cm<br
+      />&amp;pound 1,500
   - image_path: /uploads/full-moon-confluence.jpg
     image_title: Full Moon Consequence
     image_description:
