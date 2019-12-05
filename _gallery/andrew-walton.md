@@ -107,7 +107,7 @@ images:
     image_description: 'Christmas Moon, 2015<br />oil on canvas<br />61 x 61 cm<br/>£1250'
   - image_path: /assets/images/571263b6de2d7.jpg
     image_title: Otmoor Stubble
-    image_description: 'Otmoor Stubble, 2015<br />oil on canvas<br />24 x 24 in £  1250'
+    image_description: 'Otmoor Stubble, 2015<br />oil on canvas<br />24 x 24 in £  1100'
   - image_path: /uploads/andrew-walton-fen-of-otta-otmoor.JPG
     image_title: Fen A Otta
     image_description: Fen A Otta<br />oil on board<30 x 60 cm<br />&amp;pound 1250
@@ -132,6 +132,9 @@ images:
   - image_path: /uploads/aw-hinksey-park.jpg
     image_title: Hinksey Park
     image_description: Hinksey Park <br />oil on board<30 x 40 cm<br />&amp;pound 975
+  - image_path: /assets/images/571266b94f4bb.jpg
+    image_title: Otmoor Fence
+    image_description: 'Otmoor Fence, 2015<br />oil on canvas<br />61 x 61 cm<br/>£1250 SOLD'
   - image_path: /assets/images/5712669f8c9a1.jpg
     image_title: Otmoor Clay
     image_description: 'Otmoor Clay, 2015<br />oil on board<br />30 x 40 cm<br/>£975 SOLD'
@@ -143,9 +146,6 @@ images:
   - image_path: /assets/images/5712632aa15fe.jpg
     image_title: Orange Moon
     image_description: 'Orange Moon, 2015<br />oil on canvas<br />30 x 40 in<br/>£1500 SOLD'
-  - image_path: /assets/images/571266b94f4bb.jpg
-    image_title: Otmoor Fence
-    image_description: 'Otmoor Fence, 2015<br />oil on canvas<br />61 x 61 cm<br/>£1500'
   - image_path: /assets/images/571266e33f11e.jpg
     image_title: Untitled
     image_description: Untitled
