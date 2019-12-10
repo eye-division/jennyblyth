@@ -1,5 +1,6 @@
 ---
 title: Emily Ault
+surname: Ault
 description_markdown: |
   ## EMILY AULT : SHOTOVER EDGE
 

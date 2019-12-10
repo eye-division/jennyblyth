@@ -1,5 +1,6 @@
 ---
 title: Antonia Bruce
+surname: Bruce
 description_markdown: |
   ## ANTONIA BRUCE
 

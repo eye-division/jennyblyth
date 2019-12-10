@@ -1,5 +1,6 @@
 ---
 title: Gerry Judah
+surname: Judah
 description_markdown: |
   **NEWS : Great War Sculptures** at St. Paul's 2014.
 

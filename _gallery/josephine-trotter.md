@@ -1,5 +1,6 @@
 ---
 title: JOSEPHINE TROTTER
+surname: Trotter
 description_markdown: >-
   **JOSEPHINE TROTTER : British Landscape**
 

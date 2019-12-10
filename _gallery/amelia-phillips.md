@@ -1,5 +1,6 @@
 ---
 title: Amelia Phillips
+surname: Phillips
 description_markdown: |
   ##AMELIA PHILLIPS at ART JERICHO  
 

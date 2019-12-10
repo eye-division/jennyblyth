@@ -1,5 +1,6 @@
 ---
 title: James Allan
+surname: Allan
 description_markdown: |
   ## JAMES ALLAN at ART JERICHO
 

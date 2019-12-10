@@ -1,5 +1,6 @@
 ---
 title: Sophie Baker
+surname: Baker
 description_markdown: |
   **Jenny Blyth Fine Art exhibited paintings by Sophie Baker at London Art Fair 16 - 22 January 2013.**
 

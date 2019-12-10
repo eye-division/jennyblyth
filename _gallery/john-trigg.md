@@ -1,5 +1,6 @@
 ---
 title: John Trigg
+surname: Trigg
 description_markdown: |
   ## JOHN TRIGG : THEATRE OF LONGING
 

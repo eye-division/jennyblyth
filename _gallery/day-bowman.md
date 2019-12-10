@@ -1,5 +1,6 @@
 ---
 title: Day Bowman
+surname: Bowman
 description_markdown: |
   ### DAY BOWMAN 'ALCHEMY' : 4 January - 8 February 2015.
 

@@ -1,5 +1,6 @@
 ---
 title: Jethro Buck
+surname: Buck
 description_markdown: |
   ## NEWS
 

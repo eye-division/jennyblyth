@@ -1,5 +1,6 @@
 ---
 title: Netta Carey
+surname: Carey
 description_markdown: >-
   *[…](/)"I was lucky enough to receive a formal training in art and design and
   the lessons I learnt then are a fundamental part of my work to this day. A

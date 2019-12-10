@@ -1,5 +1,6 @@
 ---
 title: William Cotterill
+surname: Cotterill
 description_markdown: |
   **Jenny Blyth Fine Art exhibited William Cotterill at London Art Fair 16 - 22 January 2013**
 
