@@ -1,5 +1,6 @@
 ---
 title: Rosie Fairfax-Cholmeley and Robin Wilson
+surname: Fairfax-Cholmeley
 description_markdown: |
   FAR FROM THE MADDING CROWD
 

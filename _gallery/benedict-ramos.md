@@ -1,5 +1,6 @@
 ---
 title: Benedict Ramos
+surname: Ramos
 description_markdown: |
   **BENEDICT RAMOS**
 

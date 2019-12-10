@@ -1,5 +1,6 @@
 ---
 title: Addy Gardner
+surname: Gardner
 description_markdown: >-
   **ADDY GARDNER showing at CAREY BLYTH&nbsp;**
 

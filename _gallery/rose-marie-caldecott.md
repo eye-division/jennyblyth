@@ -1,5 +1,6 @@
 ---
 title: Rose-Marie Caldecott
+surname: Caldecott
 description_markdown: >-
   **ROSE-MARIE CALDECOTT at Carey Blyth Gallery 8 Woodstock Road OX2 6HT
   (wed-sun 11-5 pm)**

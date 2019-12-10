@@ -1,5 +1,6 @@
 ---
 title: Helen Slater
+surname: Slater
 description_markdown: |
   ## THE MAGIC OF THE TREES
 

@@ -29,8 +29,9 @@
         <li class="nav-link{% if page.url == '/contact/' %} active{% endif %} last">
           <a href="/contact/" class="">Contact</a>
         </li>
+        <br>
         <!-- end row 1 -->
-        {% assign galleries = site.gallery | sort: 'gallery_date' | reverse %}
+        {% assign galleries = site.gallery | sort: 'surname' %}
 
         {% for gallery in galleries %}
 

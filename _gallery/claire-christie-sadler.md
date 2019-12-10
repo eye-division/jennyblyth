@@ -1,5 +1,6 @@
 ---
 title: Claire Christie Sadler
+surname: Sadler
 description_markdown: |
   ### The Art of Music and Language
 
