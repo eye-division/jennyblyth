@@ -96,7 +96,7 @@ gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/andrew-walton/
 archive: false
 display_title: true
-main_image_path: /uploads/andrew-walton-fen-of-otta-otmoor.JPG
+main_image_path: /uploads/dsc-0795.JPG
 images:
   - image_path: /uploads/stubble-7.jpg
     image_title: The Izzards
