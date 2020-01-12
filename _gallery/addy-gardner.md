@@ -160,7 +160,7 @@ gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/addy-gardner/
 archive: false
 display_title: true
-main_image_path: /uploads/two-rivers-i-lg-1.jpg
+main_image_path: /uploads/for-your-whole-lives-to-be-an-adventure-0426-med-2.jpg
 images:
   - image_path: /assets/images/4e4e13a074a1e.jpg
     image_title: The Blue Fields of Heaven
