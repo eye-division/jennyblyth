@@ -188,8 +188,16 @@ archive: false
 display_title: true
 main_image_path: /uploads/for-your-whole-lives-to-be-an-adventure-0426-med-2.jpg
 images:
+  - image_path: /uploads/for-your-whole-lives-to-be-an-adventure-0426-med-1.jpg
+    image_title:
+    image_description: >-
+      For Your Whole Lives To Be An Adventure 2019<br />oil on canvas<br />122 x
+      152 cm<br />&amp;pound;
   - image_path: /uploads/a-world-of-our-own.jpg
     image_title: A World Of Our Own
+    image_description:
+  - image_path: /uploads/our-secret-journey.jpg
+    image_title: I Found My Way Back Alone
     image_description:
   - image_path: /assets/images/4e4e13a074a1e.jpg
     image_title: The Blue Fields of Heaven
@@ -207,11 +215,6 @@ images:
   - image_path: /uploads/two-rivers-i-lg.jpg
     image_title:
     image_description: Two Rivers I 2018<br />oil on canvas<br />90 x 120<br />&amp;pound;
-  - image_path: /uploads/for-your-whole-lives-to-be-an-adventure-0426-med-1.jpg
-    image_title:
-    image_description: >-
-      For Your Whole Lives To Be An Adventure 2019<br />oil on canvas<br />122 x
-      152 cm<br />&amp;pound;
   - image_path: /uploads/memories-im-forced-to-forget-0277lg.jpg
     image_title:
     image_description: >-
@@ -273,8 +276,14 @@ images:
     image_description: >-
       Breathing ourselves out and beyond, 2014<br />oil on canvas<br />60 x 180
       cm<br />&amp;pound;2500
-  - image_path: /uploads/our-secret-journey.jpg
-    image_title: I Found My Way Back Alone
+  - image_path: /uploads/blue-lake.JPG
+    image_title: Our Journey Up The Mountain
+    image_description:
+  - image_path: /uploads/swallowing-water-0227-sm-e1555619124858.jpg
+    image_title: Swallowing Water
+    image_description:
+  - image_path: /uploads/alongtheriver.jpg
+    image_title: 'Along By the River, Deep In Thought'
     image_description:
 _options:
   image_path:
