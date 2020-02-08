@@ -166,7 +166,7 @@ images:
     image_title: The Blue Fields of Heaven
     image_description: >-
       The Blue Fields of Heaven, 2010<br />oil on canvas<br />102 x 102 cm<br
-      />&amp;pound;2750
+      />&amp;pound;2750 SOLD
   - image_path: /assets/images/54427f6a32bcd.jpg
     image_title: Learning to Trust the DIfference II
     image_description: >-
