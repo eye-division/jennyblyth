@@ -244,8 +244,8 @@ images:
     image_description: >-
       Breathing ourselves out and beyond, 2014<br />oil on canvas<br />60 x 180
       cm<br />&amp;pound;2500
-  - image_path:
-    image_title:
+  - image_path: /uploads/a-world-of-our-own.jpg
+    image_title: A World Of Our Own
     image_description:
 _options:
   image_path:
