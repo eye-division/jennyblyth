@@ -192,7 +192,7 @@ images:
     image_title:
     image_description: >-
       For Your Whole Lives To Be An Adventure 2019<br />oil on canvas<br />122 x
-      152 cm<br />&amp;pound;
+      152 cm<br />&amp;pound; 3500
   - image_path: /uploads/a-world-of-our-own.jpg
     image_title:
     image_description: >-
@@ -204,7 +204,7 @@ images:
       Our Journey Up The Mountain 2019<br />oil on canvas<br />122 x 152 cm<br
       />&amp;pound 3500
   - image_path: /uploads/our-secret-journey.jpg
-    image_title:
+    image_title: I Found My Way Back Alone
     image_description: >-
       I Found My Way Back Alone  2019<br />oil on canvas<br />90 x 120 cm<br
       />&amp;pound 2500
