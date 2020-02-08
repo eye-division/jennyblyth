@@ -20,13 +20,13 @@ description_markdown: >-
   'peak experience'***.***
 
 
-  ***A World Of Our Own ***&nbsp;is such a painting with all the joy and
+  ***A World Of Our Own \*\**&nbsp;is such a painting with all the joy and
   inflections of mood that colour the landscape of the Welsh Mountains, and the
   promise of the valley beyond. Inspired by De Kooning, Addy has infused her
   paintings with a rigour and dynamic that is at the heart of the landscape.
-  ***A Journey Of Our Own*** and ***I Found My Way Back Alone&nbsp; ***are the
-  artist’s response to walking in Snowdonia.&nbsp; Off the well-trodden path to
-  the summit of Snowdon, hidden away, lies The Blue Lake. &nbsp;Glacial blue
+  \*\**A Journey Of Our Own*** and *\*\*I Found My Way Back Alone&nbsp; \*\**are
+  the artist’s response to walking in Snowdonia.&nbsp; Off the well-trodden path
+  to the summit of Snowdon, hidden away, lies The Blue Lake. &nbsp;Glacial blue
   water cascades into an old quarry, &nbsp;coloured by the stones beneath.&nbsp;
   The mountains on each side shape its path spilling crimson and cyan into high
   skies.
@@ -37,8 +37,8 @@ description_markdown: >-
   inviting us to explore our own path.&nbsp;
 
 
-  ***Along By The Willows, Deep In Thought ***&nbsp;is the artist’s response to
-  walking by the River Windrush in Oxfordshire.&nbsp; Winter is not yet over,
+  *\*\*Along By The Willows, Deep In Thought \*\**&nbsp;is the artist’s response
+  to walking by the River Windrush in Oxfordshire.&nbsp; Winter is not yet over,
   but there is a promise of Spring and new beginnings in the cool blues and
   whites of the sky fresh against the earthier tones of the land, and the dance
   of the willow branches whipping in the wind. *(Jenny Blyth, 2020)*
@@ -188,6 +188,9 @@ archive: false
 display_title: true
 main_image_path: /uploads/for-your-whole-lives-to-be-an-adventure-0426-med-2.jpg
 images:
+  - image_path: /uploads/a-world-of-our-own.jpg
+    image_title: A World Of Our Own
+    image_description:
   - image_path: /assets/images/4e4e13a074a1e.jpg
     image_title: The Blue Fields of Heaven
     image_description: >-
@@ -270,8 +273,8 @@ images:
     image_description: >-
       Breathing ourselves out and beyond, 2014<br />oil on canvas<br />60 x 180
       cm<br />&amp;pound;2500
-  - image_path: /uploads/a-world-of-our-own.jpg
-    image_title: A World Of Our Own
+  - image_path: /uploads/our-secret-journey.jpg
+    image_title: I Found My Way Back Alone
     image_description:
 _options:
   image_path:
