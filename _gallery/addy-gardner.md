@@ -11,29 +11,55 @@ description_markdown: >-
   **January 2020**
 
 
-  *"My paintings are born from an emotional response to places I visit and views
-  that I witness in my day to day life. Outwardly they relate to different light
-  and colour in the landscape. I then relate these to inward feelings and
-  memories and things which are currently going on in my life. Sometimes also
-  the history of a place and a feeling about a place will have an effect on the
-  painting. All of them are about beauty in the landscape and moments where this
-  beauty affects us.”*
+  **ADDY GARDNER**
 
 
   Essentially Addy Gardner’s paintings are autobiographical, reflecting her
   thoughts and preoccupations which morph into compositions capturing the drama
   of darker moments and lighter dawns of realisation, a sense &nbsp;of self and
-  'peak experience'.
+  'peak experience'***.***
 
 
-  Abstract expressionism in Addy's work generally treads a fine line with
-  figuration, as land meets sky, affording us an insight into the artist's
-  journey whilst inviting us to explore our own path. This particular painting
-  ***Along By The Willows, Deep In*** ***Thought*** &nbsp;is the artist’s
-  response to walking by the River Windrush.&nbsp; Winter is receding and there
-  is a promise of Spring and new beginnings.&nbsp; The willows are bare with
-  whiplike branches but the light is cool and fresh against the greens and
-  browns of the earth.
+  ***A World Of Our Own \*\**&nbsp;is such a painting with all the joy and
+  inflections of mood that colour the landscape of the Welsh Mountains, and the
+  promise of the valley beyond. Inspired by De Kooning, Addy has infused her
+  paintings with a rigour and dynamic that is at the heart of the landscape.
+  \*\**A Journey Of Our Own*** and *\*\*I Found My Way Back Alone&nbsp; \*\**are
+  the artist’s response to walking in Snowdonia.&nbsp; Off the well-trodden path
+  to the summit of Snowdon, hidden away, lies The Blue Lake. &nbsp;Glacial blue
+  water cascades into an old quarry, &nbsp;coloured by the stones beneath.&nbsp;
+  The mountains on each side shape its path spilling crimson and cyan into high
+  skies.
+
+
+  Abstract expressionism in Addy's work treads a fine line with figuration as
+  land meets sky, affording us an insight into the artist's journey whilst
+  inviting us to explore our own path.&nbsp;
+
+
+  *\*\*Along By The Willows, Deep In Thought \*\**&nbsp;is the artist’s response
+  to walking by the River Windrush in Oxfordshire.&nbsp; Winter is not yet over,
+  but there is a promise of Spring and new beginnings in the cool blues and
+  whites of the sky fresh against the earthier tones of the land, and the dance
+  of the willow branches whipping in the wind. *(Jenny Blyth, 2020)*
+
+
+  ***Addy Gardner : “My paintings are born from an emotional response to places
+  I visit and views that I witness in my day to day life. Outwardly they relate
+  to different light and colour in the landscape. I then relate these to inward
+  feelings and memories and things which are currently going on in my life.
+  Sometimes also the history of a place and a feeling about a place will have an
+  effect on the painting. All of them are about beauty in the landscape and
+  moments where this beauty affects us.***
+
+
+  ***I started to become interested in the work of De Kooning a year or so ago.
+  I had experienced one of his paintings in the Peggy Guggenheim Collection in
+  Venice some years back and I cannot put into words how it made me feel, other
+  than that I felt like it had hit me in the chest and brought me to my knees. I
+  wanted to explore the way in which De Kooning put together colours, texture
+  and line, that allowed me as viewer to feel elated as the eye danced across
+  the painting exploring the landscape.”***
 
 
   Addy Gardner trained in Psychology before studying Fine Art, and it is the
@@ -162,27 +188,54 @@ archive: false
 display_title: true
 main_image_path: /uploads/for-your-whole-lives-to-be-an-adventure-0426-med-2.jpg
 images:
-  - image_path: /assets/images/4e4e13a074a1e.jpg
-    image_title: The Blue Fields of Heaven
-    image_description: >-
-      The Blue Fields of Heaven, 2010<br />oil on canvas<br />102 x 102 cm<br
-      />&amp;pound;2750
-  - image_path: /assets/images/54427f6a32bcd.jpg
-    image_title: Learning to Trust the DIfference II
-    image_description: >-
-      Learning to Trust the DIfference II, 2014<br />oil on canvas<br />102 x
-      102 cm<br />&amp;pound;2750
-  - image_path: /uploads/tworiversi-lg-1.jpg
-    image_title:
-    image_description: Two Rivers II 2018<br />oil on canvas<br />90 x 120 cm<br />&amp;pound;
-  - image_path: /uploads/two-rivers-i-lg.jpg
-    image_title:
-    image_description: Two Rivers I 2018<br />oil on canvas<br />90 x 120<br />&amp;pound;
   - image_path: /uploads/for-your-whole-lives-to-be-an-adventure-0426-med-1.jpg
     image_title:
     image_description: >-
       For Your Whole Lives To Be An Adventure 2019<br />oil on canvas<br />122 x
       152 cm<br />&amp;pound;
+  - image_path: /uploads/a-world-of-our-own.jpg
+    image_title:
+    image_description: >-
+      A World Of Our Own 2019<br />oil on canvas<br />122 x 152 cm<br
+      />&amp;pound 3500
+  - image_path: /uploads/blue-lake.JPG
+    image_title: Our Journey Up The Mountain
+    image_description: >-
+      Our Journey Up The Mountain 2019<br />oil on canvas<br />122 x 152 cm<br
+      />&amp;pound 3500
+  - image_path: /uploads/our-secret-journey.jpg
+    image_title: I Found My Way Back Alone
+    image_description: >-
+      I Found My Way Back Alone  2019<br />oil on canvas<br />90 x 120 cm<br
+      />&amp;pound 2500
+  - image_path: /uploads/swallowing-water-0227-sm-e1555619124858.jpg
+    image_title: Swallowing Water
+    image_description: >-
+      Swallowing Water 2018<br />oil on canvas<br />100 x 100 cm<br />&amp;pound
+      2500
+  - image_path: /uploads/alongtheriver.jpg
+    image_title: 'Along By the River, Deep In Thought'
+    image_description: >-
+      Along By The Willows, Deep In Thought 2019<br />oil on canvas<br />60 x
+      180 cm<br />&amp;pound 2750
+  - image_path: /assets/images/54427f6a32bcd.jpg
+    image_title: Learning to Trust the DIfference II
+    image_description: >-
+      Learning to Trust the DIfference II, 2014<br />oil on canvas<br />102 x
+      102 cm<br />&amp;pound; 2500
+  - image_path: /uploads/two-rivers-i-lg.jpg
+    image_title:
+    image_description: Two Rivers I 2018<br />oil on canvas<br />90 x 120<br />&amp;pound; 3000
+  - image_path: /uploads/tworiversi-lg-1.jpg
+    image_title:
+    image_description: >-
+      Two Rivers II 2018<br />oil on canvas<br />90 x 120 cm<br />&amp;pound;
+      3000
+  - image_path: /assets/images/4e4e13a074a1e.jpg
+    image_title: The Blue Fields of Heaven
+    image_description: >-
+      The Blue Fields of Heaven, 2010<br />oil on canvas<br />102 x 102 cm<br
+      />&amp;pound;2750 SOLD
   - image_path: /uploads/memories-im-forced-to-forget-0277lg.jpg
     image_title:
     image_description: >-
@@ -244,9 +297,6 @@ images:
     image_description: >-
       Breathing ourselves out and beyond, 2014<br />oil on canvas<br />60 x 180
       cm<br />&amp;pound;2500
-  - image_path:
-    image_title:
-    image_description:
 _options:
   image_path:
     width: 1200
