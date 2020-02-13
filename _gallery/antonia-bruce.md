@@ -2,10 +2,62 @@
 title: Antonia Bruce
 surname: Bruce
 description_markdown: >-
-  ## ANTONIA BRUCE
+  **LOVE AND KISSES at Carey Blyth Gallery, Oxford**
 
 
-  ### HEARTLAND
+  **14 February – 1 March 2020**
+
+
+  **Antonia Bruce &nbsp; &nbsp;*Milagritos Hearts***
+
+
+  **Rose Artbuthnott &nbsp; &nbsp;*Portraits***
+
+
+  **Nicholas Arbuthnott &nbsp; &nbsp;*Sculpture*&nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; **
+
+
+  **LOVE & KISSES** an exhibition of work by British artists of drawings,
+  paintings, sculpture and photography.
+
+
+  Trained at Film School, Antonia Bruce has created cyanotypes of milagritos
+  (small brass folk charms) that are purchased in Catholic churches across
+  Mexico in exchange for prayers for love, relationships and more… Shaping the
+  milagritos across the page into hearts, the offerings are developed onto paper
+  that is brushed with iron compound and developed under a Mexican Sun to create
+  the white on blue silhouettes of individual prayers.
+
+
+  **Antonia Bruce** initiated a collaborative exchange between British and
+  Mexican artists over five years, responding to the culture of Oaxaca around
+  staple foods such as corn, cactus, honey etc… She has also curated a wonderful
+  exhibition of ex-votos or devotional paintings that was shown at Wellcome
+  Trust in London.&nbsp; Her Milagritos Hearts follow on from the devotional
+  theme.&nbsp;
+
+
+  **Rose Arbuthnott** &nbsp;: \|”*One morning in Mexico, I began the
+  inordinately simple task of drawing faces ….”*
+
+
+  Rose was one of the artists in residency in Part One of the First Foods
+  Project.&nbsp; She has created a beautiful body of portraits in charcoal on
+  paper and oil on board.&nbsp; Her simple line drawings are powerfully emotive
+  catching the pathos in a look, a kiss, a gesture between two lovers.&nbsp;
+
+
+  **Nicholas Arbuthnott** is showing heads sculpted in stone.&nbsp; His muses
+  embrace the classical with lines that recall the elongated melancholy of
+  Modigliani and conversely Picasso-esque reference to tribal art and cubism
+  expressed in sculpture and paintings such as *Les Demoiselles D’Avignon*.
+
+
+  **ANTONIA BRUCE**&nbsp;: HEARTLAND&nbsp;
+
+
+  Jenny Blyth Fine Art at ART JERICHO
 
 
   23 APRIL - 31 MAY 2015
@@ -48,6 +100,9 @@ description_markdown: >-
 
 
   ### BLUE MOON
+
+
+  Jenny Blyth Fine Art at ART JERICHO
 
 
   17 APRIL - 11 MAY 2014
@@ -104,6 +159,9 @@ description_markdown: >-
 
 
   ### HORSE LATITUDES
+
+
+  Jenny Blyth Fine Art at ART JERICHO
 
 
   7 – 31 OCTOBER 2010
@@ -187,9 +245,7 @@ description_markdown: >-
   *As a result the process becomes integral to the making of the photographs
   which in turn stands for a tiny amount of the many enigmatic experiences that
   I share with everybody who has ever spent time on Port Meadow. The project
-  continues to be a simultaneously chaotic and compelling experience. "*
-
-
+  continues to be a simultaneously chaotic and compelling experience. "*&nbsp;
   Antonia Bruce 2010.
 homepage_description_markdown:
 frontpage: true
