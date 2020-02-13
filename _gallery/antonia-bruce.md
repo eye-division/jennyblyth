@@ -14,20 +14,20 @@ description_markdown: >-
   **Rose Artbuthnott &nbsp; &nbsp;*Portraits***
 
 
-  **Nicholas Arbuthnott &nbsp; &nbsp;*Sculpture*&nbsp; &nbsp; &nbsp; &nbsp;
-  &nbsp; **
+  *\*Nicholas Arbuthnott &nbsp; &nbsp;*Sculpture\*&nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; \*\*
 
 
   **LOVE & KISSES** an exhibition of work by British artists of drawings,
   paintings, sculpture and photography.
 
 
-  Trained at Film School, Antonia Bruce has created cyanotypes of milagritos
-  (small brass folk charms) that are purchased in Catholic churches across
-  Mexico in exchange for prayers for love, relationships and more… Shaping the
-  milagritos across the page into hearts, the offerings are developed onto paper
-  that is brushed with iron compound and developed under a Mexican Sun to create
-  the white on blue silhouettes of individual prayers.
+  Antonia Bruce has created cyanotypes of milagritos (small brass folk charms)
+  that are purchased in Catholic churches across Mexico in exchange for prayers
+  for love, relationships and more… Shaping the milagritos across the page into
+  hearts, the offerings are developed onto paper that is brushed with iron
+  compound and developed under a Mexican Sun to create the white on blue
+  silhouettes of individual prayers.
 
 
   **Antonia Bruce** initiated a collaborative exchange between British and
@@ -46,6 +46,10 @@ description_markdown: >-
   Project.&nbsp; She has created a beautiful body of portraits in charcoal on
   paper and oil on board.&nbsp; Her simple line drawings are powerfully emotive
   catching the pathos in a look, a kiss, a gesture between two lovers.&nbsp;
+
+
+  Antonia Bruce attended Newcastle Polytechnic and went on to work in Film
+  Production.
 
 
   **Nicholas Arbuthnott** is showing heads sculpted in stone.&nbsp; His muses
