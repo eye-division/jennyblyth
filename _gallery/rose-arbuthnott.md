@@ -15,13 +15,22 @@ description_markdown: >-
   Arbuthnott's drawings convey a kaleidescope of emotion from curiosity -
   hesitant at times wistful, intimate - sometimes guarded, the joy and the angst
   of the heart and the passion - achieved in simple lines in charcoal on
-  paper.&nbsp; The subjects for her oils on board, like her drawings are young,
-  direct, strong, each one distinct from another.
+  paper.&nbsp;
 
 
-  &nbsp;Rose studied Fine Art and History of Art at Edinburgh University, set up
-  the Owl Barn artist residency in Gloucestershire and was artist in residence
-  as part of the first foods project in Mexico 2014.
+  The subjects for her oils on board, are young, direct, strong, each one
+  distinct from another. Icons in their own right, the characters are defined by
+  line and flat planes of colour which together create sculptural
+  form.&nbsp;&nbsp;
+
+
+  Perhaps Rose's muses include Picasso and Matisse for their strength and
+  simplicity.&nbsp; However, her style is distinctly her own.
+
+
+  Rose studied Fine Art and History of Art at Edinburgh University, set up the
+  Owl Barn artist residency in Gloucestershire and was artist in residence as
+  part of the first foods project in Mexico 2014.
 
 
   ***Rose Arbuthnott : "What I really want to talk about is the difficulty of
@@ -37,7 +46,7 @@ description_markdown: >-
   the planet? Since we live here and can only live here we need an alternative
   pronto. So what I am suggesting is that the money that I receive from the
   selling of my pictures will be used to support my research and activism,
-  possible because as a painter I have the privilege of time...."***
+  possible because as a painter I have the privilege of time…."***
 
 
   &nbsp;
