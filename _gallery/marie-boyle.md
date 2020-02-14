@@ -35,7 +35,7 @@ description_markdown: >-
 homepage_description_markdown:
 frontpage: true
 gallery_date:
-permalink:
+permalink: /gallery/marie-boyle/
 archive: false
 main_image_path: /uploads/imageboyle1.jpg
 display_title: true
