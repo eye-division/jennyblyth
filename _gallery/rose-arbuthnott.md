@@ -53,7 +53,7 @@ description_markdown: >-
 homepage_description_markdown:
 frontpage: true
 gallery_date:
-permalink:
+permalink: /gallery/rose-arbuthnott/
 archive: false
 main_image_path:
 display_title: true
