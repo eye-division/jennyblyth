@@ -305,7 +305,7 @@ images:
       Holiday Destination 1 2019<br />oil on canvas<br />152 x 168 x 4 cm<br
       />&amp;pound; 7500
   - image_path: /uploads/day-bowman-fortress-3.jpg
-    image_title: Fortress Study 3
+    image_title:
     image_description: >-
       Fortress Study 3 2019<br />oil on canvas<br />45 x 50 cm<br />&amp;pound;
       1200
