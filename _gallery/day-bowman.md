@@ -316,7 +316,9 @@ images:
       />&amp;pound;16,000
   - image_path: /assets/images/54affb7e73960.jpg
     image_title: 'Refinery 3, 2014'
-    image_description: 'Refinery 3, 2014<br />oil on canvas<br />150 x 170 cm<br />&amp;pound;7000'
+    image_description: >-
+      Refinery 3, 2014<br />oil on canvas<br />150 x 170 cm<br />&amp;pound;7000
+      SOLD
   - image_path: /assets/images/54afe9606c78f.jpg
     image_title: 'Refinery 7, 2014'
     image_description: >-
