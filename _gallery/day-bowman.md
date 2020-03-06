@@ -5,7 +5,7 @@ description_markdown: >-
   ### &nbsp;
 
 
-  ### **DAY BOWMAN : *Plashy Places* **
+  ### *\*DAY BOWMAN : \*Plashy Places* \*\*
 
 
   **6 March - 5 April 2020**
@@ -50,8 +50,8 @@ description_markdown: >-
 
 
   Bowman returns to the beaches of childhood in her recent paintings of
-  ***Plashy Places. ***Wet sand glistens as the incoming and receding tides of
-  ***Flood and Ebb*** &nbsp;erase calligraphic marks etched momentarily into
+  ***Plashy Places. \*\**Wet sand glistens as the incoming and receding tides of
+  \*\**Flood and Ebb*** &nbsp;erase calligraphic marks etched momentarily into
   surface, where the pooling of seawater and reflections play out in oil on
   canvas. Capturing the abandon of play, Bowman recalls W B Yeats’ *Man From
   Faeryland,* who, careworn with the fears and concerns of adulthood, observes
@@ -59,10 +59,10 @@ description_markdown: >-
   skies …
 
 
-  Bowman’s new and larger paintings of ***Holiday Destinations I, II & III
-  ***combine elements of both beach and wasteland. A ribbon of sky blue colours
-  up against rust and golden ochres, where spectrums of ghost whites and greys
-  ignite against the drama of a black backdrop.
+  Bowman’s new and larger paintings of *\*\*Holiday Destinations I, II & III
+  \*\**combine elements of both beach and wasteland. A ribbon of sky blue
+  colours up against rust and golden ochres, where spectrums of ghost whites and
+  greys ignite against the drama of a black backdrop.
 
 
   While her post-industrial abstractions resonate with rigour and dynamic,
@@ -78,7 +78,7 @@ description_markdown: >-
   *2019 has been a big year for Day Bowman. She was the Winner of the **Anima
   Mundi International Painting 2019** at **Venice Biennale 2019**; awarded First
   Prize for Painting in **Bath Arts Open 2019**; and won First Prize in the
-  **Wales Contemporary 2019**.**A graduate of Chelsea School of Art and London
+  **Wales Contemporary 2019**.\*\*A graduate of Chelsea School of Art and London
   University, she has exhibited widely with solo exhibitions over 15 years
   touring in Museums across UK, Germany and China where in 2017 she showed with
   Contemporary Masters from Britain. In 2012 she was commissioned to create
@@ -284,7 +284,9 @@ gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/day-bowman/
 archive: false
 display_title: true
-main_image_path: /assets/images/54afe9d0bbf7b.jpg
+main_image_path: >-
+  /assets/images/Day Bowman Plashy Place 5 oil, charcoal and conte on canvas 140
+  x 150 x 3 cm.jpg
 images:
   - image_path: /uploads/day-bowman-holiday-destination-2.jpg
     image_title: Holiday Destination 2
@@ -292,6 +294,12 @@ images:
   - image_path: >-
       /uploads/day-bowman-plashy-place-5-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm-1.jpg
     image_title: Plashy Place 5
+    image_description:
+  - image_path: /uploads/holiday-destination-1.jpg
+    image_title: Holiday Destination 1
+    image_description:
+  - image_path: /uploads/day-bowman-fortress-3.jpg
+    image_title: Fortress Study 3
     image_description:
   - image_path: /assets/images/54afe9d0bbf7b.jpg
     image_title: Refinery 1
