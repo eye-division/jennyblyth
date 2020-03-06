@@ -5,7 +5,7 @@ description_markdown: >-
   ### &nbsp;
 
 
-  ### *\*DAY BOWMAN : \*Plashy Places* \*\*
+  ### *DAY BOWMAN : Plashy Places*&nbsp;
 
 
   **6 March - 5 April 2020**
@@ -289,18 +289,26 @@ main_image_path: >-
   x 150 x 3 cm.jpg
 images:
   - image_path: /uploads/day-bowman-holiday-destination-2.jpg
-    image_title: Holiday Destination 2
-    image_description:
+    image_title:
+    image_description: >-
+      Holiday Destination 2 2019<br />oil on canvas<br />152 x 168 x 4 cm<br
+      />&amp;pound; 7500
   - image_path: >-
       /uploads/day-bowman-plashy-place-5-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm-1.jpg
-    image_title: Plashy Place 5
-    image_description:
+    image_title:
+    image_description: >-
+      Plashy Place 5 2019<br />oil on canvas<br />140 x 150 x 4cm<br
+      />&amp;pound; 6000
   - image_path: /uploads/holiday-destination-1.jpg
-    image_title: Holiday Destination 1
-    image_description:
+    image_title:
+    image_description: >-
+      Holiday Destination 1 2019<br />oil on canvas<br />152 x 168 x 4 cm<br
+      />&amp;pound; 7500
   - image_path: /uploads/day-bowman-fortress-3.jpg
     image_title: Fortress Study 3
-    image_description:
+    image_description: >-
+      Fortress Study 3 2019<br />oil on canvas<br />45 x 50 cm<br />&amp;pound;
+      1200
   - image_path: /assets/images/54afe9d0bbf7b.jpg
     image_title: Refinery 1
     image_description: >-
