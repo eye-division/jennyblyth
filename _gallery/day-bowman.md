@@ -324,19 +324,34 @@ images:
       /uploads/day-bowman-tide-pool-10-oil-charcoal-and-conte-on-canvas-26-x-30-x-4-cm-dsc-1759.jpg
     image_title:
     image_description: >-
-      Tide Pool 10<br />oil, charcoal and conte on cartridge paper<br />26 x 30
-      x 4 cm<br />&amp;pound; 675
+      Tide Pool 10<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
+      />&amp;pound; 675
   - image_path: >-
       /uploads/day-bowman-tide-pool-6-oil-charcoal-and-conte-on-canvas-26-x-30-x-4-cm-dsc-7128.jpg
     image_title:
     image_description: >-
-      Tide Pool 6<br />oil, charcoal and conte on cartridge paper<br />26 x 30 x
-      4 cm<br />&amp;pound; 675
+      Tide Pool 6<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
+      />&amp;pound; 675
+  - image_path: /uploads/dsc-7124.jpg
+    image_title:
+    image_description: >-
+      Tide Pool 5<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
+      />&amp;pound; 675
+  - image_path: /uploads/dsc-7131.jpg
+    image_title:
+    image_description: >-
+      Tide Pool 4<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
+      />&amp;pound; 675
+  - image_path:
+    image_title:
+    image_description: >-
+      Tide Pool 3<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
+      />&amp;pound; 675
   - image_path: /uploads/dsc-7133.jpg
     image_title:
     image_description: >-
-      Tide Pool 2<br />oil, charcoal and conte on cartridge paper<br />26 x 30 x
-      4 cm<br />&amp;pound; 675
+      Tide Pool 2<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
+      />&amp;pound; 675
   - image_path: /uploads/day-bowman-footprint.jpg
     image_title:
     image_description: >-
