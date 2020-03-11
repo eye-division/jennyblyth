@@ -309,6 +309,11 @@ images:
     image_description: >-
       Fortress Study 2<br />oil, charcoal and conte on canvas<br />45 x 50 x 4
       cm<br />&amp;pound; 1200
+  - image_path:
+    image_title:
+    image_description: >-
+      Tide Pool 3<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
+      />&amp;pound; 675
   - image_path: >-
       /uploads/foretress-series-4-oil-charcoal-and-conte-on-canvas-45-x-50-x-4cm.jpg
     image_title:
@@ -342,11 +347,11 @@ images:
     image_description: >-
       Tide Pool 4<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
       />&amp;pound; 675
-  - image_path:
+  - image_path: /uploads/fortress-study-1.jpg
     image_title:
     image_description: >-
-      Tide Pool 3<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
-      />&amp;pound; 675
+      Fortress Study 1<br />oil, charcoal and conte on canvas<br />45 x 50 x 4
+      cm<br />&amp;pound; 1200
   - image_path: /uploads/dsc-7133.jpg
     image_title:
     image_description: >-
