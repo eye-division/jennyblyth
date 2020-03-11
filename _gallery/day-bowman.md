@@ -293,29 +293,22 @@ images:
     image_description: >-
       Holiday Destination 2 2019<br />oil on canvas<br />152 x 168 x 4 cm<br
       />&amp;pound; 7500
-  - image_path: /uploads/day-bowman-footprint.jpg
-    image_title:
-    image_description:
   - image_path: >-
       /uploads/day-bowman-plashy-place-5-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm-1.jpg
     image_title:
     image_description: >-
       Plashy Place 5 2019<br />oil on canvas<br />140 x 150 x 4cm<br
       />&amp;pound; 6000
-  - image_path: >-
-      /uploads/day-bowman-tide-pool-6-oil-charcoal-and-conte-on-canvas-26-x-30-x-4-cm-dsc-7128.jpg
-    image_title:
-    image_description:
   - image_path: /uploads/holiday-destination-1.jpg
     image_title:
     image_description: >-
       Holiday Destination 1 2019<br />oil on canvas<br />152 x 168 x 4 cm<br
       />&amp;pound; 7500
-  - image_path: >-
-      /uploads/day-bowman-tide-pool-10-oil-charcoal-and-conte-on-canvas-26-x-30-x-4-cm-dsc-1759.jpg
+  - image_path: /uploads/day-bowman-footprint.jpg
     image_title:
     image_description:
-  - image_path: /uploads/dsc-7133.jpg
+  - image_path: >-
+      /uploads/day-bowman-tide-pool-10-oil-charcoal-and-conte-on-canvas-26-x-30-x-4-cm-dsc-1759.jpg
     image_title:
     image_description:
   - image_path: /uploads/day-bowman-fortress-3.jpg
@@ -323,6 +316,13 @@ images:
     image_description: >-
       Fortress Study 3 2019<br />oil on canvas<br />45 x 50 cm<br />&amp;pound;
       1200
+  - image_path: >-
+      /uploads/day-bowman-tide-pool-6-oil-charcoal-and-conte-on-canvas-26-x-30-x-4-cm-dsc-7128.jpg
+    image_title:
+    image_description:
+  - image_path: /uploads/dsc-7133.jpg
+    image_title:
+    image_description:
   - image_path: /assets/images/54afe9d0bbf7b.jpg
     image_title: Refinery 1
     image_description: >-
