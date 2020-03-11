@@ -337,16 +337,16 @@ images:
     image_description: >-
       Tide Pool 2<br />oil, charcoal and conte on cartridge paper<br />26 x 30 x
       4 cm<br />&amp;pound; 675
-  - image_path: /assets/images/54afe9d0bbf7b.jpg
-    image_title: Refinery 1
-    image_description: >-
-      Refinery 1, 2014<br />oil on canvas<br />200 x 270 cm<br
-      />&amp;pound;16,000
   - image_path: /uploads/day-bowman-footprint.jpg
     image_title:
     image_description: >-
       Footprint Series 2019<br />oil, charcoal and graphite on cartridge
       paper<br />20 x 20 cm<br />&amp;pound; 275
+  - image_path: /assets/images/54afe9d0bbf7b.jpg
+    image_title: Refinery 1
+    image_description: >-
+      Refinery 1, 2014<br />oil on canvas<br />200 x 270 cm<br
+      />&amp;pound;16,000
   - image_path: /assets/images/506c39c5ee5bc.jpg
     image_title: 'Weymouth/Portland 11, 2012'
     image_description: >-
