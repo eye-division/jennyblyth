@@ -285,8 +285,7 @@ permalink: /gallery/day-bowman/
 archive: false
 display_title: true
 main_image_path: >-
-  /assets/images/Day Bowman Plashy Place 5 oil, charcoal and conte on canvas 140
-  x 150 x 3 cm.jpg
+  /uploads/day-bowman-holiday-destination-2-152x168x4-cm-oil-charcoal-and-conte-on-canvas-2018-£8000-dsc-7086.jpg
 images:
   - image_path: /uploads/day-bowman-holiday-destination-2.jpg
     image_title:
@@ -294,7 +293,7 @@ images:
       Holiday Destination 2 2019<br />oil on canvas<br />152 x 168 x 4 cm<br
       />&amp;pound; 7500
   - image_path: >-
-      /uploads/day-bowman-plashy-place-5-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm-1.jpg
+      /uploads/day-bowman-plashy-place-5-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm-2.jpg
     image_title:
     image_description: >-
       Plashy Place 5 2019<br />oil on canvas<br />140 x 150 x 4cm<br
@@ -308,6 +307,11 @@ images:
     image_title:
     image_description: >-
       Fortress Study 2<br />oil, charcoal and conte on canvas<br />45 x 50 x 4
+      cm<br />&amp;pound; 1200
+  - image_path: /uploads/fortress-study-1.jpg
+    image_title:
+    image_description: >-
+      Fortress Study 1<br />oil, charcoal and conte on canvas<br />45 x 50 x 4
       cm<br />&amp;pound; 1200
   - image_path:
     image_title:
@@ -342,16 +346,16 @@ images:
     image_description: >-
       Tide Pool 5<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
       />&amp;pound; 675
+  - image_path: /uploads/tide-pool-1.jpg
+    image_title:
+    image_description: >-
+      Tide Pool 1<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
+      />&amp;pound; 675
   - image_path: /uploads/dsc-7131.jpg
     image_title:
     image_description: >-
       Tide Pool 4<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
       />&amp;pound; 675
-  - image_path: /uploads/fortress-study-1.jpg
-    image_title:
-    image_description: >-
-      Fortress Study 1<br />oil, charcoal and conte on canvas<br />45 x 50 x 4
-      cm<br />&amp;pound; 1200
   - image_path: /uploads/dsc-7133.jpg
     image_title:
     image_description: >-
