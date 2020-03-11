@@ -304,6 +304,11 @@ images:
     image_description: >-
       Holiday Destination 1 2019<br />oil on canvas<br />152 x 168 x 4 cm<br
       />&amp;pound; 7500
+  - image_path: /uploads/dsc-7117.jpg
+    image_title:
+    image_description: >-
+      Fortress Study 2<br />oil, charcoal and conte on canvas<br />45 x 50 x 4
+      cm<br />&amp;pound; 1200
   - image_path: >-
       /uploads/foretress-series-4-oil-charcoal-and-conte-on-canvas-45-x-50-x-4cm.jpg
     image_title:
