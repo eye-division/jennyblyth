@@ -293,17 +293,31 @@ images:
     image_description: >-
       Holiday Destination 2 2019<br />oil on canvas<br />152 x 168 x 4 cm<br
       />&amp;pound; 7500
+  - image_path: /uploads/day-bowman-footprint.jpg
+    image_title:
+    image_description:
   - image_path: >-
       /uploads/day-bowman-plashy-place-5-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm-1.jpg
     image_title:
     image_description: >-
       Plashy Place 5 2019<br />oil on canvas<br />140 x 150 x 4cm<br
       />&amp;pound; 6000
+  - image_path: >-
+      /uploads/day-bowman-tide-pool-6-oil-charcoal-and-conte-on-canvas-26-x-30-x-4-cm-dsc-7128.jpg
+    image_title:
+    image_description:
   - image_path: /uploads/holiday-destination-1.jpg
     image_title:
     image_description: >-
       Holiday Destination 1 2019<br />oil on canvas<br />152 x 168 x 4 cm<br
       />&amp;pound; 7500
+  - image_path: >-
+      /uploads/day-bowman-tide-pool-10-oil-charcoal-and-conte-on-canvas-26-x-30-x-4-cm-dsc-1759.jpg
+    image_title:
+    image_description:
+  - image_path: /uploads/dsc-7133.jpg
+    image_title:
+    image_description:
   - image_path: /uploads/day-bowman-fortress-3.jpg
     image_title:
     image_description: >-
@@ -314,66 +328,6 @@ images:
     image_description: >-
       Refinery 1, 2014<br />oil on canvas<br />200 x 270 cm<br
       />&amp;pound;16,000
-  - image_path: /assets/images/54affb7e73960.jpg
-    image_title: 'Refinery 3, 2014'
-    image_description: >-
-      Refinery 3, 2014<br />oil on canvas<br />150 x 170 cm<br />&amp;pound;7000
-      SOLD
-  - image_path: /assets/images/54afe9606c78f.jpg
-    image_title: 'Refinery 7, 2014'
-    image_description: >-
-      Refinery 7, 2014<br />oil on canvas<br />150 x 170 cm<br
-      />&amp;pound;7,000
-  - image_path: /assets/images/54afe97cebeff.jpg
-    image_title: 'Refinery 4, 2014'
-    image_description: >-
-      Refinery 4, 2014<br />oil on canvas<br />150 x 170 cm<br
-      />&amp;pound;7,000
-  - image_path: /assets/images/54afe9b335cbe.jpg
-    image_title: 'Refinery 6, 2014'
-    image_description: >-
-      Refinery 6, 2014<br />oil on canvas<br />150 x 170 cm<br
-      />&amp;pound;7,000
-  - image_path: /assets/images/54afe99965b7b.jpg
-    image_title: 'Refinery 5, 2014'
-    image_description: >-
-      Refinery 5, 2014<br />oil on canvas<br />150 x 170 cm<br
-      />&amp;Acirc;&amp;pound;7,000
-  - image_path: /assets/images/54afea5ebbd1d.jpg
-    image_title: 'Borders 13, 2014'
-    image_description: >-
-      Borders 13, 2014<br />mixed collage on canvas<br />26 x 30 cm<br
-      />&amp;pound;675
-  - image_path: /assets/images/54afea419f77b.jpg
-    image_title: 'Borders 16, 2014'
-    image_description: >-
-      Borders 16, 2014<br />mixed collage on canvas<br />26 x 30 cm<br
-      />&amp;pound;675
-  - image_path: /assets/images/54afea1e66e7f.jpg
-    image_title: 'Borders 8, 2014'
-    image_description: >-
-      Borders 8, 2014<br />mixed collage on canvas<br />26 x 30 cm<br
-      />&amp;pound;675
-  - image_path: /assets/images/50be108304e8a.jpg
-    image_title: 'Wharf Siding 1, 2012'
-    image_description: >-
-      Wharf Siding 1, 2012<br />oil, charcoal and conte on canvas<br />173 x 200
-      cm
-  - image_path: /assets/images/506c3f214cc7e.jpg
-    image_title: 'Sun Setting Over Gasometer 1, 2011'
-    image_description: >-
-      Sun Setting Over Gasometer 1, 2011<br />oil, charcoal and conte on
-      canvas<br />173 x 200 cm<br />&amp;pound;10,000
-  - image_path: /assets/images/506578aeca80f.jpg
-    image_title: 'Looking Downstream Towards Gasometer 1, 2011'
-    image_description: >-
-      Looking Downstream Towards Gasometer 1, 2011<br />oil, charcoal and conte
-      on canvas<br />173 x 200 cm<br />&amp;pound;10,000
-  - image_path: /assets/images/506c3a8b9cc73.jpg
-    image_title: 'Weymouth/Portland 6 2012, 2012'
-    image_description: >-
-      Weymouth/Portland 6 2012, 2012<br />collage in mixed media on canvas<br
-      />26 x 38 cm<br />&amp;pound;650
   - image_path: /assets/images/506c39c5ee5bc.jpg
     image_title: 'Weymouth/Portland 11, 2012'
     image_description: >-
@@ -402,11 +356,6 @@ images:
   - image_path: /assets/images/54afe73b8799c.jpg
     image_title: 'Edgelands 2, 2012'
     image_description: 'Edgelands 2, 2012<br />oil, charcoal and conte on canvas<br />173 x 400 cm'
-  - image_path: /assets/images/54df583057985.jpg
-    image_title: 'Old Belle Epoque, 2014'
-    image_description: >-
-      Old Belle Epoque, 2014<br />Pigmented Inks on Baryta Paper<br />8 x
-      12&amp;quot;<br />&amp;Acirc;&amp;pound;275
 _options:
   image_path:
     width: 1200
