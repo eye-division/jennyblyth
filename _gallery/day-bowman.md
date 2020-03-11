@@ -285,8 +285,7 @@ permalink: /gallery/day-bowman/
 archive: false
 display_title: true
 main_image_path: >-
-  /assets/images/Day Bowman Plashy Place 5 oil, charcoal and conte on canvas 140
-  x 150 x 3 cm.jpg
+  /uploads/day-bowman-holiday-destination-2-152x168x4-cm-oil-charcoal-and-conte-on-canvas-2018-£8000-dsc-7086.jpg
 images:
   - image_path: /uploads/day-bowman-holiday-destination-2.jpg
     image_title:
@@ -294,7 +293,7 @@ images:
       Holiday Destination 2 2019<br />oil on canvas<br />152 x 168 x 4 cm<br
       />&amp;pound; 7500
   - image_path: >-
-      /uploads/day-bowman-plashy-place-5-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm-1.jpg
+      /uploads/day-bowman-plashy-place-5-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm-2.jpg
     image_title:
     image_description: >-
       Plashy Place 5 2019<br />oil on canvas<br />140 x 150 x 4cm<br
@@ -304,74 +303,74 @@ images:
     image_description: >-
       Holiday Destination 1 2019<br />oil on canvas<br />152 x 168 x 4 cm<br
       />&amp;pound; 7500
+  - image_path: /uploads/dsc-7117.jpg
+    image_title:
+    image_description: >-
+      Fortress Study 2<br />oil, charcoal and conte on canvas<br />45 x 50 x 4
+      cm<br />&amp;pound; 1200
+  - image_path: /uploads/fortress-study-1.jpg
+    image_title:
+    image_description: >-
+      Fortress Study 1<br />oil, charcoal and conte on canvas<br />45 x 50 x 4
+      cm<br />&amp;pound; 1200
+  - image_path:
+    image_title:
+    image_description: >-
+      Tide Pool 3<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
+      />&amp;pound; 675
+  - image_path: >-
+      /uploads/foretress-series-4-oil-charcoal-and-conte-on-canvas-45-x-50-x-4cm.jpg
+    image_title:
+    image_description: >-
+      Fortress Study 4<br />oil, charcoal and conte on canvas<br />45 x 50 x 4
+      cm<br />&amp;pound; 1200
   - image_path: /uploads/day-bowman-fortress-3.jpg
     image_title:
     image_description: >-
-      Fortress Study 3 2019<br />oil on canvas<br />45 x 50 cm<br />&amp;pound;
-      1200
+      Fortress Study 3<br />oil, charcoal and conte on canvas<br />45 x 50 x 4
+      cm<br />&amp;pound; 1200
+  - image_path: >-
+      /uploads/day-bowman-tide-pool-10-oil-charcoal-and-conte-on-canvas-26-x-30-x-4-cm-dsc-1759.jpg
+    image_title:
+    image_description: >-
+      Tide Pool 10<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
+      />&amp;pound; 675
+  - image_path: >-
+      /uploads/day-bowman-tide-pool-6-oil-charcoal-and-conte-on-canvas-26-x-30-x-4-cm-dsc-7128.jpg
+    image_title:
+    image_description: >-
+      Tide Pool 6<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
+      />&amp;pound; 675
+  - image_path: /uploads/dsc-7124.jpg
+    image_title:
+    image_description: >-
+      Tide Pool 5<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
+      />&amp;pound; 675
+  - image_path: /uploads/tide-pool-1.jpg
+    image_title:
+    image_description: >-
+      Tide Pool 1<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
+      />&amp;pound; 675
+  - image_path: /uploads/dsc-7131.jpg
+    image_title:
+    image_description: >-
+      Tide Pool 4<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
+      />&amp;pound; 675
+  - image_path: /uploads/dsc-7133.jpg
+    image_title:
+    image_description: >-
+      Tide Pool 2<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
+      />&amp;pound; 675
+  - image_path: /uploads/day-bowman-footprint.jpg
+    image_title:
+    image_description: >-
+      Footprint Series 2019<br />oil, charcoal and graphite on cartridge
+      paper<br />20 x 20 cm<br />&amp;pound; 275
   - image_path: /assets/images/54afe9d0bbf7b.jpg
     image_title: Refinery 1
     image_description: >-
       Refinery 1, 2014<br />oil on canvas<br />200 x 270 cm<br
       />&amp;pound;16,000
-  - image_path: /assets/images/54affb7e73960.jpg
-    image_title: 'Refinery 3, 2014'
-    image_description: 'Refinery 3, 2014<br />oil on canvas<br />150 x 170 cm<br />&amp;pound;7000'
-  - image_path: /assets/images/54afe9606c78f.jpg
-    image_title: 'Refinery 7, 2014'
-    image_description: >-
-      Refinery 7, 2014<br />oil on canvas<br />150 x 170 cm<br
-      />&amp;pound;7,000
-  - image_path: /assets/images/54afe97cebeff.jpg
-    image_title: 'Refinery 4, 2014'
-    image_description: >-
-      Refinery 4, 2014<br />oil on canvas<br />150 x 170 cm<br
-      />&amp;pound;7,000
-  - image_path: /assets/images/54afe9b335cbe.jpg
-    image_title: 'Refinery 6, 2014'
-    image_description: >-
-      Refinery 6, 2014<br />oil on canvas<br />150 x 170 cm<br
-      />&amp;pound;7,000
-  - image_path: /assets/images/54afe99965b7b.jpg
-    image_title: 'Refinery 5, 2014'
-    image_description: >-
-      Refinery 5, 2014<br />oil on canvas<br />150 x 170 cm<br
-      />&amp;Acirc;&amp;pound;7,000
-  - image_path: /assets/images/54afea5ebbd1d.jpg
-    image_title: 'Borders 13, 2014'
-    image_description: >-
-      Borders 13, 2014<br />mixed collage on canvas<br />26 x 30 cm<br
-      />&amp;pound;675
-  - image_path: /assets/images/54afea419f77b.jpg
-    image_title: 'Borders 16, 2014'
-    image_description: >-
-      Borders 16, 2014<br />mixed collage on canvas<br />26 x 30 cm<br
-      />&amp;pound;675
-  - image_path: /assets/images/54afea1e66e7f.jpg
-    image_title: 'Borders 8, 2014'
-    image_description: >-
-      Borders 8, 2014<br />mixed collage on canvas<br />26 x 30 cm<br
-      />&amp;pound;675
-  - image_path: /assets/images/50be108304e8a.jpg
-    image_title: 'Wharf Siding 1, 2012'
-    image_description: >-
-      Wharf Siding 1, 2012<br />oil, charcoal and conte on canvas<br />173 x 200
-      cm
-  - image_path: /assets/images/506c3f214cc7e.jpg
-    image_title: 'Sun Setting Over Gasometer 1, 2011'
-    image_description: >-
-      Sun Setting Over Gasometer 1, 2011<br />oil, charcoal and conte on
-      canvas<br />173 x 200 cm<br />&amp;pound;10,000
-  - image_path: /assets/images/506578aeca80f.jpg
-    image_title: 'Looking Downstream Towards Gasometer 1, 2011'
-    image_description: >-
-      Looking Downstream Towards Gasometer 1, 2011<br />oil, charcoal and conte
-      on canvas<br />173 x 200 cm<br />&amp;pound;10,000
-  - image_path: /assets/images/506c3a8b9cc73.jpg
-    image_title: 'Weymouth/Portland 6 2012, 2012'
-    image_description: >-
-      Weymouth/Portland 6 2012, 2012<br />collage in mixed media on canvas<br
-      />26 x 38 cm<br />&amp;pound;650
   - image_path: /assets/images/506c39c5ee5bc.jpg
     image_title: 'Weymouth/Portland 11, 2012'
     image_description: >-
@@ -400,11 +399,6 @@ images:
   - image_path: /assets/images/54afe73b8799c.jpg
     image_title: 'Edgelands 2, 2012'
     image_description: 'Edgelands 2, 2012<br />oil, charcoal and conte on canvas<br />173 x 400 cm'
-  - image_path: /assets/images/54df583057985.jpg
-    image_title: 'Old Belle Epoque, 2014'
-    image_description: >-
-      Old Belle Epoque, 2014<br />Pigmented Inks on Baryta Paper<br />8 x
-      12&amp;quot;<br />&amp;Acirc;&amp;pound;275
 _options:
   image_path:
     width: 1200
