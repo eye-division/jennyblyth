@@ -304,30 +304,44 @@ images:
     image_description: >-
       Holiday Destination 1 2019<br />oil on canvas<br />152 x 168 x 4 cm<br
       />&amp;pound; 7500
-  - image_path: /uploads/day-bowman-footprint.jpg
-    image_title:
-    image_description:
   - image_path: >-
-      /uploads/day-bowman-tide-pool-10-oil-charcoal-and-conte-on-canvas-26-x-30-x-4-cm-dsc-1759.jpg
+      /uploads/foretress-series-4-oil-charcoal-and-conte-on-canvas-45-x-50-x-4cm.jpg
     image_title:
-    image_description:
+    image_description: >-
+      Fortress Study 4<br />oil, charcoal and conte on canvas<br />45 x 50 x 4
+      cm<br />&amp;pound; 1200
   - image_path: /uploads/day-bowman-fortress-3.jpg
     image_title:
     image_description: >-
-      Fortress Study 3 2019<br />oil on canvas<br />45 x 50 cm<br />&amp;pound;
-      1200
+      Fortress Study 3<br />oil, charcoal and conte on canvas<br />45 x 50 x 4
+      cm<br />&amp;pound; 1200
+  - image_path: >-
+      /uploads/day-bowman-tide-pool-10-oil-charcoal-and-conte-on-canvas-26-x-30-x-4-cm-dsc-1759.jpg
+    image_title:
+    image_description: >-
+      Tide Pool 10<br />oil, charcoal and conte on cartridge paper<br />26 x 30
+      x 4 cm<br />&amp;pound; 675
   - image_path: >-
       /uploads/day-bowman-tide-pool-6-oil-charcoal-and-conte-on-canvas-26-x-30-x-4-cm-dsc-7128.jpg
     image_title:
-    image_description:
+    image_description: >-
+      Tide Pool 6<br />oil, charcoal and conte on cartridge paper<br />26 x 30 x
+      4 cm<br />&amp;pound; 675
   - image_path: /uploads/dsc-7133.jpg
     image_title:
-    image_description:
+    image_description: >-
+      Tide Pool 2<br />oil, charcoal and conte on cartridge paper<br />26 x 30 x
+      4 cm<br />&amp;pound; 675
   - image_path: /assets/images/54afe9d0bbf7b.jpg
     image_title: Refinery 1
     image_description: >-
       Refinery 1, 2014<br />oil on canvas<br />200 x 270 cm<br
       />&amp;pound;16,000
+  - image_path: /uploads/day-bowman-footprint.jpg
+    image_title:
+    image_description: >-
+      Footprint Series 2019<br />oil, charcoal and graphite on cartridge
+      paper<br />20 x 20 cm<br />&amp;pound; 275
   - image_path: /assets/images/506c39c5ee5bc.jpg
     image_title: 'Weymouth/Portland 11, 2012'
     image_description: >-
