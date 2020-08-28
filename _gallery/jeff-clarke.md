@@ -1,7 +1,7 @@
 ---
 title: Jeff CLARKE
 description_markdown: >-
-  ***JEFF CLARKE : CHIAROSCURO : Prints, Drawings and Etchings ***
+  *JEFF CLARKE : CHIAROSCURO : Prints, Drawings and Etchings&nbsp;*
 
 
   ***Carey Blyth Gallery &nbsp;***
@@ -15,11 +15,11 @@ description_markdown: >-
   to create both form and drama.*
 
 
-  *The technique was developed fully through the 1600s by artists such as
+  \*The technique was developed fully through the 1600s by artists such as
   Leonardo da Vinci, Rembrandt and Vermeer.&nbsp; One of its strongest exponents
   was Caravaggio. His iconic paintings such as ‘The Calling of St Matthew’
   (1600), ‘The Entombment of Christ’ (1503) and ‘Bacchus’ (1593) used light and
-  dark to heighten dramatic effect. *
+  dark to heighten dramatic effect. \*
 
 
   *Caravaggio’s personal life was as dramatic as his paintings.&nbsp; He was a
@@ -225,7 +225,7 @@ description_markdown: >-
   &nbsp;
 
 
-  **Mixed Shows : **
+  \*\*Mixed Shows : \*\*
 
 
   RA Summer Exhibitions
@@ -273,7 +273,7 @@ description_markdown: >-
   &nbsp;
 
 
-  **Collections : **
+  \*\*Collections : \*\*
 
 
   British Museum
@@ -296,7 +296,7 @@ description_markdown: >-
 
   &nbsp;
 homepage_description_markdown: >-
-  ***JEFF CLARKE : CHIAROSCURO : Prints, Drawings and Etchings ***
+  ***JEFF CLARKE : CHIAROSCURO : Prints, Drawings and Etchings&nbsp;***
 
 
   ***Carey Blyth Gallery : September 2020***
@@ -307,11 +307,11 @@ homepage_description_markdown: >-
   to create both form and drama.*
 
 
-  *The technique was developed fully through the 1600s by artists such as
+  \*The technique was developed fully through the 1600s by artists such as
   Leonardo da Vinci, Rembrandt and Vermeer.&nbsp; One of its strongest exponents
   was Caravaggio. His iconic paintings such as ‘The Calling of St Matthew’
   (1600), ‘The Entombment of Christ’ (1503) and ‘Bacchus’ (1593) used light and
-  dark to heighten dramatic effect. *
+  dark to heighten dramatic effect. \*
 
 
   *Caravaggio’s personal life was as dramatic as his paintings.&nbsp; He was a
@@ -382,7 +382,7 @@ homepage_description_markdown: >-
   sense’.*
 
 
-  Working largely *sur le motif*, he juxtaposes jugs and pots of brushes on
+  Working largely sur le motif, he juxtaposes jugs and pots of brushes on
   tabletops with fruit, perhaps apples or onions.&nbsp; Each day, the challenge
   is on - his mantra is to *elevate the everyday* through form and light.
 
@@ -517,7 +517,7 @@ homepage_description_markdown: >-
   &nbsp;
 
 
-  **Mixed Shows : **
+  \*\*Mixed Shows : \*\*
 
 
   RA Summer Exhibitions
@@ -565,7 +565,7 @@ homepage_description_markdown: >-
   &nbsp;
 
 
-  **Collections : **
+  \*\*Collections : \*\*
 
 
   British Museum
@@ -585,11 +585,11 @@ frontpage: true
 gallery_date:
 permalink: /gallery/Jeff-Clarke/
 archive: false
-main_image_path: /uploads/kentallen-dusk.jpg
+main_image_path: /uploads/34-english-rose-cretan-vase-1.jpg
 display_title: true
 images:
-  - image_path: /uploads/kentallen-dusk.jpg
-    image_title: Kentallen at Dusk
+  - image_path: /uploads/34-english-rose-cretan-vase-1.jpg
+    image_title: 'English Rose, Cretan Vase'
     image_description:
 _options:
   image_path:
