@@ -1,7 +1,7 @@
 ---
 title: Jeff CLARKE
 description_markdown: >-
-  *JEFF CLARKE : CHIAROSCURO : Prints, Drawings and Etchings&nbsp;*
+  ***JEFF CLARKE : CHIAROSCURO : Prints, Drawings and Etchings&nbsp;***
 
 
   ***Carey Blyth Gallery &nbsp;***
