@@ -582,14 +582,47 @@ homepage_description_markdown: >-
 
   Photography by John Milnes &copy; 2020
 frontpage: true
-gallery_date:
-permalink: /gallery/Jeff-Clarke/
+gallery_date: 2020-08-29 00:00:00
+permalink: /gallery/jeff-clarke/
 archive: false
 main_image_path: /uploads/34-english-rose-cretan-vase-1.jpg
 display_title: true
 images:
   - image_path: /uploads/34-english-rose-cretan-vase-1.jpg
     image_title: 'English Rose, Cretan Vase'
+    image_description:
+  - image_path: /uploads/34-english-rose-cretan-vase-2.jpg
+    image_title: 'English Rose, Cretan Vase'
+    image_description:
+  - image_path: /uploads/104-greek-table.jpg
+    image_title: Greek Table
+    image_description:
+  - image_path: /uploads/chair-amphora-and-lemon-tree-knossos.jpg
+    image_title: 'Chair, Amphora and Lemon Tree, Knossos'
+    image_description:
+  - image_path: /uploads/40-jug-box-and-shadows.jpg
+    image_title: Boxing and Shadows
+    image_description:
+  - image_path: /uploads/50-jug-and-apples.jpg
+    image_title: Jug and Apples
+    image_description:
+  - image_path: /uploads/45-enamel-jub-and-windfalls.jpg
+    image_title: Enamel Jug and Windfalls
+    image_description:
+  - image_path: /uploads/47-honesty-and-three-jugs.jpg
+    image_title: Honesty and Three Jugs
+    image_description:
+  - image_path: /uploads/53-jug-and-onion.jpg
+    image_title: Jug and Onion
+    image_description:
+  - image_path: /uploads/28-laroquebrou-rainy-day.jpg
+    image_title: 'Laroquebrou, Rainy Day'
+    image_description:
+  - image_path: /uploads/crete-approaching-storm-12-5-x-17-cm.jpg
+    image_title: 'Crete, Approaching Storm'
+    image_description:
+  - image_path: /uploads/back-road-and-cactus-knossos.jpg
+    image_title: 'Back Road and Cactus, Crete'
     image_description:
 _options:
   image_path:
