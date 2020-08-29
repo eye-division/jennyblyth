@@ -1,5 +1,5 @@
 ---
-title: Paul Amey
+title: Paul AMEY
 surname: Amey
 description_markdown: >-
   **PAUL AMEY : currently showing at Carey Blyth Gallery**
@@ -20,8 +20,8 @@ description_markdown: >-
   nights.&nbsp; His ***Table Top Series*** invite us to rediscover *still life*
   where everyday objects become fascinating to us, whether glorious flowers or
   discarded shopping bags – he is equally playful with each. His painting of
-  ***Kentallen at Dusk ***scans across a working table to the beautiful sea loch
-  on the West Coast of Scotland at dusk.
+  *\*\*Kentallen at Dusk \*\**scans across a working table to the beautiful sea
+  loch on the West Coast of Scotland at dusk.
 
 
   Paul Amey graduated in Fine Art from Hornsey College of Art in 1979.&nbsp; He
@@ -41,7 +41,7 @@ frontpage: true
 gallery_date: 2016-04-01 00:00:00
 permalink: /gallery/paul-amey/
 archive: false
-main_image_path: /uploads/table-top-giclee-sm.jpg
+main_image_path: /uploads/kentallen-dusk-1.jpg
 display_title: true
 images:
   - image_path: /uploads/kentallen-dusk-1.jpg
