@@ -20,7 +20,7 @@ description_markdown: >-
   nights.&nbsp; His ***Table Top Series*** invite us to rediscover *still life*
   where everyday objects become fascinating to us, whether glorious flowers or
   discarded shopping bags – he is equally playful with each. His painting of
-  *\*\*Kentallen at Dusk \*\**scans across a working table to the beautiful sea
+  ***Kentallen at Dusk**&nbsp;*scans across a working table to the beautiful sea
   loch on the West Coast of Scotland at dusk.
 
 
