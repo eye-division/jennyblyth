@@ -638,6 +638,11 @@ images:
   - image_path: /uploads/53-jug-and-onion.jpg
     image_title:
     image_description: Jug and Onion<br />etching and acquatint<br />14.5 x 13 cm<br />&amp;pound
+  - image_path: /uploads/20-objects-on-a-greek-table.jpg
+    image_title:
+    image_description: >-
+      Objects on a Greek Table <br />sugar acquatint and oil colour<br />29.5 x
+      24 cm<br />&amp;pound
 _options:
   image_path:
     width: 1200
