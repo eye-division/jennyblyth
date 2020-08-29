@@ -2,15 +2,15 @@
 title: Paul Amey
 surname: Amey
 description_markdown: >-
-  **PAUL AMEY**
+  **PAUL AMEY : currently showing at Carey Blyth Gallery**
 
 
-  **Currently showing at CAREY BLYTH 8 Woodstock Road OX2 6HT**
+  **8 Woodstock Road Oxford OX2 6HT&nbsp;**
 
 
-  Paul Amey is both sculptor and painter. Medium holds no boundaries for him and
-  his horizons span from the beauty and discipline of the Academy, embracing
-  Matisse and Bonnard, to the delights of Craigie Aitchison and Folk Art.
+  Amey is both sculptor and painter. Medium holds no boundaries for him and his
+  horizons span from the beauty and discipline of the Academy, embracing Matisse
+  and Bonnard, to the delights of Craigie Aitchison and Folk Art.
 
 
   Master painters invariably speak of light and colour, and Amey has that. His
@@ -18,16 +18,21 @@ description_markdown: >-
   space. &nbsp;Light and colour ignite his paintings whether refracted
   highlights in the ***Swimming Pool Series*** or backlit bars on hot summer
   nights.&nbsp; His ***Table Top Series*** invite us to rediscover *still life*
-  where everyday objects become fascinating to us and whether flowers or
-  discarded shopping bags – he is equally playful with each subject.
+  where everyday objects become fascinating to us, whether glorious flowers or
+  discarded shopping bags – he is equally playful with each. His painting of
+  ***Kentallen at Dusk ***scans across a working table to the beautiful sea loch
+  on the West Coast of Scotland at dusk.
 
 
   Paul Amey graduated in Fine Art from Hornsey College of Art in 1979.&nbsp; He
-  has been painting and sculpting for thirty five years plus.&nbsp; He set up
-  the Chiltern Sculpture Trail in 1990 and taught fine art for many years.&nbsp;
-  He has exhibited at Modern Art, Oxford and museums and galleries in London and
-  Amsterdam, New York and Los Angeles with sculpture and paintings placed in
-  public and private collections.
+  has been painting and sculpting for forty years plus.&nbsp; He set up the
+  Chiltern Sculpture Trail in 1990 and taught Fine Art for many years.&nbsp; He
+  exhibited at The Museum of Modern Art, Oxford (now Modern Art Oxford) and
+  museums and galleries in London and Amsterdam, New York and Los Angeles with
+  sculpture and paintings placed in public and private collections.
+
+
+  &nbsp;
 
 
   &nbsp;
