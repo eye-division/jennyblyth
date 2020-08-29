@@ -67,7 +67,7 @@ frontpage: true
 gallery_date: 2019-10-11 15:28:51
 permalink: /gallery/netta-carey/
 archive: false
-main_image_path: /uploads/IMG_7013 (1).jpg
+main_image_path: /uploads/nothing-is-ever-forever-100-x-130-cm.jpg
 display_title: true
 images:
   - image_path: /uploads/img-7013-1.jpg
@@ -78,13 +78,21 @@ images:
     image_description: 'Alladale II <br />oil on canvas<50 x 60 cm<br />&amp;pound 1,250 SOLD'
   - image_path: /uploads/Carey 3.jpg
     image_title:
-    image_description: 'Alladale III <br />oil on canvas<50 x 60 cm<br />&amp;pound 1,250'
+    image_description: 'Alladale III <br />oil on canvas<50 x 60 cm<br />&amp;pound 1,250 SOLD'
   - image_path: /uploads/IMG_6472.jpg
     image_title: Compassion
     image_description: 'Compassion <br />oil on canvas<15 x 21 cm<br />&amp;pound 1,250'
   - image_path: /uploads/Carey Peaceful Setting.jpg
     image_title:
     image_description: 'Peaceful Setting <br />oil on canvas<50 x 60 cm<br />&amp;pound 1,250'
+  - image_path: /uploads/nothing-is-ever-forever-100-x-130-cm.jpg
+    image_title:
+    image_description: >-
+      Nothing Is Ever Forever <br />oil on canvas<100 x 130 cm<br />&amp;pound
+      2,950
+  - image_path: /uploads/carey-march072018-imustbedreamingoilonboard71x91cms.jpg
+    image_title:
+    image_description: 'I Must Be Dreaming <br />oil on canvas<71 x 93 cm<br />&amp;pound 2,800'
 _options:
   image_path:
     width: 1200
