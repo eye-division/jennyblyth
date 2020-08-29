@@ -1,5 +1,5 @@
 ---
-title: Netta Carey
+title: Netta CAREY
 surname: Carey
 description_markdown: >-
   **NETTA CAREY : Currently showing at Carey Blyth Gallery**
@@ -8,14 +8,14 @@ description_markdown: >-
   **8 Woodstock Road Oxford OX2 6HT**
 
 
-  ***NC*** *: "I was lucky enough to receive a formal training in art and design
-  and the lessons I learned then are a fundamental part of my work to this day.
-  A working study of composition, drawing from life, daily for months at a time,
-  and an understanding of colour both in terms of design and energetic
-  connection, are an essential part of who I am. I paint now from photographs
-  that I abstract to form images, or simply from instinct.&nbsp; In essence I
-  try to capture a moment in time that resonates for longer than the moment that
-  it takes to see it.”*
+  ***NC*** *\: "I was lucky enough to receive a formal training in art and
+  design and the lessons I learned then are a fundamental part of my work to
+  this day. A working study of composition, drawing from life, daily for months
+  at a time, and an understanding of colour both in terms of design and
+  energetic connection, are an essential part of who I am. I paint now from
+  photographs that I abstract to form images, or simply from instinct.&nbsp; In
+  essence I try to capture a moment in time that resonates for longer than the
+  moment that it takes to see it.”*
 
 
   Essentially **Netta Carey** is a colourfield painter.&nbsp; Her muses are
@@ -30,7 +30,7 @@ description_markdown: >-
   dreaming.
 
 
-  ***Nothing Is Ever Forever - ***essentially a Still Life with objects
+  *\*\*Nothing Is Ever Forever - \*\**essentially a Still Life with objects
   scattered and milk spilt, conveys a sense of ambivalence and transcience
   whilst celebrating a fiesta of warm tones and clear palette that is both
   seductive and refreshing. Netta’s passion for abstraction and colourfield is
@@ -92,21 +92,6 @@ archive: false
 main_image_path: /uploads/nothing-is-ever-forever-100-x-130-cm.jpg
 display_title: true
 images:
-  - image_path: /uploads/img-7013-1.jpg
-    image_title:
-    image_description: 'Alladale IV <br />oil on canvas<50 x 60 cm<br />&amp;pound 1,250'
-  - image_path: /uploads/IMG_7009 (1).jpg
-    image_title:
-    image_description: 'Alladale II <br />oil on canvas<50 x 60 cm<br />&amp;pound 1,250 SOLD'
-  - image_path: /uploads/Carey 3.jpg
-    image_title:
-    image_description: 'Alladale III <br />oil on canvas<50 x 60 cm<br />&amp;pound 1,250 SOLD'
-  - image_path: /uploads/IMG_6472.jpg
-    image_title: Compassion
-    image_description: 'Compassion <br />oil on canvas<15 x 21 cm<br />&amp;pound 1,250'
-  - image_path: /uploads/Carey Peaceful Setting.jpg
-    image_title:
-    image_description: 'Peaceful Setting <br />oil on canvas<50 x 60 cm<br />&amp;pound 1,250'
   - image_path: /uploads/nothing-is-ever-forever-100-x-130-cm.jpg
     image_title:
     image_description: >-
@@ -115,6 +100,21 @@ images:
   - image_path: /uploads/carey-march072018-imustbedreamingoilonboard71x91cms.jpg
     image_title:
     image_description: 'I Must Be Dreaming <br />oil on canvas<71 x 93 cm<br />&amp;pound 2,800'
+  - image_path: /uploads/IMG_7009 (1).jpg
+    image_title:
+    image_description: 'Alladale II <br />oil on canvas<50 x 60 cm<br />&amp;pound 1,250 SOLD'
+  - image_path: /uploads/Carey 3.jpg
+    image_title:
+    image_description: 'Alladale III <br />oil on canvas<50 x 60 cm<br />&amp;pound 1,250 SOLD'
+  - image_path: /uploads/img-7013-1.jpg
+    image_title:
+    image_description: 'Alladale IV <br />oil on canvas<50 x 60 cm<br />&amp;pound 1,250'
+  - image_path: /uploads/IMG_6472.jpg
+    image_title: Compassion
+    image_description: 'Compassion <br />oil on canvas<15 x 21 cm<br />&amp;pound 1,250'
+  - image_path: /uploads/Carey Peaceful Setting.jpg
+    image_title:
+    image_description: 'Peaceful Setting <br />oil on canvas<50 x 60 cm<br />&amp;pound 1,250'
 _options:
   image_path:
     width: 1200
