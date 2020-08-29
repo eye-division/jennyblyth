@@ -591,51 +591,53 @@ images:
   - image_path: /uploads/34-english-rose-cretan-vase-1.jpg
     image_title:
     image_description: >-
-      English Rose, Cretan Vase <br />etching and acquatint<22.5 x 17 cm<br
+      English Rose, Cretan Vase <br />etching and acquatint<br />22.5 x 17 cm<br
       />&amp;pound
   - image_path: /uploads/104-greek-table.jpg
     image_title:
-    image_description: Greek Table <br />etching and oil colour<38 x 30 cm<br />&amp;pound
+    image_description: Greek Table <br />etching and oil colour<br />38 x 30 cm<br />&amp;pound
   - image_path: /uploads/chair-amphora-and-lemon-tree-knossos.jpg
     image_title:
     image_description: >-
-      Chair, Amphora and Lemon Tree, Knossos<br>etching and acquatint<19 x 13.5
-      cm<br />&amp;pound
+      Chair, Amphora and Lemon Tree, Knossos<br />etching and acquatint<br />19
+      x 13.5 cm<br />&amp;pound
   - image_path: /uploads/28-laroquebrou-rainy-day.jpg
     image_title:
     image_description: >-
-      Laroquebrou, Rainy Day<br />etching and acquatint<17 x 14 cm<br
+      Laroquebrou, Rainy Day<br />etching and acquatint<br />17 x 14 cm<br
       />&amp;pound
   - image_path: /uploads/hinksey-willows.jpg
     image_title:
-    image_description: Hinksey Willows<br />etching and drypoint<18 x 24 cm<br />&amp;pound
+    image_description: Hinksey Willows<br />etching and drypoint<br />18 x 24 cm<br />&amp;pound
   - image_path: /uploads/back-road-and-cactus-knossos.jpg
     image_title:
-    image_description: 'Back Road and Cactus, Crete<br />etching<23 x 30 cm<br />&amp;pound'
+    image_description: 'Back Road and Cactus, Crete<br />etching<br />23 x 30 cm<br />&amp;pound'
   - image_path: /uploads/crete-approaching-storm-12-5-x-17-cm.jpg
     image_title:
     image_description: >-
-      Cret, Approaching Storm<br />etching and acquatint<12.5 x 17 cm<br
+      Cret, Approaching Storm<br />etching and acquatint<br />12.5 x 17 cm<br
       />&amp;pound
   - image_path: /uploads/40-jug-box-and-shadows.jpg
     image_title:
-    image_description: 'Boxing and Shadows<br >ink, charcoal and wash<28 x 37 cm<br />&amp;pound'
+    image_description: >-
+      Boxing and Shadows<br >ink, charcoal and wash<br />28 x 37 cm<br
+      />&amp;pound
   - image_path: /uploads/50-jug-and-apples.jpg
     image_title:
-    image_description: Jug and Apples<br />etchings<15 x 16.5 cm<br />&amp;pound
+    image_description: Jug and Apples<br />etchings<br />15 x 16.5 cm<br />&amp;pound
   - image_path: /uploads/45-enamel-jub-and-windfalls.jpg
     image_title:
     image_description: >-
-      Enamel Jug and Windfalls<br />etching and acquatint<15.5 x 22.5 cm<br
+      Enamel Jug and Windfalls<br />etching and acquatint<br />15.5 x 22.5 cm<br
       />&amp;pound
   - image_path: /uploads/47-honesty-and-three-jugs.jpg
     image_title:
     image_description: >-
-      Honesty and Three Jugs<br />soft ground etching and acquatint<19 x 24.5
-      cm<br />&amp;pound
+      Honesty and Three Jugs<br />soft ground etching and acquatint<br />19 x
+      24.5 cm<br />&amp;pound
   - image_path: /uploads/53-jug-and-onion.jpg
     image_title:
-    image_description: Jug and Onion<br />etching and acquatint<14.5 x 13 cm<br />&amp;pound
+    image_description: Jug and Onion<br />etching and acquatint<br />14.5 x 13 cm<br />&amp;pound
 _options:
   image_path:
     width: 1200
