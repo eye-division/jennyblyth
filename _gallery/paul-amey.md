@@ -46,18 +46,36 @@ display_title: true
 images:
   - image_path: /uploads/kentallen-dusk-1.jpg
     image_title:
-    image_description: 'Kentallen, Dusk<br />acrylic on board<75 x 100cm<br />&amp;pound 3,950'
+    image_description: >-
+      Kentallen at Dusk<br />acrylic on board<br />75 x 100cm<br />&amp;pound
+      3,950
   - image_path: /uploads/table-top-giclee-sm.jpg
     image_title: Table Top 2/Golden Teapot
-    image_description: |-
+    image_description: >-
+      Table Top 2/Teapot<br />Digital Print in Pigmented Inks on Archival
+      Paper<br />Edition of 75<br />Two Sizes : Lg (84 x 41 cm) : Medium (69 x
+      50 cm)<br />&amp;pound 1200 & 750 (framed & glazed)<br />&amp;pound 900 &
+      600 (unframed & unglazed)
+
+
+
+
+
       Print in pigmented ink on archival paper
+
       Edition of 75
+
       Two sizes :
+
       84 x 41 cm £1200 (framed with mount); £900 (with mount no frame)
+
       69 x 50 cm £750 (framed with mount); £600 (with mount no frame)
   - image_path: /uploads/PaulAmey_TableTop3.jpg
     image_title: Table Top 3/Vase with Green Mugs
-    image_description:
+    image_description: >-
+      Table Top 3/Vase with Green Mugs<br />Digital Print in Pigmented Inks on
+      Archival Paper<br />Edition of 75<br />69 x 50 cm<br />&amp;pound 750
+      (framed & glazed)<br />&amp;pound 600 (unframed & unglazed)
 _options:
   image_path:
     width: 1200
