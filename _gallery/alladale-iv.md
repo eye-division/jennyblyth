@@ -1,5 +1,5 @@
 ---
-title: Netta Carey
+title: Netta CAREY
 surname: Carey
 description_markdown: >-
   **NETTA CAREY : Currently showing at Carey Blyth Gallery**
