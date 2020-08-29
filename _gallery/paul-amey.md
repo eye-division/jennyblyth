@@ -46,7 +46,9 @@ display_title: true
 images:
   - image_path: /uploads/kentallen-dusk-1.jpg
     image_title:
-    image_description: 'Kentallen, Dusk<br />acrylic on board<75 x 100cm<br />&amp;pound 3,950'
+    image_description: >-
+      Kentallen at Dusk<br />acrylic on board<br />75 x 100cm<br />&amp;pound
+      3,950
   - image_path: /uploads/table-top-giclee-sm.jpg
     image_title: Table Top 2/Golden Teapot
     image_description: |-
