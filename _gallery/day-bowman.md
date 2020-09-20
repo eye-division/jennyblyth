@@ -50,8 +50,8 @@ description_markdown: >-
 
 
   Bowman returns to the beaches of childhood in her recent paintings of
-  ***Plashy Places. \*\**Wet sand glistens as the incoming and receding tides of
-  \*\**Flood and Ebb*** &nbsp;erase calligraphic marks etched momentarily into
+  ***Plashy Places. ***Wet sand glistens as the incoming and receding tides of
+  '*Flood and Ebb'* &nbsp;erase calligraphic marks etched momentarily into
   surface, where the pooling of seawater and reflections play out in oil on
   canvas. Capturing the abandon of play, Bowman recalls W B Yeats’ *Man From
   Faeryland,* who, careworn with the fears and concerns of adulthood, observes
@@ -59,10 +59,10 @@ description_markdown: >-
   skies …
 
 
-  Bowman’s new and larger paintings of *\*\*Holiday Destinations I, II & III
-  \*\**combine elements of both beach and wasteland. A ribbon of sky blue
-  colours up against rust and golden ochres, where spectrums of ghost whites and
-  greys ignite against the drama of a black backdrop.
+  Bowman’s new and larger paintings of ***Holiday Destinations I, II & III
+  ***combine elements of both beach and wasteland. A ribbon of sky blue colours
+  up against rust and golden ochres, where spectrums of ghost whites and greys
+  ignite against the drama of a black backdrop.
 
 
   While her post-industrial abstractions resonate with rigour and dynamic,
@@ -72,13 +72,10 @@ description_markdown: >-
   kinetic point at which figuration and abstraction play out.&nbsp;
 
 
-  &nbsp;
-
-
   *2019 has been a big year for Day Bowman. She was the Winner of the **Anima
   Mundi International Painting 2019** at **Venice Biennale 2019**; awarded First
   Prize for Painting in **Bath Arts Open 2019**; and won First Prize in the
-  **Wales Contemporary 2019**.\*\*A graduate of Chelsea School of Art and London
+  **Wales Contemporary 2019**. A graduate of Chelsea School of Art and London
   University, she has exhibited widely with solo exhibitions over 15 years
   touring in Museums across UK, Germany and China where in 2017 she showed with
   Contemporary Masters from Britain. In 2012 she was commissioned to create
@@ -234,7 +231,7 @@ description_markdown: >-
   sadness and the longing for homes left far behind, the songs are set to the
   rhythmic beating of electronic instruments which echo the imagery of Knox’s
   film and the texture and surface of concrete and metal inherent in Bowman’s
-  paintings. Embracing geo political issues of mass transmigration, The Urban
+  paintings. Embracing geopolitical issues of mass transmigration, The Urban
   Wastelands Project is a compelling journey through the tough forgotten corners
   of our marine wastelands that is both brittle and beautiful.
 
@@ -256,13 +253,13 @@ description_markdown: >-
 
 
   Day Bowman’s exhibition The Urban Wastelands Project has been touring the
-  South West of UK since July 2011. Mich&egrave;le Jaff&eacute; Pearce is
-  involved with The Three Faiths Forum and exhibited at the Interfaith Arts
-  Festival organised by TFF at the Candid Arts Trust, Islington in January 2010.
-  Jenny Blyth, curator and fine art consultant, is based in Oxford.
+  South West of UK since July 2011. Mich&egrave;le Jaffé Pearce is involved with
+  The Three Faiths Forum and exhibited at the Interfaith Arts Festival organised
+  by TFF at the Candid Arts Trust, Islington in January 2010. Jenny Blyth,
+  curator and fine art consultant, is based in Oxford.
 
 
-  Mich&egrave;le Jaff&eacute;-Pearce trained in Fine Art at Sir John Cass and
+  Mich&egrave;le Jaffé-Pearce trained in Fine Art at Sir John Cass and
   thereafter studied sculpture at Chelsea School of Art. Her painting is founded
   in a contemporary expression of faith through an exploration of Jewish
   mysticism, Chassidic stories, biblical poetry and the Hebrew alphabet.
