@@ -592,57 +592,69 @@ images:
     image_title:
     image_description: >-
       English Rose, Cretan Vase <br />etching and acquatint<br />22.5 x 17 cm<br
-      />&amp;pound
+      />&amp;pound 475 Edition of 50.
   - image_path: /uploads/104-greek-table.jpg
     image_title:
-    image_description: Greek Table <br />etching and oil colour<br />38 x 30 cm<br />&amp;pound
+    image_description: >-
+      Greek Table <br />etching and oil colour<br />38 x 30 cm<br />&amp;pound
+      900 Sold. Available in different colours.
   - image_path: /uploads/chair-amphora-and-lemon-tree-knossos.jpg
     image_title:
     image_description: >-
       Chair, Amphora and Lemon Tree, Knossos<br />etching and acquatint<br />19
-      x 13.5 cm<br />&amp;pound
+      x 13.5 cm<br />&amp;pound 300 Edition of 50.
   - image_path: /uploads/28-laroquebrou-rainy-day.jpg
     image_title:
     image_description: >-
       Laroquebrou, Rainy Day<br />etching and acquatint<br />17 x 14 cm<br
-      />&amp;pound
+      />&amp;pound 300
   - image_path: /uploads/hinksey-willows.jpg
     image_title:
-    image_description: Hinksey Willows<br />etching and drypoint<br />18 x 24 cm<br />&amp;pound
+    image_description: >-
+      Hinksey Willows<br />etching and drypoint<br />18 x 24 cm<br />&amp;pound
+      400. Edition of 50.
   - image_path: /uploads/back-road-and-cactus-knossos.jpg
     image_title:
-    image_description: 'Back Road and Cactus, Crete<br />etching<br />23 x 30 cm<br />&amp;pound'
+    image_description: >-
+      Back Road and Cactus, Crete<br />etching<br />23 x 30 cm<br />&amp;pound
+      425. Edition of 50.
   - image_path: /uploads/crete-approaching-storm-12-5-x-17-cm.jpg
     image_title:
     image_description: >-
       Cret, Approaching Storm<br />etching and acquatint<br />12.5 x 17 cm<br
-      />&amp;pound
+      />&amp;pound 375. Edition of 50.
   - image_path: /uploads/40-jug-box-and-shadows.jpg
     image_title:
     image_description: >-
       Boxing and Shadows<br >ink, charcoal and wash<br />28 x 37 cm<br
-      />&amp;pound
+      />&amp;pound 650 Sold.
   - image_path: /uploads/50-jug-and-apples.jpg
     image_title:
-    image_description: Jug and Apples<br />etchings<br />15 x 16.5 cm<br />&amp;pound
+    image_description: >-
+      Jug and Apples<br />etchings<br />15 x 16.5 cm<br />&amp;pound 380 Edition
+      of 50.
   - image_path: /uploads/45-enamel-jub-and-windfalls.jpg
     image_title:
     image_description: >-
       Enamel Jug and Windfalls<br />etching and acquatint<br />15.5 x 22.5 cm<br
-      />&amp;pound
+      />&amp;pound 350 Edition of 50.
   - image_path: /uploads/47-honesty-and-three-jugs.jpg
     image_title:
     image_description: >-
       Honesty and Three Jugs<br />soft ground etching and acquatint<br />19 x
-      24.5 cm<br />&amp;pound
+      24.5 cm<br />&amp;pound 350. Edition of 50.
   - image_path: /uploads/53-jug-and-onion.jpg
     image_title:
-    image_description: Jug and Onion<br />etching and acquatint<br />14.5 x 13 cm<br />&amp;pound
+    image_description: >-
+      Jug and Onion<br />etching and acquatint<br />14.5 x 13 cm<br />&amp;pound
+      300. Edition of 50.
   - image_path: /uploads/20-objects-on-a-greek-table.jpg
     image_title:
     image_description: >-
       Objects on a Greek Table <br />sugar acquatint and oil colour<br />29.5 x
-      24 cm<br />&amp;pound
+      24 cm<br />&amp;pound 700 Sold.
+
+      One further print available with lemon....
 _options:
   image_path:
     width: 1200
@@ -666,3 +678,4 @@ _comments:
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
 ---
+
