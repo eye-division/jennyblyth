@@ -24,11 +24,11 @@ description_markdown: >-
   chicken.
 
 
-  Composing her narrative from a m&ecirc;l&eacute;e of chosen themes from the
-  past 16 years, Horton weaves together tableaux that combine different elements
-  of stage, dress and performance. The printing process she has developed is
-  unique and labour intensive - her attention to detail immaculate, not
-  surprising given her trade of forty years in restoration.
+  Composing her narrative from a m&ecirc;lée of chosen themes from the past 16
+  years, Horton weaves together tableaux that combine different elements of
+  stage, dress and performance. The printing process she has developed is unique
+  and labour intensive - her attention to detail immaculate, not surprising
+  given her trade of forty years in restoration.
 
 
   Horton first sketches her images onto tracing paper.&nbsp; Then uses the
@@ -36,9 +36,8 @@ description_markdown: >-
   through the paper onto the rolled out black ink.&nbsp; This is wiped off
   leaving only the desired image. Colour is introduced with added chine collee
   as the plate is run through the press. Other preferred techniques are dry
-  point engraving, hard and soft ground etching, again with chine coll&eacute;
-  that she scalpels out and collages onto canvases lined with Japanese Kozo
-  paper.
+  point engraving, hard and soft ground etching, again with chine collé that she
+  scalpels out and collages onto canvases lined with Japanese Kozo paper.
 
 
   ### THE CIRCUS IS COMING TO TOWN&nbsp;
@@ -82,13 +81,13 @@ description_markdown: >-
   over-skirt, the speckledy-hen feathers of a chicken.
 
 
-  Composing her narrative from a m&ecirc;l&eacute;e of chosen themes from the
-  past 16 years, Horton weaves together tableaux that combine different elements
-  of stage, dress and performance. The printing process she has developed is
-  unique and labour intensive - her attention to detail immaculate, not
-  surprising given her trade of almost forty years in restoration. She sketches
-  first, then creates hard and soft ground etchings and chine coll&eacute; that
-  she scalpels out and collages onto canvases lined with Japanese kozo paper.
+  Composing her narrative from a m&ecirc;lée of chosen themes from the past 16
+  years, Horton weaves together tableaux that combine different elements of
+  stage, dress and performance. The printing process she has developed is unique
+  and labour intensive - her attention to detail immaculate, not surprising
+  given her trade of almost forty years in restoration. She sketches first, then
+  creates hard and soft ground etchings and chine collé that she scalpels out
+  and collages onto canvases lined with Japanese kozo paper.
 
 
   The overall effect is glorious. Carolyn Horton's canvases of the circus are
@@ -130,10 +129,10 @@ description_markdown: >-
   ‘canvases’ for her contemporary collage. Curled up or languishing amongst
   discarded dressing gowns, long dogs capture a moment in the day. Drawing on
   her love of the classical and an enjoyment of theatre, Horton prints onto
-  hand-coloured or monotyped Kozo or Gampi paper composing a m&eacute;lange of
+  hand-coloured or monotyped Kozo or Gampi paper composing a mélange of
   whippets, silk stockings and camisoles that are strewn across beds and trail
-  over armchairs and screens. Delicate chine coll&eacute;e prints are collaged
-  onto canvases to create compositions that are unique and beautifully executed.
+  over armchairs and screens. Delicate chine collée prints are collaged onto
+  canvases to create compositions that are unique and beautifully executed.
 
 
   A graduate in Advanced Printmaking at Central St. Martin’s (1990-2) and Fine
@@ -217,12 +216,10 @@ images:
       Blowing Blue Dust 2016<br />Monotypes, chine colle, stencil and gold leaf
       on paper<br />&amp;pound;650 SOLD
   - image_path: /uploads/white-goose.jpg
-    image_title: >-
-      Sweeping the Goose (Blue & White) 2016<br />Monotype, collages on paper
-      lined canvasr<br />35 x 25 cm<br/>&amp;pound;500
+    image_title:
     image_description: >-
       Sweeping the Goose (Gold & White) 2016<br />Monotype, collages on paper
-      lined canvas<br />35 x 25 cm<br/>&amp;pound;500
+      lined canvas<br />35 x 25 cm<br/>&amp;pound;600
   - image_path: /assets/images/50cb4fc7e3c5b.jpg
     image_title:
     image_description: >-
@@ -391,7 +388,9 @@ _options:
     mime_type: image/jpeg
 _comments:
   title: Gallery title
-  permalink: "This is required to make the menus work - enter everything in lower case, no digits, no spaces in this format /gallery/my-new-gallery/"
+  permalink: >-
+    This is required to make the menus work - enter everything in lower case, no
+    digits, no spaces in this format /gallery/my-new-gallery/
   main_image_path: Image used to represent your gallery
   images: Add and edit your gallery images here
   image_description: Might only be shown in the close up of an image
