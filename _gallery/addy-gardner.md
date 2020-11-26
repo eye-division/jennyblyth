@@ -222,7 +222,7 @@ images:
     image_title: Learning to Trust the DIfference II
     image_description: >-
       Learning to Trust the DIfference II, 2014<br />oil on canvas<br />102 x
-      102 cm<br />&amp;pound; 2500
+      102 cm<br />&amp;pound; 2750
   - image_path: /uploads/two-rivers-i-lg.jpg
     image_title:
     image_description: Two Rivers I 2018<br />oil on canvas<br />90 x 120<br />&amp;pound; 3000
