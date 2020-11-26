@@ -1,7 +1,7 @@
 ---
 title: Cassandra WALL
 description_markdown: >-
-  CONTEMPLATION : SPRING INTO WATER
+  Highlights from CONTEMPLATION : SPRING INTO WATER now showing at CBG
 
 
   Curated by Jenny Blyth for The North Wall Arts Centre, Oxford OX2 7JN
@@ -51,12 +51,11 @@ description_markdown: >-
 
   Once her patterning is decided upon, the tessellation begins and her textile
   paintings are stitched : &nbsp;***Hastings*** : ***Net Sheds******; Dungeness
-  : Winter and Summer ****(Derek Jarman’s **Prospect Cottage&nbsp;**on the
-  shingle*&nbsp;at Dungeness); ***Heather Hills*** in the Peak District; and
-  ***Sunset Islands (Dodecanese)***; exquisite are her ***Autumn Floor*** with
-  leaves underfoot, ***Impressionist Garden ****a Spring explosion&nbsp;*in
-  fresh pinks and primrose yellows, and the golden hum of hexangonal
-  ***Honeycombe***.
+  : Winter and Summer (Derek Jarman’s Prospect Cottage on the shingle*&nbsp;at
+  Dungeness); *Heather Hills*** in the Peak District; and ***Sunset Islands
+  (Dodecanese)***; exquisite are her ***Autumn Floor*** with leaves underfoot,
+  ***Impressionist Garden -*** *a Spring explosion&nbsp;*in fresh pinks and
+  primrose yellows, and the golden hum of hexangonal ***Honeycomb***.
 homepage_description_markdown:
 frontpage: true
 gallery_date:
