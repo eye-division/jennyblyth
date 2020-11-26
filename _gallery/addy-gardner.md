@@ -20,15 +20,15 @@ description_markdown: >-
   'peak experience'***.***
 
 
-  ***A World Of Our Own \*\**&nbsp;is such a painting with all the joy and
+  *'A World Of Our Own'&nbsp;*&nbsp;is such a painting with all the joy and
   inflections of mood that colour the landscape of the Welsh Mountains, and the
   promise of the valley beyond. Inspired by De Kooning, Addy has infused her
-  paintings with a rigour and dynamic that is at the heart of the landscape.
-  \*\**A Journey Of Our Own*** and *\*\*I Found My Way Back Alone&nbsp; \*\**are
-  the artist’s response to walking in Snowdonia.&nbsp; Off the well-trodden path
-  to the summit of Snowdon, hidden away, lies The Blue Lake. &nbsp;Glacial blue
-  water cascades into an old quarry, &nbsp;coloured by the stones beneath.&nbsp;
-  The mountains on each side shape its path spilling crimson and cyan into high
+  paintings with a rigour and dynamic that is at the heart of the landscape. '*A
+  Journey Of Our Own'* and '*I Found My Way Back Alone'&nbsp;*are the artist’s
+  response to walking in Snowdonia.&nbsp; Off the well-trodden path to the
+  summit of Snowdon, hidden away, lies The Blue Lake. &nbsp;Glacial blue water
+  cascades into an old quarry, &nbsp;coloured by the stones beneath.&nbsp; The
+  mountains on each side shape its path spilling crimson and cyan into high
   skies.
 
 
@@ -37,14 +37,14 @@ description_markdown: >-
   inviting us to explore our own path.&nbsp;
 
 
-  *\*\*Along By The Willows, Deep In Thought \*\**&nbsp;is the artist’s response
-  to walking by the River Windrush in Oxfordshire.&nbsp; Winter is not yet over,
+  *'Along By The Willows, Deep In Thought '*&nbsp;is the artist’s response to
+  walking by the River Windrush in Oxfordshire.&nbsp; Winter is not yet over,
   but there is a promise of Spring and new beginnings in the cool blues and
   whites of the sky fresh against the earthier tones of the land, and the dance
   of the willow branches whipping in the wind. *(Jenny Blyth, 2020)*
 
 
-  ***Addy Gardner : “My paintings are born from an emotional response to places
+  ***Addy Gardner : 'My paintings are born from an emotional response to places
   I visit and views that I witness in my day to day life. Outwardly they relate
   to different light and colour in the landscape. I then relate these to inward
   feelings and memories and things which are currently going on in my life.
@@ -59,7 +59,7 @@ description_markdown: >-
   than that I felt like it had hit me in the chest and brought me to my knees. I
   wanted to explore the way in which De Kooning put together colours, texture
   and line, that allowed me as viewer to feel elated as the eye danced across
-  the painting exploring the landscape.”***
+  the painting exploring the landscape.'***
 
 
   Addy Gardner trained in Psychology before studying Fine Art, and it is the
