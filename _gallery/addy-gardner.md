@@ -186,7 +186,7 @@ gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/addy-gardner/
 archive: false
 display_title: true
-main_image_path: /uploads/for-your-whole-lives-to-be-an-adventure-0426-med-2.jpg
+main_image_path: /uploads/learning-to-trust-difference-i-0309-lg.jpg
 images:
   - image_path: /uploads/for-your-whole-lives-to-be-an-adventure-0426-med-1.jpg
     image_title:
