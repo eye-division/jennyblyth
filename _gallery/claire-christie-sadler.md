@@ -25,7 +25,7 @@ description_markdown: >-
 
 
   ***‘Invigorated and restored, I draw to remind, capture, convey, honour and
-  record...’ CCS 2020***
+  record…’ CCS 2020***
 
 
   One could be forgiven for assuming Claire Christie Sadler to be English, and
@@ -107,7 +107,7 @@ description_markdown: >-
   #### The Art of Music and Language
 
 
-  **Drawings of West Coast of Scotland **
+  \*\*Drawings of West Coast of Scotland \*\*
 
 
   **&nbsp;Claire CHRISTIE SADLER showing with Jenny Blyth Fine Art at Art
@@ -149,7 +149,7 @@ gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/claire-christie-sadler/
 archive: false
 display_title: true
-main_image_path: /assets/images/57dbff1d49a58.jpg
+main_image_path: /uploads/Across Loch Linnhe (640x279).jpg
 images:
   - image_path: /assets/images/57dbff1d49a58.jpg
     image_title: Applecross to Raasay
@@ -179,6 +179,24 @@ images:
     image_description: >-
       To The Inner Hebrides, 2016<br />Pencil on paper<br />76 x 43 cm<br
       />&amp;pound;1500
+  - image_path: /uploads/Across Loch Linnhe (640x279).jpg
+    image_title: Across Loch Linnhe
+    image_description:
+  - image_path: /uploads/Across Loch Linnhe 2 (800x610).jpg
+    image_title: Across Loch Linnhe 2
+    image_description:
+  - image_path: /Towards Appin from Glen Tarbert (800x320) (640x256) (1).jpg
+    image_title: Towards Appin from Glen Tarbert
+    image_description:
+  - image_path: /uploads/to-soay-across-loch-seavaig2c-skye-50x36.JPG
+    image_title: 'To Soay across Loch Seavaig, Skye'
+    image_description:
+  - image_path: /uploads/sound-of-arisaig-from-glenuig-640x480-1.jpg
+    image_title: Soung of Arisaig
+    image_description:
+  - image_path: /uploads/ailsa-craig-from-kildonan-46x22.jpg
+    image_title: Ailsa Craig from Kildonan (detail)
+    image_description:
 _options:
   image_path:
     width: 1200
