@@ -8,10 +8,7 @@ description_markdown: >-
   #### ‘The Call of the Wild’
 
 
-  ##### Carey Blyth Gallery December 2020
-
-
-  &nbsp;
+  #### Carey Blyth Gallery December 2020
 
 
   ***‘This is a landscape to be reckoned with. Treat it with respect but take
