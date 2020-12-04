@@ -151,6 +151,41 @@ archive: false
 display_title: true
 main_image_path: /uploads/Across Loch Linnhe (640x279).jpg
 images:
+  - image_path: /uploads/Across Loch Linnhe (640x279).jpg
+    image_title: Across Loch Linnhe
+    image_description:
+  - image_path: /uploads/Across Loch Linnhe 2 (800x610).jpg
+    image_title: Across Loch Linnhe 2
+    image_description:
+  - image_path: /Towards Appin from Glen Tarbert (800x320) (640x256) (1).jpg
+    image_title: Towards Appin from Glen Tarbert
+    image_description:
+  - image_path: /uploads/sound-of-arisaig-from-glenuig-640x480-1.jpg
+    image_title: Soung of Arisaig
+    image_description:
+  - image_path: /uploads/to-soay-across-loch-seavaig2c-skye-50x36.JPG
+    image_title: 'To Soay across Loch Seavaig, Skye'
+    image_description:
+  - image_path: /uploads/ailsa-craig-from-kildonan-46x22.jpg
+    image_title: Ailsa Craig from Kildonan (detail)
+    image_description:
+  - image_path: /assets/images/57e6af93df5a1.jpg
+    image_title: To The Inner Hebrides
+    image_description: >-
+      To The Inner Hebrides, 2016<br />Pencil on paper<br />76 x 43 cm<br
+      />&amp;pound;1500
+  - image_path: /Flight 1 Sm.jpg
+    image_title: Flight 1
+    image_description:
+  - image_path: /uploads/Feather Light 1.JPG
+    image_title: Feather Light 1
+    image_description:
+  - image_path: /Feather Light 2.jpg
+    image_title: Feather Light 2
+    image_description:
+  - image_path: /Wave 3 sm.jpg
+    image_title: Wave 3
+    image_description:
   - image_path: /assets/images/57dbff1d49a58.jpg
     image_title: Applecross to Raasay
     image_description: 'Applecross to Raasay, 2016<br />charcoal on paper<br />&amp;pound;700'
@@ -174,35 +209,6 @@ images:
     image_description: >-
       Over Applecross Bay to Raasay, 2016<br />Pencil on paper<br />73 x 46
       cm<br />&amp;pound;1500
-  - image_path: /assets/images/57e6af93df5a1.jpg
-    image_title: To The Inner Hebrides
-    image_description: >-
-      To The Inner Hebrides, 2016<br />Pencil on paper<br />76 x 43 cm<br
-      />&amp;pound;1500
-  - image_path: /uploads/Across Loch Linnhe (640x279).jpg
-    image_title: Across Loch Linnhe
-    image_description:
-  - image_path: /uploads/Across Loch Linnhe 2 (800x610).jpg
-    image_title: Across Loch Linnhe 2
-    image_description:
-  - image_path: /Towards Appin from Glen Tarbert (800x320) (640x256) (1).jpg
-    image_title: Towards Appin from Glen Tarbert
-    image_description:
-  - image_path: /uploads/to-soay-across-loch-seavaig2c-skye-50x36.JPG
-    image_title: 'To Soay across Loch Seavaig, Skye'
-    image_description:
-  - image_path: /uploads/sound-of-arisaig-from-glenuig-640x480-1.jpg
-    image_title: Soung of Arisaig
-    image_description:
-  - image_path: /uploads/ailsa-craig-from-kildonan-46x22.jpg
-    image_title: Ailsa Craig from Kildonan (detail)
-    image_description:
-  - image_path: /Flight 1 Sm.jpg
-    image_title: Flight 1
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
 _options:
   image_path:
     width: 1200
