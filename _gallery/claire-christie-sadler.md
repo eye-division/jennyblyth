@@ -197,6 +197,12 @@ images:
   - image_path: /uploads/ailsa-craig-from-kildonan-46x22.jpg
     image_title: Ailsa Craig from Kildonan (detail)
     image_description:
+  - image_path: /Flight 1 Sm.jpg
+    image_title: Flight 1
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
