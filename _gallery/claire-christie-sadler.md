@@ -71,8 +71,6 @@ description_markdown: >-
   choosing as one would expect, specific recordings, conductors and performers –
   matching her choice to her mood from Bach to Britten, from Tallis to Taverner.
   Claire Christie Sadler’s drawings, like her music, are immaculately executed
-
-
   and beautifully expressed. There is a sense for her that art and music are
   indivisible one from the other, each driven by a passion that expresses a
   certain faith, or sense of oneness, that for many of us is the call of the
@@ -101,20 +99,23 @@ description_markdown: >-
   to live in The Highlands.
 
 
-  #### The Art of Music and Language
+  #### &nbsp;
 
 
-  \*\*Drawings of West Coast of Scotland \*\*
+  **THE ART OF MUSIC & LANGUAGE 2016 at Art Jericho, Oxford**
 
 
-  **&nbsp;Claire CHRISTIE SADLER showing with Jenny Blyth Fine Art at Art
-  Jericho 2016**
+  **Drawings by Claire Christie Sadler and Sculpture by Martin Smith**
 
 
-  **Sculpture Fruits of the Earth by Martin SMITH**
+  ##### &nbsp;
 
 
-  Claire Christie Sadler 2016: “I sometimes think I am trying to draw silence”
+  Jenny Blyth Fine Art at Art Jericho, Oxford 2016.
+
+
+  Claire Christie Sadler&nbsp; : &nbsp;*“I sometimes think I am trying to draw
+  silence...”*
 
 
   Claire Christie Sadler has spent 20 years perfecting the art of drawing. This
