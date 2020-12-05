@@ -5,6 +5,22 @@ description_markdown: >-
   **Currently showing at CAREY BLYTH 8 Woodstock Road OX2 6HT**
 
 
+  Martin Smith is showing ***Leda and the Swan, Autothonces, Cycladic Figure,
+  Shrine*** and ***Ground Swell.&nbsp;***
+
+
+  &nbsp;<br>***Leda and the Swa***n embodies Greek Mythology which is at the
+  heart of much of Smith's sculptural narrative.&nbsp; Zeus, besotted by Leda,
+  transformed himself into a swan to seduce her.&nbsp; Zeus fathered two
+  children with Leda - to include Helen of Troy. ***Autothonces ***embodies the
+  origins of man in ancient greek mythology where 'adam and eve' are borne of
+  the earth and rise out of the earth.... In both these sculptures, Smith's
+  figures are entwined, carved from alabaster and are as one.
+
+
+  &nbsp;
+
+
   TOUCHING THE EARTH&nbsp;
 
 
@@ -160,7 +176,9 @@ _options:
     mime_type: image/jpeg
 _comments:
   title: Gallery title
-  permalink: "This is required to make the menus work - enter everything in lower case, no digits, no spaces in this format /gallery/my-new-gallery/"
+  permalink: >-
+    This is required to make the menus work - enter everything in lower case, no
+    digits, no spaces in this format /gallery/my-new-gallery/
   main_image_path: Image used to represent your gallery
   images: Add and edit your gallery images here
   image_description: Might only be shown in the close up of an image
