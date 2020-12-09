@@ -125,6 +125,7 @@ li.nav-link {
     }
 }
 li.nav-link.active,
+li.current,
 li.active {
     a {
         color: $black;
