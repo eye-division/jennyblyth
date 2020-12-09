@@ -1,6 +1,6 @@
 ---
 title: Claire Christie Sadler
-surname: Sadler
+surname: Christie Sadler
 description_markdown: >-
   #### CLAIRE CHRISTIE SADLER &nbsp;
 
@@ -115,7 +115,7 @@ description_markdown: >-
 
 
   Claire Christie Sadler&nbsp; : &nbsp;*“I sometimes think I am trying to draw
-  silence...”*
+  silence…”*
 
 
   Claire Christie Sadler has spent 20 years perfecting the art of drawing. This
@@ -230,4 +230,3 @@ _comments:
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
 ---
-
