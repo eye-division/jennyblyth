@@ -1,6 +1,7 @@
 ---
 title: Claire Christie Sadler
 surname: Christie Sadler
+currentshow: true
 description_markdown: >-
   #### CLAIRE CHRISTIE SADLER &nbsp;
 

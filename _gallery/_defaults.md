@@ -1,5 +1,7 @@
 ---
 title: 
+surname: 
+currentshow:
 description_markdown: 
 homepage_description_markdown: 
 frontpage: true
@@ -25,6 +27,8 @@ _options:
     mime_type: "image/jpeg"
 _comments:
   title: Gallery title
+  surname: The menu sorts galleries by surname
+  currentshow: highlights the current show in the menu
   permalink: "This is required to make the menus work - enter everything in lower case, no digits, no spaces in this format /gallery/my-new-gallery/"
   main_image_path: Image used to represent your gallery
   images: Add and edit your gallery images here

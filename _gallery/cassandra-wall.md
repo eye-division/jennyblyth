@@ -1,5 +1,6 @@
 ---
-title: Cassandra WALL
+title: Cassandra Wall
+surname: Wall
 description_markdown: >-
   Highlights from CONTEMPLATION : SPRING INTO WATER now showing at CBG
 
