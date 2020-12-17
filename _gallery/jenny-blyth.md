@@ -73,6 +73,65 @@ archive: false
 display_title: true
 main_image_path: /assets/images/Raasay & Skye Across Applecross Bay.jpg
 images:
+  - image_path: /uploads/raasay--skye-across-applecross-bay.jpg
+    image_title: Raasay & Skye Across Applecross Bay 2018
+    image_description: >-
+      Photograph printed in pigmented inks onto archival cotton rag paper<br
+      />50 x 60 cm<br />&amp;pound;195  Limited Edition of 12.
+  - image_path: /uploads/sea-grasses-applecross-bay.jpg
+    image_title: 'Sea Grasses, Applecross Bay'
+    image_description: >-
+      Photograph printed in pigmented inks onto archival cotton rag paper<br
+      />50 x 60 cm<br />&amp;pound;195  Limited Edition of 12.
+  - image_path: /uploads/towards-the-inner-sound-from-sand-bay.jpg
+    image_title: Towards the Inner Sound from Sand Bay 2018
+    image_description: >-
+      Photograph printed in pigmented inks onto archival cotton rag paper<br
+      />50 x 60 cm<br />&amp;pound;195  Limited Edition of 12.
+  - image_path: /assets/images/5925ee2ab3ab6.jpg
+    image_title: 'Flight Downstream, 2017'
+    image_description: >-
+      Flight Downstream, 2017<br />Photograph printed in pigmented inks on
+      cotton rag paper<br />40 x 50 cm<br />&amp;pound;175 Limited Edition of 25
+  - image_path: /assets/images/591eef6cdc862.jpg
+    image_title: 'Walnut Spinney, Winter, 2017'
+    image_description: >-
+      The Walnut Spinney - Snowscape 2016<br />Photograph printed in pigmented
+      inks on cotton rag paper<br />60 x 50 cm<br />&amp;pound;195 Limited
+      Edition of 25
+  - image_path: /assets/images/5925eefb6ff61.jpg
+    image_title: 'Lime Trees, Snowscape, 2016'
+    image_description: >-
+      Lime Trees, Snowscape, 2016<br />Photograph printed in pigmented inks on
+      cotton rag paper<br />40 x 50 cm<br />&amp;pound;175 Limited Edition of
+      25.
+  - image_path: /assets/images/5925f0d5b1c84.jpg
+    image_title: 'Morning Mist, 2016'
+    image_description: >-
+      Morning Mist, 2016<br />Photograph printed in pigmented inks on cotton rag
+      paper<br />40 x 50 cm<br />&amp;Acirc;&amp;pound;175 Limited Edition of 25
+  - image_path: /assets/images/5925ebab9e529.jpg
+    image_title: 'Flood Plains, 2016'
+    image_description: >-
+      Flood Plains, 2016<br />Photograph printed in pigmented inks on cotton rag
+      paper<br />50 x 40 cm<br />&amp;pound;175  Limited Edition of 25
+  - image_path: /assets/images/591ef21d9b28e.jpg
+    image_title: 'Summer Storm, May, 2015'
+    image_description: >-
+      Summer Storm, May, 2015<br />Photograph printed in pigmented inks on
+      cotton rag paper<br />40 z 50 cm<br />&amp;pound;175  Limited Edition of
+      25
+  - image_path: /assets/images/5925f01bf1d2c.jpg
+    image_title: 'The Golden Thread, 2016'
+    image_description: >-
+      The Golden Thread, 2016<br />Photograph printed in pigmented inks on
+      cotton rag paper<br />40 x 50 cm<br />&amp;pound;175 Limited Edition of 25
+  - image_path: /assets/images/591ef3b5b0a74.jpg
+    image_title: 'Apollo Presides, Ashmolean, 2017'
+    image_description: >-
+      Apollo Presides, Ashmolean, 2017<br />Photograph printed in pigmented inks
+      on cotton rag paper<br />40 x 50 cm<br />&amp;pound;175 Limited Edition of
+      25
   - image_path: /uploads/Reflections 4.JPG
     image_title: 'Reflections II, Rust & Blue 2018'
     image_description: >-
@@ -93,75 +152,9 @@ images:
     image_description: >-
       Photograph printed in pigmented inks onto archival cotton rag paper<br
       />&amp;pound;195  Limited Edition of 12.
-  - image_path: /uploads/raasay--skye-across-applecross-bay.jpg
-    image_title: Raasay & Skye Across Applecross Bay 2018
-    image_description: >-
-      Photograph printed in pigmented inks onto archival cotton rag paper<br
-      />50 x 60 cm<br />&amp;pound;195  Limited Edition of 12.
-  - image_path: /uploads/sea-grasses-applecross-bay.jpg
-    image_title: 'Sea Grasses, Applecross Bay'
-    image_description: >-
-      Photograph printed in pigmented inks onto archival cotton rag paper<br
-      />50 x 60 cm<br />&amp;pound;195  Limited Edition of 12.
-  - image_path: /uploads/towards-the-inner-sound-from-sand-bay.jpg
-    image_title: Towards the Inner Sound from Sand Bay 2018
-    image_description: >-
-      Photograph printed in pigmented inks onto archival cotton rag paper<br
-      />50 x 60 cm<br />&amp;pound;195  Limited Edition of 12.
-  - image_path: /assets/images/591eef6cdc862.jpg
-    image_title: 'Walnut Spinney, Winter, 2017'
-    image_description: >-
-      The Walnut Spinney - Snowscape 2016<br />Photograph printed in pigmented
-      inks on cotton rag paper<br />60 x 50 cm<br />&amp;pound;195 Limited
-      Edition of 25
-  - image_path: /assets/images/5925eefb6ff61.jpg
-    image_title: 'Lime Trees, Snowscape, 2016'
-    image_description: >-
-      Lime Trees, Snowscape, 2016<br />Photograph printed in pigmented inks on
-      cotton rag paper<br />40 x 50 cm<br />&amp;pound;175 Limited Edition of
-      25.
-  - image_path: /assets/images/5925f0d5b1c84.jpg
-    image_title: 'Morning Mist, 2016'
-    image_description: >-
-      Morning Mist, 2016<br />Photograph printed in pigmented inks on cotton rag
-      paper<br />40 x 50 cm<br />&amp;Acirc;&amp;pound;175 Limited Edition of 25
-  - image_path: /assets/images/5925ee2ab3ab6.jpg
-    image_title: 'Flight Downstream, 2017'
-    image_description: >-
-      Flight Downstream, 2017<br />Photograph printed in pigmented inks on
-      cotton rag paper<br />40 x 50 cm<br />&amp;pound;175 Limited Edition of 25
-  - image_path: /assets/images/5925ebab9e529.jpg
-    image_title: 'Flood Plains, 2016'
-    image_description: >-
-      Flood Plains, 2016<br />Photograph printed in pigmented inks on cotton rag
-      paper<br />50 x 40 cm<br />&amp;pound;175  Limited Edition of 25
-  - image_path: /assets/images/591ef21d9b28e.jpg
-    image_title: 'Summer Storm, May, 2015'
-    image_description: >-
-      Summer Storm, May, 2015<br />Photograph printed in pigmented inks on
-      cotton rag paper<br />40 z 50 cm<br />&amp;pound;175  Limited Edition of
-      25
-  - image_path: /assets/images/5925ed3ec074e.jpg
-    image_title: 'Cattle &amp;amp; Hawthorn, 2016'
-    image_description: >-
-      Cattle and Hawthorn, 2016<br />Photograph printed in pigmented inks on
-      cotton rag paper<br />40 x 50 cm<br />&amp;pound;175 Limited Edition of 25
-  - image_path: /uploads/Seagulls.jpg
-    image_title: 'Seagulls, University Parks Oxford 2018'
-    image_description: >-
-      Photograph printed in pigmented inks onto archival cotton rag paper<br
-      />60 x 50 cm<br />&amp;pound;195  Edition of 25.
-  - image_path: /assets/images/5925f01bf1d2c.jpg
-    image_title: 'The Golden Thread, 2016'
-    image_description: >-
-      The Golden Thread, 2016<br />Photograph printed in pigmented inks on
-      cotton rag paper<br />40 x 50 cm<br />&amp;pound;175 Limited Edition of 25
-  - image_path: /assets/images/591ef3b5b0a74.jpg
-    image_title: 'Apollo Presides, Ashmolean, 2017'
-    image_description: >-
-      Apollo Presides, Ashmolean, 2017<br />Photograph printed in pigmented inks
-      on cotton rag paper<br />40 x 50 cm<br />&amp;pound;175 Limited Edition of
-      25
+  - image_path:
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
@@ -175,7 +168,9 @@ _options:
     mime_type: image/jpeg
 _comments:
   title: Gallery title
-  permalink: "This is required to make the menus work - enter everything in lower case, no digits, no spaces in this format /gallery/my-new-gallery/"
+  permalink: >-
+    This is required to make the menus work - enter everything in lower case, no
+    digits, no spaces in this format /gallery/my-new-gallery/
   main_image_path: Image used to represent your gallery
   images: Add and edit your gallery images here
   image_description: Might only be shown in the close up of an image
@@ -183,4 +178,5 @@ _comments:
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
 ---
+
 
