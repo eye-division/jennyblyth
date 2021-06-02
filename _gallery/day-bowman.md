@@ -5,7 +5,7 @@ description_markdown: >-
   ### DAY BOWMAN*&nbsp; 'Seaside Citadels'*
 
 
-  #### **1 - 12 JUNE 2021 **
+  #### 1 - 12 JUNE 2021
 
 
   #### Bermondsey Project Space
@@ -144,7 +144,7 @@ description_markdown: >-
   #### 4 January - 8 February 2015
 
 
-  #### **Art Jericho 6 King Street Oxford **
+  #### Art Jericho 6 King Street Oxford
 
 
   Day Bowman is emerging as one of the UK's most exciting contemporary painters.
@@ -158,7 +158,7 @@ description_markdown: >-
   paintings are charged and fluid - dynamic in form and joyous in palette.
 
 
-  ***Day Bowman: &nbsp; ****There is a kind of cruel beauty in the destruction
+  ***Day Bowman: &nbsp; \*\***There is a kind of cruel beauty in the destruction
   we create - for me, the oil depot, stacked piping and overhead cables have
   superseded the rivers and hills of the traditional picturesque.*
 
@@ -315,7 +315,7 @@ description_markdown: >-
   University.
 
 
-  #### **BIOGRAPHY&nbsp; **
+  #### BIOGRAPHY&nbsp;
 
 
   **Education & Exhibitions**
