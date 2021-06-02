@@ -382,6 +382,12 @@ main_image_path: >-
   /uploads/DayBowman_Citadel4_oil,charcoalandconteoncanvas_172x200x3cm_DSC_0986.jpg
 images:
   - image_path: >-
+      /uploads/day-bowman-fortress-7-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm-dsc-1024.jpg
+    image_title: Fortress 7
+    image_description: >-
+      Fortress 7, 2020<br />oil, charcoal and conte on canvas<br />140 x 150 x
+      3cm<br />&amp;pound;6750
+  - image_path: >-
       /uploads/DayBowman_Citadel4_oil,charcoalandconteoncanvas_172x200x3cm_DSC_0986.jpg
     image_title: Citadel 4
     image_description: >-
@@ -505,12 +511,6 @@ images:
   - image_path: /assets/images/54afe73b8799c.jpg
     image_title: 'Edgelands 2, 2012'
     image_description: 'Edgelands 2, 2012<br />oil, charcoal and conte on canvas<br />173 x 400 cm'
-  - image_path: >-
-      /uploads/day-bowman-fortress-7-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm-dsc-1024.jpg
-    image_title: Fortress 7
-    image_description: >-
-      Fortress 7, 2020<br />oil, charcoal and conte on canvas<br />140 x 150 x
-      3cm<br />&amp;pound;6750
 _options:
   image_path:
     width: 1200
