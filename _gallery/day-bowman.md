@@ -5,7 +5,7 @@ description_markdown: >-
   ### DAY BOWMAN*&nbsp; 'Seaside Citadels'*
 
 
-  #### **1 - 12 JUNE 2021 **
+  #### 1 - 12 JUNE 2021
 
 
   #### Bermondsey Project Space
@@ -144,7 +144,7 @@ description_markdown: >-
   #### 4 January - 8 February 2015
 
 
-  #### **Art Jericho 6 King Street Oxford **
+  #### Art Jericho 6 King Street Oxford
 
 
   Day Bowman is emerging as one of the UK's most exciting contemporary painters.
@@ -158,7 +158,7 @@ description_markdown: >-
   paintings are charged and fluid - dynamic in form and joyous in palette.
 
 
-  ***Day Bowman: &nbsp; ****There is a kind of cruel beauty in the destruction
+  ***Day Bowman: &nbsp; \*\***There is a kind of cruel beauty in the destruction
   we create - for me, the oil depot, stacked piping and overhead cables have
   superseded the rivers and hills of the traditional picturesque.*
 
@@ -315,7 +315,7 @@ description_markdown: >-
   University.
 
 
-  #### **BIOGRAPHY&nbsp; **
+  #### BIOGRAPHY&nbsp;
 
 
   **Education & Exhibitions**
@@ -379,8 +379,20 @@ permalink: /gallery/day-bowman/
 archive: false
 display_title: true
 main_image_path: >-
-  /uploads/day-bowman-holiday-destination-2-152x168x4-cm-oil-charcoal-and-conte-on-canvas-2018-£8000-dsc-7086.jpg
+  /uploads/DayBowman_Citadel4_oil,charcoalandconteoncanvas_172x200x3cm_DSC_0986.jpg
 images:
+  - image_path: >-
+      /uploads/DayBowman_Citadel4_oil,charcoalandconteoncanvas_172x200x3cm_DSC_0986.jpg
+    image_title: Citadel 4
+    image_description: >-
+      Citadel 4, 2020<br />oil, charcoal and conte on canvas<br />172 x 200
+      cm<br />&amp;pound;8750
+  - image_path: >-
+      /uploads/DayBowman_Citadel3_oil,charcoalndconteoncanvas_172x200x3cm_DSC_0999.jpg
+    image_title: Citadel 3
+    image_description: >-
+      Citadel 3, 2020<br />oil, charcoal and conte on canvas<br />172 x 200 x 3
+      cm<br />&amp;pound;8750
   - image_path: /uploads/day-bowman-holiday-destination-2.jpg
     image_title:
     image_description: >-
