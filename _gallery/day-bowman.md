@@ -56,7 +56,7 @@ description_markdown: >-
   healing.
 
 
-  ### *DAY BOWMAN : Plashy Places*
+  ### *DAY BOWMAN&nbsp; 'Plashy Places'*
 
 
   #### Carey Blyth Gallery , Oxford
@@ -138,13 +138,13 @@ description_markdown: >-
   and Dorset.*
 
 
-  ### DAY BOWMAN 'ALCHEMY'&nbsp;
+  ### DAY BOWMAN &nbsp; *'ALCHEMY'*&nbsp;
 
 
   #### 4 January - 8 February 2015
 
 
-  #### **ART JERICHO 6 King Street Oxford OX2 6DF**
+  #### **Art Jericho 6 King Street Oxford **
 
 
   Day Bowman is emerging as one of the UK's most exciting contemporary painters.
@@ -158,81 +158,16 @@ description_markdown: >-
   paintings are charged and fluid - dynamic in form and joyous in palette.
 
 
-  ***Day Bowman: “There is a kind of cruel beauty in the destruction we create -
-  for me, the oil depot, stacked piping and overhead cables have superseded the
-  rivers and hills of the traditional picturesque.***
+  ***Day Bowman: &nbsp; ****There is a kind of cruel beauty in the destruction
+  we create - for me, the oil depot, stacked piping and overhead cables have
+  superseded the rivers and hills of the traditional picturesque.*
 
 
-  ***Painting is central to my practice as an artist. By this, I do not mean
-  that it is to the exclusion of all other activities such as drawing, collage
-  and printmaking that are integral to the work that I produce on canvas. As a
+  *Painting is central to my practice as an artist. By this, I do not mean that
+  it is to the exclusion of all other activities such as drawing, collage and
+  printmaking that are integral to the work that I produce on canvas. As a
   painter, I work in series which allows me to focus and explore the subject in
-  depth.”***
-
-
-  **DAY BOWMAN – BIOGRAPHY&nbsp; **
-
-
-  **Education & Exhibitions**
-
-
-  **DAY BOWMAN** graduated from London University and Chelsea College of Art in
-  1980. Highlights from the last 10 years include UK Touring Museum Solo
-  Exhibitions : *The Urban Wastelands Project* 2011/12; *Edgelands* in 2016/17,
-  and Solo Exhibitions of *Alchemy* in 2015 and *Plashy Places* in 2020 at Carey
-  Blyth Gallery, Oxford.&nbsp;
-
-
-  This year, as we came out of lockdown, Day Bowman has had a busy schedule with
-  work appearing in the *Royal West of England Academy 168 th Open* in Bristol,
-  and ‘*Being With Trees’ - &nbsp;*amixed exhibition curated by Philippa Beale
-  at Bermondsey Project Space in April/May 2021.&nbsp; Her work was also shown
-  at the *Mall Galleries* as one of the selected pieces for the *Royal Institute
-  of Painters* in ‘*Water Colours 209th Exhibition’*.
-
-
-  **Prizes & Collections**
-
-
-  Prior to the pandemic Day’s work was awarded *First Prize in the Anima Mundi
-  International Painting Prize* and exhibited at the Venice Biennale 2019;
-  *First Prize in the Bath Arts Open 2019,* and *First Prize for the inaugural
-  Wales Contemporary 2019*. In 2020, Day was awarded the *Winsor & Newton Prize
-  2020* by the Royal Institute for Painters in *Water Colours,* and most
-  recently her work was shortlisted for the *Holly Bush Women Painting
-  Prize***.**
-
-
-  *‘Tearing up the Rule Book’*, a solo international exhibition at Westminster
-  Reference Library London and Atelier Melusine France was praised by critics
-  and bloggers at its London showing in March 2019 and Artlyst gave coverage in
-  October 2019:
-  https://www.artlyst.com/reviews/tearing-rule-book-paintings-day-bowman-atelier-
-  melusine
-
-
-  In 2012 she was commissioned to produce a series of giant hoardings for
-  Weymouth Railway Station, host town to the *Olympic Sailing and Paralympic
-  Sailing* events.
-
-
-  Day’s work is held in international Private and Public Collections including :
-  Hilton Hotel Group; British Dental Association; Dorset County Hospital; St.
-  Vincent and Grenadines Govt. Art Collection; he Priseman Seabrook Collection,
-  and the Yantai Art Museum Collection China.
-
-
-  Day Bowman has exhibited in galleries and museums in UK and Europe, most
-  recently in 2013 at the Bluecoat Gallery, Liverpool and Spacex in Exeter. She
-  had a museum tour of South West England in 2011/12 and was commissioned to
-  create a series of images blown up for hoardings to mark the Olympic sailing
-  at Weymouth in 2012. Day has paintings in public and private collections.
-
-
-  ### PREVIOUS EXHIBITIONS :
-
-
-  &nbsp;
+  depth.*
 
 
   ### URBAN WASTELANDS PROJECT 2010-12
@@ -378,6 +313,65 @@ description_markdown: >-
   forgotten ‘Edgelands’, exploring the twilight zone between figuration and
   abstraction. Day Bowman studied painting at Chelsea School of Art and London
   University.
+
+
+  #### **BIOGRAPHY&nbsp; **
+
+
+  **Education & Exhibitions**
+
+
+  **DAY BOWMAN** graduated from London University and Chelsea College of Art in
+  1980. Highlights from the last 10 years include UK Touring Museum Solo
+  Exhibitions : *The Urban Wastelands Project* 2011/12; *Edgelands* in 2016/17,
+  and Solo Exhibitions of *Alchemy* in 2015 and *Plashy Places* in 2020 at Carey
+  Blyth Gallery, Oxford.&nbsp;
+
+
+  This year, as we came out of lockdown, Day Bowman has had a busy schedule with
+  work appearing in the *Royal West of England Academy 168 th Open* in Bristol,
+  and ‘*Being With Trees’ - &nbsp;*amixed exhibition curated by Philippa Beale
+  at Bermondsey Project Space in April/May 2021.&nbsp; Her work was also shown
+  at the *Mall Galleries* as one of the selected pieces for the *Royal Institute
+  of Painters* in ‘*Water Colours 209th Exhibition’*.
+
+
+  **Prizes & Collections**
+
+
+  Prior to the pandemic Day’s work was awarded *First Prize in the Anima Mundi
+  International Painting Prize* and exhibited at the Venice Biennale 2019;
+  *First Prize in the Bath Arts Open 2019,* and *First Prize for the inaugural
+  Wales Contemporary 2019*. In 2020, Day was awarded the *Winsor & Newton Prize
+  2020* by the Royal Institute for Painters in *Water Colours,* and most
+  recently her work was shortlisted for the *Holly Bush Women Painting
+  Prize***.**
+
+
+  *‘Tearing up the Rule Book’*, a solo international exhibition at Westminster
+  Reference Library London and Atelier Melusine France was praised by critics
+  and bloggers at its London showing in March 2019 and Artlyst gave coverage in
+  October 2019:
+  https://www.artlyst.com/reviews/tearing-rule-book-paintings-day-bowman-atelier-
+  melusine
+
+
+  In 2012 she was commissioned to produce a series of giant hoardings for
+  Weymouth Railway Station, host town to the *Olympic Sailing and Paralympic
+  Sailing* events.
+
+
+  Day’s work is held in international Private and Public Collections including :
+  Hilton Hotel Group; British Dental Association; Dorset County Hospital; St.
+  Vincent and Grenadines Govt. Art Collection; he Priseman Seabrook Collection,
+  and the Yantai Art Museum Collection China.
+
+
+  Day Bowman has exhibited in galleries and museums in UK and Europe, most
+  recently in 2013 at the Bluecoat Gallery, Liverpool and Spacex in Exeter. She
+  had a museum tour of South West England in 2011/12 and was commissioned to
+  create a series of images blown up for hoardings to mark the Olympic sailing
+  at Weymouth in 2012. Day has paintings in public and private collections.
 homepage_description_markdown:
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
