@@ -381,6 +381,18 @@ display_title: true
 main_image_path: >-
   /uploads/DayBowman_Citadel4_oil,charcoalandconteoncanvas_172x200x3cm_DSC_0986.jpg
 images:
+  - image_path: >-
+      /uploads/DayBowman_Citadel4_oil,charcoalandconteoncanvas_172x200x3cm_DSC_0986.jpg
+    image_title: Citadel 4
+    image_description: >-
+      Citadel 4, 2020<br />oil, charcoal and conte on canvas<br />172 x 200
+      cm<br />&amp;pound;8750
+  - image_path: >-
+      /uploads/DayBowman_Citadel3_oil,charcoalndconteoncanvas_172x200x3cm_DSC_0999.jpg
+    image_title: Citadel 3
+    image_description: >-
+      Citadel 3, 2020<br />oil, charcoal and conte on canvas<br />172 x 200 x 3
+      cm<br />&amp;pound;8750
   - image_path: /uploads/day-bowman-holiday-destination-2.jpg
     image_title:
     image_description: >-
@@ -493,18 +505,6 @@ images:
   - image_path: /assets/images/54afe73b8799c.jpg
     image_title: 'Edgelands 2, 2012'
     image_description: 'Edgelands 2, 2012<br />oil, charcoal and conte on canvas<br />173 x 400 cm'
-  - image_path: >-
-      /uploads/DayBowman_Citadel4_oil,charcoalandconteoncanvas_172x200x3cm_DSC_0986.jpg
-    image_title: Citadel 4
-    image_description: >-
-      Citadel 4, 2020<br />oil, charcoal and conte on canvas<br />172 x 200
-      cm<br />&amp;pound;8750
-  - image_path: >-
-      /uploads/DayBowman_Citadel3_oil,charcoalndconteoncanvas_172x200x3cm_DSC_0999.jpg
-    image_title: Citadel 3
-    image_description: >-
-      Citadel 3, 2020<br />oil, charcoal and conte on canvas<br />172 x 200 x 3
-      cm<br />&amp;pound;8750
 _options:
   image_path:
     width: 1200
