@@ -511,6 +511,12 @@ images:
   - image_path: /assets/images/54afe73b8799c.jpg
     image_title: 'Edgelands 2, 2012'
     image_description: 'Edgelands 2, 2012<br />oil, charcoal and conte on canvas<br />173 x 400 cm'
+  - image_path: >-
+      /uploads/DayBowman_Fortress5_oil,charcoalandconteoncanvas_140x150x3cm_DSC_1035.jpg
+    image_title: Fortress 5
+    image_description: >-
+      Fortress 5, 2020<br />oil, charcoal and conte on canvas<br />140 x 150 x 3
+      cm<br />&amp;pound;6750
 _options:
   image_path:
     width: 1200
