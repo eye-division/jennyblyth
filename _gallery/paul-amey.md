@@ -2,7 +2,7 @@
 title: Paul AMEY
 surname: Amey
 description_markdown: >-
-  \*\*PAUL AMEY : From 10 July - August 2021 \*\*
+  **PAUL AMEY : From 10 July - August 2021&nbsp;**
 
 
   **at Carey Blyth Gallery**
