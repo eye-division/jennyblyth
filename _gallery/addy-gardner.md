@@ -5,7 +5,11 @@ description_markdown: >-
   **ADDY GARDNER showing at CAREY BLYTH&nbsp;**
 
 
-  8 Woodstock Road OX2 6HT (Wed-Sun 11-5 pm)
+  8 Woodstock Road OX2 6HT (Tues-Sat 11-5 pm)
+
+
+  **June 2021** : New work showing1 ***'Pen y Pass'*** oil on canvas 90 x 120 cm
+  and more...
 
 
   **January 2020**
@@ -214,7 +218,7 @@ images:
       Swallowing Water 2018<br />oil on canvas<br />100 x 100 cm<br />&amp;pound
       2500
   - image_path: /uploads/alongtheriver.jpg
-    image_title: 'Along By the River, Deep In Thought'
+    image_title: Along By the River, Deep In Thought
     image_description: >-
       Along By The Willows, Deep In Thought 2019<br />oil on canvas<br />60 x
       180 cm<br />&amp;pound 2750
@@ -286,14 +290,14 @@ images:
       />&amp;pound;2750
   - image_path: /assets/images/5378b1cfd1326.jpg
     image_title: Last Light I
-    image_description: 'Last Light I, 2014<br />oil on canvas<br />60 x 60 cm<br />&amp;pound;950'
+    image_description: Last Light I, 2014<br />oil on canvas<br />60 x 60 cm<br />&amp;pound;950
   - image_path: /assets/images/5378b09a50bea.jpg
     image_title: Your love for her
     image_description: >-
       Your love for her, 2014<br />oil on canvas<br />100 x 200 cm (diptych)<br
       />&amp;pound;3250
   - image_path: /assets/images/5378b130a697f.jpg
-    image_title: 'Breathing ourselves out and beyond, 2014'
+    image_title: Breathing ourselves out and beyond, 2014
     image_description: >-
       Breathing ourselves out and beyond, 2014<br />oil on canvas<br />60 x 180
       cm<br />&amp;pound;2500
