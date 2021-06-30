@@ -84,6 +84,11 @@ images:
       Table Top 3/Vase with Green Mugs<br />Digital Print in Pigmented Inks on
       Archival Paper<br />Edition of 75<br />69 x 50 cm<br />&amp;pound 750
       (framed & glazed)<br />&amp;pound 600 (unframed & unglazed)
+  - image_path: /uploads/KentallenatDusk.jpg
+    image_title:
+    image_description: >-
+      Kentallen at Dusk<br />acrylic on board<br />75 x 100cm<br />&amp;pound
+      3,950
 _options:
   image_path:
     width: 1200
