@@ -2,7 +2,7 @@
 title: Paul AMEY
 surname: Amey
 description_markdown: >-
-  **PAUL AMEY : From 10 July - August 2021 **
+  **PAUL AMEY : From 10 July - August 2021&nbsp;**
 
 
   **at Carey Blyth Gallery**
@@ -49,11 +49,14 @@ archive: false
 main_image_path: /uploads/OceanBar1.jpg
 display_title: true
 images:
-  - image_path: /uploads/kentallen-dusk-1.jpg
+  - image_path: /uploads/OceanBar.jpeg
+    image_title:
+    image_description: 'Ocean Bar I<br />acrylic on board<br />75 x 100cm<br />&amp;pound '
+  - image_path: /uploads/OceanBarSingleFigure.jpg
     image_title:
     image_description: >-
-      Kentallen at Dusk<br />acrylic on board<br />75 x 100cm<br />&amp;pound
-      3,950
+      Ocean Bar with Figure<br />acrylic on board<br />75 x 100cm<br
+      />&amp;pound 
   - image_path: /uploads/table-top-giclee-sm.jpg
     image_title: Table Top 2/Golden Teapot
     image_description: >-
@@ -81,9 +84,11 @@ images:
       Table Top 3/Vase with Green Mugs<br />Digital Print in Pigmented Inks on
       Archival Paper<br />Edition of 75<br />69 x 50 cm<br />&amp;pound 750
       (framed & glazed)<br />&amp;pound 600 (unframed & unglazed)
-  - image_path: /uploads/OceanBar1.jpg
-    image_title: Ocean Bar I
-    image_description:
+  - image_path: /uploads/KentallenatDusk.jpg
+    image_title:
+    image_description: >-
+      Kentallen at Dusk<br />acrylic on board<br />75 x 100cm<br />&amp;pound
+      3,950
 _options:
   image_path:
     width: 1200
