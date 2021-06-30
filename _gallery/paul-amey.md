@@ -52,6 +52,11 @@ images:
   - image_path: /uploads/OceanBar.jpeg
     image_title:
     image_description: 'Ocean Bar I<br />acrylic on board<br />75 x 100cm<br />&amp;pound '
+  - image_path: /uploads/OceanBarSingleFigure.jpg
+    image_title:
+    image_description: >-
+      Ocean Bar with Figure<br />acrylic on board<br />75 x 100cm<br
+      />&amp;pound 
   - image_path: /uploads/table-top-giclee-sm.jpg
     image_title: Table Top 2/Golden Teapot
     image_description: >-
@@ -84,11 +89,6 @@ images:
     image_description: >-
       Kentallen at Dusk<br />acrylic on board<br />75 x 100cm<br />&amp;pound
       3,950
-  - image_path: /uploads/OceanBarSingleFigure.jpg
-    image_title:
-    image_description: >-
-      Ocean Bar with Figure<br />acrylic on board<br />75 x 100cm<br
-      />&amp;pound 
 _options:
   image_path:
     width: 1200
