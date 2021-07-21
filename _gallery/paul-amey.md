@@ -57,45 +57,33 @@ images:
     image_description: >-
       Ocean Bar with Figure<br />acrylic on board<br />75 x 100cm<br
       />&amp;pound 3750
-  - image_path: /uploads/table-top-giclee-sm.jpg
-    image_title: Table Top 2/Golden Teapot
-    image_description: >-
-      Table Top 2/Teapot<br />Digital Print in Pigmented Inks on Archival
-      Paper<br />Edition of 75<br />Two Sizes : Lg (84 x 41 cm) : Medium (69 x
-      50 cm)<br />&amp;pound 1200 & 750 (framed & glazed)<br />&amp;pound 900 &
-      600 (unframed & unglazed)
-
-
-
-
-
-      Print in pigmented ink on archival paper
-
-      Edition of 75
-
-      Two sizes :
-
-      84 x 41 cm £1200 (framed with mount); £900 (with mount no frame)
-
-      69 x 50 cm £750 (framed with mount); £600 (with mount no frame)
-  - image_path: /uploads/PaulAmey_TableTop3.jpg
-    image_title: Table Top 3/Vase with Green Mugs
-    image_description: >-
-      Table Top 3/Vase with Green Mugs<br />Digital Print in Pigmented Inks on
-      Archival Paper<br />Edition of 75<br />69 x 50 cm<br />&amp;pound 750
-      (framed & glazed)<br />&amp;pound 600 (unframed & unglazed)
   - image_path: /uploads/KentallenatDusk.jpg
     image_title:
     image_description: >-
       Kentallen at Dusk<br />acrylic on board<br />75 x 100cm<br />&amp;pound
-      3,950
+      3,500
   - image_path: /uploads/Doorstep_Figure(1).jpg
-    image_title: Interior with Figure
+    image_title:
     image_description: >-
       Interior with Figure<br />acrylic on board<br />81 x 110cm<br />&amp;pound
       3750
+  - image_path: /uploads/tabletop-night.jpg
+    image_title: Table Top / Night
+    image_description: >-
+      Table Top / Night<br />acrylic on board<br />101 x 75 cm<br />&amp;pound
+      3250
+  - image_path: /uploads/red-sofa-1-yellow-fig-with-dog.JPG
+    image_title:
+    image_description: >-
+      Red Sofa 4 / Sunlight<br />acrylic on paper<br />59 x 82.2 cm <br
+      />&amp;pound 2600
+  - image_path: /uploads/red-sofa-with-dogs.jpg
+    image_title:
+    image_description: >-
+      Red Sofa 1 / Yellow Figure with Dogs<br />acrylic on paper<br />59 x 82.2
+      cm <br />&amp;pound 2600
   - image_path: /uploads/fruit--freesias.JPG
-    image_title: Kitchen, Freesias, Bowl and Knife Block
+    image_title:
     image_description: >-
       Freesias, Bowl and Knife Block<br />acrylic on paper<br />59 x 85<br
       />&amp;pound 2600
@@ -105,17 +93,20 @@ images:
       Roses / Red Vase<br />Digital Print in Pigmented Inks on Archival Paper<br
       />Edition of 75<br />Two Sizes : Lg (84 x 41 cm) 1200 : Medium (69 x 50
       cm)<br 750 (framed)
-  - image_path: /uploads/red-sofa-1-yellow-fig-with-dog.JPG
-    image_title: Red Sofa 4 / Sunlight
-    image_description: 59 x 82.2 cm 2600
-  - image_path: /uploads/tabletop-night.jpg
-    image_title: Table Top / Night
-    image_description:
-  - image_path: /uploads/red-sofa-with-dogs.jpg
-    image_title: Red Sofa 1 / Yellow Figure with Dogs
-    image_description: |-
-      acrylic on panel
-      59 x 82.2 cm
+  - image_path: /uploads/table-top-giclee-sm.jpg
+    image_title:
+    image_description: >+
+      Table Top 2/Teapot<br />Digital Print in Pigmented Inks on Archival
+      Paper<br />Edition of 75<br />Two Sizes : Lg (84 x 41 cm) : Medium (69 x
+      50 cm)<br />&amp;pound 1200 & 750 (framed) 
+
+
+  - image_path: /uploads/PaulAmey_TableTop3.jpg
+    image_title:
+    image_description: >-
+      Table Top 3/Vase with Two Mugs<br />Digital Print in Pigmented Inks on
+      Archival Paper<br />Edition of 75<br />69 x 50 cm<br />&amp;pound 750 /
+      600 (framed / unframed)
 _options:
   image_path:
     width: 1200
