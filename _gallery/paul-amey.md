@@ -89,6 +89,28 @@ images:
     image_description: >-
       Kentallen at Dusk<br />acrylic on board<br />75 x 100cm<br />&amp;pound
       3,950
+  - image_path: /uploads/Doorstep_Figure(1).jpg
+    image_title: Interior with Figure
+    image_description:
+  - image_path: /uploads/fruit--freesias.JPG
+    image_title: Kitchen, Freesias, Bowl and Knife Block
+    image_description: acrylic on paper 59 x 85 cm
+  - image_path: /uploads/paul-amey--roses-1.jpg
+    image_title: Roses / Red Vase
+    image_description:
+  - image_path: /uploads/red-sofa-1-yellow-fig-with-dog.JPG
+    image_title: Red Sofa 4 / Sunlight
+    image_description: 59 x 82.2 cm 2600
+  - image_path: /uploads/tabletop-night.jpg
+    image_title: Table Top / Night
+    image_description: |-
+      acrylic on plywood panel
+      100 x 75 cm
+  - image_path: /uploads/red-sofa-with-dogs.jpg
+    image_title: Red Sofa 1 / Yellow Figure with Dogs
+    image_description: |-
+      acrylic on panel
+      59 x 82.2 cm
 _options:
   image_path:
     width: 1200
@@ -112,5 +134,4 @@ _comments:
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
 ---
-
 
