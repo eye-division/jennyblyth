@@ -106,6 +106,11 @@ images:
     image_description: |-
       acrylic on plywood panel
       100 x 75 cm
+  - image_path: /uploads/red-sofa-with-dogs.jpg
+    image_title: Red Sofa 1 / Yellow Figure with Dogs
+    image_description: |-
+      acrylic on panel
+      59 x 82.2 cm
 _options:
   image_path:
     width: 1200
