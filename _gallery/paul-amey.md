@@ -89,6 +89,9 @@ images:
     image_description: >-
       Kentallen at Dusk<br />acrylic on board<br />75 x 100cm<br />&amp;pound
       3,950
+  - image_path: /uploads/Doorstep_Figure(1).jpg
+    image_title: Interior with Figure
+    image_description:
 _options:
   image_path:
     width: 1200
@@ -112,5 +115,4 @@ _comments:
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
 ---
-
 
