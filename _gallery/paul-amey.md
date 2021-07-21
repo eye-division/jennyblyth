@@ -98,6 +98,9 @@ images:
   - image_path: /uploads/paul-amey--roses-1.jpg
     image_title: Roses / Red Vase
     image_description:
+  - image_path: /uploads/red-sofa-1-yellow-fig-with-dog.JPG
+    image_title: Red Sofa 4 / Sunlight
+    image_description: 59 x 82.2 cm 2600
 _options:
   image_path:
     width: 1200
