@@ -92,6 +92,9 @@ images:
   - image_path: /uploads/Doorstep_Figure(1).jpg
     image_title: Interior with Figure
     image_description:
+  - image_path: /uploads/fruit--freesias.JPG
+    image_title: Kitchen, Freesias, Bowl and Knife Block
+    image_description: acrylic on paper 59 x 85 cm
 _options:
   image_path:
     width: 1200
