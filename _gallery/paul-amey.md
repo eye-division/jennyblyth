@@ -2,13 +2,10 @@
 title: Paul AMEY
 surname: Amey
 description_markdown: >-
-  **PAUL AMEY : From 10 July - August 2021&nbsp;**
+  **PAUL AMEY : 10 July - August 2021&nbsp;**
 
 
-  **at Carey Blyth Gallery**
-
-
-  **8 Woodstock Road Oxford OX2 6HT&nbsp;**
+  **Carey Blyth Gallery 8 Woodstock Road Oxford OX2 6HT&nbsp;**
 
 
   Medium holds no boundaries for Paul AMEY.&nbsp; He is both painter and
