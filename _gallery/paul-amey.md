@@ -91,7 +91,9 @@ images:
       3,950
   - image_path: /uploads/Doorstep_Figure(1).jpg
     image_title: Interior with Figure
-    image_description:
+    image_description: >-
+      Interior with Figure<br />acrylic on board<br />81 x 110cm<br />&amp;pound
+      3750
   - image_path: /uploads/fruit--freesias.JPG
     image_title: Kitchen, Freesias, Bowl and Knife Block
     image_description: acrylic on paper 59 x 85 cm
