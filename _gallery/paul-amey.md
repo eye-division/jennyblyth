@@ -95,6 +95,9 @@ images:
   - image_path: /uploads/fruit--freesias.JPG
     image_title: Kitchen, Freesias, Bowl and Knife Block
     image_description: acrylic on paper 59 x 85 cm
+  - image_path: /uploads/paul-amey--roses-1.jpg
+    image_title: Roses / Red Vase
+    image_description:
 _options:
   image_path:
     width: 1200
