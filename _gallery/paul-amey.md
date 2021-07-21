@@ -51,12 +51,12 @@ display_title: true
 images:
   - image_path: /uploads/OceanBar.jpeg
     image_title:
-    image_description: 'Ocean Bar I<br />acrylic on board<br />75 x 100cm<br />&amp;pound '
+    image_description: Ocean Bar I<br />acrylic on board<br />75 x 100cm<br />&amp;pound 3750
   - image_path: /uploads/OceanBarSingleFigure.jpg
     image_title:
     image_description: >-
       Ocean Bar with Figure<br />acrylic on board<br />75 x 100cm<br
-      />&amp;pound 
+      />&amp;pound 3750
   - image_path: /uploads/table-top-giclee-sm.jpg
     image_title: Table Top 2/Golden Teapot
     image_description: >-
@@ -101,15 +101,16 @@ images:
       />&amp;pound 2600
   - image_path: /uploads/paul-amey--roses-1.jpg
     image_title: Roses / Red Vase
-    image_description:
+    image_description: >-
+      Roses / Red Vase<br />Digital Print in Pigmented Inks on Archival Paper<br
+      />Edition of 75<br />Two Sizes : Lg (84 x 41 cm) 1200 : Medium (69 x 50
+      cm)<br 750 (framed)
   - image_path: /uploads/red-sofa-1-yellow-fig-with-dog.JPG
     image_title: Red Sofa 4 / Sunlight
     image_description: 59 x 82.2 cm 2600
   - image_path: /uploads/tabletop-night.jpg
     image_title: Table Top / Night
-    image_description: |-
-      acrylic on plywood panel
-      100 x 75 cm
+    image_description:
   - image_path: /uploads/red-sofa-with-dogs.jpg
     image_title: Red Sofa 1 / Yellow Figure with Dogs
     image_description: |-
