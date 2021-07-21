@@ -101,6 +101,11 @@ images:
   - image_path: /uploads/red-sofa-1-yellow-fig-with-dog.JPG
     image_title: Red Sofa 4 / Sunlight
     image_description: 59 x 82.2 cm 2600
+  - image_path: /uploads/tabletop-night.jpg
+    image_title: Table Top / Night
+    image_description: |-
+      acrylic on plywood panel
+      100 x 75 cm
 _options:
   image_path:
     width: 1200
