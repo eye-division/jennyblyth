@@ -96,7 +96,9 @@ images:
       3750
   - image_path: /uploads/fruit--freesias.JPG
     image_title: Kitchen, Freesias, Bowl and Knife Block
-    image_description: acrylic on paper 59 x 85 cm
+    image_description: >-
+      Freesias, Bowl and Knife Block<br />acrylic on paper<br />59 x 85<br
+      />&amp;pound 2600
   - image_path: /uploads/paul-amey--roses-1.jpg
     image_title: Roses / Red Vase
     image_description:
