@@ -41,7 +41,7 @@ description_markdown: >-
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;
 
 
-  *Jenny Blyth Fine Art at Carey Blyth Gallery *
+  \*Jenny Blyth Fine Art at Carey Blyth Gallery \*
 
 
   &nbsp;
@@ -51,11 +51,29 @@ gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/florence-amey/
 archive: false
 display_title: true
-main_image_path: /assets/images/55ba03320f857.jpg
+main_image_path: /assets/Untittled7.jpg
 images:
-  - image_path: /assets/images/55ba03320f857.jpg
-    image_title: Sin Titulo 1
-    image_description: Sin Titulo 1, 2014<br />acrylic on paper<br />55 x 75 cm
+  - image_path: /assets/Untittled7.jpg
+    image_title: Untitled V
+    image_description: Untitled II, 2020<br />acrylic on board<br />15 x 21 cm<br/>£245
+  - image_path: /Untittled7.jpg
+    image_title: Untitled V
+    image_description: Untitled V, 2020<br />acrylic on board<br />15 x 21 cm<br/>£245
+  - image_path: /Untittled40.jpg
+    image_title: Untitled II
+    image_description: Untitled II, 2020<br />acrylic on board<br />15 x 21 cm<br/>£245
+  - image_path: /Untittled50.jpg
+    image_title: Untitled XIV
+    image_description: Untitled XIV, 2020<br />acrylic on board<br />15 x 21 cm<br/>£245
+  - image_path: /Untittled36.jpg
+    image_title: Untitled III
+    image_description: Untitled III, 2020<br />acrylic on board<br />15 x 21 cm<br/>£245
+  - image_path: /Untittled5.jpg
+    image_title: Untitled II
+    image_description: Untitled II, 2020<br />acrylic on board<br />15 x 21 cm<br/>£245
+  - image_path: /Untittled17.jpg
+    image_title:
+    image_description: Untitled II, 2020<br />acrylic on board<br />15 x 21 cm<br/>£245
   - image_path: /assets/images/55ba036aecb4b.jpg
     image_title: Sin Titulo 2
     image_description: Sin Titulo 2, 2014<br />acrylic on paper<br />55 x 75 cm
@@ -71,6 +89,9 @@ images:
   - image_path: /uploads/a-painting-highres-1.jpg
     image_title: Sin Titulo 6
     image_description: Sin Titulo 6, 2018<br />acrylic on paper<br />55 x 75 cm
+  - image_path:
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
@@ -94,4 +115,5 @@ _comments:
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
 ---
+
 
