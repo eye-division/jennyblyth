@@ -265,6 +265,9 @@ images:
   - image_path: /uploads/JudahNov19-027.png
     image_title: Flame
     image_description:
+  - image_path: /uploads/JudahNov19-005.png
+    image_title:
+    image_description:
   - image_path: /uploads/JudahNov19-015.png
     image_title:
     image_description:
