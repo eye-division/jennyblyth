@@ -152,7 +152,7 @@ description_markdown: >-
 
 
   COUNTRY December 2010 - January 2011 at the Fitzroy Gallery, New York. Country
-  curated by Jenny Blyth. Text by Jenny Blyth &copy; 2013 :
+  curated by Jenny Blyth. Text by Jenny Blyth © 2013 :
 
 
   *The role for contemporary artists is to react and reflect upon life and the
