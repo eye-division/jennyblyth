@@ -5,7 +5,7 @@ description_markdown: >-
   **GERRY JUDAH : ARK ANGELS**
 
 
-  ***Carey Blyth Gallery** from October 2021. *
+  **\*Carey Blyth Gallery** from October 2021. \*
 
 
   The breadth of Judah’s works reflects his personal journey with references to
@@ -155,7 +155,7 @@ description_markdown: >-
 
 
   COUNTRY December 2010 - January 2011 at the Fitzroy Gallery, New York. Country
-  curated by Jenny Blyth. Text by Jenny Blyth © 2013 :
+  curated by Jenny Blyth. Text by Jenny Blyth &copy; 2013 :
 
 
   *The role for contemporary artists is to react and reflect upon life and the
@@ -261,9 +261,6 @@ images:
     image_description:
   - image_path: /uploads/April2021-008.jpg
     image_title: Ark Angel 3
-    image_description:
-  - image_path: /uploads/April2021-244.jpg
-    image_title: Ark Angel 4
     image_description:
   - image_path: /uploads/April2021-381.jpg
     image_title: Ark Angel 4
