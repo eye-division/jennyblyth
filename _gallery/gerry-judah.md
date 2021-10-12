@@ -2,14 +2,17 @@
 title: Gerry Judah
 surname: Judah
 description_markdown: >-
-  ***GERRY JUDAH : ARK ANGELS at Carey Blyth Gallery from October 2021. ***
+  ***GERRY JUDAH : ARK ANGELS** *
 
 
-  *The breadth of Judah’s works reflects his personal journey with references to
+  ***Carey Blyth Gallery** from October 2021.&nbsp;*
+
+
+  The breadth of Judah’s works reflects his personal journey with references to
   the country and city of his early years, Kolkata, and the changes demanded of
   a country blasted into the 21st Century, that remains firmly steeped in
   cultural and religious traditions that colour the everyday, the lives of its
-  people, the cities and the landscape. *
+  people, the cities and the landscape.&nbsp;
 
 
   *Carey Blyth Gallery is showing a portfolio of Drawings and Sculptures in
@@ -24,30 +27,32 @@ description_markdown: >-
   conflict.*
 
 
-  *Judah’**s work provides a portal into his perceptions of the changing world.
-  History, politics and environment pervade his compositions. &nbsp;Commissioned
-  by Christian Aid to reflect on issues around the impact of modernity in his
-  home country of Bengal, Judah’s work encompasses an ancient and thriving
-  culture of past, fast forwarded into modernity, where Pujas, Pandals and
-  Tabernacles are as much a part of the landscape of daily life as newbuild
-  factories and industry, with all the fall out associated with progress.*
+  *Judah’\*\*s work provides a portal into his perceptions of the changing
+  world. History, politics and environment pervade his compositions.
+  &nbsp;Commissioned by Christian Aid to reflect on issues around the impact of
+  modernity in his home country of Bengal, Judah’s work encompasses an ancient
+  and thriving culture of past, fast forwarded into modernity, where Pujas,
+  Pandals and Tabernacles are as much a part of the landscape of daily life as
+  newbuild factories and industry, with all the fall out associated with
+  progress.*
 
 
-  *Judah is a Londoner, charged by the architecture of his home turf of more
-  than half a century.&nbsp; Driving across London to his studio, he notes the
+  Judah is a Londoner, charged by the architecture of his home turf of more than
+  half a century.&nbsp; Driving across London to his studio, he notes the
   newbuilds, hoardings, and ongoing demolition making space for the new.&nbsp;
   Excited by the challenges of a continually changing cityscape, it is the
-  geography of his environment that informs his work. It is his constant muse. *
+  geography of his environment that informs his work. It is his constant
+  muse.&nbsp;
 
 
-  *His studio in Manor House, North London is a multi-cultural light industrial
+  His studio in Manor House, North London is a multi-cultural light industrial
   ‘hive’ of studios teaming with creativity.&nbsp; None more so than Judah’s
   studio. Drawings for his forthcoming show are framed and glazed, stacked
   awaiting shipping. &nbsp;The last of his beautiful 3D white paintings are
   shrouded in plastic - quiet epic ghosts against the walls. Structure for ‘The
   Ark’ a wall mounted receptacle for Torahs in polished wood commissioned by his
   local Synagogue is straddled across an expanse of studio floor awaiting
-  construction. *
+  construction.&nbsp;
 
 
   *The early 2000s marked a return for Judah to his prime calling as artist in
@@ -72,9 +77,6 @@ description_markdown: >-
   a Nighthawk stealth aircraft.*
 
 
-  &nbsp;
-
-
   *Judah will be showing **Past and Forward : &nbsp;Drawings and Sculptures**
   with Jenny Blyth Fine Art at **Carey Blyth Gallery** 8 Woodstock Road OX2 6HT
   from **October 9 for six weeks.**&nbsp; Jenny Blyth Fine Art has been working
@@ -94,19 +96,16 @@ description_markdown: >-
   centenary of World War 1 currently on display at St. Paul's Cathedral.
 
 
-  **Also currently showing : *THE CRUSADER***
-
-
-  **A sculpture by GERRY JUDAH, commission secured by Jenny Blyth Fine Art.**
-
-
-  **On permanent display at Imperial War Museum of the North, Manchester since 6
-  NOVEMBER 2010**
+  **Also currently showing : *THE CRUSADER*&nbsp;- on permanent display at
+  Imperial War Museum of the North, Manchester since NOVEMBER 2010**
 
 
   [<font
   color="#0000ff">www.iwm.org.uk/north</font>](http://www.iwm.org.uk/north
   "blocked::http://www.iwm.org.uk/north")
+
+
+  Sculpture commission secured by Jenny Blyth Fine Art.
 
 
   THE CRUSADER was created in direct response to global conflict. It reflects on
