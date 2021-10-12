@@ -26,13 +26,13 @@ description_markdown: >-
   inferences that arise from climate change and conflict.*
 
 
-  *Judah’s work provides a portal into his perceptions of the changing world.
+  Judah’s work provides a portal into his perceptions of the changing world.
   History, politics and environment pervade his compositions. Commissioned by
   Christian Aid to reflect on issues around the impact of modernity in his home
   country of Bengal, Judah’s work encompasses an ancient and thriving culture of
   past, fast forwarded into modernity, where Pujas, Pandals and Tabernacles are
   as much a part of the landscape of daily life as newbuild factories and
-  industry, with all the fall out associated with progress.*
+  industry, with all the fall out associated with progress.
 
 
   Judah is a Londoner, charged by the architecture of his home turf of more than
