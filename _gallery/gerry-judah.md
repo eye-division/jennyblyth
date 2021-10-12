@@ -2,7 +2,7 @@
 title: Gerry Judah
 surname: Judah
 description_markdown: >-
-  ***GERRY JUDAH : ARK ANGELS** *
+  **GERRY JUDAH : ARK ANGELS**&nbsp;
 
 
   ***Carey Blyth Gallery** from October 2021.&nbsp;*
