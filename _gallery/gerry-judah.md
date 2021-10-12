@@ -5,7 +5,7 @@ description_markdown: >-
   **GERRY JUDAH : ARK ANGELS**
 
 
-  **\*Carey Blyth Gallery** from October 2021. \*
+  **Carey Blyth Gallery** from October 2021
 
 
   The breadth of Judah’s works reflects his personal journey with references to
@@ -26,14 +26,13 @@ description_markdown: >-
   inferences that arise from climate change and conflict.*
 
 
-  *Judah’\*\*s work provides a portal into his perceptions of the changing
-  world. History, politics and environment pervade his compositions.
-  Commissioned by Christian Aid to reflect on issues around the impact of
-  modernity in his home country of Bengal, Judah’s work encompasses an ancient
-  and thriving culture of past, fast forwarded into modernity, where Pujas,
-  Pandals and Tabernacles are as much a part of the landscape of daily life as
-  newbuild factories and industry, with all the fall out associated with
-  progress.*
+  *Judah’s work provides a portal into his perceptions of the changing world.
+  History, politics and environment pervade his compositions. Commissioned by
+  Christian Aid to reflect on issues around the impact of modernity in his home
+  country of Bengal, Judah’s work encompasses an ancient and thriving culture of
+  past, fast forwarded into modernity, where Pujas, Pandals and Tabernacles are
+  as much a part of the landscape of daily life as newbuild factories and
+  industry, with all the fall out associated with progress.*
 
 
   Judah is a Londoner, charged by the architecture of his home turf of more than
@@ -73,19 +72,17 @@ description_markdown: >-
   a Nighthawk stealth aircraft.*
 
 
-  *Judah will be showing **Past and Forward : Drawings and Sculptures** with
-  Jenny Blyth Fine Art at **Carey Blyth Gallery** 8 Woodstock Road OX2 6HT from
-  **October 9 for six weeks.** Jenny Blyth Fine Art has been working with Judah
-  since 2003 exhibiting his work in London (The Royal Institute of British
-  Architects, Louise Blouin Foundation, London Art Fair (Special Projects),
-  placing work in international collections (Saatchi Collection, David Roberts
-  Collection and more) and securing commissions (Imperial War Museum of the
-  North, Wolverhampton Art Gallery…) For exhibition details and images:
+  *Jenny Blyth Fine Art has been working with Judah since 2003 exhibiting his
+  work in London (The Royal Institute of British Architects, Louise Blouin
+  Foundation, London Art Fair (Special Projects), placing work in international
+  collections (Saatchi Collection, David Roberts Collection and more) and
+  securing commissions (Imperial War Museum of the North, Wolverhampton Art
+  Gallery…) For exhibition details and images:
   [www.jennyblythfineart.co.uk](http://www.jennyblythfineart.co.uk) and
   [www.judah.co.uk](http://www.judah.co.uk)*
 
 
-  **Great War Sculptures** at St. Paul's 2014.
+  **Great War Sculptures** at St. Paul's Cathedral since 2014.
 
 
   Gerry Judah was commissioned to create two sculptures to commemorate the
