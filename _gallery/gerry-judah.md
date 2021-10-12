@@ -250,15 +250,15 @@ display_title: true
 main_image_path: /assets/images/4cd80f2862fb7.jpg
 images:
   - image_path: /assets/images/4cd80f2862fb7.jpg
-    image_title: The Crusader
+    image_title: The Crusader at Imperial War Museum of the North
     image_description: >-
       The Crusader, 2010<br />Plaster, acrylic gesso, foamboard, nylon and steel
       fibres on steel girders<br />7 metres<br />Price on application
   - image_path: /assets/images/4d00e45cb58ea.jpg
-    image_title: The Crusader
+    image_title: The Crusader (IWMN)
     image_description: The Crusader, 2010<br />7 metres<br />price on application
   - image_path: /assets/images/4d00e4b7b8a0a.jpg
-    image_title: The Crusader
+    image_title: The Crusader (IWMN)
     image_description: The Crusader, 2010<br />price on application
   - image_path: /assets/images/50c218b852993.jpg
     image_title: Black Country 1 (detail)
