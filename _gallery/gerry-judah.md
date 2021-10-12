@@ -268,6 +268,9 @@ images:
   - image_path: /uploads/JudahNov19-015.png
     image_title:
     image_description:
+  - image_path: /uploads/JudahNov19-015.png
+    image_title:
+    image_description:
   - image_path: /assets/images/4b9a3df70271c.jpg
     image_title: White Country 1
     image_description: >-
