@@ -2,34 +2,33 @@
 title: Gerry Judah
 surname: Judah
 description_markdown: >-
-  **GERRY JUDAH : ARK ANGELS**&nbsp;
+  **GERRY JUDAH : ARK ANGELS**
 
 
-  ***Carey Blyth Gallery** from October 2021.&nbsp;*
+  ***Carey Blyth Gallery** from October 2021. *
 
 
   The breadth of Judah’s works reflects his personal journey with references to
   the country and city of his early years, Kolkata, and the changes demanded of
   a country blasted into the 21st Century, that remains firmly steeped in
   cultural and religious traditions that colour the everyday, the lives of its
-  people, the cities and the landscape.&nbsp;
+  people, the cities and the landscape.
 
 
   *Carey Blyth Gallery is showing a portfolio of Drawings and Sculptures in
-  **Past and Forward**.&nbsp; Monochrome impasto oil pastels manifest as **Ark
+  **Past and Forward**. Monochrome impasto oil pastels manifest as **Ark
   Angels** - stellar trees, both rigorous and beautiful. His sculptures are
-  constructs from clouds to temples mounted onto rickshaws.&nbsp; The
-  engineering is patently hand worked with bindings in steel and bamboo
-  confirming a tradition of making anything and fixing everything. &nbsp;
-  Explosively polarised, as with all Judah’s work, they encompass both **Past
-  and Forward,** with references past to the beginnings of time, to the Tree of
-  Life, and forward infused with inferences that arise from climate change and
-  conflict.*
+  constructs from clouds to temples mounted onto rickshaws. The engineering is
+  patently hand worked with bindings in steel and bamboo confirming a tradition
+  of making anything and fixing everything. Explosively polarised, as with all
+  Judah’s work, they encompass both **Past and Forward,** with references past
+  to the beginnings of time, to the Tree of Life, and forward infused with
+  inferences that arise from climate change and conflict.*
 
 
   *Judah’\*\*s work provides a portal into his perceptions of the changing
   world. History, politics and environment pervade his compositions.
-  &nbsp;Commissioned by Christian Aid to reflect on issues around the impact of
+  Commissioned by Christian Aid to reflect on issues around the impact of
   modernity in his home country of Bengal, Judah’s work encompasses an ancient
   and thriving culture of past, fast forwarded into modernity, where Pujas,
   Pandals and Tabernacles are as much a part of the landscape of daily life as
@@ -38,34 +37,31 @@ description_markdown: >-
 
 
   Judah is a Londoner, charged by the architecture of his home turf of more than
-  half a century.&nbsp; Driving across London to his studio, he notes the
-  newbuilds, hoardings, and ongoing demolition making space for the new.&nbsp;
-  Excited by the challenges of a continually changing cityscape, it is the
-  geography of his environment that informs his work. It is his constant
-  muse.&nbsp;
+  half a century. Driving across London to his studio, he notes the newbuilds,
+  hoardings, and ongoing demolition making space for the new. Excited by the
+  challenges of a continually changing cityscape, it is the geography of his
+  environment that informs his work. It is his constant muse.
 
 
   His studio in Manor House, North London is a multi-cultural light industrial
-  ‘hive’ of studios teaming with creativity.&nbsp; None more so than Judah’s
-  studio. Drawings for his forthcoming show are framed and glazed, stacked
-  awaiting shipping. &nbsp;The last of his beautiful 3D white paintings are
-  shrouded in plastic - quiet epic ghosts against the walls. Structure for ‘The
-  Ark’ a wall mounted receptacle for Torahs in polished wood commissioned by his
-  local Synagogue is straddled across an expanse of studio floor awaiting
-  construction.&nbsp;
+  ‘hive’ of studios teaming with creativity. None more so than Judah’s studio.
+  Drawings for his forthcoming show are framed and glazed, stacked awaiting
+  shipping. The last of his beautiful 3D white paintings are shrouded in plastic
+  - quiet epic ghosts against the walls. Structure for ‘The Ark’ a wall mounted
+  receptacle for Torahs in polished wood commissioned by his local Synagogue is
+  straddled across an expanse of studio floor awaiting construction.
 
 
   *The early 2000s marked a return for Judah to his prime calling as artist in
-  the purist sense.&nbsp; Graduating from Goldsmiths and the Slade in the early
-  80s, he was selected by the Whitechapel for ‘Best of Young Sculptors’.
-  Thereafter Production Design proved an exciting outsource for his creativity
-  over two decades. Film and theatre were his mainstay working with producers
-  from Ridley Scott to Andrei Tartovsky on a myriad of projects such as set
-  design for Tim Burton’s **Batman**&nbsp;and **The Festival of
-  Speed&nbsp;**where, for twenty five years, Judah has stunned audiences with
-  sculpture podiums towering over Goodwood House. These art works have been
-  experiential for the viewer, capturing the unspeakable speed and sheer
-  excitement of Formula One.*
+  the purist sense. Graduating from Goldsmiths and the Slade in the early 80s,
+  he was selected by the Whitechapel for ‘Best of Young Sculptors’. Thereafter
+  Production Design proved an exciting outsource for his creativity over two
+  decades. Film and theatre were his mainstay working with producers from Ridley
+  Scott to Andrei Tartovsky on a myriad of projects such as set design for Tim
+  Burton’s **Batman** and **The Festival of Speed** where, for twenty five
+  years, Judah has stunned audiences with sculpture podiums towering over
+  Goodwood House. These art works have been experiential for the viewer,
+  capturing the unspeakable speed and sheer excitement of Formula One.*
 
 
   *Since returning to fine art, Judah has built an international reputation for
@@ -77,16 +73,16 @@ description_markdown: >-
   a Nighthawk stealth aircraft.*
 
 
-  *Judah will be showing **Past and Forward : &nbsp;Drawings and Sculptures**
-  with Jenny Blyth Fine Art at **Carey Blyth Gallery** 8 Woodstock Road OX2 6HT
-  from **October 9 for six weeks.**&nbsp; Jenny Blyth Fine Art has been working
-  with Judah since 2003 exhibiting his work in London (The Royal Institute of
-  British Architects, Louise Blouin Foundation, London Art Fair (Special
-  Projects), placing work in international collections (Saatchi Collection,
-  David Roberts Collection and more) and securing commissions (Imperial War
-  Museum of the North, Wolverhampton Art Gallery…)&nbsp; For exhibition details
-  and images: [www.jennyblythfineart.co.uk](http://www.jennyblythfineart.co.uk)
-  and &nbsp;[www.judah.co.uk](http://www.judah.co.uk)*
+  *Judah will be showing **Past and Forward : Drawings and Sculptures** with
+  Jenny Blyth Fine Art at **Carey Blyth Gallery** 8 Woodstock Road OX2 6HT from
+  **October 9 for six weeks.** Jenny Blyth Fine Art has been working with Judah
+  since 2003 exhibiting his work in London (The Royal Institute of British
+  Architects, Louise Blouin Foundation, London Art Fair (Special Projects),
+  placing work in international collections (Saatchi Collection, David Roberts
+  Collection and more) and securing commissions (Imperial War Museum of the
+  North, Wolverhampton Art Gallery…) For exhibition details and images:
+  [www.jennyblythfineart.co.uk](http://www.jennyblythfineart.co.uk) and
+  [www.judah.co.uk](http://www.judah.co.uk)*
 
 
   **Great War Sculptures** at St. Paul's 2014.
@@ -96,8 +92,8 @@ description_markdown: >-
   centenary of World War 1 currently on display at St. Paul's Cathedral.
 
 
-  **Also currently showing : *THE CRUSADER*&nbsp;- on permanent display at
-  Imperial War Museum of the North, Manchester since NOVEMBER 2010**
+  **Also currently showing : *THE CRUSADER* - on permanent display at Imperial
+  War Museum of the North, Manchester since NOVEMBER 2010**
 
 
   [<font
@@ -159,7 +155,7 @@ description_markdown: >-
 
 
   COUNTRY December 2010 - January 2011 at the Fitzroy Gallery, New York. Country
-  curated by Jenny Blyth.&nbsp; Text by Jenny Blyth &copy; 2013 :
+  curated by Jenny Blyth. Text by Jenny Blyth © 2013 :
 
 
   *The role for contemporary artists is to react and reflect upon life and the
