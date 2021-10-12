@@ -257,44 +257,7 @@ images:
   - image_path: /assets/images/4d00e45cb58ea.jpg
     image_title: The Crusader (IWMN)
     image_description: The Crusader, 2010<br />7 metres<br />price on application
-  - image_path: /assets/images/4d00e4b7b8a0a.jpg
-    image_title: The Crusader (IWMN)
-    image_description: The Crusader, 2010<br />price on application
-  - image_path: /assets/images/50c218b852993.jpg
-    image_title: Black Country 1 (detail)
-    image_description: >-
-      Black Country 1 (detail), 2010<br />Acrylic gesso and mixed media on
-      canvas<br />190 x 380 cm
-  - image_path: /assets/images/4b9a3df70271c.jpg
-    image_title: White Country 1
-    image_description: >-
-      White Country 1, 2009<br />Mixed media and acrylic on canvas<br />190 x
-      380 x 110 cm
-  - image_path: /assets/images/4b9a417203578.jpg
-    image_title: White Country 2
-    image_description: >-
-      White Country 2, 2009<br />Mixed media and acrylic on canvas<br />200 x
-      260 x 100 cm
-  - image_path: /assets/images/4b9a2f92c69c6.jpg
-    image_title: Motherlands
-    image_description: Motherlands, 2008<br />acrylic gesso and mixed media on canvas
-  - image_path: /assets/images/4b9a30648eacf.jpg
-    image_title: Motherlands (detail)
-    image_description: Motherlands (detail), 2008<br />acrylic gesso and mixed media on canvas
-  - image_path: /assets/images/4b9a41e51615b.jpg
-    image_title: Red Country 1
-    image_description: >-
-      Red Country 1, 2009<br />Mixed media and acrylic on canvas<br />249 x 249
-      x 118 cm
-  - image_path: /assets/images/4b9a3fa8deb53.jpg
-    image_title: Raphael
-    image_description: >-
-      Raphael, 2009<br />Mixed media and acrylic on canvas<br />200 x 325 x 60
-      cm
   - image_path: /uploads/april-2021---021.jpg
-    image_title: Ark Angel 1
-    image_description:
-  - image_path: /uploads/April2021-021.jpg
     image_title: Ark Angel 1
     image_description:
   - image_path: /uploads/April2021-019.jpg
@@ -315,6 +278,27 @@ images:
   - image_path: /uploads/JudahNov19-015.png
     image_title:
     image_description:
+  - image_path: /assets/images/4b9a3df70271c.jpg
+    image_title: White Country 1
+    image_description: >-
+      White Country 1, 2009<br />Mixed media and acrylic on canvas<br />190 x
+      380 x 110 cm
+  - image_path: /assets/images/4b9a417203578.jpg
+    image_title: White Country 2
+    image_description: >-
+      White Country 2, 2009<br />Mixed media and acrylic on canvas<br />200 x
+      260 x 100 cm
+  - image_path: /assets/images/4b9a2f92c69c6.jpg
+    image_title: Motherlands
+    image_description: Motherlands, 2008<br />acrylic gesso and mixed media on canvas
+  - image_path: /assets/images/4b9a30648eacf.jpg
+    image_title: Motherlands (detail)
+    image_description: Motherlands (detail), 2008<br />acrylic gesso and mixed media on canvas
+  - image_path: /assets/images/4b9a3fa8deb53.jpg
+    image_title: Raphael
+    image_description: >-
+      Raphael, 2009<br />Mixed media and acrylic on canvas<br />200 x 325 x 60
+      cm
 _options:
   image_path:
     width: 1200
