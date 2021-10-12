@@ -5,7 +5,7 @@ description_markdown: >-
   **GERRY JUDAH : ARK ANGELS**
 
 
-  ***Carey Blyth Gallery** from October 2021. *
+  **Carey Blyth Gallery** from October 2021
 
 
   The breadth of Judah’s works reflects his personal journey with references to
@@ -26,14 +26,13 @@ description_markdown: >-
   inferences that arise from climate change and conflict.*
 
 
-  *Judah’\*\*s work provides a portal into his perceptions of the changing
-  world. History, politics and environment pervade his compositions.
-  Commissioned by Christian Aid to reflect on issues around the impact of
-  modernity in his home country of Bengal, Judah’s work encompasses an ancient
-  and thriving culture of past, fast forwarded into modernity, where Pujas,
-  Pandals and Tabernacles are as much a part of the landscape of daily life as
-  newbuild factories and industry, with all the fall out associated with
-  progress.*
+  Judah’s work provides a portal into his perceptions of the changing world.
+  History, politics and environment pervade his compositions. Commissioned by
+  Christian Aid to reflect on issues around the impact of modernity in his home
+  country of Bengal, Judah’s work encompasses an ancient and thriving culture of
+  past, fast forwarded into modernity, where Pujas, Pandals and Tabernacles are
+  as much a part of the landscape of daily life as newbuild factories and
+  industry, with all the fall out associated with progress.
 
 
   Judah is a Londoner, charged by the architecture of his home turf of more than
@@ -52,7 +51,7 @@ description_markdown: >-
   straddled across an expanse of studio floor awaiting construction.
 
 
-  *The early 2000s marked a return for Judah to his prime calling as artist in
+  The early 2000s marked a return for Judah to his prime calling as artist in
   the purist sense. Graduating from Goldsmiths and the Slade in the early 80s,
   he was selected by the Whitechapel for ‘Best of Young Sculptors’. Thereafter
   Production Design proved an exciting outsource for his creativity over two
@@ -61,31 +60,29 @@ description_markdown: >-
   Burton’s **Batman** and **The Festival of Speed** where, for twenty five
   years, Judah has stunned audiences with sculpture podiums towering over
   Goodwood House. These art works have been experiential for the viewer,
-  capturing the unspeakable speed and sheer excitement of Formula One.*
+  capturing the unspeakable speed and sheer excitement of Formula One.
 
 
-  *Since returning to fine art, Judah has built an international reputation for
+  Since returning to fine art, Judah has built an international reputation for
   his white three dimensional paintings that debate conflict and sustainability.
   His work is in museums and collections worldwide, with commissions currently
   displayed at St Pauls’ Cathedral to commemorate The Great War, and Manchester
   Imperial War Museum where **Crusader**,a seven metre sculpture in pure white
   is suspended like an exploding star across the dusk of a darkened hanger from
-  a Nighthawk stealth aircraft.*
+  a Nighthawk stealth aircraft.
 
 
-  *Judah will be showing **Past and Forward : Drawings and Sculptures** with
-  Jenny Blyth Fine Art at **Carey Blyth Gallery** 8 Woodstock Road OX2 6HT from
-  **October 9 for six weeks.** Jenny Blyth Fine Art has been working with Judah
-  since 2003 exhibiting his work in London (The Royal Institute of British
-  Architects, Louise Blouin Foundation, London Art Fair (Special Projects),
-  placing work in international collections (Saatchi Collection, David Roberts
-  Collection and more) and securing commissions (Imperial War Museum of the
-  North, Wolverhampton Art Gallery…) For exhibition details and images:
+  Jenny Blyth Fine Art has been working with Judah since 2003 exhibiting his
+  work in London (The Royal Institute of British Architects, Louise Blouin
+  Foundation, London Art Fair (Special Projects), placing work in international
+  collections (Saatchi Collection, David Roberts Collection and more) and
+  securing commissions (Imperial War Museum of the North, Wolverhampton Art
+  Gallery…) For exhibition details and images:
   [www.jennyblythfineart.co.uk](http://www.jennyblythfineart.co.uk) and
-  [www.judah.co.uk](http://www.judah.co.uk)*
+  [www.judah.co.uk](http://www.judah.co.uk)
 
 
-  **Great War Sculptures** at St. Paul's 2014.
+  **Great War Sculptures** at St. Paul's Cathedral since 2014.
 
 
   Gerry Judah was commissioned to create two sculptures to commemorate the
@@ -155,7 +152,7 @@ description_markdown: >-
 
 
   COUNTRY December 2010 - January 2011 at the Fitzroy Gallery, New York. Country
-  curated by Jenny Blyth. Text by Jenny Blyth © 2013 :
+  curated by Jenny Blyth. Text by Jenny Blyth &copy; 2013 :
 
 
   *The role for contemporary artists is to react and reflect upon life and the
@@ -261,9 +258,6 @@ images:
     image_description:
   - image_path: /uploads/April2021-008.jpg
     image_title: Ark Angel 3
-    image_description:
-  - image_path: /uploads/April2021-244.jpg
-    image_title: Ark Angel 4
     image_description:
   - image_path: /uploads/April2021-381.jpg
     image_title: Ark Angel 4
