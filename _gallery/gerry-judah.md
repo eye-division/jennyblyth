@@ -291,6 +291,30 @@ images:
     image_description: >-
       Raphael, 2009<br />Mixed media and acrylic on canvas<br />200 x 325 x 60
       cm
+  - image_path: /uploads/april-2021---021.jpg
+    image_title: Ark Angel 1
+    image_description:
+  - image_path: /uploads/April2021-021.jpg
+    image_title: Ark Angel 1
+    image_description:
+  - image_path: /uploads/April2021-019.jpg
+    image_title: Ark Angel 2
+    image_description:
+  - image_path: /uploads/April2021-008.jpg
+    image_title: Ark Angel 3
+    image_description:
+  - image_path: /uploads/April2021-244.jpg
+    image_title: Ark Angel 4
+    image_description:
+  - image_path: /uploads/April2021-381.jpg
+    image_title: Ark Angel 4
+    image_description:
+  - image_path: /uploads/JudahNov19-027.png
+    image_title: Flame
+    image_description:
+  - image_path: /uploads/JudahNov19-015.png
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
