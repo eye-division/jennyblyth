@@ -252,25 +252,30 @@ images:
     image_description: The Crusader, 2010<br />7 metres<br />price on application
   - image_path: /uploads/april-2021---021.jpg
     image_title: Ark Angel 1
-    image_description:
+    image_description: >-
+      Ark Angel 1<br />oil pastel, conte on archival paper<br />75 x 100 cm<br
+      />£ 2400
   - image_path: /uploads/April2021-019.jpg
     image_title: Ark Angel 2
-    image_description:
+    image_description: >-
+      Ark Angel 2<br />oil pastel, conte on archival paper<br />75 x 100 cm<br
+      />£ 2400
   - image_path: /uploads/April2021-008.jpg
     image_title: Ark Angel 3
-    image_description:
+    image_description: >-
+      Ark Angel 3<br />oil pastel, conte on archival paper<br />75 x 100 cm<br
+      />£ 2400
   - image_path: /uploads/April2021-381.jpg
     image_title: Ark Angel 4
-    image_description:
+    image_description: >-
+      Ark Angel 4<br />oil pastel, conte on archival paper<br />75 x 100 cm<br
+      />£ 2400
   - image_path: /uploads/JudahNov19-027.png
     image_title: Flame
-    image_description:
+    image_description: FLAME<br />wood, resin, wax<br />h 122 x w 58 x d 52 cm<br />£ POE
   - image_path: /uploads/JudahNov19-005.png
     image_title:
-    image_description:
-  - image_path: /uploads/JudahNov19-015.png
-    image_title:
-    image_description:
+    image_description: POWER<br />wood, resin, wax<br />h 110 x w 92 x d 25cm<br />£ POE
   - image_path: /assets/images/4b9a3df70271c.jpg
     image_title: White Country 1
     image_description: >-
