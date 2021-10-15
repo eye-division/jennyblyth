@@ -1,5 +1,7 @@
 ---
 title: Jeff CLARKE
+surname: Clarke
+currentshow: false
 description_markdown: >-
   ***JEFF CLARKE : CHIAROSCURO : Prints, Drawings and Etchings&nbsp;***
 

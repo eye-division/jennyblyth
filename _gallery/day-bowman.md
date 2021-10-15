@@ -1,6 +1,7 @@
 ---
 title: Day Bowman
 surname: Bowman
+currentshow: false
 description_markdown: >-
   ### DAY BOWMAN*&nbsp; 'Seaside Citadels'*
 

@@ -1,6 +1,7 @@
 ---
 title: Stuart Roper
 surname: Roper
+currentshow: false
 description_markdown: |
   ### OXFORD REFRACTED : Paintings by STUART ROPER
 

@@ -1,6 +1,7 @@
 ---
 title: Antonia Bruce
 surname: Bruce
+currentshow: false
 description_markdown: >-
   **LOVE AND KISSES at Carey Blyth Gallery, Oxford**
 

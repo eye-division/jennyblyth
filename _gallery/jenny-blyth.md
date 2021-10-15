@@ -1,6 +1,7 @@
 ---
 title: JENNY BLYTH
 surname: Blyth
+currentshow: false
 description_markdown: >-
   ## REFLECTING THE LANDSCAPE
 

@@ -1,6 +1,7 @@
 ---
 title: Kim Shaw
 surname: Shaw
+currentshow: false
 description_markdown: |
   ## PAPER GHOSTS
 

@@ -1,6 +1,7 @@
 ---
 title: Florence AMEY
 surname: Amey
+currentshow: false
 description_markdown: >-
   **FLORENCE AMEY &nbsp;**
 

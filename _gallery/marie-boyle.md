@@ -1,5 +1,7 @@
 ---
 title: Marie BOYLE
+surname: Boyle
+currentshow: false
 description_markdown: >-
   *"My inspiration comes from things observed although paint mostly from memory.
   I am interested in the evolving relationship between shape, colour and

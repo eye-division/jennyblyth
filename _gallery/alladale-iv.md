@@ -1,6 +1,7 @@
 ---
 title: Netta CAREY
 surname: Carey
+currentshow: false
 description_markdown: >-
   **NETTA CAREY : Currently showing at Carey Blyth Gallery**
 

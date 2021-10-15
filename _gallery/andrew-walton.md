@@ -1,6 +1,7 @@
 ---
 title: Andrew Walton
 surname: Walton
+currentshow: false
 description_markdown: >-
   From December 1 2019 at **CAREY BLYTH&nbsp;**
 

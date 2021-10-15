@@ -1,6 +1,7 @@
 ---
 title: CAROLYN HORTON
 surname: Horton
+currentshow: false
 description_markdown: >-
   ### CAROLYN HORTON showing at The Louvre, Paris
 

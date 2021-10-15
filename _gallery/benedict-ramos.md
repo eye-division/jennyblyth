@@ -1,6 +1,7 @@
 ---
 title: Benedict Ramos
 surname: Ramos
+currentshow: false
 description_markdown: |
   **BENEDICT RAMOS**
 
