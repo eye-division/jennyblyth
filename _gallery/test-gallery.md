@@ -22,15 +22,16 @@ images:
             />122 x 152 cm<br />&amp;pound; 3500
 _options:
     image_path:
+        uploads_dir: "uploads/gallery-images/:title"
         width: 1200
         height: 1200
-        resize_style: contain
-        mime_type: image/jpeg
-    main_image_path:
-        width: 1200
-        height: 800
-        resize_style: contain
-        mime_type: image/jpeg
+        resize_style: "contain"
+        mime_type: "image/jpeg"
+        main_image_path:
+            width: 1200
+            height: 800
+            resize_style: contain
+            mime_type: image/jpeg
 _comments:
     title: Gallery title
     permalink: >-
@@ -42,4 +43,7 @@ _comments:
     archive: Not used yet!
     frontpage: Show this gallery on the homepage
     homepage_description_markdown: Text used on homepage if shown
+_enabled_editors:
+  - data
+  - visual
 ---
