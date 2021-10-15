@@ -1,7 +1,7 @@
 ---
 title: Gerry Judah
 surname: Judah
-currentshow: false
+currentshow: true
 description_markdown: >-
   **GERRY JUDAH : ARK ANGELS**
 
