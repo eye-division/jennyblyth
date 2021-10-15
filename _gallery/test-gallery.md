@@ -12,7 +12,7 @@ gallery_date: 2021-05-01 00:00:00
 permalink: /gallery/tester/
 archive: true
 display_title: true
-main_image_path:
+main_image_path: /uploads/test/JudahNov19-027.png
 images:
     -
         image_path: /uploads/test/JudahNov19-027.png
