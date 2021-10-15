@@ -300,10 +300,14 @@ images:
       cm
 _options:
   image_path:
+    uploads_dir: "uploads/gallery-images/:title"
     width: 1200
     height: 1200
-    resize_style: contain
-    mime_type: image/jpeg
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+    accepts_mime_types:
+      - "image/png"
+      - "image/jpeg"
   main_image_path:
     width: 1200
     height: 800
