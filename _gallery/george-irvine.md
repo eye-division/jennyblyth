@@ -1,6 +1,7 @@
 ---
 title: George Irvine
 surname: Irvine
+currentshow: false
 description_markdown: |
   ### BUTTERMILK
 

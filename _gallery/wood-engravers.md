@@ -1,6 +1,7 @@
 ---
 title: Wood engravers
 surname: Wood
+currentshow: false
 description_markdown: |
   ### SOCIETY OF WOOD ENGRAVERS
 

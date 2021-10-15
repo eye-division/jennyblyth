@@ -1,6 +1,7 @@
 ---
 title: Jethro Buck
 surname: Buck
+currentshow: false
 description_markdown: >-
   ## NEWS
 

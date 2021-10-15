@@ -1,5 +1,7 @@
 ---
 title: Rose Arbuthnott
+surname: Arbuthnott
+currentshow: false
 description_markdown: >-
   **Rose Arbuthnott** &nbsp;:&nbsp; &nbsp; ”***One morning in Mexico, I began
   the inordinately simple task of drawing faces …**.”*

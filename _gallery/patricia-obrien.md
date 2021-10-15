@@ -1,6 +1,7 @@
 ---
 title: Patricia O'Brien
 surname: O'Brien
+currentshow: false
 description_markdown: |
   **NEWS:** Jenny Blyth Fine Art showed PATRICIA O'BRIEN at AFFORDABLE ART FAIR - Battersea 2013.
 

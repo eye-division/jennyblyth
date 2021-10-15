@@ -1,6 +1,7 @@
 ---
 title: Chloe Fremantle
 surname: Fremantle
+currentshow: false
 description_markdown: >-
   ### **Currently showing at CAREY BLYTH**
 
