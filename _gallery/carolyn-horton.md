@@ -165,12 +165,12 @@ images:
     image_title:
     image_description: >-
       Curtain Call<br />Monotypes and chine colle on gampi paper lined canvas<br
-      /> 93 x 80 cm<br/> Euros 3500
+      /> 93 x 80 cm<br/> £ 2750 SOLD
   - image_path: /assets/images/583de82e5ccb2.jpg
     image_title:
     image_description: |-
       Faune 2016<br/>Monotypes and chine colle on paper lined canvas<br />
-      50 x 70 cm<br/> Euros 1400
+      50 x 70 cm<br/> NFS
   - image_path: /assets/images/583de866679d4.jpg
     image_title:
     image_description: >-
@@ -205,7 +205,7 @@ images:
     image_title:
     image_description: >-
       Tightrope Rabbit 2016<br />Drypoint etching with chine collee<br />30 x 33
-      cm<br/>&amp;pound;600. Edition of 5.
+      cm<br/>&amp;pound;675
   - image_path: /assets/images/583de94fa6d51.jpg
     image_title:
     image_description: >-
@@ -226,7 +226,7 @@ images:
     image_description: >-
       Two For Joy (front) 2010<br />hard ground etching, collagraph collaged
       onto Japanese kozo and gampi paper stretched onto canvas in screen
-      frame<br />176 x 150 cm &amp;pound;8,000
+      frame<br />176 x 150 cm &amp;pound;6,000
   - image_path: /assets/images/4b9a2390a8de8.jpg
     image_title:
     image_description: >-
@@ -244,7 +244,7 @@ images:
     image_description: >-
       Pink & Grey Camisoles 2010<br />soft and hard ground etching, collaged
       onto Japanese gampi paper stretched onto canvas<br />60 x 80 cm<br
-      />&amp;pound;750
+      SOLD/>&amp;pound;750
   - image_path: /assets/images/4b965526b5629.jpg
     image_title:
     image_description: >-
@@ -340,7 +340,7 @@ images:
       collagraph collaged onto Japanese kozo and gampi paper stretched onto
       canvas in screen frame<br />157 x 158 cm<br />&amp;pound;4500
   - image_path: /assets/images/4b9666cf68fc6.jpg
-    image_title: 'So Far, No Further'
+    image_title: So Far, No Further
     image_description: >-
       So Far, No Further, 2009<br />hard and soft ground etching, chine collee
       and collagraph mounted onto Japanese Kozo paper on sofa frame<br />140 x
