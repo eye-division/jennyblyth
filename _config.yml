@@ -37,11 +37,20 @@ imagecdn:
   production: "https://ed-jennyblythfineart.imgix.net"
 
 # Collections Example
+
 collections:
+  gallery:
+      output: true
+      permalink: /gallery/:path/
+      _hide_content: true
+      
+
+cloudcannon:
+  collections:
     gallery:
-        output: true
-        permalink: /gallery/:path/
-        _hide_content: true
+      _enabled_editors:
+      - data
+      - visual
 
 # Defaults Example
 defaults:
