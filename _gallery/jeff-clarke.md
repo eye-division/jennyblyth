@@ -3,13 +3,15 @@ title: Jeff CLARKE
 surname: Clarke
 currentshow: false
 description_markdown: >-
-  ***JEFF CLARKE : CHIAROSCURO : Prints, Drawings and Etchings&nbsp;***
+  50 PRINTS in mixed exhibition until Dec 18 : &nbsp;**Christmas Exhibition 2021
+  at CBG**
+
+
+  ***JEFF CLARKE : CHIAROSCURO : Prints, Drawings and Etchings&nbsp; (Sept
+  2020)***
 
 
   ***Carey Blyth Gallery &nbsp;***
-
-
-  ***September 2020***
 
 
   *‘Chairoscuro’ translates literally to ‘light-dark’.&nbsp; It is a technique
@@ -680,4 +682,5 @@ _comments:
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
 ---
+
 
