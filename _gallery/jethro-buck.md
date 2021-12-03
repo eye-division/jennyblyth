@@ -3,18 +3,23 @@ title: Jethro Buck
 surname: Buck
 currentshow: false
 description_markdown: >-
-  ## NEWS
+  #### 2021
 
 
   Currently showing Digital Prints at Carey Blyth Gallery, 8 Woodstock Road,
-  Oxford OX2 6HT. The Forest at &pound;275, Mughal on a Vespa and Creation Myth
-  &pound;75.
+  Oxford OX2 6HT in mixed ***Christmas Show 2021 at CBG***.
+
+
+  ***The Forest*** at &pound;550 Framed in oak 95 x 76 cm
+
+
+  ***Large Forest*** - dimensions and price on enquiry : jennyblythart@gmail.com
 
 
   &nbsp;
 
 
-  ### FREEFALL : An Exhibition of Contemporary Indian Miniatures by JETHRO BUCK
+  #### FREEFALL : An Exhibition of Contemporary Indian Miniatures by JETHRO BUCK
 
 
   21 March – 27 April 2013
@@ -125,11 +130,14 @@ archive: false
 display_title: true
 main_image_path: /assets/images/5470a26471c9d.jpg
 images:
+  - image_path: /uploads/jethro-buck-the-forest-100-x-150-cm.jpg
+    image_title: 'The Forest '
+    image_description: ' 2021<br />pigmented inks on archival paper<br />95 x 75 cm<br />Limited Ed of 75 Giclee Prints £550'
   - image_path: /assets/images/5470a26471c9d.jpg
     image_title: Mughal on a Vespa
     image_description: >-
-      Mughal on a Vespa (PRINTS AVAILABLE), 2012<br />oil on linen<br />80 x 56
-      cm<br />SOLD
+      Mughal on a Vespa , 2012<br />oil on linen<br />80 x 56 cm<br />Sold BUT
+      prints available
   - image_path: /assets/images/51657a242b6d2.jpg
     image_title: Elephant Tower
     image_description: >-
@@ -152,7 +160,7 @@ images:
       and tea stained by artist<br />24 x 24 cm<br />SOLD
   - image_path: /assets/images/510aa9dae22fd.jpg
     image_title: Jethro in Camel Suit
-    image_description: 'Jethro in Camel Suit, 2012<br />Gouache on Wasli paper<br />SOLD'
+    image_description: Jethro in Camel Suit, 2012<br />Gouache on Wasli paper<br />SOLD
   - image_path: /assets/images/510aaa124d431.jpg
     image_title: Bird
     image_description: >-
@@ -168,7 +176,7 @@ images:
       28 cm<br />SOLD
   - image_path: /assets/images/515732cb5fb3e.jpg
     image_title: Freefall
-    image_description: 'Freefall, 2012<br />Gouache on Wasli Paper<br />135 x 92 cm<br />SOLD'
+    image_description: Freefall, 2012<br />Gouache on Wasli Paper<br />135 x 92 cm<br />SOLD
 _options:
   image_path:
     width: 1200
@@ -192,4 +200,5 @@ _comments:
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
 ---
+
 
