@@ -33,7 +33,7 @@ layout: default
             {% for image in page.images %}
               {% if image.image_path %}
               <div class="gallery-box {% cycle 'alpha', '', 'last' %}">
-                <a href="{% include imgpath.html src=image.image_path  fit=clip max-w=1280 %}" class="galleryphoto" data-lightbox="gallery" data-title="{{ image.image_title }} - {{ image.image_description }}">
+                <a href="{% include imgpath.html src=image.image_path fit=clip max-w=1280 %}" class="galleryphoto" data-lightbox="gallery" data-title="{{ image.image_title }} - {{ image.image_description }}">
                   {% include img.html src=image.image_path width=600 fit=clip alt=image.image_title %}
                 </a>
                 {% if page.display_title %}
