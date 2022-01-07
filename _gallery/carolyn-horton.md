@@ -6,13 +6,11 @@ description_markdown: >-
   ### CAROLYN HORTON showing at The Louvre, Paris
 
 
-  at Carrousel du Louvre, Salle Le Notre, 99 rue de Rivoli, 75001 Paris
-
-
   **13- 16 DECEMBER 2018**
 
 
-  **Private View:&nbsp; Jeudi 13 decembre 18.00 pm**
+  **Carolyn won First Prize for her composition of Gifford Circus titled
+  'Curtain Call'.**
 
 
   Carolyn Horton is an artist specialising in printmaking, drawing and painting,
