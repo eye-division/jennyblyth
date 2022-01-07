@@ -3,7 +3,10 @@ title: Carolyn HORTON
 surname: Horton
 currentshow: false
 description_markdown: >-
-  ### CAROLYN HORTON showing at The Louvre, Paris
+  ### CAROLYN HORTON Salon des Beaux Arts
+
+
+  ### The Louvre, Paris
 
 
   **13- 16 DECEMBER 2018**
