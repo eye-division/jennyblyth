@@ -153,8 +153,25 @@ gallery_date: 2018-12-01 00:00:00
 permalink: /gallery/carolyn-horton/
 archive: false
 display_title: true
-main_image_path: /assets/images/583dedac5cb03.jpg
+main_image_path: /uploads/carolyn-horton-untitled-tw.jpg
 images:
+  - image_path: /assets/images/50cb4fc7e3c5b.jpg
+    image_title:
+    image_description: >-
+      Two For Joy (front) 2010<br />hard ground etching, collagraph collaged
+      onto Japanese kozo and gampi paper stretched onto canvas in screen
+      frame<br />176 x 150 cm ><br />&amp;pound;6,000
+  - image_path: /uploads/rabbit.jpg
+    image_title:
+    image_description: >-
+      Tightrope Rabbit 2016<br />Drypoint etching with chine collee<br />30 x 33
+      cm<br/>&amp;pound;675
+  - image_path: /assets/images/4b9a2d8a1cd36.jpg
+    image_title:
+    image_description: >-
+      Nancy 2009<br />hard and soft ground etching, chine collee collaged onto
+      Japanese kozo paper stretched onto canvas<br />62 x 90 cm<br/ >&amp;pound
+      10,000 SOLD/>&amp;pound;500
   - image_path: /assets/images/583dedac5cb03.jpg
     image_title:
     image_description: >-
@@ -200,11 +217,6 @@ images:
     image_description: >-
       Jugglers II 2016<br />Monotypes, Chine colle, stencil on paper lined
       canvas<br />90 x 90 cm<br />£1600
-  - image_path: /uploads/rabbit.jpg
-    image_title:
-    image_description: >-
-      Tightrope Rabbit 2016<br />Drypoint etching with chine collee<br />30 x 33
-      cm<br/>&amp;pound;675
   - image_path: /assets/images/583de94fa6d51.jpg
     image_title:
     image_description: >-
@@ -220,12 +232,6 @@ images:
     image_description: >-
       Sweeping the Goose (Gold & White) 2016<br />Monotype, collages on paper
       lined canvas<br />35 x 25 cm<br/>&amp;pound;600
-  - image_path: /assets/images/50cb4fc7e3c5b.jpg
-    image_title:
-    image_description: >-
-      Two For Joy (front) 2010<br />hard ground etching, collagraph collaged
-      onto Japanese kozo and gampi paper stretched onto canvas in screen
-      frame<br />176 x 150 cm &amp;pound;6,000
   - image_path: /assets/images/4b9a2390a8de8.jpg
     image_title:
     image_description: >-
@@ -273,12 +279,6 @@ images:
       Leto on Lace 2009<br />hard and soft ground etching, chine collee collaged
       onto Japanese kozo paper stretched onto canvas<br />70 x 90
       cm<br/>&amp;pound;2500 SOLD
-  - image_path: /assets/images/4b9a2d8a1cd36.jpg
-    image_title:
-    image_description: >-
-      Nancy 2009<br />hard and soft ground etching, chine collee collaged onto
-      Japanese kozo paper stretched onto canvas<br />62 x 90 cm<br
-      />&amp;pound;900
   - image_path: /assets/images/4b993899d46e9.jpg
     image_title:
     image_description: >-
