@@ -1,5 +1,5 @@
 ---
-title: CAROLYN HORTON
+title: Carolyn HORTON
 surname: Horton
 currentshow: false
 description_markdown: >-
@@ -39,7 +39,7 @@ description_markdown: >-
   scalpels out and collages onto canvases lined with Japanese Kozo paper.
 
 
-  ### THE CIRCUS IS COMING TO TOWN&nbsp;
+  ### Gifford Circus
 
 
   **NOVEMBER - DECEMBER 2016**
@@ -97,7 +97,8 @@ description_markdown: >-
   all. &copy; Jenny Blyth 2018.
 
 
-  #### Jenny Blyth Fine Art showed CAROLYN HORTON at AFFORDABLE ART FAIR 2013
+  #### Jenny Blyth Fine Art presents CAROLYN HORTON at AFFORDABLE ART FAIR 2013
+  and
 
 
   ### LONG DOGS & LINGERIE
