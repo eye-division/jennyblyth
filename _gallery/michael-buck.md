@@ -3,14 +3,14 @@ title: Michael BUCK
 surname: BUCK
 currentshow:
 description_markdown: >-
-  **MICHAEL BUCK**
+  **MICHAEL BUCK (images to be uploaded ....)**
 
 
   ***‘A LIFE IN THE LANDSCAPE’***
 
 
-  ***What is work for? - If it is to get the job done,&nbsp;******then indeed
-  get a chain saw. ***
+  ***What is work for? - If it is to get the job done, then indeed get a chain
+  saw.&nbsp;***
 
 
   ***If, however, it is to connect with Nature &nbsp;***
@@ -19,14 +19,11 @@ description_markdown: >-
   ***\- to know the tree and the rhythms it asks of our bodies -***
 
 
-  ***then let’s use our hands, our arms, our feet, our lungs. ***
+  ***then let’s use our hands, our arms, our feet, our lungs.&nbsp;***
 
 
-  ***You work that you may keep pace with the Earth, ******and the Soul of the
-  Earth.” &nbsp;&nbsp;****Michael Buck, 2022*
-
-
-  &nbsp;
+  ***You work that you may keep pace with the Earth, and the Soul of the
+  Earth.&nbsp; &nbsp;****Michael Buck, 2022*
 
 
   ***For to be idle, is to become a stranger to the Seasons.***
@@ -45,9 +42,9 @@ description_markdown: >-
   farmer.&nbsp; The two are inextricably linked with one discipline feeding the
   other.&nbsp; With mornings spent in the studio, and afternoons on the land, he
   is creater of cob houses from earth, clay and wood; hazel coppice and fencing;
-  raising geese and cattle. Michael Buck’sart is in the living.&nbsp; It is both
-  authentic and organic in spirit and essence, so that each day, he is at one
-  with the elements and the rhythms of the earth - ***A Life Lived in the
+  raising geese and cattle. Michael Buck’s art is in the living.&nbsp; It is
+  both authentic and organic in spirit and essence, so that each day, he is at
+  one with the elements and the rhythms of the earth - ***A Life Lived in the
   Landscape.***
 
 
@@ -65,10 +62,10 @@ description_markdown: >-
   life truly lived in the landscape, at one with the natural world.
 homepage_description_markdown:
 frontpage: true
-gallery_date:
-permalink:
+gallery_date: 2022-02-10 00:00:00
+permalink: /gallery/MichaelBUCK/
 archive: false
-main_image_path:
+main_image_path: /uploads/mb008.jpg
 display_title: true
 images:
   - image_path:
