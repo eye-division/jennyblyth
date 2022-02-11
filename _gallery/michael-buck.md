@@ -78,9 +78,6 @@ description_markdown: >-
   life truly lived in the landscape, at one with the natural world.
 
 
-  &nbsp;
-
-
   Michael Buck trained in Fine Art at The Ruskin School of Art, Oxford
   (1975-78).&nbsp; He is a painter of many years, but also an ecologist, and
   *‘green’* is at the heart of the matter for him as both artist and
