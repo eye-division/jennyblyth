@@ -119,21 +119,33 @@ archive: false
 main_image_path: /uploads/mb008.jpg
 display_title: true
 images:
-  - image_path:
-    image_title:
-    image_description:
   - image_path: /uploads/mb-crows-over-spring-fields.JPG
     image_title: Crows over Spring Fields and Hedges
     image_description:
   - image_path: /uploads/mb008.jpg
     image_title: Light Beyond The Bluff
     image_description: acrylic on paper 4 x 6 in
+  - image_path: /uploads/gallery-images/michael-buck/mb024.jpg
+    image_title: Gulls Rising - The Singing Way, Wytham
+    image_description:
+  - image_path: /uploads/gallery-images/michael-buck/mb015.jpg
+    image_title:
+    image_description:
   - image_path: /uploads/gallery-images/michael-buck/mb031.jpg
     image_title: Glad Goldheart
     image_description: acrylic on canvas 3'2 x 4'
   - image_path: /uploads/gallery-images/michael-buck/mb033.jpg
     image_title: 'Hawthorn in Spring '
     image_description: acrylic on canvas 3' x 4'6"
+  - image_path: /uploads/gallery-images/michael-buck/mb030.jpg
+    image_title: Binsey Poplar
+    image_description:
+  - image_path: /uploads/gallery-images/michael-buck/mb011.jpg
+    image_title: Winter Morning
+    image_description:
+  - image_path: /uploads/gallery-images/michael-buck/mb007.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
