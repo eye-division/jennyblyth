@@ -132,7 +132,7 @@ images:
     image_title:
     image_description:
   - image_path: /uploads/gallery-images/michael-buck/mb031.jpg
-    image_title: Glad Goldheart
+    image_title: Glad Goldhearts
     image_description: acrylic on canvas 3'2 x 4'
   - image_path: /uploads/gallery-images/michael-buck/mb033.jpg
     image_title: 'Hawthorn in Spring '
