@@ -122,6 +122,18 @@ images:
   - image_path:
     image_title:
     image_description:
+  - image_path: /uploads/mb-crows-over-spring-fields.JPG
+    image_title: Crows over Spring Fields and Hedges
+    image_description:
+  - image_path: /uploads/mb008.jpg
+    image_title: Light Beyond The Bluff
+    image_description: acrylic on paper 4 x 6 in
+  - image_path: /uploads/gallery-images/michael-buck/mb031.jpg
+    image_title: Glad Goldheart
+    image_description: acrylic on canvas 3'2 x 4'
+  - image_path: /uploads/gallery-images/michael-buck/mb033.jpg
+    image_title: 'Hawthorn in Spring '
+    image_description: acrylic on canvas 3' x 4'6"
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
