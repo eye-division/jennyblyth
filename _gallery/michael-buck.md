@@ -6,10 +6,8 @@ description_markdown: >-
   **MICHAEL BUCK&nbsp;**
 
 
-  ***‘A LIFE IN THE LANDSCAPE’***
-
-
-  **1 March - 1 April 2022 **
+  ***‘A LIFE IN THE LANDSCAPE’***&nbsp; &nbsp;:&nbsp; 1 March - 1 April
+  2022&nbsp;
 
 
   **Carey Blyth Gallery, Oxford**
@@ -18,7 +16,7 @@ description_markdown: >-
   *‘What is work for? - If it is to get the job done,*
 
 
-  *then indeed get a chain saw. *
+  then indeed get a chain saw.&nbsp;
 
 
   *If, however, it is to connect with Nature &nbsp;*
@@ -27,10 +25,10 @@ description_markdown: >-
   *\- to know the tree and the rhythms it asks of our bodies -*
 
 
-  *then let’s use our hands, our arms, our feet, our lungs. *
+  \*then let’s use our hands, our arms, our feet, our lungs.&nbsp;
 
 
-  *You work that you may keep pace with the Earth, *
+  You work that you may keep pace with the Earth,&nbsp;
 
 
   *and the Soul of the Earth.’&nbsp; &nbsp;*Michael Buck 2022
