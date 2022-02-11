@@ -135,7 +135,22 @@ images:
   - image_path: /uploads/gallery-images/michael-buck/mb011.jpg
     image_title: Winter Morning
     image_description:
+  - image_path: /uploads/gallery-images/michael-buck/mb006.jpg
+    image_title: Rainbow Droplets, Blackthorn
+    image_description:
   - image_path: /uploads/gallery-images/michael-buck/mb007.jpg
+    image_title:
+    image_description:
+  - image_path: /uploads/gallery-images/michael-buck/mb021.jpg
+    image_title:
+    image_description:
+  - image_path: /uploads/gallery-images/michael-buck/mb025.jpg
+    image_title:
+    image_description:
+  - image_path: /uploads/gallery-images/michael-buck/mb023.jpg
+    image_title:
+    image_description:
+  - image_path: /uploads/gallery-images/michael-buck/mb012.jpg
     image_title:
     image_description:
 _options:
