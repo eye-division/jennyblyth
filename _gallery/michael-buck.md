@@ -13,35 +13,35 @@ description_markdown: >-
   **Carey Blyth Gallery, Oxford**
 
 
-  *‘What is work for? - If it is to get the job done,*
+  ***‘What is work for? - If it is to get the job done,***
 
 
-  then indeed get a chain saw.&nbsp;
+  ***then indeed get a chain saw.&nbsp;***
 
 
-  *If, however, it is to connect with Nature &nbsp;*
+  ***If, however, it is to connect with Nature &nbsp;***
 
 
-  *\- to know the tree and the rhythms it asks of our bodies -*
+  ***\- to know the tree and the rhythms it asks of our bodies -***
 
 
-  \*then let’s use our hands, our arms, our feet, our lungs.&nbsp;
+  ***then let’s use our hands, our arms, our feet, our lungs.&nbsp;***
 
 
-  You work that you may keep pace with the Earth,&nbsp;
+  ***You work that you may keep pace with the Earth,&nbsp;***
 
 
-  *and the Soul of the Earth.’&nbsp; &nbsp;*Michael Buck 2022
+  ***and the Soul of the Earth.’**&nbsp; &nbsp;*Michael Buck 2022
 
 
-  *‘For to be idle, is to become a stranger to the Seasons.*
+  ***‘For to be idle, is to become a stranger to the Seasons.***
 
 
-  *When you work, you are a flute through whose heart,*
+  ***When you work, you are a flute through whose heart,***
 
 
-  *the whispering of the hours turns to music.’ &nbsp;&nbsp;*Kahlil Gibran, The
-  Prophet, 1922
+  ***the whispering of the hours turns to music.’ &nbsp;**&nbsp;*Kahlil Gibran,
+  The Prophet, 1922
 
 
   Michael Buck trained in Fine Art at The Ruskin School of Art, Oxford
