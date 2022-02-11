@@ -113,44 +113,48 @@ display_title: true
 images:
   - image_path: /uploads/mb-crows-over-spring-fields.JPG
     image_title: Crows over Spring Fields and Hedges
-    image_description:
+    image_description: <Crows over Spring Fields and Hedges><oil on canvas><36 x 65 inches><amp£>
   - image_path: /uploads/mb008.jpg
     image_title: Light Beyond The Bluff
-    image_description: acrylic on paper 4 x 6 in
+    image_description: <Light Beyond The Bluff><oil on paper><4 x 6 inches><amp£>
   - image_path: /uploads/gallery-images/michael-buck/mb024.jpg
     image_title: Gulls Rising - The Singing Way, Wytham
-    image_description:
+    image_description: >-
+      <Gulls Rising - Towards the Singing Way, Wytham><oil on board><5 x 7
+      inches><amp£>
   - image_path: /uploads/gallery-images/michael-buck/mb015.jpg
     image_title:
     image_description:
   - image_path: /uploads/gallery-images/michael-buck/mb031.jpg
     image_title: Glad Goldhearts
-    image_description: acrylic on canvas 3'2 x 4'
+    image_description: <Glad Goldhearts><oil on canvas><38 x 48 inches><amp£>
   - image_path: /uploads/gallery-images/michael-buck/mb033.jpg
     image_title: 'Hawthorn in Spring '
-    image_description: acrylic on canvas 3' x 4'6"
+    image_description: |-
+      acrylic on canvas 3' x 4'6"
+      <Spring Blackthorn><oil on canvas><36 x 54 inches><amp£>
   - image_path: /uploads/gallery-images/michael-buck/mb030.jpg
     image_title: Binsey Poplar
-    image_description:
+    image_description: <Binsey Black Poplar><oil on paper><cm><amp£>
   - image_path: /uploads/gallery-images/michael-buck/mb011.jpg
     image_title: Winter Morning
-    image_description:
+    image_description: <Winter Morning><oil on paper>< cm><amp£>
   - image_path: /uploads/gallery-images/michael-buck/mb006.jpg
     image_title: Rainbow Droplets, Blackthorn
-    image_description:
-  - image_path: /uploads/gallery-images/michael-buck/mb007.jpg
-    image_title:
-    image_description:
-  - image_path: /uploads/gallery-images/michael-buck/mb021.jpg
-    image_title:
-    image_description:
+    image_description: <Rainbow Droplets><oil on paper>< cm><amp£>
   - image_path: /uploads/gallery-images/michael-buck/mb025.jpg
     image_title:
-    image_description:
+    image_description: <Horses on Port Meadow><oil on paper>< cm><amp£>
+  - image_path: /uploads/gallery-images/michael-buck/mb012.jpg
+    image_title:
+    image_description: <Blackthorn in Blossom><oil on paper>< cm><amp£>
   - image_path: /uploads/gallery-images/michael-buck/mb023.jpg
     image_title:
     image_description:
-  - image_path: /uploads/gallery-images/michael-buck/mb012.jpg
+  - image_path: /uploads/gallery-images/michael-buck/mb007.jpg
+    image_title:
+    image_description: <Storm, Western Highlands><oil on paper>< cm><amp£1>
+  - image_path: /uploads/gallery-images/michael-buck/mb021.jpg
     image_title:
     image_description:
 _options:
