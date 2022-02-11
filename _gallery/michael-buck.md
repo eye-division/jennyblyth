@@ -143,20 +143,20 @@ images:
     image_title: Rainbow Droplets, Blackthorn
     image_description: <Rainbow Droplets><oil on paper>< cm><amp£>
   - image_path: /uploads/gallery-images/michael-buck/mb025.jpg
-    image_title:
+    image_title: Horses on Water Meadows
     image_description: <Horses on Port Meadow><oil on paper>< cm><amp£>
   - image_path: /uploads/gallery-images/michael-buck/mb012.jpg
-    image_title:
+    image_title: Blackthorn in Blossom
     image_description: <Blackthorn in Blossom><oil on paper>< cm><amp£>
   - image_path: /uploads/gallery-images/michael-buck/mb023.jpg
-    image_title:
+    image_title: Down By the Water
     image_description:
   - image_path: /uploads/gallery-images/michael-buck/mb007.jpg
-    image_title:
+    image_title: Storm, Western Highlands
     image_description: <Storm, Western Highlands><oil on paper>< cm><amp£1>
   - image_path: /uploads/gallery-images/michael-buck/mb021.jpg
     image_title:
-    image_description:
+    image_description: The Highlands...
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
