@@ -9,47 +9,41 @@ description_markdown: >-
   ***‘’A LIFE IN THE LANDSCAPE’***
 
 
-  #### **1 March - 1 April 2022 **
+  **1 March - 1 April 2022 **
 
 
-  #### **Carey Blyth Gallery, Oxford**
+  **Carey Blyth Gallery, Oxford**
 
 
-  #### *‘What is work for? - If it is to get the job done,*
+  *‘What is work for? - If it is to get the job done,*
 
 
-  #### *then indeed get a chain saw. *
+  *then indeed get a chain saw. *
 
 
-  #### *If, however, it is to connect with Nature &nbsp;*
+  *If, however, it is to connect with Nature &nbsp;*
 
 
-  #### *\- to know the tree and the rhythms it asks of our bodies -*
+  *\- to know the tree and the rhythms it asks of our bodies -*
 
 
-  #### *then let’s use our hands, our arms, our feet, our lungs. *
+  *then let’s use our hands, our arms, our feet, our lungs. *
 
 
-  #### *You work that you may keep pace with the Earth, *
+  *You work that you may keep pace with the Earth, *
 
 
-  #### *and the Soul of the Earth.’&nbsp; &nbsp;*Michael Buck 2022
+  *and the Soul of the Earth.’&nbsp; &nbsp;*Michael Buck 2022
 
 
-  #### &nbsp;
+  *‘For to be idle, is to become a stranger to the Seasons.*
 
 
-  #### *‘For to be idle, is to become a stranger to the Seasons.*
+  *When you work, you are a flute through whose heart,*
 
 
-  #### *When you work, you are a flute through whose heart,*
-
-
-  #### *the whispering of the hours turns to music.’ &nbsp;&nbsp;*Kahlil Gibran,
-  The Prophet, 1922
-
-
-  &nbsp;
+  *the whispering of the hours turns to music.’ &nbsp;&nbsp;*Kahlil Gibran, The
+  Prophet, 1922
 
 
   Michael Buck trained in Fine Art at The Ruskin School of Art, Oxford
