@@ -130,9 +130,7 @@ images:
     image_description: <Glad Goldhearts><oil on canvas><38 x 48 inches><amp£>
   - image_path: /uploads/gallery-images/michael-buck/mb033.jpg
     image_title: 'Hawthorn in Spring '
-    image_description: |-
-      acrylic on canvas 3' x 4'6"
-      <Spring Blackthorn><oil on canvas><36 x 54 inches><amp£>
+    image_description: <Spring Blackthorn><acrylic on canvas><36 x 54 inches><amp£>
   - image_path: /uploads/gallery-images/michael-buck/mb030.jpg
     image_title: Binsey Poplar
     image_description: <Binsey Black Poplar><oil on paper><cm><amp£>
