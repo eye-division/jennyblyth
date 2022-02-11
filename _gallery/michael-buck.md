@@ -6,7 +6,7 @@ description_markdown: >-
   **MICHAEL BUCK&nbsp;**
 
 
-  ***‘’A LIFE IN THE LANDSCAPE’***
+  ***‘A LIFE IN THE LANDSCAPE’***
 
 
   **1 March - 1 April 2022 **
