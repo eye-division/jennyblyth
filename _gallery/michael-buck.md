@@ -3,37 +3,53 @@ title: Michael BUCK
 surname: BUCK
 currentshow:
 description_markdown: >-
-  **MICHAEL BUCK (images to be uploaded ....)**
+  **MICHAEL BUCK&nbsp;**
 
 
-  ***‘A LIFE IN THE LANDSCAPE’***
+  ***‘’A LIFE IN THE LANDSCAPE’***
 
 
-  ***What is work for? - If it is to get the job done, then indeed get a chain
-  saw.&nbsp;***
+  **1 March - 1 April 2022 **
 
 
-  ***If, however, it is to connect with Nature &nbsp;***
+  **Carey Blyth Gallery, Oxford**
 
 
-  ***\- to know the tree and the rhythms it asks of our bodies -***
+  ###### *‘What is work for? - If it is to get the job done,*
 
 
-  ***then let’s use our hands, our arms, our feet, our lungs.&nbsp;***
+  ###### *then indeed get a chain saw. *
 
 
-  ***You work that you may keep pace with the Earth, and the Soul of the
-  Earth.&nbsp; &nbsp;****Michael Buck, 2022*
+  ###### *If, however, it is to connect with Nature &nbsp;*
 
 
-  ***For to be idle, is to become a stranger to the Seasons.***
+  ###### *\- to know the tree and the rhythms it asks of our bodies -*
 
 
-  ***When you work, you are a flute through whose heart,***
+  ###### *then let’s use our hands, our arms, our feet, our lungs. *
 
 
-  ***the whispering of the hours turns to music" &nbsp;&nbsp;****Kahlil Gibran,
-  The Prophet, 1923*
+  ###### *You work that you may keep pace with the Earth, *
+
+
+  ###### *and the Soul of the Earth.’&nbsp; &nbsp;*Michael Buck 2022
+
+
+  ###### &nbsp;
+
+
+  ###### *‘For to be idle, is to become a stranger to the Seasons.*
+
+
+  ###### *When you work, you are a flute through whose heart,*
+
+
+  ###### *the whispering of the hours turns to music.’ &nbsp;&nbsp;*Kahlil
+  Gibran, The Prophet, 1922
+
+
+  &nbsp;
 
 
   Michael Buck trained in Fine Art at The Ruskin School of Art, Oxford
@@ -42,9 +58,9 @@ description_markdown: >-
   farmer.&nbsp; The two are inextricably linked with one discipline feeding the
   other.&nbsp; With mornings spent in the studio, and afternoons on the land, he
   is creater of cob houses from earth, clay and wood; hazel coppice and fencing;
-  raising geese and cattle. Michael Buck’s art is in the living.&nbsp; It is
-  both authentic and organic in spirit and essence, so that each day, he is at
-  one with the elements and the rhythms of the earth - ***A Life Lived in the
+  raising geese and cattle. Michael Buck’sart is in the living.&nbsp; It is both
+  authentic and organic in spirit and essence, so that each day, he is at one
+  with the elements and the rhythms of the earth - ***A Life Lived in the
   Landscape.***
 
 
@@ -60,6 +76,44 @@ description_markdown: >-
   works are painterly and fluent, vignettes of older times observed and captured
   ‘*en plein air’.* Michael Buck makes a stand for a return to synchronicity, a
   life truly lived in the landscape, at one with the natural world.
+
+
+  &nbsp;
+
+
+  Michael Buck trained in Fine Art at The Ruskin School of Art, Oxford
+  (1975-78).&nbsp; He is a painter of many years, but also an ecologist, and
+  *‘green’* is at the heart of the matter for him as both artist and
+  farmer.&nbsp; The two are inextricably linked with one discipline feeding the
+  other.&nbsp; With mornings spent in the studio, and afternoons on the land, he
+  is creater of cob houses from earth, clay and wood; hazel coppice and fencing;
+  raising geese and cattle. Michael Buck’sart is in the living.&nbsp; It is both
+  authentic and organic in spirit and essence, so that each day, he is at one
+  with the elements and the rhythms of the earth - ***A Life Lived in the
+  Landscape.***
+
+
+  This collection of paintings provides an insight into his world:
+  &nbsp;thunderous gun metal sky over sunlight grasses whilst scything the hay
+  on The Green; trees bare in winter against a muddy sky towards Wytham; the
+  changing contours of the land and the quiet of horses on Port Meadow, their
+  tails skirting around their legs in the wind.
+
+
+  Larger work celebrates the aerobatics of a cloud of crows, black above quilted
+  Spring fields and hedgerows in greens, soft in the morning mist.&nbsp; Small
+  works are painterly and fluent, vignettes of older times observed and captured
+  ‘*en plein air’.* Michael Buck makes a stand for a return to synchronicity, a
+  life truly lived in the landscape, at one with the natural world.&nbsp;
+
+
+  Text Jenny Blyth 2022
+
+
+  ###### &nbsp;
+
+
+  &nbsp;
 homepage_description_markdown:
 frontpage: true
 gallery_date: 2022-02-10 00:00:00
