@@ -89,51 +89,53 @@ main_image_path: /uploads/mb008.jpg
 display_title: true
 images:
   - image_path: /uploads/mb-crows-over-spring-fields.JPG
-    image_title: Rooks Rising, Early Morning
+    image_title:
     image_description: Rooks Rising, Early Morning, oil on canvas, 36 x 65 inches
   - image_path: /uploads/mb008.jpg
-    image_title: Light Beyond The Bluff
-    image_description: <Light Beyond The Bluff><acrylic on paper><9.5 x 12 inches><amp£>
+    image_title:
+    image_description: Light Beyond The Bluff, acrylic on paper 9.5 x 12 inches
   - image_path: /uploads/gallery-images/michael-buck/mb024.jpg
-    image_title: Gulls Rising - The Singing Way, Wytham
+    image_title:
     image_description: >-
-      <Gulls Rising - Towards the Singing Way, Wytham><oil on board><9.5 x 7.5
-      inches><amp£>
+      Gulls Rising - Towards the Singing Way, Wytham, oil on board 9.5 x 7.5
+      inches
   - image_path: /uploads/gallery-images/michael-buck/mb015.jpg
-    image_title: Stubble Burning, The Cut Towards Oxfordshire
+    image_title:
     image_description: >-
-      <Stubble Burning, The Cut Towards Oxfordshire><oil on board><10 x 9.5
-      inches><amp£>
+      Stubble Burning, The Cut Towards Oxfordshire, oil on board  10 x 9.5
+      inches
   - image_path: /uploads/gallery-images/michael-buck/mb031.jpg
-    image_title: Glad Goldhearts
-    image_description: <Glad Goldhearts><oil on canvas><38 x 48 inches><amp£>
+    image_title:
+    image_description: Glad Goldhearts, oil on canvas  38 x 48 inches
   - image_path: /uploads/gallery-images/michael-buck/mb033.jpg
-    image_title: Blackthorn in Spring
-    image_description: <Blackthorn in Spring><acrylic on canvas><36 x 54 inches><amp£>
+    image_title:
+    image_description: Blackthorn in Spring, acrylic on canvas  36 x 54 inches
   - image_path: /uploads/gallery-images/michael-buck/mb030.jpg
-    image_title: Black Poplar, Binsey
-    image_description: <Black Poplar, Binsey><oil on paper><9 x 8 in><amp£>
+    image_title:
+    image_description: Black Poplar, Binsey, oil on paper  9 x 8 inches
   - image_path: /uploads/gallery-images/michael-buck/mb011.jpg
-    image_title: Winter Morning
-    image_description: <Winter Morning><oil on paper>< 10 x 10 inches><amp£>
+    image_title:
+    image_description: Winter Morning, oil on paper  10 x 10 inches
   - image_path: /uploads/gallery-images/michael-buck/mb006.jpg
-    image_title: Rainbow Droplets, Blackthorn
-    image_description: <Rainbow Droplets, Blackthorn><acrylic on paper>< 9.5 x 9.5 inches><amp£>
+    image_title:
+    image_description: Rainbow Droplets, Blackthorn, acrylic on paper   9.5 x 9.5 inches
   - image_path: /uploads/gallery-images/michael-buck/mb025.jpg
-    image_title: Morning Mist, Port Meadow
-    image_description: <Morning Mist, Port Meadow><acrylic on paper>< 9 x 9 inches><amp£>
+    image_title:
+    image_description: Morning Mist, Port Meadow, acrylic on paper  9 x 9 inches
   - image_path: /uploads/gallery-images/michael-buck/mb012.jpg
-    image_title: Blackthorn in Blossom
-    image_description: <Blackthorn in Blossom><acrylic on paper><9.5 x 9.5 inches><amp£>
+    image_title:
+    image_description: Blackthorn in Blossom, acrylic on paper  9.5 x 9.5 inches
   - image_path: /uploads/gallery-images/michael-buck/mb023.jpg
-    image_title: Down By the Water
-    image_description: <Down By The Water><acrylic on paper><8 x 8.5 inches><amp£>
+    image_title:
+    image_description: 'Down By The Water, acrylic on paper  8 x 8.5 inches '
   - image_path: /uploads/gallery-images/michael-buck/mb007.jpg
-    image_title: Storm over Skye, Western Highlands
-    image_description: <Storm, Western Highlands><acrylic on paper><10 x 10.5 inches><amp£>
+    image_title:
+    image_description: |-
+      Storm, Western Highlands, acrylic on paper 
+       10 x 10.5 inches
   - image_path: /uploads/gallery-images/michael-buck/mb021.jpg
-    image_title: Clouds Clearing over The Cuillins, Western Highlands
-    image_description: <Clouds Clearing over The Cuillins><acrylic on paper><9 x 9 inches><amp£>
+    image_title:
+    image_description: Clouds Clearing over The Cuillins, acrylic on paper  9 x 9 inches
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
