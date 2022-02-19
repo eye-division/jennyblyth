@@ -3,10 +3,7 @@ title: Netta CAREY
 surname: Carey
 currentshow: false
 description_markdown: >-
-  **NETTA CAREY : Currently showing at Carey Blyth Gallery**
-
-
-  **8 Woodstock Road Oxford OX2 6HT**
+  **NETTA CAREY :&nbsp; 8 Woodstock Road Oxford OX2 6HT**
 
 
   ***NC*** *\: "I was lucky enough to receive a formal training in art and
@@ -100,22 +97,22 @@ images:
       2,950
   - image_path: /uploads/carey-march072018-imustbedreamingoilonboard71x91cms.jpg
     image_title:
-    image_description: 'I Must Be Dreaming <br />oil on canvas<71 x 93 cm<br />&amp;pound 2,800'
+    image_description: I Must Be Dreaming <br />oil on canvas<71 x 93 cm<br />&amp;pound 2,800
   - image_path: /uploads/IMG_7009 (1).jpg
     image_title:
-    image_description: 'Alladale II <br />oil on canvas<50 x 60 cm<br />&amp;pound 1,250 SOLD'
+    image_description: Alladale II <br />oil on canvas<50 x 60 cm<br />&amp;pound 1,250 SOLD
   - image_path: /uploads/Carey 3.jpg
     image_title:
-    image_description: 'Alladale III <br />oil on canvas<50 x 60 cm<br />&amp;pound 1,250 SOLD'
+    image_description: Alladale III <br />oil on canvas<50 x 60 cm<br />&amp;pound 1,250 SOLD
   - image_path: /uploads/img-7013-1.jpg
     image_title:
-    image_description: 'Alladale IV <br />oil on canvas<50 x 60 cm<br />&amp;pound 1,250'
+    image_description: Alladale IV <br />oil on canvas<50 x 60 cm<br />&amp;pound 1,250
   - image_path: /uploads/IMG_6472.jpg
     image_title: Compassion
-    image_description: 'Compassion <br />oil on canvas<15 x 21 cm<br />&amp;pound 1,250'
+    image_description: Compassion <br />oil on canvas<15 x 21 cm<br />&amp;pound 1,250
   - image_path: /uploads/Carey Peaceful Setting.jpg
     image_title:
-    image_description: 'Peaceful Setting <br />oil on canvas<50 x 60 cm<br />&amp;pound 1,250'
+    image_description: Peaceful Setting <br />oil on canvas<50 x 60 cm<br />&amp;pound 1,250
 _options:
   image_path:
     width: 1200
@@ -139,4 +136,3 @@ _comments:
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
 ---
-
