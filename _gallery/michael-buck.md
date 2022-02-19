@@ -50,53 +50,30 @@ description_markdown: >-
   farmer.&nbsp; The two are inextricably linked with one discipline feeding the
   other.&nbsp; With mornings spent in the studio, and afternoons on the land, he
   is creater of cob houses from earth, clay and wood; hazel coppice and fencing;
-  raising geese and cattle. Michael Buck’sart is in the living.&nbsp; It is both
-  authentic and organic in spirit and essence, so that each day, he is at one
-  with the elements and the rhythms of the earth - ***A Life Lived in the
-  Landscape.***
+  raising geese and cattle.
 
 
   This collection of paintings provides an insight into his world:
-  &nbsp;thunderous gun metal sky over sunlight grasses whilst scything the hay
-  on The Green; trees bare in winter against a muddy sky towards Wytham; the
+  &nbsp;thunderous gun metal sky over sunlight grasses whilst scything hay on
+  The Green; trees bare in winter against a muddy sky towards Wytham; the
   changing contours of the land and the quiet of horses on Port Meadow, their
   tails skirting around their legs in the wind.
 
 
-  Larger work celebrates the aerobatics of a cloud of crows, black above quilted
-  Spring fields and hedgerows in greens, soft in the morning mist.&nbsp; Small
-  works are painterly and fluent, vignettes of older times observed and captured
-  ‘*en plein air’.* Michael Buck makes a stand for a return to synchronicity, a
-  life truly lived in the landscape, at one with the natural world.
+  Larger work delights in the aerobatics of a cloud of crows, black above
+  quilted Spring fields and hedgerows in a spectrum of greens, soft in the
+  morning mist.&nbsp; Small works are painterly and fluent, vignettes of older
+  times observed and captured ‘*en plein air’.*&nbsp;
 
 
-  Michael Buck trained in Fine Art at The Ruskin School of Art, Oxford
-  (1975-78).&nbsp; He is a painter of many years, but also an ecologist, and
-  *‘green’* is at the heart of the matter for him as both artist and
-  farmer.&nbsp; The two are inextricably linked with one discipline feeding the
-  other.&nbsp; With mornings spent in the studio, and afternoons on the land, he
-  is creater of cob houses from earth, clay and wood; hazel coppice and fencing;
-  raising geese and cattle. Michael Buck’sart is in the living.&nbsp; It is both
-  authentic and organic in spirit and essence, so that each day, he is at one
-  with the elements and the rhythms of the earth - ***A Life Lived in the
-  Landscape.***
+  Michael Buck’s&nbsp; art is in the living.&nbsp; It is both authentic and
+  organic in spirit and essence, so that each day, he is at one with the
+  elements and the rhythms of the earth.&nbsp; Buck makes a stand for a return
+  to synchronicity, a life truly lived in the landscape, at one with the natural
+  world.
 
 
-  This collection of paintings provides an insight into his world:
-  &nbsp;thunderous gun metal sky over sunlight grasses whilst scything the hay
-  on The Green; trees bare in winter against a muddy sky towards Wytham; the
-  changing contours of the land and the quiet of horses on Port Meadow, their
-  tails skirting around their legs in the wind.
-
-
-  Larger work celebrates the aerobatics of a cloud of crows, black above quilted
-  Spring fields and hedgerows in greens, soft in the morning mist.&nbsp; Small
-  works are painterly and fluent, vignettes of older times observed and captured
-  ‘*en plein air’.* Michael Buck makes a stand for a return to synchronicity, a
-  life truly lived in the landscape, at one with the natural world.&nbsp;
-
-
-  Text Jenny Blyth 2022
+  *Text&nbsp; : Jenny Blyth 2022*
 
 
   ###### &nbsp;
