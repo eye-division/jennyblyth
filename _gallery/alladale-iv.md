@@ -1,5 +1,5 @@
 ---
-title: Netta CAREY
+title: Netta Carey
 surname: Carey
 currentshow: false
 description_markdown: >-
