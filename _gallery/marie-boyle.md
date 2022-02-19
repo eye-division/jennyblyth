@@ -1,5 +1,5 @@
 ---
-title: Marie BOYLE
+title: Marie Boyle
 surname: Boyle
 currentshow: false
 description_markdown: >-

@@ -1,5 +1,5 @@
 ---
-title: Paul AMEY
+title: Paul Amey
 surname: Amey
 currentshow: false
 description_markdown: >-
@@ -128,4 +128,3 @@ _comments:
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
 ---
-
