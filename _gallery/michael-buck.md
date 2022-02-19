@@ -60,7 +60,7 @@ description_markdown: >-
   tails skirting around their legs in the wind.
 
 
-  Larger work delights in the aerobatics of a cloud of crows, black above
+  Larger work delights in the aerobatics of a cloud of rooks, black above
   quilted Spring fields and hedgerows in a spectrum of greens, soft in the
   morning mist.&nbsp; Small works are painterly and fluent, vignettes of older
   times observed and captured ‘*en plein air’.*&nbsp;
@@ -89,49 +89,51 @@ main_image_path: /uploads/mb008.jpg
 display_title: true
 images:
   - image_path: /uploads/mb-crows-over-spring-fields.JPG
-    image_title: Crows over Spring Fields and Hedges
-    image_description: <Crows over Spring Fields and Hedges><oil on canvas><36 x 65 inches><amp£>
+    image_title: Rooks Rising, Early Morning
+    image_description: <Rooks Rising, Early Morning><oil on canvas><36 x 65 inches><amp£>
   - image_path: /uploads/mb008.jpg
     image_title: Light Beyond The Bluff
-    image_description: <Light Beyond The Bluff><oil on paper><4 x 6 inches><amp£>
+    image_description: <Light Beyond The Bluff><acrylic on paper><9.5 x 12 inches><amp£>
   - image_path: /uploads/gallery-images/michael-buck/mb024.jpg
     image_title: Gulls Rising - The Singing Way, Wytham
     image_description: >-
-      <Gulls Rising - Towards the Singing Way, Wytham><oil on board><5 x 7
+      <Gulls Rising - Towards the Singing Way, Wytham><oil on board><9.5 x 7.5
       inches><amp£>
   - image_path: /uploads/gallery-images/michael-buck/mb015.jpg
-    image_title:
-    image_description:
+    image_title: Stubble Burning, The Cut Towards Oxfordshire
+    image_description: >-
+      <Stubble Burning, The Cut Towards Oxfordshire><oil on board><10 x 9.5
+      inches><amp£>
   - image_path: /uploads/gallery-images/michael-buck/mb031.jpg
     image_title: Glad Goldhearts
     image_description: <Glad Goldhearts><oil on canvas><38 x 48 inches><amp£>
   - image_path: /uploads/gallery-images/michael-buck/mb033.jpg
-    image_title: 'Hawthorn in Spring '
-    image_description: <Spring Blackthorn><acrylic on canvas><36 x 54 inches><amp£>
+    image_title: Blackthorn in Spring
+    image_description: <Blackthorn in Spring><acrylic on canvas><36 x 54 inches><amp£>
   - image_path: /uploads/gallery-images/michael-buck/mb030.jpg
-    image_title: Binsey Poplar
-    image_description: <Binsey Black Poplar><oil on paper><cm><amp£>
+    image_title: Black Poplar, Binsey
+    image_description: <Black Poplar, Binsey><oil on paper><9 x 8 in><amp£>
   - image_path: /uploads/gallery-images/michael-buck/mb011.jpg
     image_title: Winter Morning
-    image_description: <Winter Morning><oil on paper>< cm><amp£>
+    image_description: <Winter Morning><oil on paper>< 10 x 10 inches><amp£>
   - image_path: /uploads/gallery-images/michael-buck/mb006.jpg
     image_title: Rainbow Droplets, Blackthorn
-    image_description: <Rainbow Droplets><oil on paper>< cm><amp£>
+    image_description: <Rainbow Droplets, Blackthorn><acrylic on paper>< 9.5 x 9.5 inches><amp£>
   - image_path: /uploads/gallery-images/michael-buck/mb025.jpg
-    image_title: Horses on Water Meadows
-    image_description: <Horses on Port Meadow><oil on paper>< cm><amp£>
+    image_title: Morning Mist, Port Meadow
+    image_description: <Morning Mist, Port Meadow><acrylic on paper>< 9 x 9 inches><amp£>
   - image_path: /uploads/gallery-images/michael-buck/mb012.jpg
     image_title: Blackthorn in Blossom
-    image_description: <Blackthorn in Blossom><oil on paper>< cm><amp£>
+    image_description: <Blackthorn in Blossom><acrylic on paper><9.5 x 9.5 inches><amp£>
   - image_path: /uploads/gallery-images/michael-buck/mb023.jpg
     image_title: Down By the Water
-    image_description:
+    image_description: <Down By The Water><acrylic on paper><8 x 8.5 inches><amp£>
   - image_path: /uploads/gallery-images/michael-buck/mb007.jpg
-    image_title: Storm, Western Highlands
-    image_description: <Storm, Western Highlands><oil on paper>< cm><amp£1>
+    image_title: Storm over Skye, Western Highlands
+    image_description: <Storm, Western Highlands><acrylic on paper><10 x 10.5 inches><amp£>
   - image_path: /uploads/gallery-images/michael-buck/mb021.jpg
-    image_title:
-    image_description: The Highlands...
+    image_title: Clouds Clearing over The Cuillins, Western Highlands
+    image_description: <Clouds Clearing over The Cuillins><acrylic on paper><9 x 9 inches><amp£>
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
