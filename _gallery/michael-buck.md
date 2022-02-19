@@ -90,7 +90,7 @@ display_title: true
 images:
   - image_path: /uploads/mb-crows-over-spring-fields.JPG
     image_title: Rooks Rising, Early Morning
-    image_description: <Rooks Rising, Early Morning><oil on canvas><36 x 65 inches><amp£>
+    image_description: Rooks Rising, Early Morning, oil on canvas, 36 x 65 inches
   - image_path: /uploads/mb008.jpg
     image_title: Light Beyond The Bluff
     image_description: <Light Beyond The Bluff><acrylic on paper><9.5 x 12 inches><amp£>
@@ -166,3 +166,4 @@ _enabled_editors:
   - data
   - visual
 ---
+
