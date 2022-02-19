@@ -25,16 +25,17 @@ description_markdown: >-
   ***\- to know the tree and the rhythms it asks of our bodies -***
 
 
-  ***then let’s use our hands, our arms, our feet, our lungs.&nbsp;***
+  ***then let’s use our hands, our arms, our feet, our lungs.'&nbsp; ***Michael
+  Buck 2022
 
 
-  ***You work that you may keep pace with the Earth,&nbsp;***
+  ***'You work that you may keep pace with the Earth,&nbsp;***
 
 
-  ***and the Soul of the Earth.’**&nbsp; &nbsp;*Michael Buck 2022
+  ***and the Soul of the Earth.’**&nbsp; &nbsp;*
 
 
-  ***‘For to be idle, is to become a stranger to the Seasons.***
+  ***For to be idle, is to become a stranger to the Seasons.***
 
 
   ***When you work, you are a flute through whose heart,***
