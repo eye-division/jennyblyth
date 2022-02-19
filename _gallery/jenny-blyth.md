@@ -1,5 +1,5 @@
 ---
-title: JENNY BLYTH
+title: Jenny Blyth
 surname: Blyth
 currentshow: false
 description_markdown: >-
@@ -80,7 +80,7 @@ images:
       Photograph printed in pigmented inks onto archival cotton rag paper<br
       />50 x 60 cm<br />&amp;pound;195  Limited Edition of 12.
   - image_path: /uploads/sea-grasses-applecross-bay.jpg
-    image_title: 'Sea Grasses, Applecross Bay'
+    image_title: Sea Grasses, Applecross Bay
     image_description: >-
       Photograph printed in pigmented inks onto archival cotton rag paper<br
       />50 x 60 cm<br />&amp;pound;195  Limited Edition of 12.
@@ -90,56 +90,56 @@ images:
       Photograph printed in pigmented inks onto archival cotton rag paper<br
       />50 x 60 cm<br />&amp;pound;195  Limited Edition of 12.
   - image_path: /assets/images/5925ee2ab3ab6.jpg
-    image_title: 'Flight Downstream, 2017'
+    image_title: Flight Downstream, 2017
     image_description: >-
       Flight Downstream, 2017<br />Photograph printed in pigmented inks on
       cotton rag paper<br />40 x 50 cm<br />&amp;pound;175 Limited Edition of 25
   - image_path: /assets/images/591eef6cdc862.jpg
-    image_title: 'Walnut Spinney, Winter, 2017'
+    image_title: Walnut Spinney, Winter, 2017
     image_description: >-
       The Walnut Spinney - Snowscape 2016<br />Photograph printed in pigmented
       inks on cotton rag paper<br />60 x 50 cm<br />&amp;pound;195 Limited
       Edition of 25
   - image_path: /assets/images/5925eefb6ff61.jpg
-    image_title: 'Lime Trees, Snowscape, 2016'
+    image_title: Lime Trees, Snowscape, 2016
     image_description: >-
       Lime Trees, Snowscape, 2016<br />Photograph printed in pigmented inks on
       cotton rag paper<br />40 x 50 cm<br />&amp;pound;175 Limited Edition of
       25.
   - image_path: /assets/images/5925f0d5b1c84.jpg
-    image_title: 'Morning Mist, 2016'
+    image_title: Morning Mist, 2016
     image_description: >-
       Morning Mist, 2016<br />Photograph printed in pigmented inks on cotton rag
       paper<br />40 x 50 cm<br />&amp;Acirc;&amp;pound;175 Limited Edition of 25
   - image_path: /assets/images/5925ebab9e529.jpg
-    image_title: 'Flood Plains, 2016'
+    image_title: Flood Plains, 2016
     image_description: >-
       Flood Plains, 2016<br />Photograph printed in pigmented inks on cotton rag
       paper<br />50 x 40 cm<br />&amp;pound;175  Limited Edition of 25
   - image_path: /assets/images/591ef21d9b28e.jpg
-    image_title: 'Summer Storm, May, 2015'
+    image_title: Summer Storm, May, 2015
     image_description: >-
       Summer Storm, May, 2015<br />Photograph printed in pigmented inks on
       cotton rag paper<br />40 z 50 cm<br />&amp;pound;175  Limited Edition of
       25
   - image_path: /assets/images/5925f01bf1d2c.jpg
-    image_title: 'The Golden Thread, 2016'
+    image_title: The Golden Thread, 2016
     image_description: >-
       The Golden Thread, 2016<br />Photograph printed in pigmented inks on
       cotton rag paper<br />40 x 50 cm<br />&amp;pound;175 Limited Edition of 25
   - image_path: /assets/images/591ef3b5b0a74.jpg
-    image_title: 'Apollo Presides, Ashmolean, 2017'
+    image_title: Apollo Presides, Ashmolean, 2017
     image_description: >-
       Apollo Presides, Ashmolean, 2017<br />Photograph printed in pigmented inks
       on cotton rag paper<br />40 x 50 cm<br />&amp;pound;175 Limited Edition of
       25
   - image_path: /uploads/Reflections 4.JPG
-    image_title: 'Reflections II, Rust & Blue 2018'
+    image_title: Reflections II, Rust & Blue 2018
     image_description: >-
       Photograph printed in pigmented inks onto archival cotton rag paper<br
       />50 x 60 cm<br />&amp;pound;195  Limited Edition of 12.
   - image_path: /uploads/Reflections 2.JPG
-    image_title: 'Reflections VIII, Moon in Blue 2018'
+    image_title: Reflections VIII, Moon in Blue 2018
     image_description: >-
       Photograph printed in pigmented inks onto archival cotton rag paper<br
       />50 x 60 cm<br />&amp;pound;195  Limited Edition of 12.
@@ -179,5 +179,3 @@ _comments:
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
 ---
-
-
