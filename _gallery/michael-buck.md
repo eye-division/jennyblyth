@@ -22,10 +22,10 @@ description_markdown: >-
   ***If, however, it is to connect with Nature &nbsp;***
 
 
-  ***\- to know the tree and the rhythms it asks of our bodies -***
+  ***\- to know the tree and the rhythms it asks of our bodies -&nbsp;***
 
 
-  ***then let’s use our hands, our arms, our feet, our lungs.'&nbsp; ***Michael
+  ***then let’s use our hands, our arms, our feet, our lungs.'**&nbsp;* Michael
   Buck 2022
 
 
