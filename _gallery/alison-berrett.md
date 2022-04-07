@@ -68,26 +68,101 @@ display_title: true
 images:
   - image_path: >-
       /uploads/gallery-images/alison-berrett/after-the-rain-acrylic-on-canvas-100x100cm.JPG
-    image_title: After The Rain
-    image_description:
+    image_title:
+    image_description: >-
+      After The Rain 2021<br />acrylic, charcoal and pastel on canvas<br />100 x
+      100 cm<br />&amp;pound; 2500
   - image_path: >-
       /uploads/gallery-images/alison-berrett/beautiful-resilience-2021-acrylic-on-canvas-50x100cm-950.jpg
-    image_title: Beautiful Resilience
-    image_description:
+    image_title:
+    image_description: >-
+      Beautiful Resilience 2021<br />acryli and charcoal on canvas<br />50 x 100
+      cm<br />&amp;pound; 1500
   - image_path: >-
       /uploads/gallery-images/alison-berrett/lose-yourself-2021-acrylic-on-canvas-50x100cm-950.jpg
-    image_title: Lose Yourself
-    image_description:
+    image_title:
+    image_description: >-
+      Lose Yourself 2021<br />acrylic and charcoal on canvas<br />50 x 100 cm<br
+      />&amp;pound; 1500
   - image_path: /uploads/gallery-images/alison-berrett/total-immersion.jpg
     image_title: Total Immersion
-    image_description:
+    image_description: >-
+      Total Immersion 2021<br />oil on canvas<br />100 x 100 cm<br />&amp;pound;
+      2500 SOLD
   - image_path: >-
       /uploads/gallery-images/alison-berrett/though-the-storm-rages-i-am-safe.jpg
-    image_title: Though The Storm Rages, I Am Safe
-    image_description:
+    image_title:
+    image_description: >-
+      Though The Storm Rages, I Am Safe 2021<br />oil and acrylic on canvas<br
+      />50 x 100 cm<br />&amp;pound; 1200
   - image_path: /uploads/gallery-images/alison-berrett/the-thrilling-storm-of-wonder.jpg
     image_title: The Thrilling Storm of Wonder
-    image_description:
+    image_description: >-
+      The Thrilling Storm of Wonder 2021<br />oil and acrylic on canvas<br />40
+      x 100 cm<br />&amp;pound; 1200
+  - image_path: /uploads/gallery-images/alison-berrett/thecallofthedeep.jpg
+    image_title:
+    image_description: >-
+      The Call of The Deep 2021<br /oil and acrylic on canvas<br />100 x 100
+      cm<br />&amp;pound; 2500
+  - image_path: /uploads/gallery-images/alison-berrett/surrender-to-the-undertow.jpg
+    image_title:
+    image_description: >-
+      Surrender to The Undertow 2021<br />pastel on canvas<br />70 x 90 cm<br
+      />&amp;pound; 950 SOLD
+  - image_path: /uploads/gallery-images/alison-berrett/am-i-brave-enough.jpg
+    image_title:
+    image_description: >-
+      Am I Brave Enough 2021<br />pastel on canvas<br />70 x 90 cm<br
+      />&amp;pound; 950 SOLD
+  - image_path: /uploads/gallery-images/alison-berrett/big-sky.jpg
+    image_title:
+    image_description: >-
+      Big Sky 2021<br />oil and acrylic on canvas<br />80 x 80 cm<br
+      />&amp;pound; 1500
+  - image_path: /uploads/gallery-images/alison-berrett/come-to-the-edge.jpg
+    image_title:
+    image_description: >-
+      Come To The Edge 2021<br />oil on canvas<br />100 x 100 cm<br
+      />&amp;pound; 2500
+  - image_path: >-
+      /uploads/gallery-images/alison-berrett/partyonthebeach22pastelsonpaper54x74cmplusmountunframed.jpg
+    image_title:
+    image_description: >-
+      Party on The Beach 2021<br />pastel on canvas<br />70 x 90 cm<br
+      />&amp;pound; 950 SOLD
+  - image_path: >-
+      /uploads/gallery-images/alison-berrett/lost-in-the-moment-acrylic-on-eco-paper.jpg
+    image_title:
+    image_description: >-
+      Lost in The Moment 2021<br />acrylic and pastel on eco paper<br />41 x 52
+      cm<br />&amp;pound; 650
+  - image_path: /uploads/gallery-images/alison-berrett/happytumbling.jpg
+    image_title:
+    image_description: >-
+      Happy Tumbling 2021<br />acrylic and pastel on eco paper<br />41 x 52
+      cm<br />&amp;pound; 650
+  - image_path: >-
+      /uploads/gallery-images/alison-berrett/transluscentwaves-pastelonpaper60x41cm.jpg
+    image_title:
+    image_description: >-
+      Transluscent Waves 2021<br />pastel on paper<br />59 x 76 cm<br
+      />&amp;pound; 750
+  - image_path:
+    image_title:
+    image_description: >-
+      Seascapes of the Soul - That Crashing Energy 2021<br />pastel on paper<br
+      />60 x 76 cm<br />&amp;pound; 750
+  - image_path: /uploads/gallery-images/alison-berrett/how-deep-can-we-go.jpg
+    image_title:
+    image_description: >-
+      How Deep Can We Go 2021<br />oil and acrylic on canvas<br />80 x 80 cm<br
+      />&amp;pound; 1500
+  - image_path: /uploads/gallery-images/alison-berrett/half-a-world-away.jpg
+    image_title:
+    image_description: >-
+      Half A World Away 2021<br />oil and acrylic on canvas<br />80 x 80 cm<br
+      />&amp;pound; 1500
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
@@ -120,4 +195,3 @@ _enabled_editors:
   - data
   - visual
 ---
-
