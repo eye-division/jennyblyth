@@ -164,6 +164,11 @@ images:
     image_description: >-
       Happy Tumbling 2021<br />acrylic and pastel on eco paper<br />41 x 52
       cm<br />&amp;pound; 650
+  - image_path: /uploads/gallery-images/alison-berrett/surge-across-the-land.jpg
+    image_title:
+    image_description: >-
+      Surge Across The Land 2021<br />acrylic and charcoal on canvas<br />50 x
+      50 cm<br />&amp;pound; 650
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
