@@ -18,7 +18,7 @@ description_markdown: >-
   the blown spume, and the sea-gulls crying’.***
 
 
-  *‘Sea Fever’ by John Masefield (1878-1967*
+  *‘Sea Fever’ by John Masefield (1878-1967)*
 
 
   For so many of us, the sea calls and given long enough away, we experience a
