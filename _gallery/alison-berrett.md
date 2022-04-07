@@ -102,6 +102,11 @@ images:
     image_description: >-
       How Deep Can We Go 2021<br />oil and acrylic on canvas<br />80 x 80 cm<br
       />&amp;pound; 1500
+  - image_path: /uploads/gallery-images/alison-berrett/surge-across-the-land.jpg
+    image_title:
+    image_description: >-
+      Surge Across The Land 2021<br />acrylic and charcoal on canvas<br />50 x
+      50 cm<br />&amp;pound; 650
   - image_path: >-
       /uploads/gallery-images/alison-berrett/beautiful-resilience-2021-acrylic-on-canvas-50x100cm-950.jpg
     image_title:
