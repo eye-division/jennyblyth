@@ -142,6 +142,12 @@ images:
       Party on The Beach 2021<br />pastel on canvas<br />70 x 90 cm<br
       />&amp;pound; 950 SOLD
   - image_path: >-
+      /uploads/gallery-images/alison-berrett/22seascapesofthesoul-thatcrashingenergy22pastelsonpaper58x76cmincludingmountnotincludingframe.jpg
+    image_title:
+    image_description: >-
+      Seascapes of the Soul - That Crashing Energy 2021<br />pastel on paper<br
+      />60 x 76 cm<br />&amp;pound; 750
+  - image_path: >-
       /uploads/gallery-images/alison-berrett/transluscentwaves-pastelonpaper60x41cm.jpg
     image_title:
     image_description: >-
@@ -158,12 +164,6 @@ images:
     image_description: >-
       Happy Tumbling 2021<br />acrylic and pastel on eco paper<br />41 x 52
       cm<br />&amp;pound; 650
-  - image_path: >-
-      /uploads/gallery-images/alison-berrett/22seascapesofthesoul-thatcrashingenergy22pastelsonpaper58x76cmincludingmountnotincludingframe.jpg
-    image_title:
-    image_description: >-
-      Seascapes of the Soul - That Crashing Energy 2021<br />pastel on paper<br
-      />60 x 76 cm<br />&amp;pound; 750
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
