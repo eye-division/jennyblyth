@@ -6,10 +6,10 @@ description_markdown: >-
   **ALISON BERRETT**
 
 
-  *‘My Bathybic Heart’*
+  ***‘My Bathybic Heart’***
 
 
-  APRIL 2022 at Carey Blyth Gallery, Oxford OX2 6HT
+  **APRIL 2022 at Carey Blyth Gallery, Oxford OX2 6HT**
 
 
   ***‘I must go down to the seas again, for the call of the running
