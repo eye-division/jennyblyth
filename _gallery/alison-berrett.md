@@ -9,16 +9,16 @@ description_markdown: >-
   *‘My Bathybic Heart’*
 
 
-  APRIL 2022 at Carey Blyth Gallery, Oxford
+  APRIL 2022 at Carey Blyth Gallery, Oxford OX2 6HT
 
 
-  ***‘I must go down to the seas again, for the call of the running tideIs a
-  wild call and a clear call that may not be denied;And all I ask is a windy day
-  with the white clouds flying,And the flung spray and the blown spume, and the
-  sea-gulls crying’.***
+  ***‘I must go down to the seas again, for the call of the running
+  tide,&nbsp;******Is a wild call and a clear call that may not be denied; And
+  all I ask is a windy day with the white clouds flying, And the flung spray and
+  the blown spume, and the sea-gulls crying’.***
 
 
-  *‘Sea Fever’ by John Masefield (1878-1967*
+  *‘Sea Fever’ by John Masefield (1878-1967)*
 
 
   For so many of us, the sea calls and given long enough away, we experience a
