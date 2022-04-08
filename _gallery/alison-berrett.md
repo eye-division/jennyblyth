@@ -12,17 +12,16 @@ description_markdown: >-
   **APRIL 2022 at Carey Blyth Gallery 8 Woodstock Road OX2 6HT**
 
 
-  *I must go down to the seas again, for the call of the running tide&nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Is a
-  wild call and a clear call that may not be denied;&nbsp; &nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And all I ask is a windy day with
-  the white clouds flying,&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And the flung
-  spray and the blown spume, and the sea-gulls crying.*
+  ***I must go down to the seas again, for the call of the running tide***
+
+
+  ***Is a wild call and a clear call that may not be denied;***
+
+
+  ***And all I ask is a windy day with the white clouds flying,***
+
+
+  ***And the flung spray and the blown spume, and the sea-gulls crying.***
 
 
   *Sea Fever by John Masefield (1878-1967)*
