@@ -198,7 +198,7 @@ images:
       395
   - image_path: /Wave 3 sm.jpg
     image_title: Wave 3
-    image_description:
+    image_description: Wave 3<br />pencil on paper<313 x 450 cm<br />&amp;pound 675
   - image_path: /assets/images/57dbff1d49a58.jpg
     image_title: Applecross to Raasay
     image_description: Applecross to Raasay, 2016<br />charcoal on paper<br />&amp;pound;700
