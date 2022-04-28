@@ -152,22 +152,32 @@ main_image_path: /uploads/Across Loch Linnhe (640x279).jpg
 images:
   - image_path: /uploads/Across Loch Linnhe (640x279).jpg
     image_title: Across Loch Linnhe
-    image_description:
+    image_description: >-
+      Across Loch Linnhe <br />Charcoal on paper<330 x 740 cm<br />&amp;pound
+      750
   - image_path: /uploads/Across Loch Linnhe 2 (800x610).jpg
     image_title: Across Loch Linnhe 2
-    image_description:
+    image_description: >-
+      Across Loch Linnhe 2 <br />charcoal on paper<380 x 500 cm<br />&amp;pound
+      600 SOLD
   - image_path: /Towards Appin from Glen Tarbert (800x320) (640x256) (1).jpg
     image_title: Towards Appin from Glen Tarbert
-    image_description:
+    image_description: >-
+      Towards Appin from Glen Tarbert <br />charcoal on paper<218 x 543 cm<br
+      />&amp;pound 535
   - image_path: /uploads/sound-of-arisaig-from-glenuig-640x480-1.jpg
-    image_title: Soung of Arisaig
-    image_description:
+    image_title: Sound of Arisaig
+    image_description: Sound of Arisaig<br />charcoal on paper<377 x 500cm<br />&amp;pound 575
   - image_path: /uploads/to-soay-across-loch-seavaig2c-skye-50x36.JPG
-    image_title: 'To Soay across Loch Seavaig, Skye'
-    image_description:
+    image_title: To Soay across Loch Seavaig, Skye
+    image_description: >-
+      To Soay across Loch Seavaig, Skye<br />charcoal on paper<368 x 500 cm<br
+      />&amp;pound 565
   - image_path: /uploads/ailsa-craig-from-kildonan-46x22.jpg
     image_title: Ailsa Craig from Kildonan (detail)
-    image_description:
+    image_description: >-
+      Ailsa Craig from Kildonan<br />charcoal on paper<368 x 500 cm<br
+      />&amp;pound 565
   - image_path: /assets/images/57e6af93df5a1.jpg
     image_title: To The Inner Hebrides
     image_description: >-
@@ -175,19 +185,23 @@ images:
       />&amp;pound;1500
   - image_path: /Flight 1 Sm.jpg
     image_title: Flight 1
-    image_description:
+    image_description: Flight 1<br />conte on drafting film<281 x 222 cm<br />&amp;pound 395
   - image_path: /uploads/Feather Light 1.JPG
     image_title: Feather Light 1
-    image_description:
+    image_description: >-
+      Feather Light 1<br />conte on drafting film<278 x 354 cm<br />&amp;pound
+      375
   - image_path: /Feather Light 2.jpg
     image_title: Feather Light 2
-    image_description:
+    image_description: >-
+      Feather Light 2<br />conte on drafting film<226 x 165 cm<br />&amp;pound
+      395
   - image_path: /Wave 3 sm.jpg
     image_title: Wave 3
     image_description:
   - image_path: /assets/images/57dbff1d49a58.jpg
     image_title: Applecross to Raasay
-    image_description: 'Applecross to Raasay, 2016<br />charcoal on paper<br />&amp;pound;700'
+    image_description: Applecross to Raasay, 2016<br />charcoal on paper<br />&amp;pound;700
   - image_path: /assets/images/57dc00018a8b8.jpg
     image_title: Loch Moldart
     image_description: >-
