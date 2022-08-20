@@ -3,13 +3,51 @@ title: Antonia Bruce
 surname: Bruce
 currentshow: false
 description_markdown: >-
+  Currently showing ***Maize Dining Table*** in oak, with felt underside,
+  overlaid with cyanotypes of Maize created in the fields of Oaxaca.... 180 x 75
+  cm &pound;1850
+
+
+  *Delight your guests with this unique and beautiful dining table that captures
+  the spirit of Oaxaca, Mexico…&nbsp; *
+
+
+  Maize is the food staff of life, the ‘first food’ for many. The natural
+  diversity of maize grown over thousands of years contributes to our treasured
+  bio-diversity, and is an essential resource for mankind.&nbsp; Debates over
+  genetically modified foods raise issues and concerns for all.&nbsp;
+
+
+  Antonia Bruce has been working on a cooperative exchange between UK and
+  Mexican artists for ten years, responding to ‘First Foods’. In Mexico’s
+  *Heartland*, ‘everyman’ has a perceived right to his own plot ‘La Milpa’ - to
+  grow his own corn, beans and squash. Indeed, the expression *Viva La Milpa*\!
+  is core to Mexican culture.
+
+
+  Surrounding the growing of corn, are the many rituals, offerings, music and
+  dance that have evolved since man first cultivated crops. Antonia’s cyanotypes
+  capture the magic of the maize that towers above the farmers, moving like
+  dancers, in the spirit of freedom.&nbsp; Laid against heavy duty watercolour
+  paper which she paints with a solution of iron compounds, the silhouettes of
+  her subjects are developed in daylight in the corn fields of Oaxaca, Mexico,
+  creating exquisite shadows on blue. This extraordinary body of photographic
+  work complements Antonia’s previous drawings in ink of dancers. Her chosen
+  medium invariably embraces an element of film and movement.
+
+
+  ***Enquiries ******\:
+  [jennyblythart@gmail.com](mailto:jennyblythart@gmail.com)&nbsp; &nbsp; mobile
+  : 07798 526 252***
+
+
   **LOVE AND KISSES at Carey Blyth Gallery, Oxford**
 
 
   **14 February – 1 March 2020**
 
 
-  **Antonia Bruce &nbsp; &nbsp;*Milagritos Hearts***
+  **Antonia Bruce &nbsp; &nbsp;*Milagritos Hearts (Above)***
 
 
   **Rose Artbuthnott &nbsp; &nbsp;*Portraits***
@@ -35,8 +73,8 @@ description_markdown: >-
   Mexican artists over five years, responding to the culture of Oaxaca around
   staple foods such as corn, cactus, honey etc… She has also curated a wonderful
   exhibition of ex-votos or devotional paintings that was shown at Wellcome
-  Trust in London.&nbsp; Her Milagritos Hearts follow on from the devotional
-  theme.&nbsp;
+  Trust in London.&nbsp; Her ***Milagritos Hearts*** follow on from the
+  devotional theme.&nbsp;
 
 
   **Rose Arbuthnott** &nbsp;: \|”*One morning in Mexico, I began the
@@ -66,35 +104,6 @@ description_markdown: >-
 
 
   23 APRIL - 31 MAY 2015
-
-
-  Surrounding the growing of corn, are the many rituals, offerings, music and
-  dance that have evolved since man first cultivated crops. Antonia’s cyanotypes
-  capture the corn cobs that tower above the farmers, moving like dancers, in
-  the spirit of freedom. Laid against heavy duty watercolour paper which she
-  paints with a solution of iron compounds, the silhouettes of her subjects are
-  developed in daylight, creating exquisite shadows on blue. This extraordinary
-  body of work follows on from Antonia’s previous exhibitions of drawings of
-  dancers and pinhole photography. Her chosen medium invariably embraces an
-  element of film and movement.
-
-
-  Corn is the food staff of life, the ‘first food’ for many. The natural
-  diversity of maize grown over thousands of years contributes to our treasured
-  bio-diversity, and is an essential resource for mankind. Debates over
-  genetically modified foods raise issues and concerns for all.
-
-
-  Antonia Bruce has been working on a cooperative exchange between UK and
-  Mexican artists, responding to ‘First Foods’. In Mexico’s *Heartland*,
-  ‘everyman’ has a perceived right to his own plot ‘La Milpa’ - to grow his own
-  corn, beans and squash. Indeed, the expression Viva La Milpa\! is core to
-  Mexican culture.
-
-
-  Antonia\_: “I worked with plants picked fresh from the field and laid them
-  swiftly on prepared paper where they left an imprint of a fleeting moment
-  before the sun destroyed them.”\_
 
 
   Antonia exhibited Horse Latitudes at Art Jericho in 2010 and Blue Moon in
@@ -321,32 +330,32 @@ images:
       Protein Dance : Streetfight (from Border Tales), 2013<br />Indian Ink on
       Chinese Paper<br />66 x 134 cm<br />&amp;pound;1500
   - image_path: /assets/images/53383a44343b0.jpg
-    image_title: 'Stretch, 2014'
+    image_title: Stretch, 2014
     image_description: >-
       Stretch, 2014<br />Indian Ink on Chinese Paper<br />67 x 134 cm<br
       />&amp;pound;1200 SOLD
   - image_path: /assets/images/53331324c0cae.jpg
-    image_title: 'Allegretto, Susie, 2014'
+    image_title: Allegretto, Susie, 2014
     image_description: >-
       Allegretto, Susie, 2014<br />Indian Ink on Taiwanese Calligraphy Paper<br
       />36 x 90 cm<br />&amp;pound;500 SOLD
   - image_path: /assets/images/53593eae55f53.jpg
-    image_title: 'Rehearsal II, 2013'
+    image_title: Rehearsal II, 2013
     image_description: >-
       Rehearsal II, 2013<br />Indian Ink on Brown Paper<br />41 x 61 cm<br
       />&amp;pound;1200
   - image_path: /assets/images/536a52f07a4a6.jpg
-    image_title: 'Rehearsal Jo Lott Company, 2014'
+    image_title: Rehearsal Jo Lott Company, 2014
     image_description: >-
       Rehearsal Jo Lott Company, 2014<br />Indian Ink on Brown Paper<br />47 x
       55 cm<br />&amp;pound;450
   - image_path: /assets/images/536a4f9456648.jpg
-    image_title: 'Spinning Yu, 2014'
+    image_title: Spinning Yu, 2014
     image_description: >-
       Spinning Yu, 2014<br />Indian Ink on Chinese Paper<br />66 x 67 cm<br
       />&amp;pound;700
   - image_path: /assets/images/536a53f41656b.jpg
-    image_title: 'Class, 2014'
+    image_title: Class, 2014
     image_description: >-
       Class, 2014<br />Ink and Cyanotype Wash on Watercolour Paper<br />52 x 72
       cm<br />&amp;pound;500 SOLD
@@ -386,7 +395,7 @@ images:
       watercolour paper brushed with photographic emulsion
   - image_path: /assets/images/50ca2451f3764.jpg
     image_title: Horse Latitudes 8
-    image_description: 'Horse Latitudes 8, 2010<br />Pin-hole photograph<br />30.5 x 38 cm'
+    image_description: Horse Latitudes 8, 2010<br />Pin-hole photograph<br />30.5 x 38 cm
   - image_path: /assets/images/50ca223c1fe72.jpg
     image_title: Horse Latitudes 9
     image_description: >-
@@ -431,4 +440,3 @@ _comments:
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
 ---
-
