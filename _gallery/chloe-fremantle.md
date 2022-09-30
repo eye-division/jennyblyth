@@ -160,11 +160,159 @@ archive: false
 display_title: true
 main_image_path: /uploads/1-evocations-23-acr-152-x-183-cms-2020-copy.jpg
 images:
-  - image_path: /uploads/cf-memento-mori-blue-2.jpg
+  - image_path: /uploads/1-evocations-23-acr-152-x-183-cms-2020-copy-1.jpg
+    image_title:
+    image_description: >-
+      Evocations 23<br />Acrylic on canvas<br />152 x 183 cm<br
+      />&amp;pound;6,500
+  - image_path: /uploads/6-evocations-no-22-gouache-22-x-30--19-20.jpg
+    image_title:
+    image_description: Evocations 22<br />Gouache on paper<br />22 x 30 cm<br />&amp;pound;1,750
+  - image_path: /uploads/2-evocations-no-25-acr-on-canvas-122-x-132-cms-2019.jpg
+    image_title:
+    image_description: >-
+      Evocations 25<br />Acrylic on canvas<br />122 x 132 cm<br
+      />&amp;pound;6,500
+  - image_path: /uploads/7-evocations-no-20-gouache--collage-22-x-30--2019-20.jpg
+    image_title:
+    image_description: Evocations 20<br />Gouache on paper<br />22 x 30 cm<br />&amp;pound;1,750
+  - image_path: >-
+      /uploads/3-memento-mori-53-52-x-54---132-x-137-cms-2017-18-acr-on-canvas-1.jpg
+    image_title:
+    image_description: >-
+      Memento Mori in Black & Gold<br />Acrylic on canvas<br />130 x 137 cm<br
+      />&amp;pound;6,500
+  - image_path: >-
+      /uploads/4-memento-mori-52-acr-on-canvas-52-x-54--132-x-137cms-2017-18-1.jpg
     image_title: Memento Mori in Blue
     image_description: >-
       Memento Mori in Blue 2018<br />Acrylic on canvas<br />130 x 137 cm<br
-      />&amp;pound;5350
+      />&amp;pound;6,500
+  - image_path: /uploads/5-evocations-no-26-acr-188-x-142-cm-2019-1.jpg
+    image_title:
+    image_description: >-
+      Evocations 26<br />Acrylic on canvas<br />188 x 142cm<br
+      />&amp;pound;6,500
+  - image_path: /uploads/11-evocations-a-dec-2019-gouache-30-x-22--.jpg
+    image_title:
+    image_description: Evocations A<br />Gouache on paper<br />30 x 22 cm<br />&amp;pound;1,750
+  - image_path: >-
+      /uploads/8--sm-contemplations-and-divisions-spring-2019-gouache-on-paper-c--65-x-45-cms.jpg
+    image_title:
+    image_description: >-
+      Contemplations and Divisions<br />Gouache on paper<br />65 x 45 cm<br
+      />&amp;pound;1,750
+  - image_path: >-
+      /uploads/10-contemplations-86-alizarin-and-cadmium-red-10-2019-gouache68-5-x-47-5-cms.jpg
+    image_title:
+    image_description: >-
+      Contemplations 86<br />Gouache on paper<br />68.5 x 47.5 cm<br
+      />&amp;pound;1,750
+  - image_path: >-
+      /uploads/9-contemplations-78-aqua--grey--red-circles-3-2019-gouache-67-5-x-46-cms-1.jpg
+    image_title:
+    image_description: >-
+      Contemplations 78<br />Gouache on paper<br />67.5 x 46 cm<br
+      />&amp;pound;1,750
+  - image_path: >-
+      /uploads/16-fragments-river-flotsam-124-gouache--collage-56-x-76-cm-2021.jpg
+    image_title:
+    image_description: >-
+      Fragments River Flotsam (124)<br />Gouache and collage on paper<br />56 x
+      76 cm<br />&amp;pound;1,750
+  - image_path: >-
+      /uploads/14-lockdown-evocations-urban-anley-road-gouache-56-x-76-cm-92-2020.jpg
+    image_title:
+    image_description: >-
+      Lockdown & Evocations - Urban West London<br />Gouache on paper<br />56 x
+      76 cm<br />&amp;pound;1,750
+  - image_path: >-
+      /uploads/39-lockdown-evocation-urban-autumn-street-gouache-56-x-75-cm110--2021.jpg
+    image_title:
+    image_description: >-
+      Lockdown Evocation - Urban Autumn Street<br />Gouache on collage paper<br
+      />56 x 76 cm<br />&amp;pound;1,750
+  - image_path: /uploads/17-fragments-tree-semicircle-on-red-4022-mm-56-x-76-cm.jpg
+    image_title:
+    image_description: >-
+      Fragments - Tree Semicircle <br />Gouache on paper<br />56 x 76 cm<br
+      />&amp;pound;1,750
+  - image_path: >-
+      /uploads/19-fragments-home-sweet-home-reds--purples--on-6-panels-146-22-framed-38-5-x-39-5-work-30-x-30-cm-each-15-x-9-5-cm.jpg
+    image_title:
+    image_description: >-
+      Fragments - Home Sweet Home (reds & purples)<br />Gouache on  paper<br
+      />30 x 30 cm<br />&amp;pound;1,750
+  - image_path: >-
+      /uploads/18-fragments-home-sweet-home-reds--greens--on-6-panels-145-22-framed-38-5-x-39-5-work-30-x-30-cm-each-15-x-9-5-cm.jpg
+    image_title:
+    image_description: >-
+      Fragments - Home Sweet Home (reds & greens)<br />Gouache on  paper<br />30
+      x 30 cm<br />&amp;pound;1,750
+  - image_path: /uploads/40-cpg-mixed-flower-beds-93-gouache-2020-76-x-56-cm.jpg
+    image_title:
+    image_description: >-
+      Chelsea Physic Garden - Mixed Flower Beds<br />Gouache on collage paper<br
+      />76 x 56 cm<br />&amp;pound;1,750
+  - image_path: /uploads/41-cpg-beds--artichokes-94-gouache-76-x-56-cm-2020.jpg
+    image_title:
+    image_description: >-
+      Chelsea Physic Garden - Artichoke Beds<br />Gouache on collage paper<br
+      />76 x 56 cm<br />&amp;pound;1,750
+  - image_path: /uploads/30-home-sweet-home-with-stamps-mm-on-can-82-22-25-x-25-cm.jpg
+    image_title:
+    image_description: >-
+      Home Sweet Home with Stamps<br />Mixed media on canvas<br />25 x 25 cm<br
+      />&amp;pound;
+  - image_path: >-
+      /uploads/27-home-sweet-home-pale-rust--red-wallpaper-81-22-mm-on-can-20-x-25-cm.jpg
+    image_title:
+    image_description: >-
+      Home Sweet Home  (pale rust with red wall paper)<br />Mixed media on
+      canvas<br />20 x 25 cm<br />&amp;pound;
+  - image_path: /uploads/26-home-sweet-home-blues-acr--mm-on-can-153-22-20-x-25-5-cm.jpg
+    image_title:
+    image_description: >-
+      Home Sweet Home (blues)<br />Mixed media on canvas<br />20 x 25 cm<br
+      />&amp;pound;
+  - image_path: /uploads/25-home-sweet-home-black--pink-mm-on-can-152-22-20-x-25-5cm.jpg
+    image_title:
+    image_description: >-
+      Home Sweet Home (black & pink)<br />Mixed media on canvas<br />20 x 25
+      cm<br />&amp;pound;
+  - image_path: /uploads/28-home-sweet-home-yellow--black-79-22-mm-on-can-20-x-25-cm.jpg
+    image_title:
+    image_description: >-
+      Home Sweet Home (yellow & black)<br />Mixed media on canvas<br />20 x 25
+      cm<br />&amp;pound;
+  - image_path: >-
+      /uploads/29-home-sweet-home-pale-fawn-house78-22-mm-on-shallow-can-15-x-21-cm.jpg
+    image_title:
+    image_description: >-
+      Home Sweet Home (fawn house)<br />Mixed media on canvas<br />15 x 21 cm<br
+      />&amp;pound;
+  - image_path: /uploads/20-fragments-home-sweet-home-158-2021-mm-60-cx-60-cm.jpg
+    image_title:
+    image_description: >-
+      Fragments, Home Sweet Home (158)<br />Mixed media on canvas<br />60 x 60
+      cm<br />&amp;pound;
+  - image_path: /uploads/21-home-sweet-home-grey-150-22-acr--mm-on-can-20-x-25-5.jpg
+    image_title:
+    image_description: >-
+      Home Sweet Home (grey)<br />Mixed media on canvas<br />20 x 25 cm<br
+      />&amp;pound;
+  - image_path: >-
+      /uploads/22-home-sweet-home-brown--acr--collage-on-can-151-22-20-x-25-5cm.jpg
+    image_title:
+    image_description: >-
+      Home Sweet Home (grey)<br />Acrylic and collage on canvas<br />20 x 25.5
+      cm<br />&amp;pound;
+  - image_path: >-
+      /uploads/24-home-sweet-home-pinks--purples-acr-on-can-149-22-20-x-25-5-cm.jpg
+    image_title:
+    image_description: >-
+      Home Sweet Home (pinks & purples)<br />Mixed media on canvas<br />20 x 25
+      cm<br />&amp;pound;
   - image_path: /uploads/55-16birchtrees5creamsacr20-3x20-3cmschloefremantle.jpg
     image_title: >-
       Birch Copse 2016<br />Acrylic on canvas<br />90 x 120 cm<br
@@ -185,48 +333,18 @@ images:
       />&amp;pound;4950 SOLD
   - image_path: /assets/images/556e1efb8b29f.jpg
     image_title: Spring Cherry (london)
-    image_description: Spring Cherry (london), 2014<br />Acrylic on canvas<br />42 x 45
-  - image_path: /assets/images/556e211d21c65.jpg
-    image_title: Goldhawk
-    image_description: Goldhawk2014<br />Acrylic on canvas<br />42 x 45 cm
-  - image_path: /assets/images/556e219b82a0c.jpg
-    image_title: Westfield
-    image_description: Westfield, 2014<br />acrylic on canvas<br />42 x 45 cm
-  - image_path: /assets/images/525e91c7684eb.jpg
-    image_title: Within
-    image_description: Within, 2013<br />acrylic on canvas<br />36 x 36 in
-  - image_path: /assets/images/525e93b5e6d8b.jpg
-    image_title: Close Up
-    image_description: Close Up, 2013<br />acrylic on canvas<br />36 x 36 in
+    image_description: Spring Cherry (london), 2014<br />Acrylic on canvas<br />42 x 45 SOLD
   - image_path: /assets/images/5165833244613.jpg
     image_title: Magnolia denudata
     image_description: >-
       Magnolia denudata, 2012<br />Acrylic on canvas<br />12 x 12&amp;quot;<br
       />&amp;pound;495
-  - image_path: /assets/images/525e92c090721.jpg
-    image_title: Angelica archangelica / seed heads
-    image_description: >-
-      Angelica archangelica / seed heads, 2012<br />acrylic on canvas<br />12 x
-      12 in
-  - image_path: /assets/images/516584cebf19a.jpg
-    image_title: In the Hothouse
-    image_description: >-
-      In the Hothouse, 2012<br />Acrylic on canvas<br />12 x 12&amp;quot;<br
-      />&amp;pound;495
-  - image_path: /assets/images/4e0c86a05a27a.jpg
-    image_title: Honeysuckle
-    image_description: Honeysuckle, 2010<br />acrylic on canvas<br />20 x 20&amp;quot
-  - image_path: /assets/images/5165861a16e0e.jpg
-    image_title: Gossypium/Cotton
-    image_description: >-
-      Gossypium/Cotton, 2012<br />Acrylic on canvas<br />12 x 12&amp;quot;<br
-      />&amp;pound;495
-  - image_path: /assets/images/525e9532c9f60.jpg
-    image_title: Fountain
-    image_description: Fountain, 2012<br />acrylic on canvas<br />12 x 12 in
-  - image_path: /assets/images/50c2202f2ce00.jpg
-    image_title: Glimpses
-    image_description: Glimpses, 2010<br />52 x 60 in
+  - image_path: /assets/images/556e219b82a0c.jpg
+    image_title: Westfield
+    image_description: Westfield, 2014<br />acrylic on canvas<br />42 x 45 cm
+  - image_path: /assets/images/556e211d21c65.jpg
+    image_title: Goldhawk
+    image_description: Goldhawk2014<br />Acrylic on canvas<br />42 x 45 cm
   - image_path: /assets/images/51658402e430b.jpg
     image_title: Magnolia grandiflora
     image_description: >-
@@ -237,38 +355,6 @@ images:
     image_description: >-
       Hydrangea aspera, 2012<br />Acrylic on canvas<br />8 x 8&amp;quot;<br
       />&amp;pound;295
-  - image_path: /assets/images/5165870320da3.jpg
-    image_title: Opuntia microdasys/cactus on blue
-    image_description: >-
-      Opuntia microdasys/cactus on blue, 2012<br />Acrylic on canvas<br />8 x
-      8&amp;quot;<br />&amp;pound;295
-  - image_path: /assets/images/4e0c91364b4a3.jpg
-    image_title: 'Cells: Nature or Nurture'
-    image_description: 'Cells: Nature or Nurture, 2010<br />acrylic on canvas<br />48 x 60'
-  - image_path: /assets/images/4e0cce319d90a.jpg
-    image_title: Plumes
-    image_description: Plumes, 2011<br />acrylic on canvas<br />52 x 60 in
-  - image_path: /assets/images/4e0ccdb150f30.jpg
-    image_title: 'Cells: Land or Track'
-    image_description: 'Cells: Land or Track, 2010<br />acrylic on canvas<br />48 x 60 in'
-  - image_path: /assets/images/50c21fadbbfab.jpg
-    image_title: Aurora
-    image_description: Aurora
-  - image_path:
-    image_title:
-    image_description: >-
-      Birch Copse 2016<br />Acrylic on canvas<br />90 x 120 cm<br
-      />&amp;pound;3950
-  - image_path:
-    image_title:
-    image_description: >-
-      Memento Mori 2018<br />Acrylic on canvas<br />130 x 137 cm<br
-      />&amp;pound;5350
-  - image_path: /uploads/1-evocations-23-acr-152-x-183-cms-2020-copy-1.jpg
-    image_title:
-    image_description: >-
-      Evocations 23<br />Acrylic on canvas<br />152 x 183 cm<br
-      />&amp;pound;6,500
 _options:
   image_path:
     width: 1200
