@@ -82,12 +82,14 @@ frontpage: true
 gallery_date:
 permalink:
 archive: false
-main_image_path:
+main_image_path: /uploads/wing-kite.jpg
 display_title: true
 images:
-  - image_path:
+  - image_path: /uploads/gallery-images/peter-blegvad/wing-kite.jpg
     image_title:
-    image_description:
+    image_description: >-
+      Wing Kite<br />Acrylic, collage and mixed media on wood<24 x 24cm<br
+      />&amp;pound 
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
