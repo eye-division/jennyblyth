@@ -266,11 +266,11 @@ images:
   - image_path: /assets/images/50c21fadbbfab.jpg
     image_title: Aurora
     image_description: Aurora
-  - image_path:
+  - image_path: /uploads/5-evocations-no-26-acr-188-x-142-cm-2019-1.jpg
     image_title:
     image_description: >-
-      Birch Copse 2016<br />Acrylic on canvas<br />90 x 120 cm<br
-      />&amp;pound;3950
+      Evocations 26<br />Acrylic on canvas<br />188 x 142cm<br
+      />&amp;pound;6,500
 _options:
   image_path:
     width: 1200
