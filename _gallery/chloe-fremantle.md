@@ -364,30 +364,49 @@ images:
     image_description: >-
       Home Sweet Home (blues)<br />Mixed media on canvas<br />20 x 25 cm<br
       />&amp;pound;
-  - image_path:
+  - image_path: /uploads/25-home-sweet-home-black--pink-mm-on-can-152-22-20-x-25-5cm.jpg
     image_title:
-    image_description:
-  - image_path:
+    image_description: >-
+      Home Sweet Home (black & pink)<br />Mixed media on canvas<br />20 x 25
+      cm<br />&amp;pound;
+  - image_path: /uploads/20-fragments-home-sweet-home-158-2021-mm-60-cx-60-cm.jpg
     image_title:
-    image_description:
-  - image_path:
+    image_description: >-
+      Home Sweet Home (blues)<br />Mixed media on canvas<br />20 x 25 cm<br
+      />&amp;pound;
+  - image_path: /uploads/25-home-sweet-home-black--pink-mm-on-can-152-22-20-x-25-5cm-1.jpg
     image_title:
-    image_description:
-  - image_path:
+    image_description: >-
+      Home Sweet Home (blues)<br />Mixed media on canvas<br />20 x 25 cm<br
+      />&amp;pound;
+  - image_path: /uploads/28-home-sweet-home-yellow--black-79-22-mm-on-can-20-x-25-cm.jpg
     image_title:
-    image_description:
-  - image_path:
+    image_description: >-
+      Home Sweet Home (blues)<br />Mixed media on canvas<br />20 x 25 cm<br
+      />&amp;pound;
+  - image_path: >-
+      /uploads/29-home-sweet-home-pale-fawn-house78-22-mm-on-shallow-can-15-x-21-cm.jpg
     image_title:
-    image_description:
-  - image_path:
+    image_description: >-
+      Home Sweet Home (blues)<br />Mixed media on canvas<br />20 x 25 cm<br
+      />&amp;pound;
+  - image_path: /uploads/21-home-sweet-home-grey-150-22-acr--mm-on-can-20-x-25-5.jpg
     image_title:
-    image_description:
-  - image_path:
+    image_description: >-
+      Home Sweet Home (grey)<br />Mixed media on canvas<br />20 x 25 cm<br
+      />&amp;pound;
+  - image_path: >-
+      /uploads/22-home-sweet-home-brown--acr--collage-on-can-151-22-20-x-25-5cm.jpg
     image_title:
-    image_description:
-  - image_path:
+    image_description: >-
+      Home Sweet Home (grey)<br />Mixed media on canvas<br />20 x 25 cm<br
+      />&amp;pound;
+  - image_path: >-
+      /uploads/24-home-sweet-home-pinks--purples-acr-on-can-149-22-20-x-25-5-cm.jpg
     image_title:
-    image_description:
+    image_description: >-
+      Home Sweet Home (grey)<br />Mixed media on canvas<br />20 x 25 cm<br
+      />&amp;pound;
 _options:
   image_path:
     width: 1200
