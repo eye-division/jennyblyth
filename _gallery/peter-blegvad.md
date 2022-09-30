@@ -76,7 +76,7 @@ description_markdown: >-
   journey, his work is imbued with humour and intellect in equal measure.&nbsp;
 
 
-  \*Jenny Blyth, Curator &copy; 2022 \*
+  Jenny Blyth, Curator &copy; 2022&nbsp;
 homepage_description_markdown:
 frontpage: true
 gallery_date: 2022-09-30 00:00:00
