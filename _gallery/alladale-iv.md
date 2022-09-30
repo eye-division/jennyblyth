@@ -1,7 +1,7 @@
 ---
 title: Netta Carey
 surname: Carey
-currentshow: false
+currentshow: true
 description_markdown: >-
   **SEPTEMBER 2022 at CBG**
 
@@ -13,66 +13,61 @@ description_markdown: >-
   design and the lessons I learned then are a fundamental part of my work to
   this day. A working study of composition, drawing from life, daily for months
   at a time, and an understanding of colour both in terms of design and
-  energetic connection, are an essential part of who I am.&nbsp; In essence I
-  try to capture a moment in time that resonates for longer than the moment that
-  it takes to see it.”*
+  energetic connection, are an essential part of who I am. In essence I try to
+  capture a moment in time that resonates for longer than the moment that it
+  takes to see it.”*
 
 
-  Essentially **Netta Carey** is a colourfield painter.&nbsp; Her muses are
-  clear to see – Mark Rothko, Barnett Newman, Helen Frankenhaler ……These artists
-  emerged in New York in the 1940s and 50s distinct from the Abstract
-  Expressionists such as Jackson Pollock who were more gestural and spontaneous
-  in their painting.&nbsp; Quiet and contemplative, colourfield developed into
-  an abstracted genre where ultimately colour reigned supreme and the viewer was
-  transported to a meditative state of transcendence.&nbsp;
+  Essentially **Netta Carey** is a colourfield painter. Her muses are clear to
+  see – Mark Rothko, Barnett Newman, Helen Frankenhaler ……These artists emerged
+  in New York in the 1940s and 50s distinct from the Abstract Expressionists
+  such as Jackson Pollock who were more gestural and spontaneous in their
+  painting. Quiet and contemplative, colourfield developed into an abstracted
+  genre where ultimately colour reigned supreme and the viewer was transported
+  to a meditative state of transcendence.
 
 
   ***Mirror, Mirror*** focusses on form as much as colour with shapes
   juxtapositioned within the frame of the composition challenging us to explore
-  and enquire.&nbsp; Netta’s palette is exquisite.&nbsp; She has a profound
-  understanding of colour – note how the light in the reds are set off by the
-  deep indigo blue.
+  and enquire. Netta’s palette is exquisite. She has a profound understanding of
+  colour – note how the light in the reds are set off by the deep indigo blue.
 
 
-  In ***Back To The Wild, &nbsp;***shown here at CBG last year, Nettaexplored
-  the landscape and spirit of the Scottish Highlands at Alladale where Paul
-  Lister over the 16 years created a rewilding project.&nbsp; Lister’s intention
-  is to return the 23,000 acre estate to a natural woodland haven for wildlife,
-  to include wolves, bears and lynx.&nbsp; Carey’s paintings captured the wild
-  heart of Scotland where the landscape is untamed by the absence of human
-  intrusion.&nbsp; Particularly she captured the quiet strength and beauty of
-  Alladale in all its autumn richness - purple skies echoed the heather above
-  russet-red bracken stretching across her canvases in bands of colour.&nbsp;
-  Lochs gleamed across a spectrum of white.&nbsp; The exhibition sold out.
+  In ***Back To The Wild, ***shown here at CBG last year, Nettaexplored the
+  landscape and spirit of the Scottish Highlands at Alladale where Paul Lister
+  over the 16 years created a rewilding project. Lister’s intention is to return
+  the 23,000 acre estate to a natural woodland haven for wildlife, to include
+  wolves, bears and lynx. Carey’s paintings captured the wild heart of Scotland
+  where the landscape is untamed by the absence of human intrusion. Particularly
+  she captured the quiet strength and beauty of Alladale in all its autumn
+  richness - purple skies echoed the heather above russet-red bracken stretching
+  across her canvases in bands of colour. Lochs gleamed across a spectrum of
+  white. The exhibition sold out.
 
 
   **Netta Carey** trained at the Paris American Academy (1982-83), London
   College of Printing (1984-87), Chelsea School of Art (1983-84) and L’Ecole Des
-  Beaux Artes, Nantes (1986).&nbsp; She lives and works in Oxfordshire and
-  Snowdonia where she has studios. Her work is placed in private collections in
-  UK, France and USA.
-
-
-  &nbsp;
+  Beaux Artes, Nantes (1986). She lives and works in Oxfordshire and Snowdonia
+  where she has studios. Her work is placed in private collections in UK, France
+  and USA.
 
 
   In ***Back To The Wild,* Netta Carey** explores the landscape and spirit of
   the Scottish Highlands at Alladale where Paul Lister has over the past 16
-  years created a rewilding project.&nbsp; Lister’s intention is to return the
-  23,000 acre estate to a natural woodland haven for wildlife, to include
-  wolves, bears and lynx.&nbsp; Carey’s paintings capture the wild heart of
-  Scotland where scale is untamed by the absence of human intrusion.
-  &nbsp;Particularly she captures the quiet strength and beauty of Alladale in
-  all its autumn richness - purple skies echo the heather above russet-red
-  bracken stretching across her canvases in bands of colour.&nbsp; Lochs gleam
-  across a spectrum of white.&nbsp;
+  years created a rewilding project. Lister’s intention is to return the 23,000
+  acre estate to a natural woodland haven for wildlife, to include wolves, bears
+  and lynx. Carey’s paintings capture the wild heart of Scotland where scale is
+  untamed by the absence of human intrusion. Particularly she captures the quiet
+  strength and beauty of Alladale in all its autumn richness - purple skies echo
+  the heather above russet-red bracken stretching across her canvases in bands
+  of colour. Lochs gleam across a spectrum of white.
 
 
   **Netta Carey** trained at the Paris American Academy (1982-83), London
   College of Printing (1984-87), Chelsea School of Art (1983-84) and L’Ecole Des
-  Beaux Artes, Nantes (1986).&nbsp; She lives and works in Oxfordshire and
-  Snowdonia where she has studios. Her work is placed in private collections in
-  UK, France and USA.
+  Beaux Artes, Nantes (1986). She lives and works in Oxfordshire and Snowdonia
+  where she has studios. Her work is placed in private collections in UK, France
+  and USA.
 homepage_description_markdown: >-
   *"I was lucky enough to receive a formal training in art and design and the
   lessons I learnt then are a fundamental part of my work to this day. A working
@@ -86,27 +81,27 @@ homepage_description_markdown: >-
 
   Netta Carey explores the landscape and spirit of the Scottish Highlands at
   Alladale where Paul Lister has over the past 16 years created a rewilding
-  project.&nbsp; Lister’s intention has been to return the 23,000 acre estate to
-  a natural wooded haven for wildlife.&nbsp;
+  project. Lister’s intention has been to return the 23,000 acre estate to a
+  natural wooded haven for wildlife.
 
 
   Carey’s paintings capture the wild heart of Scotland, particularly the quiet
-  strength and beauty of Alladale in all its richness.&nbsp; Transposing the
-  deep purple of heather to the skies and stretching the russet-red bracken
-  across her canvases, scale is undiminished by the absecse of human
-  intervention. Carey abstracts the landscape into bands of colour. Our eye
-  delights in the colourfield quickly unravelling the composition into landscape
-  where the lochs gleam and glisten in a spectrum of whites between the
-  shorelines under a thunderous sky.
+  strength and beauty of Alladale in all its richness. Transposing the deep
+  purple of heather to the skies and stretching the russet-red bracken across
+  her canvases, scale is undiminished by the absecse of human intervention.
+  Carey abstracts the landscape into bands of colour. Our eye delights in the
+  colourfield quickly unravelling the composition into landscape where the lochs
+  gleam and glisten in a spectrum of whites between the shorelines under a
+  thunderous sky.
 
 
   Netta Carey trained at the Paris American Academy (1982-83), London College of
   Printing (1984-87), Chelsea School of Art (1983-84) and L’Ecole Des Beaux
-  Artes, Nantes (1986).&nbsp; She lives and works in Oxfordshire and Snowdonia
-  where she has studios.[…](__notset__)
+  Artes, Nantes (1986). She lives and works in Oxfordshire and Snowdonia where
+  she has studios.[…](__notset__)
 frontpage: true
 gallery_date: 2019-10-11 15:28:51
-permalink: /gallery/netta-carey/
+permalink: /gallery/nettacarey/
 archive: false
 main_image_path: /uploads/mirror-mirror.jpg
 display_title: true
