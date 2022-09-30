@@ -101,7 +101,7 @@ images:
     image_description: >
       She/He Kite<br />acrylic and mixed media on wood<br />51 x 61 cm<br
       />&amp;pound 
-  - image_path: /uploads/wing-kite.jpg
+  - image_path: /uploads/gallery-images/peter-blegvad/wing-kite-300-dpi.jpg
     image_title:
     image_description: >-
       Wing Kite<br />Acrylic, collage and mixed media on wood<br/>24 x 24cm<br
@@ -188,12 +188,6 @@ images:
   - image_path: /uploads/gallery-images/peter-blegvad/smoking-cab-calloway---justin.jpg
     image_title:
     image_description: 'Smoking (Cab Calloway)<br />ink on paper<br />31 x 23 cm<br />&amp;pound '
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
