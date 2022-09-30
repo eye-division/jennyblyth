@@ -165,7 +165,8 @@ images:
     image_description: >-
       Evocations 23<br />Acrylic on canvas<br />152 x 183 cm<br
       />&amp;pound;6,500
-  - image_path: /uploads/cf-memento-mori-blue-2.jpg
+  - image_path: >-
+      /uploads/4-memento-mori-52-acr-on-canvas-52-x-54--132-x-137cms-2017-18-1.jpg
     image_title: Memento Mori in Blue
     image_description: >-
       Memento Mori in Blue 2018<br />Acrylic on canvas<br />130 x 137 cm<br
@@ -191,6 +192,12 @@ images:
   - image_path: /assets/images/556e1efb8b29f.jpg
     image_title: Spring Cherry (london)
     image_description: Spring Cherry (london), 2014<br />Acrylic on canvas<br />42 x 45
+  - image_path: >-
+      /uploads/3-memento-mori-53-52-x-54---132-x-137-cms-2017-18-acr-on-canvas-1.jpg
+    image_title:
+    image_description: >-
+      Memento Mori in Black & Gold<br />Acrylic on canvas<br />130 x 137 cm<br
+      />&amp;pound;6,500
   - image_path: /assets/images/556e211d21c65.jpg
     image_title: Goldhawk
     image_description: Goldhawk2014<br />Acrylic on canvas<br />42 x 45 cm
@@ -264,12 +271,6 @@ images:
     image_description: >-
       Birch Copse 2016<br />Acrylic on canvas<br />90 x 120 cm<br
       />&amp;pound;3950
-  - image_path: >-
-      /uploads/3-memento-mori-53-52-x-54---132-x-137-cms-2017-18-acr-on-canvas-1.jpg
-    image_title:
-    image_description: >-
-      Memento Mori in Black & Gold<br />Acrylic on canvas<br />130 x 137 cm<br
-      />&amp;pound;6,500
 _options:
   image_path:
     width: 1200
