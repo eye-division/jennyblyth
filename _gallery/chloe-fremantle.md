@@ -158,7 +158,7 @@ gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/chloe-fremantle/
 archive: false
 display_title: true
-main_image_path: /uploads/cf-memento-mori-blue-1.jpg
+main_image_path: /uploads/1-evocations-23-acr-152-x-183-cms-2020-copy.jpg
 images:
   - image_path: /uploads/cf-memento-mori-blue-2.jpg
     image_title: Memento Mori in Blue
@@ -264,6 +264,11 @@ images:
     image_description: >-
       Memento Mori 2018<br />Acrylic on canvas<br />130 x 137 cm<br
       />&amp;pound;5350
+  - image_path: /uploads/1-evocations-23-acr-152-x-183-cms-2020-copy-1.jpg
+    image_title:
+    image_description: >-
+      Evocations 23<br />Acrylic on canvas<br />152 x 183 cm<br
+      />&amp;pound;6,500
 _options:
   image_path:
     width: 1200
