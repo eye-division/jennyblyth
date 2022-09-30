@@ -66,7 +66,7 @@ description_markdown: >-
   Oxfordshire.
 homepage_description_markdown:
 frontpage: true
-gallery_date:
+gallery_date: 2022-09-30 00:00:00
 permalink: /gallery/alisonberrett/
 archive: false
 main_image_path: /uploads/surrender-to-the-undertow.jpg
