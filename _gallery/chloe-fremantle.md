@@ -277,6 +277,12 @@ images:
     image_description: >-
       Contemplations and Divisions<br />Gouache on paper<br />65 x 45 cm<br
       />&amp;pound;1,750
+  - image_path: >-
+      /uploads/9-contemplations-78-aqua--grey--red-circles-3-2019-gouache-67-5-x-46-cms-1.jpg
+    image_title:
+    image_description: >-
+      Contemplations 78<br />Gouache on paper<br />67.5 x 46 cm<br
+      />&amp;pound;1,750
 _options:
   image_path:
     width: 1200
