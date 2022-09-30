@@ -96,6 +96,12 @@ images:
     image_description: >-
       Moon and Planet 2<br />acrylic on paper<br/>60.5 x 45.5 cm<br
       />&amp;pound 
+  - image_path: /uploads/gallery-images/peter-blegvad/camo-kite-d---justin.jpg
+    image_title:
+    image_description: >+
+      Camo Kite<br />acrylic and mixed media on wood<br />62 x 56cm<br
+      />&amp;pound 
+
   - image_path: /uploads/gallery-images/peter-blegvad/wing-kite-300-dpi.jpg
     image_title:
     image_description: >-
@@ -106,12 +112,12 @@ images:
     image_description: >
       She/He Kite<br />acrylic and mixed media on wood<br />51 x 61 cm<br
       />&amp;pound 
-  - image_path: /uploads/gallery-images/peter-blegvad/camo-kite-d---justin.jpg
+  - image_path: /uploads/gallery-images/peter-blegvad/de-honnecourt-i-300-dpi-1.jpg
     image_title:
-    image_description: >+
-      Camo Kite<br />acrylic and mixed media on wood<br />62 x 56cm<br
-      />&amp;pound 
-
+    image_description: de Honnecourt I<br />mixed media on wood<br/>61 x 51 cm<br />&amp;pound
+  - image_path: /uploads/gallery-images/peter-blegvad/de-honnecourt-ii---justin.jpg
+    image_title:
+    image_description: de Honnecourt II<br />mixed media on wood<br/>61 x 51 cm<br />&amp;pound
   - image_path: /uploads/gallery-images/peter-blegvad/harlequin-kite---justin.jpg
     image_title:
     image_description: >
@@ -136,26 +142,20 @@ images:
       /uploads/gallery-images/peter-blegvad/delphic-dials-300-dpi-by-pb-for-jen.jpg
     image_title:
     image_description: Dephic Dials<br />acrylic on paper<br/>61 x 51 cm<br />&amp;pound
-  - image_path: /uploads/gallery-images/peter-blegvad/de-honnecourt-i-300-dpi-1.jpg
-    image_title:
-    image_description: de Honnecourt I<br />mixed media on wood<br/>61 x 51 cm<br />&amp;pound
-  - image_path: /uploads/gallery-images/peter-blegvad/de-honnecourt-ii---justin.jpg
-    image_title:
-    image_description: de Honnecourt II<br />mixed media on wood<br/>61 x 51 cm<br />&amp;pound
   - image_path: /uploads/gallery-images/peter-blegvad/orrery-kite---justin-1.jpg
     image_title:
     image_description: >
       Orrery Kite<br />acrylic and mixed media on wood<br />72 x 62 cm<br
       />&amp;pound 
-  - image_path: /uploads/gallery-images/peter-blegvad/red-balls-collage---justin.jpg
-    image_title:
-    image_description: >
-      Red Balls<br />acrylic and mixed media on wood<br />72 x 62 cm<br
-      />&amp;pound 
   - image_path: /uploads/gallery-images/peter-blegvad/recipe-remedy-cure.jpg
     image_title:
     image_description: >
       Recipe<br />acrylic and mixed media on wood<br />72 x 62 cm<br
+      />&amp;pound 
+  - image_path: /uploads/gallery-images/peter-blegvad/red-balls-collage---justin.jpg
+    image_title:
+    image_description: >
+      Red Balls<br />acrylic and mixed media on wood<br />72 x 62 cm<br
       />&amp;pound 
   - image_path: /uploads/gallery-images/peter-blegvad/black-spot-kite---justin-1.jpg
     image_title:
