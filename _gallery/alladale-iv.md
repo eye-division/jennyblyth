@@ -111,6 +111,11 @@ archive: false
 main_image_path: /uploads/nothing-is-ever-forever-100-x-130-cm.jpg
 display_title: true
 images:
+  - image_path: /uploads/2-1.jpg
+    image_title:
+    image_description: >-
+      Mirror, Mirror <br />oil on canvas<98 x 125 cm (framed)<br />&amp;pound
+      3,200
   - image_path: /uploads/nothing-is-ever-forever-100-x-130-cm.jpg
     image_title:
     image_description: >-
@@ -134,6 +139,9 @@ images:
   - image_path: /uploads/Carey Peaceful Setting.jpg
     image_title:
     image_description: Peaceful Setting <br />oil on canvas<50 x 60 cm<br />&amp;pound 1,250
+  - image_path: /uploads/cup-half-full.jpg
+    image_title:
+    image_description: Cup Half Full <br />oil on canvas<90 x 70 cm<br />&amp;pound 3,450
 _options:
   image_path:
     width: 1200
