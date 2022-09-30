@@ -306,13 +306,15 @@ images:
   - image_path: >-
       /uploads/14-lockdown-evocations-urban-anley-road-gouache-56-x-76-cm-92-2020.jpg
     image_title:
-    image_description:
+    image_description: >-
+      Lockdown & Evocations<br />Gouache on paper<br />56 x 76 cm<br
+      />&amp;pound;1,750
   - image_path: >-
       /uploads/16-fragments-river-flotsam-124-gouache--collage-56-x-76-cm-2021.jpg
     image_title:
     image_description: >-
-      Fragments River Flotsam (124)<br />Gouache on collage paper<br />56 x 76
-      cm<br />&amp;pound;1,750
+      Fragments River Flotsam (124)<br />Gouache and collage on paper<br />56 x
+      76 cm<br />&amp;pound;1,750
   - image_path: >-
       /uploads/39-lockdown-evocation-urban-autumn-street-gouache-56-x-75-cm110--2021.jpg
     image_title:
