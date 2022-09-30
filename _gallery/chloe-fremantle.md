@@ -338,6 +338,51 @@ images:
     image_description: >-
       Fragments - Home Sweet Home (reds & purples)<br />Gouache on  paper<br
       />30 x 30 cm<br />&amp;pound;1,750
+  - image_path: /uploads/40-cpg-mixed-flower-beds-93-gouache-2020-76-x-56-cm.jpg
+    image_title:
+    image_description: >-
+      Chelsea Physic Garden - Mixed Flower Beds<br />Gouache on collage paper<br
+      />76 x 56 cm<br />&amp;pound;1,750
+  - image_path: /uploads/41-cpg-beds--artichokes-94-gouache-76-x-56-cm-2020.jpg
+    image_title:
+    image_description: >-
+      Chelsea Physic Garden - Artichoke Beds<br />Gouache on collage paper<br
+      />76 x 56 cm<br />&amp;pound;1,750
+  - image_path: /uploads/30-home-sweet-home-with-stamps-mm-on-can-82-22-25-x-25-cm.jpg
+    image_title:
+    image_description: >-
+      Home Sweet Home with Stamps<br />Mixed media on canvas<br />25 x 25 cm<br
+      />&amp;pound;
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
