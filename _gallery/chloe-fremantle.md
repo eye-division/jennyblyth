@@ -353,12 +353,17 @@ images:
     image_description: >-
       Home Sweet Home with Stamps<br />Mixed media on canvas<br />25 x 25 cm<br
       />&amp;pound;
-  - image_path:
+  - image_path: >-
+      /uploads/27-home-sweet-home-pale-rust--red-wallpaper-81-22-mm-on-can-20-x-25-cm.jpg
     image_title:
-    image_description:
-  - image_path:
+    image_description: >-
+      Home Sweet Home  (pale rust with red wall paper)<br />Mixed media on
+      canvas<br />20 x 25 cm<br />&amp;pound;
+  - image_path: /uploads/26-home-sweet-home-blues-acr--mm-on-can-153-22-20-x-25-5-cm.jpg
     image_title:
-    image_description:
+    image_description: >-
+      Home Sweet Home (blues)<br />Mixed media on canvas<br />20 x 25 cm<br
+      />&amp;pound;
   - image_path:
     image_title:
     image_description:
