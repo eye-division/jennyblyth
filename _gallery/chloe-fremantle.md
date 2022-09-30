@@ -3,19 +3,86 @@ title: Chloe Fremantle
 surname: Fremantle
 currentshow: false
 description_markdown: >-
-  ### **Currently showing at CAREY BLYTH**
+  #### ***Forthcoming* : Chloe Fremantle & Peter Blegvad**
 
 
-  8 Woodstock Road Oxford OX2 6HT (Wed-Sun 11-5 pm)
+  #### **'Light Seeking Light'&nbsp; &nbsp;: 1-12 November 2022&nbsp;**
 
 
-  Chloe Fremantle is a naturalist in essence. Her art celebrates nature, its
-  myriad forms and patterning. Whether in the clouds, ripples, plants, seeds,
-  pods, or petals, her paintings delight in the beauty that surrounds us,
-  irrespective of season or time. Paring down form to create clean lines that
-  articulate that sense of delight is her forte. Her lines are bold, her colour
-  unapologetic. As in nature, her palette is not contrived, but more a semblance
-  of chance, unexpected - perhaps pinks with electric green.
+  ##### **Royal Watercolour Society Galleries**
+
+
+  ##### **3-5 Whitcomb Street London WC2H&nbsp; 7HA**
+
+
+  ##### **​​​​Tuesday-Saturday 10-5 pm**
+
+
+  &nbsp;
+
+
+  ***‘Colour and I are one.&nbsp; I am a painter’ Paul Klee***
+
+
+  Colour influences our perceptions, affecting our behaviour and our moods
+  whilst our brains seek out patterns to help us assess and predict. Colour and
+  patterning have been core to our survival since humanitiy began, and Art
+  ‘manna for the soul’. From the Ancient Egyptians who used prisms to split the
+  colours from crystals for medicinal purpose and to enhance wellbeing, to Carl
+  Jung who said that ‘colours are the mother tongue of the subconscious’,
+  clearly palette colours the mind.&nbsp; For Artists, it is a path to
+  liberation.
+
+
+  Chloe Fremantle: ***‘Evocations'&nbsp;*reflect the fleetingness of our
+  memories, and the wealth of individual experience which inform our responses
+  to any given moment’.**
+
+
+  Artists share with us their unique journeys through observation and expression
+  across a limitless spectrum of creativity in varying degrees of figuration and
+  abstraction, from the keenest depictions of realism to the dream realms of
+  Colour Field painting. It is the artists of the 1930s and 40s who have been
+  the most influential for Chloe Fremantle with artists such as Paul Nash,
+  Graham Sutherland, Patrick Heron, Eileen Agar, Helen Frankenthaler as well as
+  Henri Matisse, Braque and Picasso, clearly her muses.
+
+
+  There is an innate sense of joy in Chloe Fremantle’s painting irrespective of
+  her subject.&nbsp; Such is the effect of colour and patterning in her work for
+  us as viewers.&nbsp; On close inspection one can unravel her language of
+  mark-making that she has developed from observations of the natural world and
+  her immediate environment.&nbsp;
+
+
+  High up in the Aples Maritimes, close to a much-loved pied-a-terre on the Cote
+  d’Azur, is a beautiful cemetery that pans out over the Mediterranean
+  below.&nbsp; Chloe’s ***Memento Mori in Black and Gold*** explores the curve
+  and line of stonework and trellis, interspersed with the adornments particular
+  to catholic French graveyards, and the flowers and succulents that flourish
+  there.&nbsp;
+
+
+  Urbanity and politics do not go unnoticed.&nbsp; Her
+  ***Contemplation*&nbsp;&nbsp;**series celebrates diversity whilst reflecting
+  on the seemingly unreconcilable stand-off arising from Brexit. Lockdown during
+  Covid, highlighted the nuances of ***Home Sweet Home,*** contrasting with
+  Chloe’s explorations of space - the ‘out’ from ‘within’.&nbsp;
+
+
+  Seeds, pods and petals of myriad flora observed, inform her mark-making and
+  are complemented by the micro of biology and cellular structure, to the macro
+  of curves and contouring in the landscape.&nbsp; All of this is academic
+  because she has over years created her own alphabet and language that has a
+  life of its own.&nbsp; It is instantly recognizable and distinctly Fremantle
+  in both palette and form.&nbsp; Memories and emotions through association
+  pervade her compositions so that the initial delight that one enjoys on first
+  inspection is challenged as we explore the complexities of her compositions.
+  The overall effect is a ‘jazz fusion’ of balance on the canvas, the product of
+  a life time of painting.&nbsp;
+
+
+  Text by Jenny Blyth, Curator &copy; 2022
 
 
   ### 'REFLECTIONS'
@@ -105,7 +172,7 @@ images:
     image_description:
   - image_path: /assets/images/50c21dc4477a5.jpg
     image_title: Overview
-    image_description: 'Overview, 2012<br />Acrylic on canvas<br />3 x 4 feet<br />&amp;pound;4950'
+    image_description: Overview, 2012<br />Acrylic on canvas<br />3 x 4 feet<br />&amp;pound;4950
   - image_path: /assets/images/50c1fc980bb90.jpg
     image_title: Within
     image_description: >-
@@ -118,19 +185,19 @@ images:
       />&amp;pound;4950 SOLD
   - image_path: /assets/images/556e1efb8b29f.jpg
     image_title: Spring Cherry (london)
-    image_description: 'Spring Cherry (london), 2014<br />Acrylic on canvas<br />42 x 45'
+    image_description: Spring Cherry (london), 2014<br />Acrylic on canvas<br />42 x 45
   - image_path: /assets/images/556e211d21c65.jpg
     image_title: Goldhawk
     image_description: Goldhawk2014<br />Acrylic on canvas<br />42 x 45 cm
   - image_path: /assets/images/556e219b82a0c.jpg
     image_title: Westfield
-    image_description: 'Westfield, 2014<br />acrylic on canvas<br />42 x 45 cm'
+    image_description: Westfield, 2014<br />acrylic on canvas<br />42 x 45 cm
   - image_path: /assets/images/525e91c7684eb.jpg
     image_title: Within
-    image_description: 'Within, 2013<br />acrylic on canvas<br />36 x 36 in'
+    image_description: Within, 2013<br />acrylic on canvas<br />36 x 36 in
   - image_path: /assets/images/525e93b5e6d8b.jpg
     image_title: Close Up
-    image_description: 'Close Up, 2013<br />acrylic on canvas<br />36 x 36 in'
+    image_description: Close Up, 2013<br />acrylic on canvas<br />36 x 36 in
   - image_path: /assets/images/5165833244613.jpg
     image_title: Magnolia denudata
     image_description: >-
@@ -148,7 +215,7 @@ images:
       />&amp;pound;495
   - image_path: /assets/images/4e0c86a05a27a.jpg
     image_title: Honeysuckle
-    image_description: 'Honeysuckle, 2010<br />acrylic on canvas<br />20 x 20&amp;quot'
+    image_description: Honeysuckle, 2010<br />acrylic on canvas<br />20 x 20&amp;quot
   - image_path: /assets/images/5165861a16e0e.jpg
     image_title: Gossypium/Cotton
     image_description: >-
@@ -156,10 +223,10 @@ images:
       />&amp;pound;495
   - image_path: /assets/images/525e9532c9f60.jpg
     image_title: Fountain
-    image_description: 'Fountain, 2012<br />acrylic on canvas<br />12 x 12 in'
+    image_description: Fountain, 2012<br />acrylic on canvas<br />12 x 12 in
   - image_path: /assets/images/50c2202f2ce00.jpg
     image_title: Glimpses
-    image_description: 'Glimpses, 2010<br />52 x 60 in'
+    image_description: Glimpses, 2010<br />52 x 60 in
   - image_path: /assets/images/51658402e430b.jpg
     image_title: Magnolia grandiflora
     image_description: >-
@@ -180,7 +247,7 @@ images:
     image_description: 'Cells: Nature or Nurture, 2010<br />acrylic on canvas<br />48 x 60'
   - image_path: /assets/images/4e0cce319d90a.jpg
     image_title: Plumes
-    image_description: 'Plumes, 2011<br />acrylic on canvas<br />52 x 60 in'
+    image_description: Plumes, 2011<br />acrylic on canvas<br />52 x 60 in
   - image_path: /assets/images/4e0ccdb150f30.jpg
     image_title: 'Cells: Land or Track'
     image_description: 'Cells: Land or Track, 2010<br />acrylic on canvas<br />48 x 60 in'
@@ -210,7 +277,9 @@ _options:
     mime_type: image/jpeg
 _comments:
   title: Gallery title
-  permalink: "This is required to make the menus work - enter everything in lower case, no digits, no spaces in this format /gallery/my-new-gallery/"
+  permalink: >-
+    This is required to make the menus work - enter everything in lower case, no
+    digits, no spaces in this format /gallery/my-new-gallery/
   main_image_path: Image used to represent your gallery
   images: Add and edit your gallery images here
   image_description: Might only be shown in the close up of an image
@@ -218,4 +287,3 @@ _comments:
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
 ---
-
