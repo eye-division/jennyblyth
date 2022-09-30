@@ -139,9 +139,6 @@ images:
     image_description: de Honnecourt II<br />mixed media on wood<br/>61 x 51 cm<br />&amp;pound
   - image_path: /uploads/gallery-images/peter-blegvad/harlequin-kite---justin.jpg
     image_title:
-    image_description: de Honnecourt I<br />mixed media on wood<br/>61 x 51 cm<br />&amp;pound
-  - image_path: /uploads/gallery-images/peter-blegvad/harlequin-kite---justin.jpg
-    image_title:
     image_description: >
       Harlequin Kite<br />acrylic and mixed media on wood<br />61 x 61cm<br
       />&amp;pound 
