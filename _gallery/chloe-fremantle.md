@@ -170,7 +170,7 @@ images:
     image_title: Memento Mori in Blue
     image_description: >-
       Memento Mori in Blue 2018<br />Acrylic on canvas<br />130 x 137 cm<br
-      />&amp;pound;5350
+      />&amp;pound;6,500
   - image_path: /uploads/55-16birchtrees5creamsacr20-3x20-3cmschloefremantle.jpg
     image_title: >-
       Birch Copse 2016<br />Acrylic on canvas<br />90 x 120 cm<br
