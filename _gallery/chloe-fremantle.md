@@ -307,8 +307,8 @@ images:
       /uploads/14-lockdown-evocations-urban-anley-road-gouache-56-x-76-cm-92-2020.jpg
     image_title:
     image_description: >-
-      Lockdown & Evocations<br />Gouache on paper<br />56 x 76 cm<br
-      />&amp;pound;1,750
+      Lockdown & Evocations - Urban West London<br />Gouache on paper<br />56 x
+      76 cm<br />&amp;pound;1,750
   - image_path: >-
       /uploads/16-fragments-river-flotsam-124-gouache--collage-56-x-76-cm-2021.jpg
     image_title:
@@ -318,11 +318,26 @@ images:
   - image_path: >-
       /uploads/39-lockdown-evocation-urban-autumn-street-gouache-56-x-75-cm110--2021.jpg
     image_title:
-    image_description:
-  - image_path: >-
-      /uploads/39-lockdown-evocation-urban-autumn-street-gouache-56-x-75-cm110--2021-1.jpg
+    image_description: >-
+      Lockdown Evocation - Urban Autumn Street<br />Gouache on collage paper<br
+      />56 x 76 cm<br />&amp;pound;1,750
+  - image_path: /uploads/17-fragments-tree-semicircle-on-red-4022-mm-56-x-76-cm.jpg
     image_title:
-    image_description:
+    image_description: >-
+      Fragments - Tree Semicircle <br />Gouache on paper<br />56 x 76 cm<br
+      />&amp;pound;1,750
+  - image_path: >-
+      /uploads/18-fragments-home-sweet-home-reds--greens--on-6-panels-145-22-framed-38-5-x-39-5-work-30-x-30-cm-each-15-x-9-5-cm.jpg
+    image_title:
+    image_description: >-
+      Fragments - Home Sweet Home (reds & greens)<br />Gouache on  paper<br />30
+      x 30 cm<br />&amp;pound;1,750
+  - image_path: >-
+      /uploads/19-fragments-home-sweet-home-reds--purples--on-6-panels-146-22-framed-38-5-x-39-5-work-30-x-30-cm-each-15-x-9-5-cm.jpg
+    image_title:
+    image_description: >-
+      Fragments - Home Sweet Home (reds & purples)<br />Gouache on  paper<br
+      />30 x 30 cm<br />&amp;pound;1,750
 _options:
   image_path:
     width: 1200
