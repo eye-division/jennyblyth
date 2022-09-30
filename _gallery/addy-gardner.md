@@ -10,7 +10,7 @@ description_markdown: >-
 
 
   **June 2021** : New work showing1 ***'Pen y Pass'*** oil on canvas 90 x 120 cm
-  and more...
+  and more…
 
 
   **January 2020**
@@ -191,7 +191,7 @@ gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/addy-gardner/
 archive: false
 display_title: true
-main_image_path: /uploads/learning-to-trust-difference-i-0309-lg.jpg
+main_image_path: /uploads/for-your-whole-life-to-be-an-adventure-3.jpg
 images:
   - image_path: /uploads/for-your-whole-lives-to-be-an-adventure-0426-med-1.jpg
     image_title:
@@ -325,4 +325,3 @@ _comments:
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
 ---
-
