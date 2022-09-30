@@ -271,6 +271,12 @@ images:
     image_description: >-
       Evocations 26<br />Acrylic on canvas<br />188 x 142cm<br
       />&amp;pound;6,500
+  - image_path: >-
+      /uploads/8--sm-contemplations-and-divisions-spring-2019-gouache-on-paper-c--65-x-45-cms.jpg
+    image_title:
+    image_description: >-
+      Contemplations and Divisions<br />Gouache on paper<br />65 x 45 cm<br
+      />&amp;pound;1,750
 _options:
   image_path:
     width: 1200
