@@ -264,7 +264,8 @@ images:
     image_description: >-
       Birch Copse 2016<br />Acrylic on canvas<br />90 x 120 cm<br
       />&amp;pound;3950
-  - image_path:
+  - image_path: >-
+      /uploads/3-memento-mori-53-52-x-54---132-x-137-cms-2017-18-acr-on-canvas-1.jpg
     image_title:
     image_description: >-
       Memento Mori in Black & Gold<br />Acrylic on canvas<br />130 x 137 cm<br
