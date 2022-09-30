@@ -82,7 +82,7 @@ frontpage: true
 gallery_date:
 permalink:
 archive: false
-main_image_path: /uploads/wing-kite.jpg
+main_image_path: /uploads/gallery-images/peter-blegvad/she-he-kite---justin.jpg
 display_title: true
 images:
   - image_path: /uploads/gallery-images/peter-blegvad/alp---justin.jpg
