@@ -283,6 +283,12 @@ images:
     image_description: >-
       Contemplations 78<br />Gouache on paper<br />67.5 x 46 cm<br
       />&amp;pound;1,750
+  - image_path: >-
+      /uploads/10-contemplations-86-alizarin-and-cadmium-red-10-2019-gouache68-5-x-47-5-cms.jpg
+    image_title:
+    image_description: >-
+      Contemplations 86<br />Gouache on paper<br />68.5 x 47.5 cm<br
+      />&amp;pound;1,750
 _options:
   image_path:
     width: 1200
