@@ -80,7 +80,7 @@ description_markdown: >-
 homepage_description_markdown:
 frontpage: true
 gallery_date: 2022-09-30 00:00:00
-permalink: /gallery/peterblegvad/
+permalink: /gallery/peter-blegvad/
 archive: false
 main_image_path: /uploads/wing-kite-300-dpi-1.jpg
 display_title: true
