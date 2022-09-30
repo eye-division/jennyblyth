@@ -3,36 +3,57 @@ title: Netta Carey
 surname: Carey
 currentshow: false
 description_markdown: >-
-  **NETTA CAREY :&nbsp; 8 Woodstock Road Oxford OX2 6HT**
+  **SEPTEMBER 2022 at CBG**
 
 
-  ***NC*** *\: "I was lucky enough to receive a formal training in art and
-  design and the lessons I learned then are a fundamental part of my work to
-  this day. A working study of composition, drawing from life, daily for months
-  at a time, and an understanding of colour both in terms of design and
-  energetic connection, are an essential part of who I am. I paint now from
-  photographs that I abstract to form images, or simply from instinct.&nbsp; In
-  essence I try to capture a moment in time that resonates for longer than the
-  moment that it takes to see it.”*
+  ***NETTA CAREY Mirror, Mirror*** *oil on canvas 98 x 125 cm*
+
+
+  ***NC*** *: "I was lucky enough to receive a formal training in art and design
+  and the lessons I learned then are a fundamental part of my work to this day.
+  A working study of composition, drawing from life, daily for months at a time,
+  and an understanding of colour both in terms of design and energetic
+  connection, are an essential part of who I am.&nbsp; In essence I try to
+  capture a moment in time that resonates for longer than the moment that it
+  takes to see it.”*
 
 
   Essentially **Netta Carey** is a colourfield painter.&nbsp; Her muses are
-  clear to see – Mark Rothko, Barnett Newman, Clifford Stills…. These artists
-  emerged in New York in the 1950s and 60s distinct from the abstract
-  expressionists such as Jackson Pollock who were more gestural and spontaneous
+  clear to see – Mark Rothko, Barnett Newman, Helen Frankenhaler ……These artists
+  emerged in New York in the 1940s and 50s distinct from the Abstract
+  Expressionists such as Jackson Pollock who were more gestural and spontaneous
   in their painting.&nbsp; Quiet and contemplative, colourfield developed into
   an abstracted genre where ultimately colour reigned supreme and the viewer was
-  transported to a meditative state of transcendence.&nbsp; Such a painting is
-  ***I Must Be Dreaming*** where a spectrum of reds from crimsons and scarlets,
-  to cardinal reds and burgundies, reflect the nuances and inflections of
-  dreaming.
+  transported to a meditative state of transcendence.&nbsp;
 
 
-  *\*\*Nothing Is Ever Forever - \*\**essentially a Still Life with objects
-  scattered and milk spilt, conveys a sense of ambivalence and transcience
-  whilst celebrating a fiesta of warm tones and clear palette that is both
-  seductive and refreshing. Netta’s passion for abstraction and colourfield is
-  full of heart.
+  ***Mirror, Mirror*** focusses on form as much as colour with shapes
+  juxtapositioned within the frame of the composition challenging us to explore
+  and enquire.&nbsp; Netta’s palette is exquisite.&nbsp; She has a profound
+  understanding of colour – note how the light in the reds are set off by the
+  deep indigo blue.
+
+
+  In ***Back To The Wild, &nbsp;***shown here at CBG last year, Nettaexplored
+  the landscape and spirit of the Scottish Highlands at Alladale where Paul
+  Lister over the 16 years created a rewilding project.&nbsp; Lister’s intention
+  is to return the 23,000 acre estate to a natural woodland haven for wildlife,
+  to include wolves, bears and lynx.&nbsp; Carey’s paintings captured the wild
+  heart of Scotland where the landscape is untamed by the absence of human
+  intrusion.&nbsp; Particularly she captured the quiet strength and beauty of
+  Alladale in all its autumn richness - purple skies echoed the heather above
+  russet-red bracken stretching across her canvases in bands of colour.&nbsp;
+  Lochs gleamed across a spectrum of white.&nbsp; The exhibition sold out.
+
+
+  **Netta Carey** trained at the Paris American Academy (1982-83), London
+  College of Printing (1984-87), Chelsea School of Art (1983-84) and L’Ecole Des
+  Beaux Artes, Nantes (1986).&nbsp; She lives and works in Oxfordshire and
+  Snowdonia where she has studios. Her work is placed in private collections in
+  UK, France and USA.
+
+
+  &nbsp;
 
 
   In ***Back To The Wild,* Netta Carey** explores the landscape and spirit of
