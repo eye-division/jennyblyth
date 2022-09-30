@@ -85,11 +85,71 @@ archive: false
 main_image_path: /uploads/wing-kite.jpg
 display_title: true
 images:
-  - image_path: /uploads/gallery-images/peter-blegvad/wing-kite.jpg
+  - image_path: /uploads/wing-kite.jpg
     image_title:
     image_description: >-
-      Wing Kite<br />Acrylic, collage and mixed media on wood<24 x 24cm<br
+      Wing Kite<br />Acrylic, collage and mixed media on wood<br/>24 x 24cm<br
       />&amp;pound 
+  - image_path: /uploads/gallery-images/peter-blegvad/alp---justin.jpg
+    image_title:
+    image_description: 'Alp<br />acrylic on paper<br/>60.5 x 45.5 cm<br />&amp;pound '
+  - image_path: /uploads/gallery-images/peter-blegvad/camo-kite-d---justin.jpg
+    image_title:
+    image_description: >+
+      Camo Kite<br />acrylic and mixed media on wood<br />62 x 56cm<br
+      />&amp;pound 
+
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
