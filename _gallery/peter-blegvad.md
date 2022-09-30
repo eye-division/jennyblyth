@@ -85,14 +85,22 @@ archive: false
 main_image_path: /uploads/wing-kite.jpg
 display_title: true
 images:
+  - image_path: /uploads/gallery-images/peter-blegvad/alp---justin.jpg
+    image_title:
+    image_description: 'Alp<br />acrylic on paper<br/>60.5 x 45.5 cm<br />&amp;pound '
+  - image_path: /uploads/gallery-images/peter-blegvad/cataract---justin.jpg
+    image_title:
+    image_description: Cataract<br />acrylic on paper<br/>60.5 x 45.5 cm<br />&amp;pound
+  - image_path: /uploads/gallery-images/peter-blegvad/moon--planet-2---justin.jpg
+    image_title:
+    image_description: >-
+      Moon and Planet 2<br />acrylic on paper<br/>60.5 x 45.5 cm<br
+      />&amp;pound 
   - image_path: /uploads/wing-kite.jpg
     image_title:
     image_description: >-
       Wing Kite<br />Acrylic, collage and mixed media on wood<br/>24 x 24cm<br
       />&amp;pound 
-  - image_path: /uploads/gallery-images/peter-blegvad/alp---justin.jpg
-    image_title:
-    image_description: 'Alp<br />acrylic on paper<br/>60.5 x 45.5 cm<br />&amp;pound '
   - image_path: /uploads/gallery-images/peter-blegvad/camo-kite-d---justin.jpg
     image_title:
     image_description: >+
@@ -114,9 +122,6 @@ images:
     image_description: >
       Palimsest Kite<br />acrylic and mixed media on wood<br />72 x 50cm<br
       />&amp;pound 
-  - image_path: /uploads/gallery-images/peter-blegvad/cataract---justin.jpg
-    image_title:
-    image_description: Cataract<br />acrylic on paper<br/>60.5 x 45.5 cm<br />&amp;pound
   - image_path: >-
       /uploads/gallery-images/peter-blegvad/delphic-dials-300-dpi-by-pb-for-jen.jpg
     image_title:
@@ -155,11 +160,6 @@ images:
     image_title:
     image_description: >
       Recipe<br />acrylic and mixed media on wood<br />72 x 62 cm<br
-      />&amp;pound 
-  - image_path: /uploads/gallery-images/peter-blegvad/moon--planet-2---justin.jpg
-    image_title:
-    image_description: >-
-      Moon and Planet 2<br />acrylic on paper<br/>60.5 x 45.5 cm<br
       />&amp;pound 
   - image_path: /uploads/gallery-images/peter-blegvad/black-spot-kite---justin-1.jpg
     image_title:
