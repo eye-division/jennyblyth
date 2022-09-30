@@ -65,8 +65,8 @@ description_markdown: >-
   musicians and arsts from 1920s, 30s and 40s draw on classic ‘film noir’ with
   beauful landscape painngs in acrylic on paper - a nod to Hokusai - delineated
   in simple lines and quiet palee that are decepvely calming.&nbsp; ***Cataract
-  ***featuresa fast-flowing waterfall constrained by dark terrain that has the
-  zen of symmetry, and ***Alp*** portrays a snow-capped mountain peak that
+  \*\**featuresa fast-flowing waterfall constrained by dark terrain that has the
+  zen of symmetry, and \*\**Alp*** portrays a snow-capped mountain peak that
   beckons above a sheer and harsh ascent.
 
 
@@ -76,11 +76,11 @@ description_markdown: >-
   journey, his work is imbued with humour and intellect in equal measure.&nbsp;
 
 
-  *Jenny Blyth, Curator &copy; 2022 *
+  \*Jenny Blyth, Curator &copy; 2022 \*
 homepage_description_markdown:
 frontpage: true
-gallery_date:
-permalink:
+gallery_date: 2022-09-30 00:00:00
+permalink: /gallery/peterblegvad/
 archive: false
 main_image_path: /uploads/gallery-images/peter-blegvad/she-he-kite---justin.jpg
 display_title: true
