@@ -289,6 +289,11 @@ images:
     image_description: >-
       Contemplations 86<br />Gouache on paper<br />68.5 x 47.5 cm<br
       />&amp;pound;1,750
+  - image_path: /uploads/2-evocations-no-25-acr-on-canvas-122-x-132-cms-2019.jpg
+    image_title:
+    image_description: >-
+      Evocations 25<br />Acrylic on canvas<br />122 x 132 cm<br
+      />&amp;pound;6,500
 _options:
   image_path:
     width: 1200
