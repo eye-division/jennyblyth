@@ -188,7 +188,7 @@ description_markdown: >-
 homepage_description_markdown:
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
-permalink: /gallery/addy-gardner/
+permalink: /gallery/addygardner/
 archive: false
 display_title: true
 main_image_path: /uploads/for-your-whole-life-to-be-an-adventure-3.jpg
