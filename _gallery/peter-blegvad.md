@@ -96,15 +96,15 @@ images:
     image_description: >-
       Moon and Planet 2<br />acrylic on paper<br/>60.5 x 45.5 cm<br
       />&amp;pound 
-  - image_path: /uploads/gallery-images/peter-blegvad/she-he-kite---justin.jpg
-    image_title:
-    image_description: >
-      She/He Kite<br />acrylic and mixed media on wood<br />51 x 61 cm<br
-      />&amp;pound 
   - image_path: /uploads/gallery-images/peter-blegvad/wing-kite-300-dpi.jpg
     image_title:
     image_description: >-
       Wing Kite<br />Acrylic, collage and mixed media on wood<br/>24 x 24cm<br
+      />&amp;pound 
+  - image_path: /uploads/gallery-images/peter-blegvad/she-he-kite---justin.jpg
+    image_title:
+    image_description: >
+      She/He Kite<br />acrylic and mixed media on wood<br />51 x 61 cm<br
       />&amp;pound 
   - image_path: /uploads/gallery-images/peter-blegvad/camo-kite-d---justin.jpg
     image_title:
@@ -112,16 +112,21 @@ images:
       Camo Kite<br />acrylic and mixed media on wood<br />62 x 56cm<br
       />&amp;pound 
 
-  - image_path: /uploads/gallery-images/peter-blegvad/blonde-kite---justin.jpg
+  - image_path: /uploads/gallery-images/peter-blegvad/harlequin-kite---justin.jpg
     image_title:
     image_description: >
-      Blond Kite<br />acrylic and mixed media on wood<br />72 x 62 cm<br
+      Harlequin Kite<br />acrylic and mixed media on wood<br />61 x 61cm<br
       />&amp;pound 
   - image_path: /uploads/gallery-images/peter-blegvad/molecules-of-storyland---justin.jpg
     image_title:
     image_description: >
       Molecules and Storyland<br />acrylic and mixed media on wood<br />62 x
       56cm<br />&amp;pound 
+  - image_path: /uploads/gallery-images/peter-blegvad/blonde-kite---justin.jpg
+    image_title:
+    image_description: >
+      Blond Kite<br />acrylic and mixed media on wood<br />72 x 62 cm<br
+      />&amp;pound 
   - image_path: /uploads/gallery-images/peter-blegvad/palimpsest-kite---justin.jpg
     image_title:
     image_description: >
@@ -137,11 +142,6 @@ images:
   - image_path: /uploads/gallery-images/peter-blegvad/de-honnecourt-ii---justin.jpg
     image_title:
     image_description: de Honnecourt II<br />mixed media on wood<br/>61 x 51 cm<br />&amp;pound
-  - image_path: /uploads/gallery-images/peter-blegvad/harlequin-kite---justin.jpg
-    image_title:
-    image_description: >
-      Harlequin Kite<br />acrylic and mixed media on wood<br />61 x 61cm<br
-      />&amp;pound 
   - image_path: /uploads/gallery-images/peter-blegvad/orrery-kite---justin-1.jpg
     image_title:
     image_description: >
