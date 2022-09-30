@@ -9,13 +9,13 @@ description_markdown: >-
   ***NETTA CAREY Mirror, Mirror*** *oil on canvas 98 x 125 cm*
 
 
-  ***NC*** *: "I was lucky enough to receive a formal training in art and design
-  and the lessons I learned then are a fundamental part of my work to this day.
-  A working study of composition, drawing from life, daily for months at a time,
-  and an understanding of colour both in terms of design and energetic
-  connection, are an essential part of who I am.&nbsp; In essence I try to
-  capture a moment in time that resonates for longer than the moment that it
-  takes to see it.”*
+  ***NC*** *\: "I was lucky enough to receive a formal training in art and
+  design and the lessons I learned then are a fundamental part of my work to
+  this day. A working study of composition, drawing from life, daily for months
+  at a time, and an understanding of colour both in terms of design and
+  energetic connection, are an essential part of who I am.&nbsp; In essence I
+  try to capture a moment in time that resonates for longer than the moment that
+  it takes to see it.”*
 
 
   Essentially **Netta Carey** is a colourfield painter.&nbsp; Her muses are
@@ -108,7 +108,7 @@ frontpage: true
 gallery_date: 2019-10-11 15:28:51
 permalink: /gallery/netta-carey/
 archive: false
-main_image_path: /uploads/nothing-is-ever-forever-100-x-130-cm.jpg
+main_image_path: /uploads/mirror-mirror.jpg
 display_title: true
 images:
   - image_path: /uploads/mirror-mirror.jpg
