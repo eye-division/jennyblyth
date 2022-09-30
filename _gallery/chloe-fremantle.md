@@ -294,6 +294,31 @@ images:
     image_description: >-
       Evocations 25<br />Acrylic on canvas<br />122 x 132 cm<br
       />&amp;pound;6,500
+  - image_path: /uploads/6-evocations-no-22-gouache-22-x-30--19-20.jpg
+    image_title:
+    image_description: Evocations 22<br />Gouache on paper<br />22 x 30 cm<br />&amp;pound;1,750
+  - image_path: /uploads/7-evocations-no-20-gouache--collage-22-x-30--2019-20.jpg
+    image_title:
+    image_description: Evocations 20<br />Gouache on paper<br />22 x 30 cm<br />&amp;pound;1,750
+  - image_path: /uploads/11-evocations-a-dec-2019-gouache-30-x-22--.jpg
+    image_title:
+    image_description: Evocations A<br />Gouache on paper<br />30 x 22 cm<br />&amp;pound;1,750
+  - image_path: >-
+      /uploads/14-lockdown-evocations-urban-anley-road-gouache-56-x-76-cm-92-2020.jpg
+    image_title:
+    image_description:
+  - image_path: >-
+      /uploads/16-fragments-river-flotsam-124-gouache--collage-56-x-76-cm-2021.jpg
+    image_title:
+    image_description:
+  - image_path: >-
+      /uploads/39-lockdown-evocation-urban-autumn-street-gouache-56-x-75-cm110--2021.jpg
+    image_title:
+    image_description:
+  - image_path: >-
+      /uploads/39-lockdown-evocation-urban-autumn-street-gouache-56-x-75-cm110--2021-1.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
