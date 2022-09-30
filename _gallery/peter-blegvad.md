@@ -1,6 +1,6 @@
 ---
-title: Peter BLEGVAD
-surname:
+title: Peter Blegvad
+surname: Blegvad
 currentshow:
 description_markdown: >-
   #### ***Forthcoming* : Peter Blegvad & Chloe Fremantle**
