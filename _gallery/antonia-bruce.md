@@ -4,12 +4,12 @@ surname: Bruce
 currentshow: false
 description_markdown: >-
   Currently showing ***Maize Dining Table*** in oak, with felt underside,
-  overlaid with cyanotypes of Maize created in the fields of Oaxaca.... 180 x 75
+  overlaid with cyanotypes of Maize created in the fields of Oaxaca…. 180 x 75
   cm &pound;1850
 
 
-  *Delight your guests with this unique and beautiful dining table that captures
-  the spirit of Oaxaca, Mexico…&nbsp; *
+  \*Delight your guests with this unique and beautiful dining table that
+  captures the spirit of Oaxaca, Mexico…&nbsp; \*
 
 
   Maize is the food staff of life, the ‘first food’ for many. The natural
@@ -36,9 +36,9 @@ description_markdown: >-
   medium invariably embraces an element of film and movement.
 
 
-  ***Enquiries ******\:
+  ***Enquiries \*\*****\:
   [jennyblythart@gmail.com](mailto:jennyblythart@gmail.com)&nbsp; &nbsp; mobile
-  : 07798 526 252***
+  : 07798 526 252*\*\*
 
 
   **LOVE AND KISSES at Carey Blyth Gallery, Oxford**
