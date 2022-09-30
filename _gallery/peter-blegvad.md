@@ -131,8 +131,7 @@ images:
       /uploads/gallery-images/peter-blegvad/delphic-dials-300-dpi-by-pb-for-jen.jpg
     image_title:
     image_description: Dephic Dials<br />acrylic on paper<br/>61 x 51 cm<br />&amp;pound
-  - image_path: >-
-      /uploads/gallery-images/peter-blegvad/de-honnecourt-i-300-dpi-my-snap-for-jen.jpg
+  - image_path: /uploads/gallery-images/peter-blegvad/de-honnecourt-i-300-dpi-1.jpg
     image_title:
     image_description: de Honnecourt I<br />mixed media on wood<br/>61 x 51 cm<br />&amp;pound
   - image_path: /uploads/gallery-images/peter-blegvad/de-honnecourt-ii---justin.jpg
