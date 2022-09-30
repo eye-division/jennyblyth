@@ -96,6 +96,11 @@ images:
     image_description: >-
       Moon and Planet 2<br />acrylic on paper<br/>60.5 x 45.5 cm<br
       />&amp;pound 
+  - image_path: /uploads/gallery-images/peter-blegvad/she-he-kite---justin.jpg
+    image_title:
+    image_description: >
+      She/He Kite<br />acrylic and mixed media on wood<br />51 x 61 cm<br
+      />&amp;pound 
   - image_path: /uploads/wing-kite.jpg
     image_title:
     image_description: >-
@@ -136,7 +141,7 @@ images:
   - image_path: /uploads/gallery-images/peter-blegvad/harlequin-kite---justin.jpg
     image_title:
     image_description: de Honnecourt I<br />mixed media on wood<br/>61 x 51 cm<br />&amp;pound
-  - image_path:
+  - image_path: /uploads/gallery-images/peter-blegvad/harlequin-kite---justin.jpg
     image_title:
     image_description: >
       Harlequin Kite<br />acrylic and mixed media on wood<br />61 x 61cm<br
@@ -145,11 +150,6 @@ images:
     image_title:
     image_description: >
       Orrery Kite<br />acrylic and mixed media on wood<br />72 x 62 cm<br
-      />&amp;pound 
-  - image_path: /uploads/gallery-images/peter-blegvad/she-he-kite---justin.jpg
-    image_title:
-    image_description: >
-      She/He Kite<br />acrylic and mixed media on wood<br />51 x 61 cm<br
       />&amp;pound 
   - image_path: /uploads/gallery-images/peter-blegvad/red-balls-collage---justin.jpg
     image_title:
