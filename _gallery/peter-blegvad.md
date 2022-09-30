@@ -162,15 +162,6 @@ images:
     image_description: >
       Black Spot Kite<br />acrylic and mixed media on wood<br />72 x 50cm<br
       />&amp;pound 
-  - image_path: >-
-      /uploads/gallery-images/peter-blegvad/asleep-at-the-wheel-300-dpi-my-snap-for-jen.jpg
-    image_title:
-    image_description: |
-      Asleep at The Wheel<br />ink on paper<br />45 x 60cm<br />&amp;pound 
-  - image_path: >-
-      /uploads/gallery-images/peter-blegvad/conversation-in-the-dark---justin.jpg
-    image_title:
-    image_description: 'Conversation in The Dark<br />ink on paper<br />45 x 60cm<br />&amp;pound '
   - image_path: /uploads/gallery-images/peter-blegvad/eddie-cantor---justin.jpg
     image_title:
     image_description: |
@@ -188,6 +179,15 @@ images:
   - image_path: /uploads/gallery-images/peter-blegvad/smoking-cab-calloway---justin.jpg
     image_title:
     image_description: 'Smoking (Cab Calloway)<br />ink on paper<br />31 x 23 cm<br />&amp;pound '
+  - image_path: >-
+      /uploads/gallery-images/peter-blegvad/conversation-in-the-dark---justin.jpg
+    image_title:
+    image_description: 'Conversation in The Dark<br />ink on paper<br />45 x 60cm<br />&amp;pound '
+  - image_path: >-
+      /uploads/gallery-images/peter-blegvad/asleep-at-the-wheel-300-dpi-my-snap-for-jen.jpg
+    image_title:
+    image_description: |
+      Asleep at The Wheel<br />ink on paper<br />45 x 60cm<br />&amp;pound 
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
