@@ -87,20 +87,20 @@ display_title: true
 images:
   - image_path: /uploads/gallery-images/peter-blegvad/alp---justin.jpg
     image_title:
-    image_description: 'Alp<br />acrylic on paper<br/>60.5 x 45.5 cm<br />&amp;pound '
+    image_description: Alp<br />acrylic on paper<br/>60.5 x 45.5 cm<br />&amp;pound 1000
   - image_path: /uploads/gallery-images/peter-blegvad/cataract---justin.jpg
     image_title:
-    image_description: Cataract<br />acrylic on paper<br/>60.5 x 45.5 cm<br />&amp;pound
+    image_description: Cataract<br />acrylic on paper<br/>60.5 x 45.5 cm<br />&amp;pound 1000
   - image_path: /uploads/gallery-images/peter-blegvad/moon--planet-2---justin.jpg
     image_title:
     image_description: >-
-      Moon and Planet 2<br />acrylic on paper<br/>60.5 x 45.5 cm<br
-      />&amp;pound 
+      Moon and Planet 2<br />acrylic on paper<br/>60.5 x 45.5 cm<br />&amp;pound
+      1000
   - image_path: /uploads/gallery-images/peter-blegvad/camo-kite-d---justin.jpg
     image_title:
     image_description: >+
       Camo Kite (D)<br />acrylic and mixed media on wood<br />62 x 56cm<br
-      />&amp;pound 
+      />&amp;pound 1550
 
   - image_path: /uploads/gallery-images/peter-blegvad/wing-kite-300-dpi.jpg
     image_title:
@@ -111,18 +111,22 @@ images:
     image_title:
     image_description: >
       She/He Kite<br />acrylic and mixed media on wood<br />51 x 61 cm<br
-      />&amp;pound 
+      />&amp;pound 1300
   - image_path: /uploads/gallery-images/peter-blegvad/de-honnecourt-i-300-dpi-1.jpg
     image_title:
-    image_description: de Honnecourt I<br />mixed media on wood<br/>61 x 51 cm<br />&amp;pound
+    image_description: >-
+      de Honnecourt I<br />mixed media on wood<br/>61 x 51 cm<br />&amp;pound
+      1250
   - image_path: /uploads/gallery-images/peter-blegvad/de-honnecourt-ii---justin.jpg
     image_title:
-    image_description: de Honnecourt II<br />mixed media on wood<br/>61 x 51 cm<br />&amp;pound
+    image_description: >-
+      de Honnecourt II<br />mixed media on wood<br/>61 x 51 cm<br />&amp;pound
+      1250
   - image_path: /uploads/gallery-images/peter-blegvad/harlequin-kite---justin.jpg
     image_title:
     image_description: >
       Harlequin Kite<br />acrylic and mixed media on wood<br />61 x 61cm<br
-      />&amp;pound 
+      />&amp;pound 1300
   - image_path: /uploads/gallery-images/peter-blegvad/molecules-of-storyland---justin.jpg
     image_title:
     image_description: >
@@ -132,26 +136,26 @@ images:
     image_title:
     image_description: >
       Blond Kite<br />acrylic and mixed media on wood<br />72 x 62 cm<br
-      />&amp;pound 
+      />&amp;pound 1800
   - image_path: /uploads/gallery-images/peter-blegvad/palimpsest-kite---justin.jpg
     image_title:
     image_description: >
       Palimpsest Kite<br />acrylic and mixed media on wood<br />72 x 50cm<br
-      />&amp;pound 
+      />&amp;pound 1600
   - image_path: >-
       /uploads/gallery-images/peter-blegvad/delphic-dials-300-dpi-by-pb-for-jen.jpg
     image_title:
-    image_description: Delphic Dials<br />acrylic on paper<br/>61 x 51 cm<br />&amp;pound
+    image_description: Delphic Dials<br />acrylic on paper<br/>61 x 51 cm<br />&amp;pound 1300
   - image_path: /uploads/gallery-images/peter-blegvad/orrery-kite---justin-1.jpg
     image_title:
     image_description: >
       Orrery Kite<br />acrylic and mixed media on wood<br />72 x 62 cm<br
-      />&amp;pound 
+      />&amp;pound 1800
   - image_path: /uploads/gallery-images/peter-blegvad/recipe-remedy-cure.jpg
     image_title:
     image_description: >
       Recipe, Remedy, Cure<br />acrylic and mixed media on wood<br />72 x 62
-      cm<br />&amp;pound 
+      cm<br />&amp;pound 1300
   - image_path: /uploads/gallery-images/peter-blegvad/red-balls-collage---justin.jpg
     image_title:
     image_description: >
@@ -165,29 +169,40 @@ images:
   - image_path: /uploads/gallery-images/peter-blegvad/eddie-cantor---justin.jpg
     image_title:
     image_description: |
-      Eddie Cantor<br />ink on paper<br />38 x 28cm<br />&amp;pound 
+      Eddie Cantor<br />ink on paper<br />38 x 28cm<br />&amp;pound 550
 
 
 
       4. Eddie Cantor, ink on paper, 38 X 28 cm, 2022
   - image_path: /uploads/gallery-images/peter-blegvad/hatching-jean-genet---justin.jpg
     image_title:
-    image_description: 'Hatching (Jean Genet)<br />ink on paper<br />31 x 23cm<br />&amp;pound '
+    image_description: Hatching (Jean Genet)<br />ink on paper<br />31 x 23cm<br />&amp;pound 500
   - image_path: /uploads/gallery-images/peter-blegvad/pensive-john-wieners---justin.jpg
     image_title:
-    image_description: 'Pensive (John Weiners)<br />ink on paper<br />31 x 23 cm<br />&amp;pound '
+    image_description: >-
+      Pensive (John Weiners)<br />ink on paper<br />31 x 23 cm<br />&amp;pound
+      500
   - image_path: /uploads/gallery-images/peter-blegvad/smoking-cab-calloway---justin.jpg
     image_title:
-    image_description: 'Smoking (Cab Calloway)<br />ink on paper<br />31 x 23 cm<br />&amp;pound '
+    image_description: >-
+      Smoking (Cab Calloway)<br />ink on paper<br />31 x 23 cm<br />&amp;pound
+      500
   - image_path: >-
       /uploads/gallery-images/peter-blegvad/conversation-in-the-dark---justin.jpg
     image_title:
-    image_description: 'Conversation in The Dark<br />ink on paper<br />45 x 60cm<br />&amp;pound '
+    image_description: >-
+      Conversation in The Dark<br />ink on paper<br />45 x 60cm<br />&amp;pound
+      500
   - image_path: >-
       /uploads/gallery-images/peter-blegvad/asleep-at-the-wheel-300-dpi-my-snap-for-jen.jpg
     image_title:
     image_description: |
-      Asleep at The Wheel<br />ink on paper<br />45 x 60cm<br />&amp;pound 
+      Asleep at The Wheel<br />ink on paper<br />45 x 60cm<br />&amp;pound 750
+  - image_path: /uploads/gallery-images/peter-blegvad/white-mandala-kite---justin.jpg
+    image_title:
+    image_description: >-
+      White Mandala<br />acrylic and mixed media on wood<br />61 x 51cm<br
+      />&amp;pound 1600
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
