@@ -99,7 +99,7 @@ images:
   - image_path: /uploads/gallery-images/peter-blegvad/camo-kite-d---justin.jpg
     image_title:
     image_description: >+
-      Camo Kite<br />acrylic and mixed media on wood<br />62 x 56cm<br
+      Camo Kite (D)<br />acrylic and mixed media on wood<br />62 x 56cm<br
       />&amp;pound 
 
   - image_path: /uploads/gallery-images/peter-blegvad/wing-kite-300-dpi.jpg
@@ -126,7 +126,7 @@ images:
   - image_path: /uploads/gallery-images/peter-blegvad/molecules-of-storyland---justin.jpg
     image_title:
     image_description: >
-      Molecules and Storyland<br />acrylic and mixed media on wood<br />62 x
+      Molecules of Storyland<br />acrylic and mixed media on wood<br />62 x
       56cm<br />&amp;pound 
   - image_path: /uploads/gallery-images/peter-blegvad/blonde-kite---justin.jpg
     image_title:
@@ -136,12 +136,12 @@ images:
   - image_path: /uploads/gallery-images/peter-blegvad/palimpsest-kite---justin.jpg
     image_title:
     image_description: >
-      Palimsest Kite<br />acrylic and mixed media on wood<br />72 x 50cm<br
+      Palimpsest Kite<br />acrylic and mixed media on wood<br />72 x 50cm<br
       />&amp;pound 
   - image_path: >-
       /uploads/gallery-images/peter-blegvad/delphic-dials-300-dpi-by-pb-for-jen.jpg
     image_title:
-    image_description: Dephic Dials<br />acrylic on paper<br/>61 x 51 cm<br />&amp;pound
+    image_description: Delphic Dials<br />acrylic on paper<br/>61 x 51 cm<br />&amp;pound
   - image_path: /uploads/gallery-images/peter-blegvad/orrery-kite---justin-1.jpg
     image_title:
     image_description: >
@@ -150,12 +150,12 @@ images:
   - image_path: /uploads/gallery-images/peter-blegvad/recipe-remedy-cure.jpg
     image_title:
     image_description: >
-      Recipe<br />acrylic and mixed media on wood<br />72 x 62 cm<br
-      />&amp;pound 
+      Recipe, Remedy, Cure<br />acrylic and mixed media on wood<br />72 x 62
+      cm<br />&amp;pound 
   - image_path: /uploads/gallery-images/peter-blegvad/red-balls-collage---justin.jpg
     image_title:
     image_description: >
-      Red Balls<br />acrylic and mixed media on wood<br />72 x 62 cm<br
+      Study for Orrery<br />acrylic and mixed media on wood<br />72 x 62 cm<br
       />&amp;pound 
   - image_path: /uploads/gallery-images/peter-blegvad/black-spot-kite---justin-1.jpg
     image_title:
