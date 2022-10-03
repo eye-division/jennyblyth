@@ -100,38 +100,38 @@ images:
     image_title:
     image_description: >+
       Camo Kite (D)<br />acrylic and mixed media on wood<br />62 x 56cm<br
-      />&amp;pound 1550
+      />&amp;pound 1400
 
   - image_path: /uploads/gallery-images/peter-blegvad/wing-kite-300-dpi.jpg
     image_title:
     image_description: >-
       Wing Kite<br />Acrylic, collage and mixed media on wood<br/>24 x 24cm<br
-      />&amp;pound 
+      />&amp;pound 700
   - image_path: /uploads/gallery-images/peter-blegvad/she-he-kite---justin.jpg
     image_title:
     image_description: >
       She/He Kite<br />acrylic and mixed media on wood<br />51 x 61 cm<br
-      />&amp;pound 1300
+      />&amp;pound 1200
   - image_path: /uploads/gallery-images/peter-blegvad/de-honnecourt-i-300-dpi-1.jpg
     image_title:
     image_description: >-
       de Honnecourt I<br />mixed media on wood<br/>61 x 51 cm<br />&amp;pound
-      1250
+      1200
   - image_path: /uploads/gallery-images/peter-blegvad/de-honnecourt-ii---justin.jpg
     image_title:
     image_description: >-
       de Honnecourt II<br />mixed media on wood<br/>61 x 51 cm<br />&amp;pound
-      1250
+      1200
   - image_path: /uploads/gallery-images/peter-blegvad/white-mandala-kite---justin.jpg
     image_title:
     image_description: >-
       White Mandala<br />acrylic and mixed media on wood<br />61 x 51 cm<br
-      />&amp;pound 1600
+      />&amp;pound 1500
   - image_path: /uploads/gallery-images/peter-blegvad/molecules-of-storyland---justin.jpg
     image_title:
     image_description: >
       Molecules of Storyland<br />acrylic and mixed media on wood<br />62 x
-      56cm<br />&amp;pound 
+      56cm<br />&amp;pound 1300
   - image_path: /uploads/gallery-images/peter-blegvad/orrery-kite---justin-1.jpg
     image_title:
     image_description: >
@@ -151,11 +151,11 @@ images:
     image_title:
     image_description: >
       Blond Kite<br />acrylic and mixed media on wood<br />72 x 62 cm<br
-      />&amp;pound 1800
+      />&amp;pound 1700
   - image_path: >-
       /uploads/gallery-images/peter-blegvad/delphic-dials-300-dpi-by-pb-for-jen.jpg
     image_title:
-    image_description: Delphic Dials<br />acrylic on paper<br/>61 x 51 cm<br />&amp;pound 1300
+    image_description: Delphic Dials<br />acrylic on paper<br/>61 x 51 cm<br />&amp;pound 1200
   - image_path: /uploads/gallery-images/peter-blegvad/recipe-remedy-cure.jpg
     image_title:
     image_description: >
@@ -165,12 +165,12 @@ images:
     image_title:
     image_description: >
       Study for Orrery<br />acrylic and mixed media on wood<br />72 x 62 cm<br
-      />&amp;pound 
+      />&amp;pound 800
   - image_path: /uploads/gallery-images/peter-blegvad/black-spot-kite---justin-1.jpg
     image_title:
     image_description: >
       Black Spot Kite<br />acrylic and mixed media on wood<br />72 x 50cm<br
-      />&amp;pound 
+      />&amp;pound 1200
   - image_path: /uploads/gallery-images/peter-blegvad/eddie-cantor---justin.jpg
     image_title:
     image_description: |
@@ -198,7 +198,7 @@ images:
       /uploads/gallery-images/peter-blegvad/asleep-at-the-wheel-300-dpi-my-snap-for-jen.jpg
     image_title:
     image_description: |
-      Asleep at The Wheel<br />ink on paper<br />45 x 60 cm<br />&amp;pound 750
+      Asleep at The Wheel<br />ink on paper<br />45 x 60 cm<br />&amp;pound 600
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
