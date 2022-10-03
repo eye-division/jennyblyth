@@ -355,6 +355,12 @@ images:
     image_description: >-
       Hydrangea aspera, 2012<br />Acrylic on canvas<br />8 x 8&amp;quot;<br
       />&amp;pound;295
+  - image_path: /uploads/rb-landscape-section-91-22-acr-on-canvas-61-x-61-cm.jpg
+    image_title:
+    image_description:
+  - image_path: /uploads/rb-landscape-section-92-22-mm-on-canvas-51-x-51-cm.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
