@@ -357,10 +357,14 @@ images:
       />&amp;pound;295
   - image_path: /uploads/rb-landscape-section-91-22-acr-on-canvas-61-x-61-cm.jpg
     image_title:
-    image_description:
+    image_description: >-
+      Home Sweet Home (with tree)<br />Acrylic on canvas<br />61 x 61 cm<br
+      />&amp;pound;
   - image_path: /uploads/rb-landscape-section-92-22-mm-on-canvas-51-x-51-cm.jpg
     image_title:
-    image_description:
+    image_description: >-
+      Home Sweet Home (construct)<br />Mixed media on canvas<br />51 x 51 cm<br
+      />&amp;pound;
 _options:
   image_path:
     width: 1200
