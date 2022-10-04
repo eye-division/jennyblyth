@@ -155,7 +155,9 @@ images:
   - image_path: >-
       /uploads/gallery-images/peter-blegvad/delphic-dials-300-dpi-by-pb-for-jen.jpg
     image_title:
-    image_description: Delphic Dials<br />acrylic on paper<br/>61 x 51 cm<br />&amp;pound 1200
+    image_description: >-
+      Delphic Dials<br />acrylic and mixed media on paper<br/>61 x 51 cm<br
+      />&amp;pound 1200
   - image_path: /uploads/gallery-images/peter-blegvad/recipe-remedy-cure.jpg
     image_title:
     image_description: >
