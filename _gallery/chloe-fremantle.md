@@ -300,7 +300,7 @@ images:
       /uploads/22-home-sweet-home-brown--acr--collage-on-can-151-22-20-x-25-5cm.jpg
     image_title:
     image_description: >-
-      Home Sweet Home (grey)<br />Acrylic and collage on canvas<br />20 x 25.5
+      Home Sweet Home (weave)<br />Acrylic and collage on canvas<br />20 x 25.5
       cm<br />&amp;pound; 335
   - image_path: >-
       /uploads/24-home-sweet-home-pinks--purples-acr-on-can-149-22-20-x-25-5-cm.jpg
