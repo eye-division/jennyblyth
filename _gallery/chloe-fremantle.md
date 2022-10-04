@@ -181,7 +181,7 @@ images:
     image_title:
     image_description: >-
       Memento Mori in Black & Gold<br />Acrylic on canvas<br />130 x 137 cm<br
-      />&amp;pound;6,000
+      />&amp;pound; 6,000
   - image_path: >-
       /uploads/4-memento-mori-52-acr-on-canvas-52-x-54--132-x-137cms-2017-18-1.jpg
     image_title: Memento Mori in Blue
@@ -252,8 +252,8 @@ images:
   - image_path: /uploads/40-cpg-mixed-flower-beds-93-gouache-2020-76-x-56-cm.jpg
     image_title:
     image_description: >-
-      Chelsea Physic Garden - Mixed Flower Beds<br />Gouache on collage paper<br
-      />76 x 56 cm<br />&amp;pound; 1,650
+      Chelsea Physic Garden - Mixed Flower Beds<br />Gouache and collage
+      onpaper<br />76 x 56 cm<br />&amp;pound; 1,650
   - image_path: /uploads/41-cpg-beds--artichokes-94-gouache-76-x-56-cm-2020.jpg
     image_title:
     image_description: >-
@@ -300,7 +300,7 @@ images:
       /uploads/22-home-sweet-home-brown--acr--collage-on-can-151-22-20-x-25-5cm.jpg
     image_title:
     image_description: >-
-      Home Sweet Home (grey)<br />Acrylic and collage on canvas<br />20 x 25.5
+      Home Sweet Home (weave)<br />Acrylic and collage on canvas<br />20 x 25.5
       cm<br />&amp;pound; 335
   - image_path: >-
       /uploads/24-home-sweet-home-pinks--purples-acr-on-can-149-22-20-x-25-5-cm.jpg
