@@ -87,15 +87,15 @@ display_title: true
 images:
   - image_path: /uploads/gallery-images/peter-blegvad/alp---justin.jpg
     image_title:
-    image_description: Alp<br />acrylic on paper<br/>60.5 x 45.5 cm<br />&amp;pound 1000
+    image_description: Alp<br />acrylic on paper<br/>60.5 x 45.5 cm<br />&amp;pound 900
   - image_path: /uploads/gallery-images/peter-blegvad/cataract---justin.jpg
     image_title:
-    image_description: Cataract<br />acrylic on paper<br/>60.5 x 45.5 cm<br />&amp;pound 1000
+    image_description: Cataract<br />acrylic on paper<br/>60.5 x 45.5 cm<br />&amp;pound 900
   - image_path: /uploads/gallery-images/peter-blegvad/moon--planet-2---justin.jpg
     image_title:
     image_description: >-
       Moon and Planet 2<br />acrylic on paper<br/>60.5 x 45.5 cm<br />&amp;pound
-      1000
+      900
   - image_path: /uploads/gallery-images/peter-blegvad/camo-kite-d---justin.jpg
     image_title:
     image_description: >+
