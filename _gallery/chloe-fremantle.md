@@ -258,7 +258,7 @@ images:
     image_title:
     image_description: >-
       Chelsea Physic Garden - Artichoke Beds<br />Gouache on collage paper<br
-      />76 x 56 cm<br />&amp;pound; 1,600
+      />76 x 56 cm<br />&amp;pound; 1,650
   - image_path: /uploads/30-home-sweet-home-with-stamps-mm-on-can-82-22-25-x-25-cm.jpg
     image_title:
     image_description: >-
@@ -312,17 +312,17 @@ images:
     image_title:
     image_description: >-
       Fragments, Home Sweet Home (158)<br />Mixed media on canvas<br />60 x 60
-      cm<br />&amp;pound; 550
+      cm<br />&amp;pound; 750
   - image_path: /uploads/rb-landscape-section-91-22-acr-on-canvas-61-x-61-cm.jpg
     image_title:
     image_description: >-
       Home Sweet Home (with tree)<br />Acrylic on canvas<br />61 x 61 cm<br
-      />&amp;pound; 550
+      />&amp;pound; 750
   - image_path: /uploads/rb-landscape-section-92-22-mm-on-canvas-51-x-51-cm.jpg
     image_title:
     image_description: >-
       Home Sweet Home (construct)<br />Mixed media on canvas<br />51 x 51 cm<br
-      />&amp;pound; 550
+      />&amp;pound; 600
   - image_path: /uploads/55-16birchtrees5creamsacr20-3x20-3cmschloefremantle.jpg
     image_title: >-
       Birch Copse 2016<br />Acrylic on canvas<br />90 x 120 cm<br />&amp;pound;
