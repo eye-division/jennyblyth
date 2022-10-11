@@ -341,30 +341,6 @@ images:
     image_description: >-
       Late Summer Muse, 2012<br />Acrylic on canvas<br />36 x 48 in<br
       />&amp;pound;4950 SOLD
-  - image_path: /assets/images/556e1efb8b29f.jpg
-    image_title: Spring Cherry (london)
-    image_description: Spring Cherry (london), 2014<br />Acrylic on canvas<br />42 x 45 SOLD
-  - image_path: /assets/images/5165833244613.jpg
-    image_title: Magnolia denudata
-    image_description: >-
-      Magnolia denudata, 2012<br />Acrylic on canvas<br />12 x 12&amp;quot;<br
-      />&amp;pound;495
-  - image_path: /assets/images/556e219b82a0c.jpg
-    image_title: Westfield
-    image_description: Westfield, 2014<br />acrylic on canvas<br />42 x 45 cm
-  - image_path: /assets/images/556e211d21c65.jpg
-    image_title: Goldhawk
-    image_description: Goldhawk2014<br />Acrylic on canvas<br />42 x 45 cm
-  - image_path: /assets/images/51658402e430b.jpg
-    image_title: Magnolia grandiflora
-    image_description: >-
-      Magnolia grandiflora, 2012<br />Acrylic on canvas<br />12 x
-      12&amp;quot;<br />&amp;pound;495
-  - image_path: /assets/images/5165868a72078.jpg
-    image_title: Hydrangea aspera
-    image_description: >-
-      Hydrangea aspera, 2012<br />Acrylic on canvas<br />8 x 8&amp;quot;<br
-      />&amp;pound;295
 _options:
   image_path:
     width: 1200
