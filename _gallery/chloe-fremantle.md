@@ -346,7 +346,7 @@ images:
       />&amp;pound; 365
   - image_path: >-
       /uploads/home-sweet-home-flowers--plums-84-22-mm-on-low-canvas-20-x-25-5-cm.jpg
-    image_title: Home Sweet Home Flowers & Plums 20 x 20.5
+    image_title:
     image_description: >-
       Home Sweet Home Flowers & Plums<br />Mixed media on canvas<br />20 x 25.5
       cm<br />&amp;pound; 365
