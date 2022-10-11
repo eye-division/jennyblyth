@@ -3,22 +3,19 @@ title: Chloe Fremantle
 surname: Fremantle
 currentshow: false
 description_markdown: >-
-  #### ***Forthcoming* : Chloe Fremantle & Peter Blegvad**
+  ### ***Forthcoming* : Chloe Fremantle & Peter Blegvad**
 
 
-  #### **'Light Seeking Light'&nbsp; &nbsp;: 1-12 November 2022&nbsp;**
+  ### **'Light Seeking Light'&nbsp; &nbsp;: 1-12 November 2022&nbsp;**
 
 
-  ##### **Royal Watercolour Society Galleries**
+  ### **Royal Watercolour Society Galleries**
 
 
-  ##### **3-5 Whitcomb Street London WC2H&nbsp; 7HA**
+  ### **3-5 Whitcomb Street London WC2H&nbsp; 7HA**
 
 
-  ##### **​​​​Tuesday-Saturday 10-5 pm**
-
-
-  &nbsp;
+  ### **​​​​Tuesday-Saturday 10-5 pm**
 
 
   ***‘Colour and I are one.&nbsp; I am a painter’ Paul Klee***
