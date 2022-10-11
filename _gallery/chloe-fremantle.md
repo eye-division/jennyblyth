@@ -200,12 +200,6 @@ images:
     image_description: >-
       Chelsea Physic Garden - Artichoke Beds<br />Gouache on collage paper<br
       />76 x 56 cm<br />&amp;pound; 1,650
-  - image_path: /uploads/6-evocations-no-22-gouache-22-x-30--19-20.jpg
-    image_title:
-    image_description: Evocations 22<br />Gouache on paper<br />22 x 30 cm<br />&amp;pound; 1,500
-  - image_path: /uploads/7-evocations-no-20-gouache--collage-22-x-30--2019-20.jpg
-    image_title:
-    image_description: Evocations 20<br />Gouache on paper<br />22 x 30 cm<br />&amp;pound; 1,500
   - image_path: >-
       /uploads/8--sm-contemplations-and-divisions-spring-2019-gouache-on-paper-c--65-x-45-cms.jpg
     image_title:
@@ -224,6 +218,15 @@ images:
     image_description: >-
       Contemplations 78<br />Gouache on paper<br />67.5 x 46 cm<br />&amp;pound;
       1,750
+  - image_path:
+    image_title:
+    image_description:
+  - image_path: /uploads/6-evocations-no-22-gouache-22-x-30--19-20.jpg
+    image_title:
+    image_description: Evocations 22<br />Gouache on paper<br />22 x 30 cm<br />&amp;pound; 1,500
+  - image_path: /uploads/7-evocations-no-20-gouache--collage-22-x-30--2019-20.jpg
+    image_title:
+    image_description: Evocations 20<br />Gouache on paper<br />22 x 30 cm<br />&amp;pound; 1,500
   - image_path: >-
       /uploads/16-fragments-river-flotsam-124-gouache--collage-56-x-76-cm-2021.jpg
     image_title:
