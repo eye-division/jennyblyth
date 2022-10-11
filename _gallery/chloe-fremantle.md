@@ -369,6 +369,11 @@ images:
     image_description: >-
       Home Sweet Home Still Life<br />Mixed media on canvas<br />15 x 21 cm<br
       />&amp;pound; 285
+  - image_path: /uploads/home-sweet-home-deep-greys-99-22-mm-on-canvas-20-x-25-5cm.jpg
+    image_title:
+    image_description: >-
+      Home Sweet Home  - Mapping<br />Mixed media on canvas<br />20 x 25.5 cm<br
+      />&amp;pound; 365
 _options:
   image_path:
     width: 1200
