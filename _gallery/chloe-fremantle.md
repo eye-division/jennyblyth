@@ -282,6 +282,11 @@ images:
     image_description: >-
       Home Sweet Home (construct)<br />Mixed media on canvas<br />51 x 51 cm<br
       />&amp;pound; 600
+  - image_path: /uploads/home-sweet-home-83-22-with-green-bird-mm-on-canvas-25-x-25-cm.jpg
+    image_title:
+    image_description: >-
+      Home Sweet Home Green Bird<br />Mixed media on canvas<br />20 x 25.5 cm<br
+      />&amp;pound; 385
   - image_path: /uploads/30-home-sweet-home-with-stamps-mm-on-can-82-22-25-x-25-cm.jpg
     image_title:
     image_description: >-
@@ -364,11 +369,6 @@ images:
     image_description: >-
       Home Sweet Home (on pink)<br />Mixed media on canvas<br />20 x 25.5 cm<br
       />&amp;pound; 365
-  - image_path: /uploads/home-sweet-home-83-22-with-green-bird-mm-on-canvas-25-x-25-cm.jpg
-    image_title:
-    image_description: >-
-      Home Sweet Home Green Bird<br />Mixed media on canvas<br />20 x 25.5 cm<br
-      />&amp;pound; 385
   - image_path: /uploads/home-sweet-home-pale-fawns-78-22-mm-on-low-canvas-15-x-21-cm.jpg
     image_title:
     image_description: >-
