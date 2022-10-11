@@ -259,6 +259,21 @@ images:
     image_description: >-
       Chelsea Physic Garden - Artichoke Beds<br />Gouache on collage paper<br
       />76 x 56 cm<br />&amp;pound; 1,650
+  - image_path: /uploads/20-fragments-home-sweet-home-158-2021-mm-60-cx-60-cm.jpg
+    image_title:
+    image_description: >-
+      Fragments, Home Sweet Home (158)<br />Mixed media on canvas<br />60 x 60
+      cm<br />&amp;pound; 750
+  - image_path: /uploads/rb-landscape-section-91-22-acr-on-canvas-61-x-61-cm.jpg
+    image_title:
+    image_description: >-
+      Home Sweet Home (with tree)<br />Acrylic on canvas<br />61 x 61 cm<br
+      />&amp;pound; 750
+  - image_path: /uploads/rb-landscape-section-92-22-mm-on-canvas-51-x-51-cm.jpg
+    image_title:
+    image_description: >-
+      Home Sweet Home (construct)<br />Mixed media on canvas<br />51 x 51 cm<br
+      />&amp;pound; 600
   - image_path: /uploads/30-home-sweet-home-with-stamps-mm-on-can-82-22-25-x-25-cm.jpg
     image_title:
     image_description: >-
@@ -308,39 +323,55 @@ images:
     image_description: >-
       Home Sweet Home (pinks & purples)<br />Mixed media on canvas<br />20 x 25
       cm<br />&amp;pound; 335
-  - image_path: /uploads/20-fragments-home-sweet-home-158-2021-mm-60-cx-60-cm.jpg
+  - image_path: /uploads/heavy-seas-98-22-mm-on-canvas-20-x-25-5-cm--1.jpg
     image_title:
     image_description: >-
-      Fragments, Home Sweet Home (158)<br />Mixed media on canvas<br />60 x 60
-      cm<br />&amp;pound; 750
-  - image_path: /uploads/rb-landscape-section-91-22-acr-on-canvas-61-x-61-cm.jpg
+      Home Sweet Home (deep greys)<br />Mixed media on canvas<br />20 x 25.5
+      cm<br />&amp;pound; 365
+  - image_path: /uploads/home-sweet-home-butterfly-80-22-mm-on-low-canvas-20-x-25-5-cm.jpg
     image_title:
     image_description: >-
-      Home Sweet Home (with tree)<br />Acrylic on canvas<br />61 x 61 cm<br
-      />&amp;pound; 750
-  - image_path: /uploads/rb-landscape-section-92-22-mm-on-canvas-51-x-51-cm.jpg
-    image_title:
+      Home Sweet Home Butterfly<br />Mixed media on canvas<br />20 x 25.5 cm<br
+      />&amp;pound; 365
+  - image_path: >-
+      /uploads/home-sweet-home-flowers--plums-84-22-mm-on-low-canvas-20-x-25-5-cm.jpg
+    image_title: Home Sweet Home Flowers & Plums 20 x 20.5
     image_description: >-
-      Home Sweet Home (construct)<br />Mixed media on canvas<br />51 x 51 cm<br
-      />&amp;pound; 600
-  - image_path: /uploads/55-16birchtrees5creamsacr20-3x20-3cmschloefremantle.jpg
-    image_title: >-
-      Birch Copse 2016<br />Acrylic on canvas<br />90 x 120 cm<br />&amp;pound;
-      3950
+      Home Sweet Home Flowers & Plums<br />Mixed media on canvas<br />20 x 25.5
+      cm<br />&amp;pound; 365
+  - image_path: >-
+      /uploads/home-sweet-home-on-orange-89-or-96-22----mm-on-canavs-20-x-25-5-cm.jpg
+    image_title: Home Sweet Home Orange 20 x 20.5
     image_description:
-  - image_path: /assets/images/50c21dc4477a5.jpg
-    image_title: Overview
-    image_description: Overview, 2012<br />Acrylic on canvas<br />3 x 4 feet<br />&amp;pound;4950
-  - image_path: /assets/images/50c1fc980bb90.jpg
-    image_title: Within
-    image_description: >-
-      Within, 2012<br />Acrylic on canvas<br />3 x 4 feet<br />&amp;pound;4950
-      SOLD
-  - image_path: /assets/images/50c21d145f44f.jpg
-    image_title: Late Summer Muse
-    image_description: >-
-      Late Summer Muse, 2012<br />Acrylic on canvas<br />36 x 48 in<br
-      />&amp;pound;4950 SOLD
+  - image_path: /uploads/home-sweet-home-on-pink-94-22-mm-on-canvas-51-x-51.jpg
+    image_title: Home Sweet Home on Pink 51 x 51
+    image_description:
+  - image_path: >-
+      /uploads/home-sweet-home-in-4-parts-abc-d-87-22-mm-on-canvas-25-x-25-cm-x-4.jpg
+    image_title: Home Sweet Home 25 x 25 (x4)
+    image_description:
+  - image_path: /uploads/home-sweet-home-pale-fawns-78-22-mm-on-low-canvas-15-x-21-cm.jpg
+    image_title: Home Sweet Home Pale Fawns 15 x 21
+    image_description:
+  - image_path: /uploads/home-sweet-home-still-life-77-22-mm-on-low-canvas-15-x-21-cm.jpg
+    image_title: Home Sweet Home Still Life 15 x 21
+    image_description:
+  - image_path: /uploads/home-sweet-home-on-pink-97-22-mm-on-canvas-20-x-25-5cm.jpg
+    image_title: Home Sweet Home on pink 20 x 25
+    image_description:
+  - image_path: /uploads/home-sweet-home-83-22-with-green-bird-mm-on-canvas-25-x-25-cm.jpg
+    image_title: Home Sweet Home with Green Bird 25 x 25
+    image_description:
+  - image_path: >-
+      /uploads/home-sweet-home-86-22-rust--blue-acr--mm-on-canvas-25-x-25cm-1.jpg
+    image_title: Home Sweet Home Rust with Blue 51 x 51
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
