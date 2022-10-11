@@ -184,7 +184,7 @@ images:
       />&amp;pound; 6,000
   - image_path: >-
       /uploads/4-memento-mori-52-acr-on-canvas-52-x-54--132-x-137cms-2017-18-1.jpg
-    image_title: Memento Mori in Blue
+    image_title:
     image_description: >-
       Memento Mori in Blue 2018<br />Acrylic on canvas<br />130 x 137 cm<br
       />&amp;pound;6,000
@@ -196,6 +196,16 @@ images:
   - image_path: /uploads/11-evocations-a-dec-2019-gouache-30-x-22--.jpg
     image_title:
     image_description: Evocations A<br />Gouache on paper<br />30 x 22 cm<br />&amp;pound; 1,500
+  - image_path: /uploads/40-cpg-mixed-flower-beds-93-gouache-2020-76-x-56-cm.jpg
+    image_title:
+    image_description: >-
+      Chelsea Physic Garden - Mixed Flower Beds<br />Gouache and collage
+      onpaper<br />76 x 56 cm<br />&amp;pound; 1,650
+  - image_path: /uploads/41-cpg-beds--artichokes-94-gouache-76-x-56-cm-2020.jpg
+    image_title:
+    image_description: >-
+      Chelsea Physic Garden - Artichoke Beds<br />Gouache on collage paper<br
+      />76 x 56 cm<br />&amp;pound; 1,650
   - image_path: >-
       /uploads/8--sm-contemplations-and-divisions-spring-2019-gouache-on-paper-c--65-x-45-cms.jpg
     image_title:
@@ -249,16 +259,6 @@ images:
     image_description: >-
       Fragments - Home Sweet Home (reds & greens)<br />Gouache on  paper<br />30
       x 30 cm<br />&amp;pound; 450
-  - image_path: /uploads/40-cpg-mixed-flower-beds-93-gouache-2020-76-x-56-cm.jpg
-    image_title:
-    image_description: >-
-      Chelsea Physic Garden - Mixed Flower Beds<br />Gouache and collage
-      onpaper<br />76 x 56 cm<br />&amp;pound; 1,650
-  - image_path: /uploads/41-cpg-beds--artichokes-94-gouache-76-x-56-cm-2020.jpg
-    image_title:
-    image_description: >-
-      Chelsea Physic Garden - Artichoke Beds<br />Gouache on collage paper<br
-      />76 x 56 cm<br />&amp;pound; 1,650
   - image_path: /uploads/20-fragments-home-sweet-home-158-2021-mm-60-cx-60-cm.jpg
     image_title:
     image_description: >-
@@ -346,7 +346,7 @@ images:
       />&amp;pound; 365
   - image_path: >-
       /uploads/home-sweet-home-flowers--plums-84-22-mm-on-low-canvas-20-x-25-5-cm.jpg
-    image_title: Home Sweet Home Flowers & Plums 20 x 20.5
+    image_title:
     image_description: >-
       Home Sweet Home Flowers & Plums<br />Mixed media on canvas<br />20 x 25.5
       cm<br />&amp;pound; 365
