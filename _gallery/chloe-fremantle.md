@@ -364,12 +364,6 @@ images:
     image_description: >-
       Home Sweet Home (pale fawns)<br />Mixed media on canvas<br />15 x 21 cm<br
       />&amp;pound; 285
-  - image_path: >-
-      /uploads/29-home-sweet-home-pale-fawn-house78-22-mm-on-shallow-can-15-x-21-cm.jpg
-    image_title:
-    image_description: >-
-      Home Sweet Home (fawn house)<br />Mixed media on canvas<br />15 x 21 cm<br
-      />&amp;pound; 285
   - image_path: /uploads/home-sweet-home-still-life-77-22-mm-on-low-canvas-15-x-21-cm.jpg
     image_title:
     image_description: >-
