@@ -3,22 +3,19 @@ title: Chloe Fremantle
 surname: Fremantle
 currentshow: false
 description_markdown: >-
-  #### ***Forthcoming* : Chloe Fremantle & Peter Blegvad**
+  ### ***Forthcoming* : Chloe Fremantle & Peter Blegvad**
 
 
-  #### **'Light Seeking Light'&nbsp; &nbsp;: 1-12 November 2022&nbsp;**
+  ### **'Light Seeking Light'&nbsp; &nbsp;: 1-12 November 2022&nbsp;**
 
 
-  ##### **Royal Watercolour Society Galleries**
+  ### **Royal Watercolour Society Galleries**
 
 
-  ##### **3-5 Whitcomb Street London WC2H&nbsp; 7HA**
+  ### **3-5 Whitcomb Street London WC2H&nbsp; 7HA**
 
 
-  ##### **​​​​Tuesday-Saturday 10-5 pm**
-
-
-  &nbsp;
+  ### **​​​​Tuesday-Saturday 10-5 pm**
 
 
   ***‘Colour and I are one.&nbsp; I am a painter’ Paul Klee***
@@ -26,12 +23,11 @@ description_markdown: >-
 
   Colour influences our perceptions, affecting our behaviour and our moods
   whilst our brains seek out patterns to help us assess and predict. Colour and
-  patterning have been core to our survival since humanitiy began, and Art
-  ‘manna for the soul’. From the Ancient Egyptians who used prisms to split the
-  colours from crystals for medicinal purpose and to enhance wellbeing, to Carl
-  Jung who said that ‘colours are the mother tongue of the subconscious’,
-  clearly palette colours the mind.&nbsp; For Artists, it is a path to
-  liberation.
+  patterning have been core to our survival since humanity began, and Art ‘manna
+  for the soul’. From the Ancient Egyptians who used prisms to split the colours
+  from crystals for medicinal purpose and to enhance wellbeing, to Carl Jung who
+  said that ‘colours are the mother tongue of the subconscious’, clearly palette
+  colours the mind.&nbsp; For Artists, it is a path to liberation.
 
 
   Chloe Fremantle: ***‘Evocations'&nbsp;*reflect the fleetingness of our
@@ -55,7 +51,7 @@ description_markdown: >-
   her immediate environment.&nbsp;
 
 
-  High up in the Aples Maritimes, close to a much-loved pied-a-terre on the Cote
+  High up in the Alpes Maritimes, close to a much-loved pied-a-terre on the Cote
   d’Azur, is a beautiful cemetery that pans out over the Mediterranean
   below.&nbsp; Chloe’s ***Memento Mori in Black and Gold*** explores the curve
   and line of stonework and trellis, interspersed with the adornments particular
