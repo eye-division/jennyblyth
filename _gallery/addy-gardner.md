@@ -1,7 +1,7 @@
 ---
 title: Addy Gardner
 surname: Gardner
-currentshow: false
+currentshow: true
 description_markdown: >-
   **ADDY GARDNER showing at CAREY BLYTH&nbsp;**
 

@@ -1,7 +1,7 @@
 ---
 title: Martin Smith
 surname: Smith
-currentshow: false
+currentshow: true
 description_markdown: >-
   **Currently showing at CAREY BLYTH 8 Woodstock Road OX2 6HT**
 
@@ -13,9 +13,9 @@ description_markdown: >-
   &nbsp;<br>***Leda and the Swa***n embodies Greek Mythology which is at the
   heart of much of Smith's sculptural narrative.&nbsp; Zeus, besotted by Leda,
   transformed himself into a swan to seduce her.&nbsp; Zeus fathered two
-  children with Leda - to include Helen of Troy. ***Autothonces ***embodies the
-  origins of man in ancient greek mythology where 'adam and eve' are borne of
-  the earth and rise out of the earth.... In both these sculptures, Smith's
+  children with Leda - to include Helen of Troy. *\*\*Autothonces \*\**embodies
+  the origins of man in ancient greek mythology where 'adam and eve' are borne
+  of the earth and rise out of the earth…. In both these sculptures, Smith's
   figures are entwined, carved from alabaster and are as one.
 
 
@@ -187,4 +187,3 @@ _comments:
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
 ---
-

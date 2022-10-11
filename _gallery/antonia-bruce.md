@@ -1,7 +1,7 @@
 ---
 title: Antonia Bruce
 surname: Bruce
-currentshow: false
+currentshow: true
 description_markdown: >-
   Currently showing ***Maize Dining Table*** in oak, with felt underside,
   overlaid with cyanotypes of Maize created in the fields of Oaxaca…. 180 x 75
