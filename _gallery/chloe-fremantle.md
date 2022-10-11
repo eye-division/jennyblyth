@@ -288,26 +288,21 @@ images:
     image_description: >-
       Home Sweet Home with Stamps<br />Mixed media on canvas<br />25 x 25 cm<br
       />&amp;pound; 385
-  - image_path: /uploads/26-home-sweet-home-blues-acr--mm-on-can-153-22-20-x-25-5-cm.jpg
-    image_title:
-    image_description: >-
-      Home Sweet Home (blues)<br />Mixed media on canvas<br />20 x 25 cm<br
-      />&amp;pound; 365
   - image_path: >-
       /uploads/27-home-sweet-home-pale-rust--red-wallpaper-81-22-mm-on-can-20-x-25-cm.jpg
     image_title:
     image_description: >-
       Home Sweet Home  (pale rust with red wall paper)<br />Mixed media on
       canvas<br />20 x 25 cm<br />&amp;pound; 365
-  - image_path: /uploads/25-home-sweet-home-black--pink-mm-on-can-152-22-20-x-25-5cm.jpg
-    image_title:
-    image_description: >-
-      Home Sweet Home (black & pink)<br />Mixed media on canvas<br />20 x 25
-      cm<br />&amp;pound; 365
   - image_path: /uploads/28-home-sweet-home-yellow--black-79-22-mm-on-can-20-x-25-cm.jpg
     image_title:
     image_description: >-
       Home Sweet Home (yellow & black)<br />Mixed media on canvas<br />20 x 25
+      cm<br />&amp;pound; 365
+  - image_path: /uploads/25-home-sweet-home-black--pink-mm-on-can-152-22-20-x-25-5cm.jpg
+    image_title:
+    image_description: >-
+      Home Sweet Home (black & pink)<br />Mixed media on canvas<br />20 x 25
       cm<br />&amp;pound; 365
   - image_path: >-
       /uploads/home-sweet-home-86-22-rust--blue-acr--mm-on-canvas-25-x-25cm-1.jpg
@@ -319,6 +314,11 @@ images:
     image_title:
     image_description: >-
       Home Sweet Home Butterfly<br />Mixed media on canvas<br />20 x 25.5 cm<br
+      />&amp;pound; 365
+  - image_path: /uploads/home-sweet-home-deep-greys-99-22-mm-on-canvas-20-x-25-5cm.jpg
+    image_title:
+    image_description: >-
+      Home Sweet Home  - Mapping<br />Mixed media on canvas<br />20 x 25.5 cm<br
       />&amp;pound; 365
   - image_path: >-
       /uploads/home-sweet-home-on-orange-89-or-96-22----mm-on-canavs-20-x-25-5-cm.jpg
@@ -369,11 +369,6 @@ images:
     image_description: >-
       Home Sweet Home Still Life<br />Mixed media on canvas<br />15 x 21 cm<br
       />&amp;pound; 285
-  - image_path: /uploads/home-sweet-home-deep-greys-99-22-mm-on-canvas-20-x-25-5cm.jpg
-    image_title:
-    image_description: >-
-      Home Sweet Home  - Mapping<br />Mixed media on canvas<br />20 x 25.5 cm<br
-      />&amp;pound; 365
 _options:
   image_path:
     width: 1200
