@@ -184,7 +184,7 @@ images:
       />&amp;pound; 6,000
   - image_path: >-
       /uploads/4-memento-mori-52-acr-on-canvas-52-x-54--132-x-137cms-2017-18-1.jpg
-    image_title: Memento Mori in Blue
+    image_title:
     image_description: >-
       Memento Mori in Blue 2018<br />Acrylic on canvas<br />130 x 137 cm<br
       />&amp;pound;6,000
