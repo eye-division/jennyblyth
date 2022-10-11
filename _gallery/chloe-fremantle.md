@@ -196,6 +196,16 @@ images:
   - image_path: /uploads/11-evocations-a-dec-2019-gouache-30-x-22--.jpg
     image_title:
     image_description: Evocations A<br />Gouache on paper<br />30 x 22 cm<br />&amp;pound; 1,500
+  - image_path: /uploads/40-cpg-mixed-flower-beds-93-gouache-2020-76-x-56-cm.jpg
+    image_title:
+    image_description: >-
+      Chelsea Physic Garden - Mixed Flower Beds<br />Gouache and collage
+      onpaper<br />76 x 56 cm<br />&amp;pound; 1,650
+  - image_path: /uploads/41-cpg-beds--artichokes-94-gouache-76-x-56-cm-2020.jpg
+    image_title:
+    image_description: >-
+      Chelsea Physic Garden - Artichoke Beds<br />Gouache on collage paper<br
+      />76 x 56 cm<br />&amp;pound; 1,650
   - image_path: >-
       /uploads/8--sm-contemplations-and-divisions-spring-2019-gouache-on-paper-c--65-x-45-cms.jpg
     image_title:
@@ -249,16 +259,6 @@ images:
     image_description: >-
       Fragments - Home Sweet Home (reds & greens)<br />Gouache on  paper<br />30
       x 30 cm<br />&amp;pound; 450
-  - image_path: /uploads/40-cpg-mixed-flower-beds-93-gouache-2020-76-x-56-cm.jpg
-    image_title:
-    image_description: >-
-      Chelsea Physic Garden - Mixed Flower Beds<br />Gouache and collage
-      onpaper<br />76 x 56 cm<br />&amp;pound; 1,650
-  - image_path: /uploads/41-cpg-beds--artichokes-94-gouache-76-x-56-cm-2020.jpg
-    image_title:
-    image_description: >-
-      Chelsea Physic Garden - Artichoke Beds<br />Gouache on collage paper<br
-      />76 x 56 cm<br />&amp;pound; 1,650
   - image_path: /uploads/20-fragments-home-sweet-home-158-2021-mm-60-cx-60-cm.jpg
     image_title:
     image_description: >-
