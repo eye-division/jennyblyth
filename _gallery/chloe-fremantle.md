@@ -276,7 +276,7 @@ images:
     image_title:
     image_description: >-
       Home Sweet Home (on Pink)<br />Mixed media on canvas<br />51 x 51 cm<br
-      />&amp;pound; 365
+      />&amp;pound; 650
   - image_path: /uploads/rb-landscape-section-92-22-mm-on-canvas-51-x-51-cm.jpg
     image_title:
     image_description: >-
