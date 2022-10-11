@@ -165,29 +165,23 @@ images:
     image_description: >-
       Evocations 23<br />Acrylic on canvas<br />152 x 183 cm<br />&amp;pound;
       6,500
-  - image_path: /uploads/6-evocations-no-22-gouache-22-x-30--19-20.jpg
-    image_title:
-    image_description: Evocations 22<br />Gouache on paper<br />22 x 30 cm<br />&amp;pound; 1,500
   - image_path: /uploads/2-evocations-no-25-acr-on-canvas-122-x-132-cms-2019.jpg
     image_title:
     image_description: >-
       Evocations 25<br />Acrylic on canvas<br />122 x 132 cm<br />&amp;pound;
       5,000
-  - image_path: /uploads/7-evocations-no-20-gouache--collage-22-x-30--2019-20.jpg
-    image_title:
-    image_description: Evocations 20<br />Gouache on paper<br />22 x 30 cm<br />&amp;pound; 1,500
-  - image_path: >-
-      /uploads/3-memento-mori-53-52-x-54---132-x-137-cms-2017-18-acr-on-canvas-1.jpg
-    image_title:
-    image_description: >-
-      Memento Mori in Black & Gold<br />Acrylic on canvas<br />130 x 137 cm<br
-      />&amp;pound; 6,000
   - image_path: >-
       /uploads/4-memento-mori-52-acr-on-canvas-52-x-54--132-x-137cms-2017-18-1.jpg
     image_title:
     image_description: >-
       Memento Mori in Blue 2018<br />Acrylic on canvas<br />130 x 137 cm<br
       />&amp;pound;6,000
+  - image_path: >-
+      /uploads/3-memento-mori-53-52-x-54---132-x-137-cms-2017-18-acr-on-canvas-1.jpg
+    image_title:
+    image_description: >-
+      Memento Mori in Black & Gold<br />Acrylic on canvas<br />130 x 137 cm<br
+      />&amp;pound; 6,000
   - image_path: /uploads/5-evocations-no-26-acr-188-x-142-cm-2019-1.jpg
     image_title:
     image_description: >-
@@ -206,6 +200,12 @@ images:
     image_description: >-
       Chelsea Physic Garden - Artichoke Beds<br />Gouache on collage paper<br
       />76 x 56 cm<br />&amp;pound; 1,650
+  - image_path: /uploads/6-evocations-no-22-gouache-22-x-30--19-20.jpg
+    image_title:
+    image_description: Evocations 22<br />Gouache on paper<br />22 x 30 cm<br />&amp;pound; 1,500
+  - image_path: /uploads/7-evocations-no-20-gouache--collage-22-x-30--2019-20.jpg
+    image_title:
+    image_description: Evocations 20<br />Gouache on paper<br />22 x 30 cm<br />&amp;pound; 1,500
   - image_path: >-
       /uploads/8--sm-contemplations-and-divisions-spring-2019-gouache-on-paper-c--65-x-45-cms.jpg
     image_title:
