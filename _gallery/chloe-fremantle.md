@@ -329,8 +329,8 @@ images:
       /uploads/home-sweet-home-86-22-rust--blue-acr--mm-on-canvas-25-x-25cm-1.jpg
     image_title:
     image_description: >-
-      Home Sweet Home (rust and blue)<br />Mixed media on canvas<br />51 x
-      51cm<br />&amp;pound; 625
+      Home Sweet Home (rust and blue)<br />Mixed media on canvas<br />25 x 25
+      cm<br />&amp;pound; 385
   - image_path: >-
       /uploads/24-home-sweet-home-pinks--purples-acr-on-can-149-22-20-x-25-5-cm.jpg
     image_title:
