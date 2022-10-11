@@ -319,6 +319,23 @@ images:
     image_description: >-
       Home Sweet Home (yellow & black)<br />Mixed media on canvas<br />20 x 25
       cm<br />&amp;pound; 365
+  - image_path: >-
+      /uploads/home-sweet-home-86-22-rust--blue-acr--mm-on-canvas-25-x-25cm-1.jpg
+    image_title:
+    image_description: >-
+      Home Sweet Home (rust and blue)<br />Mixed media on canvas<br />25 x 25
+      cm<br />&amp;pound; 385
+  - image_path: /uploads/home-sweet-home-butterfly-80-22-mm-on-low-canvas-20-x-25-5-cm.jpg
+    image_title:
+    image_description: >-
+      Home Sweet Home Butterfly<br />Mixed media on canvas<br />20 x 25.5 cm<br
+      />&amp;pound; 365
+  - image_path: >-
+      /uploads/home-sweet-home-on-orange-89-or-96-22----mm-on-canavs-20-x-25-5-cm.jpg
+    image_title:
+    image_description: >-
+      Home Sweet Home (orange)<br />Mixed media on canvas<br />20 x 25.5 cm<br
+      />&amp;pound; 365
   - image_path: /uploads/21-home-sweet-home-grey-150-22-acr--mm-on-can-20-x-25-5.jpg
     image_title:
     image_description: >-
@@ -331,12 +348,6 @@ images:
       Home Sweet Home (weave)<br />Acrylic and collage on canvas<br />20 x 25.5
       cm<br />&amp;pound; 335
   - image_path: >-
-      /uploads/home-sweet-home-86-22-rust--blue-acr--mm-on-canvas-25-x-25cm-1.jpg
-    image_title:
-    image_description: >-
-      Home Sweet Home (rust and blue)<br />Mixed media on canvas<br />25 x 25
-      cm<br />&amp;pound; 385
-  - image_path: >-
       /uploads/24-home-sweet-home-pinks--purples-acr-on-can-149-22-20-x-25-5-cm.jpg
     image_title:
     image_description: >-
@@ -347,23 +358,12 @@ images:
     image_description: >-
       Home Sweet Home (deep greys)<br />Mixed media on canvas<br />20 x 25.5
       cm<br />&amp;pound; 365
-  - image_path: /uploads/home-sweet-home-butterfly-80-22-mm-on-low-canvas-20-x-25-5-cm.jpg
-    image_title:
-    image_description: >-
-      Home Sweet Home Butterfly<br />Mixed media on canvas<br />20 x 25.5 cm<br
-      />&amp;pound; 365
   - image_path: >-
       /uploads/home-sweet-home-flowers--plums-84-22-mm-on-low-canvas-20-x-25-5-cm.jpg
     image_title:
     image_description: >-
       Home Sweet Home Flowers & Plums<br />Mixed media on canvas<br />20 x 25.5
       cm<br />&amp;pound; 365
-  - image_path: >-
-      /uploads/home-sweet-home-on-orange-89-or-96-22----mm-on-canavs-20-x-25-5-cm.jpg
-    image_title:
-    image_description: >-
-      Home Sweet Home (orange)<br />Mixed media on canvas<br />20 x 25.5 cm<br
-      />&amp;pound; 365
   - image_path: /uploads/home-sweet-home-on-pink-97-22-mm-on-canvas-20-x-25-5cm.jpg
     image_title:
     image_description: >-
