@@ -3,13 +3,10 @@ title: Peter Blegvad
 surname: Blegvad
 currentshow:
 description_markdown: >-
-  ### &nbsp;
+  ### ***Forthcoming*****&nbsp;: Peter Blegvad & Chloe Fremantle**
 
 
-  ### ***Forthcoming* : Peter Blegvad & Chloe Fremantle**
-
-
-  ### **'Light Seeking Light'&nbsp; &nbsp;: 1-12 November 2022&nbsp;**
+  ### **‘Light Seeking Light’&nbsp; &nbsp;: 1-12 November 2022&nbsp;**
 
 
   ### **Royal Watercolour Society Galleries**
