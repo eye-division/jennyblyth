@@ -70,7 +70,7 @@ description_markdown: >-
   are complemented by the micro of biology and cellular structure, to the macro
   of curves and contouring in the landscape.&nbsp; All of this is academic
   because she has over years created her own alphabet and language that has a
-  life of its own.&nbsp; It is instantly recognizable and distinctly Fremantle
+  life of its own.&nbsp; It is instantly recognisable and distinctly Fremantle
   in both palette and form.&nbsp; Memories and emotions through association
   pervade her compositions so that the initial delight that one enjoys on first
   inspection is challenged as we explore the complexities of her compositions.
