@@ -22,55 +22,57 @@ description_markdown: >-
 
 
   Peter Blegvad’s art is conceptual, nebulous, playful and quirky.&nbsp; It is
-  challenging with much for the viewer to explore, and contemplave in the
-  unravelling. There is an existenal element to his pracce that he has developed
-  parallel to his media career since the ‘70s recorded in ***Imagine, Observe,
-  Remember*** *(Uniformbooks 2020)* in which he examines askance the process of
-  making art whilst reflecng to what extent art is based on the images retained
-  in our mind’s eye.&nbsp;&nbsp;
+  challenging with much for the viewer to explore, and contemplative in the
+  unravelling. There is an existential element to his practice that he has
+  developed parallel to his media career since the ‘70s recorded in ***Imagine,
+  Observe, Remember*** *(Uniformbooks 2020)* in which he examines askance the
+  process of making art whilst reflecting to what extent art is based on the
+  images retained in our mind’s eye.&nbsp;&nbsp;
 
 
   ‘***Blegvad’s kites are a new language for paintings-as-things (without being
   sculptures) or ‘constructions'.&nbsp; Just beautiful’*** **— Will Eaves**
 
 
-  Preoccupaons and narrave are woven into Blegvad’s **‘Flightless Kites’** like
-  dreams. Whether figurave or abstracted, they are suspended in a state of
-  ‘meditave’ stasis.This series of 3D ‘construct painngs’ feature kites with
-  wood infrastructure, rigged with string and overlaid with a film of ssue
-  papiermȃché that lends a milky dreamlike sensibility. *Villard de*
-  *Honnecourt,* a 13th Century French inerant arst, whose ‘sketchbook’ of
+  Preoccupations and narrative are woven into Blegvad’s **‘Flightless Kites’**
+  like dreams. Whether figurative or abstracted, they are suspended in a state
+  of ‘meditative’ stasis.This series of 3D ‘construct paintings’ feature kites
+  with wood infrastructure, rigged with string and overlaid with a film of
+  tissue papier-mȃché that lends a milky, dreamlike sensibility. *Villard de*
+  *Honnecourt,* a 13th Century French itinerant artist, whose ‘sketchbook’ of
   annotated drawings revealed him to be both architect and engineer, is the
   subject of Blegvad’s ‘***De Honnecourt I & II’***. Depicted in medieval
   portraiture style but for the eyes, his gaze is fearful, all seeing above the
-  city skyline.&nbsp; Archaic on first inspecon, the dis-ease reflects
+  city skyline.&nbsp; Archaic on first inspection, the dis-ease reflects
   contemporary concerns.
 
 
-  ***‘Delphic Dials’*** refers to the ambivalent predicons of Pythia.&nbsp;
-  Presenng as the dashboard of a cargo cult plane, the arst challenges the
+  ***‘Delphic Dials’*** refers to the ambivalent predictions of Pythia.&nbsp;
+  Presenting as the dashboard of a cargo cult plane, the artist challenges the
   parameters of what can be measured, predicted or controlled with a playfully
-  complex ‘*Blue Peter’* construcon. Obscured gardening neng forms the
-  groundwork for a tableau of ssue paper discs as funconal as communion wafers
-  with satellite decal numerals that complete the ficon. All is carefully locked
-  into place with varnish and glue. The arst has created a secret world,
-  intricate and intensely worked like a hive of pollen, wax and honey.
+  complex ‘*Blue Peter’* construction. Obscured gardening netting forms the
+  groundwork for a tableau of tissue paper discs as functional as communion
+  wafers with satellite decal numerals that complete the fiction. All is
+  carefully locked into place with varnish and glue. The artist has created a
+  secret world, intricate and intensely worked like a hive of pollen, wax and
+  honey.
 
 
-  To complement his ***Flightless Kites***, Peter Blegvad is showing a porolio
-  of drawings and painngs. Black and White Portraits in ink on paper of actors,
-  musicians and arsts from 1920s, 30s and 40s draw on classic ‘film noir’ with
-  beauful landscape painngs in acrylic on paper - a nod to Hokusai - delineated
-  in simple lines and quiet palee that are decepvely calming.&nbsp; ***Cataract
-  \*\**featuresa fast-flowing waterfall constrained by dark terrain that has the
-  zen of symmetry, and \*\**Alp*** portrays a snow-capped mountain peak that
-  beckons above a sheer and harsh ascent.
+  To complement his ***Flightless Kites***, Peter Blegvad is showing a portfolio
+  of drawings and paintings. Black and White Portraits in ink on paper of
+  actors, musicians and artists from 1920s, 30s and 40s draw on classic ‘film
+  noir’ with beautiful landscape paintings in acrylic on paper - a nod to
+  Hokusai - delineated in simple lines and quiet palette that are deceptively
+  calming.&nbsp; ***Cataract ***features a fast-flowing waterfall constrained by
+  dark terrain that has the zen of symmetry, and ***Alp*** portrays a
+  snow-capped mountain peak that beckons above a sheer and harsh ascent.
 
 
   As teacher and broadcaster of many years, illustrator, musician, songwriter,
   and author, it follows that Peter Blegvad creates a kaleidoscope of Art that
-  reflects a lifeme of extraordinary creavity.&nbsp; Inving us to share his
-  journey, his work is imbued with humour and intellect in equal measure.&nbsp;
+  reflects a lifetime of extraordinary creativity.&nbsp; Inviting us to share
+  his journey, his work is imbued with humour and intellect in equal
+  measure.&nbsp;
 
 
   Jenny Blyth, Curator &copy; 2022&nbsp;
