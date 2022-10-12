@@ -3,22 +3,19 @@ title: Peter Blegvad
 surname: Blegvad
 currentshow:
 description_markdown: >-
-  #### ***Forthcoming* : Peter Blegvad & Chloe Fremantle**
+  ### ***Forthcoming* : Peter Blegvad & Chloe Fremantle**
 
 
-  #### **'Light Seeking Light'&nbsp; &nbsp;: 1-12 November 2022&nbsp;**
+  ### **'Light Seeking Light'&nbsp; &nbsp;: 1-12 November 2022&nbsp;**
 
 
-  ##### **Royal Watercolour Society Galleries**
+  ### **Royal Watercolour Society Galleries**
 
 
-  ##### **3-5 Whitcomb Street London WC2H&nbsp; 7HA**
+  ### **3-5 Whitcomb Street London WC2H&nbsp; 7HA**
 
 
-  ##### **​​​​Tuesday-Saturday 10-5 pm**
-
-
-  &nbsp;
+  ### **​​​​Tuesday-Saturday 10-5 pm**
 
 
   ***‘ Feet, what do I need you for when I have wings to fly?* ’ Frida Kahlo**
