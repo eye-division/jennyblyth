@@ -63,8 +63,8 @@ description_markdown: >-
   actors, musicians and artists from 1920s, 30s and 40s draw on classic ‘film
   noir’ with beautiful landscape paintings in acrylic on paper - a nod to
   Hokusai - delineated in simple lines and quiet palette that are deceptively
-  calming.&nbsp; ***Cataract ***features a fast-flowing waterfall constrained by
-  dark terrain that has the zen of symmetry, and ***Alp*** portrays a
+  calming.&nbsp; ***Cataract \*\**features a fast-flowing waterfall constrained
+  by dark terrain that has the zen of symmetry, and \*\**Alp*** portrays a
   snow-capped mountain peak that beckons above a sheer and harsh ascent.
 
 
@@ -84,6 +84,11 @@ archive: false
 main_image_path: /uploads/wing-kite-300-dpi-1.jpg
 display_title: true
 images:
+  - image_path: /uploads/gallery-images/peter-blegvad/a-bigger-spill.jpg
+    image_title:
+    image_description: >-
+      A Bigger Spill<br />acrylic on panel<br />64 x 94 x 6 cm<br />&amp;pound
+      3995
   - image_path: /uploads/gallery-images/peter-blegvad/alp---justin.jpg
     image_title:
     image_description: Alp<br />acrylic on paper<br/>60.5 x 45.5 cm<br />&amp;pound 900
