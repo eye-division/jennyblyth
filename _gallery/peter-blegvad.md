@@ -84,6 +84,11 @@ archive: false
 main_image_path: /uploads/wing-kite-300-dpi-1.jpg
 display_title: true
 images:
+  - image_path: /uploads/gallery-images/peter-blegvad/a-bigger-spill.jpg
+    image_title:
+    image_description: >-
+      A Bigger Spill<br />acrylic on panel<br />64 x 94 x 6 cm<br />&amp;pound
+      3995
   - image_path: /uploads/gallery-images/peter-blegvad/alp---justin.jpg
     image_title:
     image_description: Alp<br />acrylic on paper<br/>60.5 x 45.5 cm<br />&amp;pound 900
@@ -200,11 +205,6 @@ images:
     image_title:
     image_description: |
       Asleep at The Wheel<br />ink on paper<br />45 x 60 cm<br />&amp;pound 600
-  - image_path: /uploads/gallery-images/peter-blegvad/a-bigger-spill.jpg
-    image_title:
-    image_description: >-
-      A Bigger Spill<br />acrylic on panel<br />64 x 94 x 6 cm<br />&amp;pound
-      3995
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
