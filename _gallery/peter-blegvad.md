@@ -210,6 +210,11 @@ images:
     image_description: >-
       Mini Mappae Mundi<br />acrylic and mixed media on wood<br />36.5 x 29
       cm<br />&amp;pound 700
+  - image_path:
+    image_title:
+    image_description: >-
+      Camo Kite (colour study)<br />acrylic on paper<br />60 x 40 cm<br
+      />&amp;pound 700
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
