@@ -195,7 +195,7 @@ images:
     image_title:
     image_description: >-
       Chelsea Physic Garden - Artichoke Beds<br />Gouache on collage paper<br
-      />76 x 56 cm<br />&amp;pound; 1,650
+      />76 x 56 cm<br />&amp;pound; 1,600
   - image_path: >-
       /uploads/8--sm-contemplations-and-divisions-spring-2019-gouache-on-paper-c--65-x-45-cms.jpg
     image_title:
