@@ -214,9 +214,6 @@ images:
     image_description: >-
       Contemplations 78<br />Gouache on paper<br />67.5 x 46 cm<br />&amp;pound;
       1,750
-  - image_path:
-    image_title:
-    image_description:
   - image_path: /uploads/6-evocations-no-22-gouache-22-x-30--19-20.jpg
     image_title:
     image_description: Evocations 22<br />Gouache on paper<br />22 x 30 cm<br />&amp;pound; 1,500
@@ -244,7 +241,7 @@ images:
   - image_path: /uploads/17-fragments-tree-semicircle-on-red-4022-mm-56-x-76-cm.jpg
     image_title:
     image_description: >-
-      Fragments - Tree Semicircle <br />Gouache on paper<br />56 x 76 cm<br
+      Fragments, Home Sweet Home <br />Gouache on paper<br />56 x 76 cm<br
       />&amp;pound; 1,600
   - image_path: >-
       /uploads/19-fragments-home-sweet-home-reds--purples--on-6-panels-146-22-framed-38-5-x-39-5-work-30-x-30-cm-each-15-x-9-5-cm.jpg
