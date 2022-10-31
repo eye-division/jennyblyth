@@ -336,7 +336,7 @@ images:
     image_title:
     image_description: >-
       Home Sweet Home (weave)<br />Acrylic and collage on canvas<br />20 x 25.5
-      cm<br />&amp;pound; 335
+      cm<br />&amp;pound; 365
   - image_path: >-
       /uploads/24-home-sweet-home-pinks--purples-acr-on-can-149-22-20-x-25-5-cm.jpg
     image_title:
