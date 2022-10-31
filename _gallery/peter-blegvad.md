@@ -130,7 +130,7 @@ images:
     image_title:
     image_description: >-
       White Mandala<br />acrylic and mixed media on wood<br />61 x 51 cm<br
-      />&amp;pound 1500
+      />&amp;pound 1400
   - image_path: /uploads/gallery-images/peter-blegvad/molecules-of-storyland---justin.jpg
     image_title:
     image_description: >
@@ -171,7 +171,7 @@ images:
     image_title:
     image_description: >
       Study for Orrery<br />acrylic and mixed media on wood<br />72 x 62 cm<br
-      />&amp;pound 800
+      />&amp;pound 700
   - image_path: /uploads/gallery-images/peter-blegvad/black-spot-kite---justin-1.jpg
     image_title:
     image_description: >
@@ -205,6 +205,9 @@ images:
     image_title:
     image_description: |
       Asleep at The Wheel<br />ink on paper<br />45 x 60 cm<br />&amp;pound 600
+  - image_path:
+    image_title:
+    image_description:
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
