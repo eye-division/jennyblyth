@@ -215,6 +215,11 @@ images:
     image_description: >-
       Camo Kite (colour study)<br />acrylic on paper<br />60 x 40 cm<br
       />&amp;pound 700
+  - image_path:
+    image_title:
+    image_description: >-
+      Small Bouquet<br />acrylic on canvas board<br /> 30 x 25.5cm<br
+      />&amp;pound 700
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
