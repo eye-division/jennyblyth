@@ -342,7 +342,7 @@ images:
     image_title:
     image_description: >-
       Home Sweet Home (pinks & purples)<br />Mixed media on canvas<br />20 x 25
-      cm<br />&amp;pound; 335
+      cm<br />&amp;pound; 365
   - image_path: /uploads/heavy-seas-98-22-mm-on-canvas-20-x-25-5-cm--1.jpg
     image_title:
     image_description: >-
