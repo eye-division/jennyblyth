@@ -207,7 +207,9 @@ images:
       Asleep at The Wheel<br />ink on paper<br />45 x 60 cm<br />&amp;pound 600
   - image_path:
     image_title:
-    image_description:
+    image_description: >-
+      Mini Mappae Mundi<br />acrylic and mixed media on wood<br />36.5 x 29
+      cm<br />&amp;pound 700
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
