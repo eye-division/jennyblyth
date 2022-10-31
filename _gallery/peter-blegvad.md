@@ -180,7 +180,7 @@ images:
   - image_path: /uploads/gallery-images/peter-blegvad/eddie-cantor---justin.jpg
     image_title:
     image_description: |
-      Eddie Cantor<br />ink on paper<br />38 x 28 cm<br />&amp;pound 500
+      Eddie Cantor<br />ink on paper<br />38 x 28 cm<br />&amp;pound 550
   - image_path: /uploads/gallery-images/peter-blegvad/hatching-jean-genet---justin.jpg
     image_title:
     image_description: Hatching (Jean Genet)<br />ink on paper<br />31 x 23cm<br />&amp;pound 500
@@ -199,7 +199,7 @@ images:
     image_title:
     image_description: >-
       Conversation in The Dark<br />ink on paper<br />45 x 60 cm<br />&amp;pound
-      500
+      550
   - image_path: >-
       /uploads/gallery-images/peter-blegvad/asleep-at-the-wheel-300-dpi-my-snap-for-jen.jpg
     image_title:
