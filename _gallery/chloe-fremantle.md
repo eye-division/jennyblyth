@@ -190,12 +190,12 @@ images:
     image_title:
     image_description: >-
       Chelsea Physic Garden - Mixed Flower Beds<br />Gouache and collage
-      onpaper<br />76 x 56 cm<br />&amp;pound; 1,650
+      onpaper<br />76 x 56 cm<br />&amp;pound; 1,600
   - image_path: /uploads/41-cpg-beds--artichokes-94-gouache-76-x-56-cm-2020.jpg
     image_title:
     image_description: >-
       Chelsea Physic Garden - Artichoke Beds<br />Gouache on collage paper<br
-      />76 x 56 cm<br />&amp;pound; 1,650
+      />76 x 56 cm<br />&amp;pound; 1,600
   - image_path: >-
       /uploads/8--sm-contemplations-and-divisions-spring-2019-gouache-on-paper-c--65-x-45-cms.jpg
     image_title:
@@ -214,9 +214,6 @@ images:
     image_description: >-
       Contemplations 78<br />Gouache on paper<br />67.5 x 46 cm<br />&amp;pound;
       1,750
-  - image_path:
-    image_title:
-    image_description:
   - image_path: /uploads/6-evocations-no-22-gouache-22-x-30--19-20.jpg
     image_title:
     image_description: Evocations 22<br />Gouache on paper<br />22 x 30 cm<br />&amp;pound; 1,500
@@ -244,7 +241,7 @@ images:
   - image_path: /uploads/17-fragments-tree-semicircle-on-red-4022-mm-56-x-76-cm.jpg
     image_title:
     image_description: >-
-      Fragments - Tree Semicircle <br />Gouache on paper<br />56 x 76 cm<br
+      Fragments, Home Sweet Home <br />Gouache on paper<br />56 x 76 cm<br
       />&amp;pound; 1,600
   - image_path: >-
       /uploads/19-fragments-home-sweet-home-reds--purples--on-6-panels-146-22-framed-38-5-x-39-5-work-30-x-30-cm-each-15-x-9-5-cm.jpg
@@ -262,22 +259,22 @@ images:
     image_title:
     image_description: >-
       Fragments, Home Sweet Home (158)<br />Mixed media on canvas<br />60 x 60
-      cm<br />&amp;pound; 750
+      cm<br />&amp;pound; 1250
   - image_path: /uploads/rb-landscape-section-91-22-acr-on-canvas-61-x-61-cm.jpg
     image_title:
     image_description: >-
       Home Sweet Home (with tree)<br />Acrylic on canvas<br />61 x 61 cm<br
-      />&amp;pound; 750
+      />&amp;pound; 1250
   - image_path: /uploads/home-sweet-home-on-pink-94-22-mm-on-canvas-51-x-51.jpg
     image_title:
     image_description: >-
       Home Sweet Home (on Pink)<br />Mixed media on canvas<br />51 x 51 cm<br
-      />&amp;pound; 650
+      />&amp;pound; 950
   - image_path: /uploads/rb-landscape-section-92-22-mm-on-canvas-51-x-51-cm.jpg
     image_title:
     image_description: >-
       Home Sweet Home (construct)<br />Mixed media on canvas<br />51 x 51 cm<br
-      />&amp;pound; 600
+      />&amp;pound; 950
   - image_path: /uploads/home-sweet-home-83-22-with-green-bird-mm-on-canvas-25-x-25-cm.jpg
     image_title:
     image_description: >-
@@ -336,13 +333,13 @@ images:
     image_title:
     image_description: >-
       Home Sweet Home (weave)<br />Acrylic and collage on canvas<br />20 x 25.5
-      cm<br />&amp;pound; 335
+      cm<br />&amp;pound; 365
   - image_path: >-
       /uploads/24-home-sweet-home-pinks--purples-acr-on-can-149-22-20-x-25-5-cm.jpg
     image_title:
     image_description: >-
       Home Sweet Home (pinks & purples)<br />Mixed media on canvas<br />20 x 25
-      cm<br />&amp;pound; 335
+      cm<br />&amp;pound; 365
   - image_path: /uploads/heavy-seas-98-22-mm-on-canvas-20-x-25-5-cm--1.jpg
     image_title:
     image_description: >-
