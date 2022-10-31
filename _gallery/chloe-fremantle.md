@@ -262,7 +262,7 @@ images:
     image_title:
     image_description: >-
       Fragments, Home Sweet Home (158)<br />Mixed media on canvas<br />60 x 60
-      cm<br />&amp;pound; 750
+      cm<br />&amp;pound; 1250
   - image_path: /uploads/rb-landscape-section-91-22-acr-on-canvas-61-x-61-cm.jpg
     image_title:
     image_description: >-
