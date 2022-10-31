@@ -190,7 +190,7 @@ images:
     image_title:
     image_description: >-
       Chelsea Physic Garden - Mixed Flower Beds<br />Gouache and collage
-      onpaper<br />76 x 56 cm<br />&amp;pound; 1,650
+      onpaper<br />76 x 56 cm<br />&amp;pound; 1,600
   - image_path: /uploads/41-cpg-beds--artichokes-94-gouache-76-x-56-cm-2020.jpg
     image_title:
     image_description: >-
