@@ -81,7 +81,7 @@ frontpage: true
 gallery_date: 2022-09-30 00:00:00
 permalink: /gallery/peter-blegvad/
 archive: false
-main_image_path: /uploads/wing-kite-300-dpi-1.jpg
+main_image_path: /uploads/gallery-images/peter-blegvad/a-bigger-spill.jpg
 display_title: true
 images:
   - image_path: /uploads/gallery-images/peter-blegvad/a-bigger-spill.jpg
