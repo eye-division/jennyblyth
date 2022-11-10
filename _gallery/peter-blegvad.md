@@ -219,7 +219,7 @@ images:
     image_title:
     image_description: >-
       Small Bouquet<br />acrylic on canvas board<br /> 30 x 25.5cm<br
-      />&amp;pound 700
+      />&amp;pound 700 SOLD
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
