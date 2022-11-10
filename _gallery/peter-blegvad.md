@@ -91,15 +91,15 @@ images:
       3995
   - image_path: /uploads/gallery-images/peter-blegvad/alp---justin.jpg
     image_title:
-    image_description: Alp<br />acrylic on paper<br/>60.5 x 45.5 cm<br />&amp;pound 850
+    image_description: Alp<br />acrylic on paper<br/>60.5 x 45.5 cm<br />&amp;pound 850 SOLD
   - image_path: /uploads/gallery-images/peter-blegvad/cataract---justin.jpg
     image_title:
-    image_description: Cataract<br />acrylic on paper<br/>60.5 x 45.5 cm<br />&amp;pound 850
+    image_description: Cataract<br />acrylic on paper<br/>60.5 x 45.5 cm<br />&amp;pound 850 SOLD
   - image_path: /uploads/gallery-images/peter-blegvad/moon--planet-2---justin.jpg
     image_title:
     image_description: >-
       Moon and Planet 2<br />acrylic on paper<br/>60.5 x 45.5 cm<br />&amp;pound
-      850
+      850 SOLD
   - image_path: /uploads/gallery-images/peter-blegvad/camo-kite-d---justin.jpg
     image_title:
     image_description: >+
@@ -166,12 +166,12 @@ images:
     image_title:
     image_description: >
       Recipe, Remedy, Cure<br />acrylic and mixed media on wood<br />72 x 62
-      cm<br />&amp;pound 1300
+      cm<br />&amp;pound 1300 SOLD
   - image_path: /uploads/gallery-images/peter-blegvad/red-balls-collage---justin.jpg
     image_title:
     image_description: >
       Study for Orrery<br />acrylic and mixed media on wood<br />72 x 62 cm<br
-      />&amp;pound 700
+      />&amp;pound 700 SOLD
   - image_path: /uploads/gallery-images/peter-blegvad/black-spot-kite---justin-1.jpg
     image_title:
     image_description: >
@@ -199,7 +199,7 @@ images:
     image_title:
     image_description: >-
       Conversation in The Dark<br />ink on paper<br />45 x 60 cm<br />&amp;pound
-      550
+      550 SOLD
   - image_path: >-
       /uploads/gallery-images/peter-blegvad/asleep-at-the-wheel-300-dpi-my-snap-for-jen.jpg
     image_title:
@@ -214,12 +214,12 @@ images:
     image_title:
     image_description: >-
       Camo Kite (colour study)<br />acrylic on paper<br />60 x 40 cm<br
-      />&amp;pound 700
+      />&amp;pound 700 SOLD
   - image_path:
     image_title:
     image_description: >-
       Small Bouquet<br />acrylic on canvas board<br /> 30 x 25.5cm<br
-      />&amp;pound 700
+      />&amp;pound 700 SOLD
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
