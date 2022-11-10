@@ -199,7 +199,7 @@ images:
     image_title:
     image_description: >-
       Conversation in The Dark<br />ink on paper<br />45 x 60 cm<br />&amp;pound
-      550
+      550 SOLD
   - image_path: >-
       /uploads/gallery-images/peter-blegvad/asleep-at-the-wheel-300-dpi-my-snap-for-jen.jpg
     image_title:
