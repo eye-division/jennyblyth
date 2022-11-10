@@ -171,7 +171,7 @@ images:
     image_title:
     image_description: >
       Study for Orrery<br />acrylic and mixed media on wood<br />72 x 62 cm<br
-      />&amp;pound 700
+      />&amp;pound 700 SOLD
   - image_path: /uploads/gallery-images/peter-blegvad/black-spot-kite---justin-1.jpg
     image_title:
     image_description: >
