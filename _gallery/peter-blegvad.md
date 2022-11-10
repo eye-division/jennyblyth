@@ -91,7 +91,7 @@ images:
       3995
   - image_path: /uploads/gallery-images/peter-blegvad/alp---justin.jpg
     image_title:
-    image_description: Alp<br />acrylic on paper<br/>60.5 x 45.5 cm<br />&amp;pound 850
+    image_description: Alp<br />acrylic on paper<br/>60.5 x 45.5 cm<br />&amp;pound 850 SOLD
   - image_path: /uploads/gallery-images/peter-blegvad/cataract---justin.jpg
     image_title:
     image_description: Cataract<br />acrylic on paper<br/>60.5 x 45.5 cm<br />&amp;pound 850
