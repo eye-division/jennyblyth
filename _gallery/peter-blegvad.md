@@ -214,7 +214,7 @@ images:
     image_title:
     image_description: >-
       Camo Kite (colour study)<br />acrylic on paper<br />60 x 40 cm<br
-      />&amp;pound 700
+      />&amp;pound 700 SOLD
   - image_path:
     image_title:
     image_description: >-
