@@ -99,7 +99,7 @@ images:
     image_title:
     image_description: >-
       Moon and Planet 2<br />acrylic on paper<br/>60.5 x 45.5 cm<br />&amp;pound
-      850
+      850 SOLD
   - image_path: /uploads/gallery-images/peter-blegvad/camo-kite-d---justin.jpg
     image_title:
     image_description: >+
