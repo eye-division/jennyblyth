@@ -166,7 +166,7 @@ images:
     image_title:
     image_description: >
       Recipe, Remedy, Cure<br />acrylic and mixed media on wood<br />72 x 62
-      cm<br />&amp;pound 1300
+      cm<br />&amp;pound 1300 SOLD
   - image_path: /uploads/gallery-images/peter-blegvad/red-balls-collage---justin.jpg
     image_title:
     image_description: >
