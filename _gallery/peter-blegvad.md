@@ -205,7 +205,7 @@ images:
     image_title:
     image_description: |
       Asleep at The Wheel<br />ink on paper<br />45 x 60 cm<br />&amp;pound 600
-  - image_path:
+  - image_path: /uploads/gallery-images/peter-blegvad/2-mini-mappae-mundi.jpg
     image_title:
     image_description: >-
       Mini Mappae Mundi<br />acrylic and mixed media on wood<br />36.5 x 29
