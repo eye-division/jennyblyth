@@ -197,7 +197,7 @@ images:
     image_title:
     image_description: >-
       For Your Whole Lives To Be An Adventure 2019<br />oil on canvas<br />122 x
-      152 cm<br />&amp;pound; 3500
+      152 cm<br />&amp;pound; 3750
   - image_path: /uploads/a-world-of-our-own.jpg
     image_title:
     image_description: >-
