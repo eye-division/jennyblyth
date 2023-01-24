@@ -278,7 +278,7 @@ description_markdown: >-
   ### BELIEF & BEYOND
 
 
-  **Paintings by DAY BOWMAN and MICH&Egrave;LE JAFF&Eacute; PEARCE**
+  **Paintings by DAY BOWMAN and MICHÈLE JAFFÉ PEARCE**
 
 
   **5 March - 12 May 2012**
@@ -292,19 +292,19 @@ description_markdown: >-
 
 
   Day Bowman’s exhibition The Urban Wastelands Project has been touring the
-  South West of UK since July 2011. Mich&egrave;le Jaffé Pearce is involved with
-  The Three Faiths Forum and exhibited at the Interfaith Arts Festival organised
-  by TFF at the Candid Arts Trust, Islington in January 2010. Jenny Blyth,
-  curator and fine art consultant, is based in Oxford.
+  South West of UK since July 2011. Michèle Jaffé Pearce is involved with The
+  Three Faiths Forum and exhibited at the Interfaith Arts Festival organised by
+  TFF at the Candid Arts Trust, Islington in January 2010. Jenny Blyth, curator
+  and fine art consultant, is based in Oxford.
 
 
-  Mich&egrave;le Jaffé-Pearce trained in Fine Art at Sir John Cass and
-  thereafter studied sculpture at Chelsea School of Art. Her painting is founded
-  in a contemporary expression of faith through an exploration of Jewish
-  mysticism, Chassidic stories, biblical poetry and the Hebrew alphabet.
-  Mich&egrave;le uses symbolism and abstraction to create spiritual pathways on
-  a journey of belief. Strong colour and form asserts a vibrant sense of
-  optimism and a spirit of renewal.
+  Michèle Jaffé-Pearce trained in Fine Art at Sir John Cass and thereafter
+  studied sculpture at Chelsea School of Art. Her painting is founded in a
+  contemporary expression of faith through an exploration of Jewish mysticism,
+  Chassidic stories, biblical poetry and the Hebrew alphabet. Michèle uses
+  symbolism and abstraction to create spiritual pathways on a journey of belief.
+  Strong colour and form asserts a vibrant sense of optimism and a spirit of
+  renewal.
 
 
   Day Bowman’s painting takes us on a compelling journey beyond our habitual
@@ -373,7 +373,7 @@ description_markdown: >-
   had a museum tour of South West England in 2011/12 and was commissioned to
   create a series of images blown up for hoardings to mark the Olympic sailing
   at Weymouth in 2012. Day has paintings in public and private collections.
-homepage_description_markdown:
+homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/day-bowman/
@@ -524,6 +524,9 @@ images:
   - image_path: /assets/images/54afe73b8799c.jpg
     image_title: Edgelands 2, 2012
     image_description: Edgelands 2, 2012<br />oil, charcoal and conte on canvas<br />173 x 400 cm
+  - image_path: /uploads/fortress-2.jpg
+    image_title: Fortress 2
+    image_description: Fortress 2<br />oil on canvas<br />140 x 150 cm<br />&amp;pound;8000
 _options:
   image_path:
     width: 1200
