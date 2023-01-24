@@ -419,7 +419,7 @@ images:
     image_title:
     image_description: >-
       Holiday Destination 2 2019<br />oil on canvas<br />152 x 168 x 4 cm<br
-      />&amp;pound; 7500
+      />&amp;pound; 7500 SOLD
   - image_path: >-
       /uploads/day-bowman-plashy-place-5-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm-2.jpg
     image_title:
