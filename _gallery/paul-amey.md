@@ -39,17 +39,27 @@ description_markdown: >-
   exhibited at The Museum of Modern Art, Oxford (now Modern Art Oxford) and
   museums and galleries in London and Amsterdam, New York and Los Angeles with
   sculpture and paintings placed in public and private collections.
-homepage_description_markdown:
+homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2016-04-01 00:00:00
 permalink: /gallery/paul-amey/
 archive: false
-main_image_path: /uploads/OceanBar1.jpg
+main_image_path: /uploads/img-0617-1.jpg
 display_title: true
 images:
   - image_path: /uploads/OceanBar.jpeg
     image_title:
     image_description: Ocean Bar I<br />acrylic on board<br />75 x 100cm<br />&amp;pound 3750
+  - image_path: /uploads/img-0617.jpg
+    image_title: Fireworks/Harbour
+    image_description: >-
+      Fireworks/Harbour<br />acrylic on board<br />150 x 130 cm<br />&amp;pound
+      3950
+  - image_path: /uploads/img-0699.jpg
+    image_title: Table Top with Laptop
+    image_description: >-
+      Table Top with Laptop<br />acrylic on board<br />75 x 100cm<br
+      />&amp;pound 2950
   - image_path: /uploads/OceanBarSingleFigure.jpg
     image_title:
     image_description: >-
@@ -60,6 +70,11 @@ images:
     image_description: >-
       Kentallen at Dusk<br />acrylic on board<br />75 x 100cm<br />&amp;pound
       3,500
+  - image_path: /uploads/fruit--freesias.JPG
+    image_title:
+    image_description: >-
+      Freesias, Bowl and Knife Block<br />acrylic on paper<br />59 x 85<br
+      />&amp;pound 2600
   - image_path: /uploads/Doorstep_Figure(1).jpg
     image_title:
     image_description: >-
@@ -80,11 +95,6 @@ images:
     image_description: >-
       Red Sofa 1 / Yellow Figure with Dogs<br />acrylic on paper<br />59 x 82.2
       cm <br />&amp;pound 2600
-  - image_path: /uploads/fruit--freesias.JPG
-    image_title:
-    image_description: >-
-      Freesias, Bowl and Knife Block<br />acrylic on paper<br />59 x 85<br
-      />&amp;pound 2600
   - image_path: /uploads/paul-amey--roses-1.jpg
     image_title: Roses / Red Vase
     image_description: >-
