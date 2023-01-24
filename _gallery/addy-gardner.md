@@ -116,8 +116,8 @@ description_markdown: >-
   touch and warm when lit from behind.
 
 
-  Text by Jenny Blyth &copy; 2019 &nbsp;&nbsp; For images/info contact Jenny
-  Blyth &nbsp; Mob: 07798 526 252&nbsp; jennyblyth@btconnect.com
+  Text by Jenny Blyth © 2019 &nbsp;&nbsp; For images/info contact Jenny Blyth
+  &nbsp; Mob: 07798 526 252&nbsp; jennyblyth@btconnect.com
 
 
   **SKYFALL : Paintings & Drawings by ADDY GARDNER** curated by Jenny Blyth Fine
@@ -182,22 +182,19 @@ description_markdown: >-
   > My paintings draw on the tradition of the picturesque and sublime. They are
   a representation of the point at which beauty emerges in the natural world.
   Addy Gardner.
-
-
-  &nbsp;
-homepage_description_markdown:
+homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/addygardner/
 archive: false
 display_title: true
-main_image_path: /uploads/for-your-whole-life-to-be-an-adventure-3.jpg
+main_image_path: /uploads/for-your-whole-lives-to-be-an-adventure-0426-med-3.jpg
 images:
   - image_path: /uploads/for-your-whole-lives-to-be-an-adventure-0426-med-1.jpg
     image_title:
     image_description: >-
       For Your Whole Lives To Be An Adventure 2019<br />oil on canvas<br />122 x
-      152 cm<br />&amp;pound; 3750
+      152 cm<br />&amp;pound; 3750 SOLD
   - image_path: /uploads/a-world-of-our-own.jpg
     image_title:
     image_description: >-
