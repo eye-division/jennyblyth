@@ -57,9 +57,11 @@ images:
     image_description: >-
       Table Top with Laptop<br />acrylic on board<br />75 x 100cm<br
       />&amp;pound 2950
-  - image_path: /uploads/OceanBar.jpeg
-    image_title:
-    image_description: Ocean Bar I<br />acrylic on board<br />75 x 100cm<br />&amp;pound 3750
+  - image_path: /uploads/tabletop-night.jpg
+    image_title: Table Top / Night
+    image_description: >-
+      Table Top / Night<br />acrylic on board<br />101 x 75 cm<br />&amp;pound
+      3250
   - image_path: /uploads/OceanBarSingleFigure.jpg
     image_title:
     image_description: >-
@@ -80,21 +82,16 @@ images:
     image_description: >-
       Interior with Figure<br />acrylic on board<br />81 x 110cm<br />&amp;pound
       3750
-  - image_path: /uploads/tabletop-night.jpg
-    image_title: Table Top / Night
-    image_description: >-
-      Table Top / Night<br />acrylic on board<br />101 x 75 cm<br />&amp;pound
-      3250
-  - image_path: /uploads/red-sofa-1-yellow-fig-with-dog.JPG
-    image_title:
-    image_description: >-
-      Red Sofa 4 / Sunlight<br />acrylic on paper<br />59 x 82.2 cm <br
-      />&amp;pound 2600
   - image_path: /uploads/red-sofa-with-dogs.jpg
     image_title:
     image_description: >-
       Red Sofa 1 / Yellow Figure with Dogs<br />acrylic on paper<br />59 x 82.2
       cm <br />&amp;pound 2600
+  - image_path: /uploads/red-sofa-1-yellow-fig-with-dog.JPG
+    image_title:
+    image_description: >-
+      Red Sofa 4 / Sunlight<br />acrylic on paper<br />59 x 82.2 cm <br
+      />&amp;pound 2600
   - image_path: /uploads/paul-amey--roses-1.jpg
     image_title: Roses / Red Vase
     image_description: >-
