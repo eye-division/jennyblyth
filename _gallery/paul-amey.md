@@ -47,9 +47,6 @@ archive: false
 main_image_path: /uploads/img-0617-1.jpg
 display_title: true
 images:
-  - image_path: /uploads/OceanBar.jpeg
-    image_title:
-    image_description: Ocean Bar I<br />acrylic on board<br />75 x 100cm<br />&amp;pound 3750
   - image_path: /uploads/img-0617.jpg
     image_title: Fireworks/Harbour
     image_description: >-
@@ -60,6 +57,9 @@ images:
     image_description: >-
       Table Top with Laptop<br />acrylic on board<br />75 x 100cm<br
       />&amp;pound 2950
+  - image_path: /uploads/OceanBar.jpeg
+    image_title:
+    image_description: Ocean Bar I<br />acrylic on board<br />75 x 100cm<br />&amp;pound 3750
   - image_path: /uploads/OceanBarSingleFigure.jpg
     image_title:
     image_description: >-
