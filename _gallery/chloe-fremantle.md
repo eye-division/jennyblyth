@@ -78,7 +78,7 @@ description_markdown: >-
   a life time of painting.&nbsp;
 
 
-  Text by Jenny Blyth, Curator &copy; 2022
+  Text by Jenny Blyth, Curator © 2022
 
 
   ### 'REFLECTIONS'
@@ -148,7 +148,7 @@ description_markdown: >-
   Taeko Makino’s exquisite wood engravings of peonies, camellias, chrysanthemums
   inlaid with gilt draw directly on Japanese tradition of fine art. The artist
   lives and works in Tokyo.
-homepage_description_markdown:
+homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/chloe-fremantle/
