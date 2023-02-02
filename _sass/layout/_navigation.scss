@@ -8,9 +8,15 @@
     padding: 0 1em;
     z-index: 99; // to cover over flexslider
     border: none;
+    br {
+        display: none;
+    }
     @include media ($medium) {
         padding: 1em 1em;
         border-bottom: 1px solid tint($jbgray, 70%);
+        br {
+            display: block;
+        }
     }
 }
 /// Nav menu
@@ -123,6 +129,7 @@ li.nav-link {
             padding-right: 1em;
         }
     }
+
 }
 li.nav-link.active,
 li.current,
@@ -131,7 +138,12 @@ li.active {
         color: $black;
     }
 }
-
+.nav-link.last {
+    border-bottom: 1px solid $black;
+    @include media ($medium) {
+        border-bottom: none;
+    }
+}
 .nav-link.last::after {
 
   @include media ($medium) {

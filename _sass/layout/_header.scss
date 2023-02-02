@@ -11,12 +11,13 @@
     text-align: center;
     text-transform: uppercase;
     color: $white;
-        margin-bottom: 0;
-        font-size: modular-scale(4);
-        @include media ($medium) {
-            line-height: 2em;
-            font-size: modular-scale(5);
-        }
+    margin-bottom: 0;
+    line-height: 1.2;
+    font-size: modular-scale(4);
+    @include media ($medium) {
+        line-height: 2em;
+        font-size: modular-scale(5);
+    }
 }
 
 .logo {
