@@ -5,7 +5,15 @@
 .front {
 
     .page-content {
+
         @include outer-container(100%);
+
+        .page {
+            padding-top: 0;
+        }
+        >section {
+            padding-top: 0;
+        }
     }
     .scrim {
         padding: 0 0 20em 0;

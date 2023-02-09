@@ -19,12 +19,12 @@ layout: default
 
       {% assign alt_text = page.title %}
       {% if page.main_image_caption %} {% assign alt_text = page.main_image_caption %} {% endif %}
-      {% include img.html src=page.main_image_path alt=alt_text %}
+      {% include img.html src=page.main_image_path fit=crop alt=alt_text max-h=400 %}
 
       <figcaption></figcaption>
     </figure>
     <div class="expander">
-      <a href="javascript:void(0)" class="expander-trigger expander-hidden">View gallery</a>
+      <!-- <a href="javascript:void(0)" class="expander-trigger expander-hidden">View gallery</a>-->
 
       <div class="expander-content">
 
@@ -33,8 +33,15 @@ layout: default
             {% for image in page.images %}
               {% if image.image_path %}
               <div class="gallery-box {% cycle 'alpha', '', 'last' %}">
-                <a href="{% include imgpath.html src=image.image_path fit=clip max-w=1280 %}" class="galleryphoto" data-lightbox="gallery" data-title="{{ image.image_title }} - {{ image.image_description }}">
-                  {% include img.html src=image.image_path width=600 fit=clip alt=image.image_title %}
+                <!-- was max-w=1280-->
+                <a href="{% include imgpath.html src=image.image_path fit=clip max-h=600 %}" class="galleryphoto" data-lightbox="gallery" data-title="{{ image.image_title }} - {{ image.image_description }}">
+  
+                <img src="{{site.imagecdn[jekyll.environment]}}{{ image.image_path }}?fit=crop&width=400&ar=1%3A1&crop=focalpoint&auto=format" alt="{{ image.image_title }}" data-sizes="auto" width="400" class="lazyload"/>
+
+                  
+                <!-- full format images 
+                {% include img.html src=image.image_path width=600 fit=clip alt=image.image_title %}
+                 end format images -->
                 </a>
                 {% if page.display_title %}
                   <caption>{{ image.image_title }}</caption>

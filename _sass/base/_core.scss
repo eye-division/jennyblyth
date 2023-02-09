@@ -15,9 +15,7 @@ html {
 }
 body {
     //height: 100%;
-    // flex set up fall back
-    @include display(flex);
-    @include flex-direction(column);
+
     // grid setup
     display: grid;
     grid-template-areas:
@@ -32,7 +30,7 @@ body {
     background-color: $base-background-color;
     /// our grid is made up of
     @include media ($medium) {
-        grid-template-rows: minmax(80px, 10%) minmax(160px, 20%) 1fr 20%;
+        grid-template-rows: minmax(80px, 10%) minmax(min(200px, 220px), 20%) 1fr 20%;
     }
 }
 
