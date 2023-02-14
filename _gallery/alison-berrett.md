@@ -9,7 +9,7 @@ description_markdown: >-
   **My Bathybic Heart**
 
 
-  **APRIL 2022 at Carey Blyth Gallery 8 Woodstock Road OX2 6HT**
+  **APRIL 2022 at Carey Blyth Gallery&nbsp;**
 
 
   ***I must go down to the seas again, for the call of the running tide***
