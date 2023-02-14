@@ -1,5 +1,5 @@
 ---
-title: Alison BERRETT
+title: Alison Berrett
 surname: Berrett
 currentshow: Alison BERRETT
 description_markdown: >-
@@ -9,7 +9,7 @@ description_markdown: >-
   **My Bathybic Heart**
 
 
-  **APRIL 2022 at Carey Blyth Gallery 8 Woodstock Road OX2 6HT**
+  **APRIL 2022 at Carey Blyth Gallery&nbsp;**
 
 
   ***I must go down to the seas again, for the call of the running tide***
@@ -64,7 +64,7 @@ description_markdown: >-
 
   Alison is now a full-time painter working from her studio at home in
   Oxfordshire.
-homepage_description_markdown:
+homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2022-09-30 00:00:00
 permalink: /gallery/alisonberrett/
