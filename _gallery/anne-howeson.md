@@ -46,7 +46,7 @@ frontpage: true
 gallery_date:
 permalink:
 archive: false
-main_image_path:
+main_image_path: /uploads/dsc-1674.jpg
 display_title: true
 images:
   - image_path:
