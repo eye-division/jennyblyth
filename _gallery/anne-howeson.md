@@ -1,5 +1,5 @@
 ---
-title: Anne HOWESON
+title: Anne Howeson
 surname: Howeson
 currentshow:
 description_markdown: >-
