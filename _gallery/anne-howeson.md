@@ -7,6 +7,12 @@ description_markdown: >-
   &nbsp;****18 March – 29 April 2023**
 
 
+  **CAREY BLYTH GALLERY : 8 Woodstock Road Oxford OX2 6HT**
+
+
+  **Hours : Wed-Sat 12-5 pm**
+
+
   Drawing is often overlooked, presented as sketches for ‘finished’ work, a
   journey towards the myriad paintings or sculptures we enjoy.&nbsp; Rarely is
   it considered in its own right.&nbsp; But artists like William Kentridge have
