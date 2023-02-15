@@ -13,6 +13,12 @@ description_markdown: >-
   **Hours : Wed-Sat 12-5 pm**
 
 
+  **Note : There will be two Talks.&nbsp; One with artist in conversation with
+  Sacha Craddock, journalist & art critic, and one in conversation with Erika
+  Lederman, V&A Women in Photography Specialist. Dates and times to be
+  confirmed.**
+
+
   Drawing is often overlooked, presented as sketches for ‘finished’ work, a
   journey towards the myriad paintings or sculptures we enjoy.&nbsp; Rarely is
   it considered in its own right.&nbsp; But artists like William Kentridge have
