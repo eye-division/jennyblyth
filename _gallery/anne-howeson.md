@@ -70,8 +70,8 @@ images:
   - image_path: /uploads/gallery-images/anne-howeson/dsc-1660.jpg
     image_title: A Rake and A Broom
     image_description:
-  - image_path: ''
-    image_title: ''
+  - image_path: /uploads/gallery-images/anne-howeson/angel-feb-15.jpg
+    image_title: Angel
     image_description:
   - image_path: /uploads/gallery-images/anne-howeson/ft-chair-ip2.jpg
     image_title: Fox Talbot's Chair
@@ -90,6 +90,9 @@ images:
     image_description:
   - image_path: /uploads/gallery-images/anne-howeson/ruins-feb-15.jpg
     image_title: Ruins
+    image_description:
+  - image_path: /uploads/gallery-images/anne-howeson/angel-ii-feb-15.jpg
+    image_title: Angel
     image_description:
 _options:
   image_path:
