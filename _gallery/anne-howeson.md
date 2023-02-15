@@ -97,6 +97,9 @@ images:
   - image_path: /uploads/gallery-images/anne-howeson/gwri-feb-15.jpg
     image_title: Great Waiting Room I
     image_description:
+  - image_path: /uploads/gallery-images/anne-howeson/dsc-1674.jpg
+    image_title: A Rake and A Basket
+    image_description:
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
