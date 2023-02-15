@@ -88,9 +88,6 @@ images:
   - image_path: /uploads/gallery-images/anne-howeson/angel-feb-15.jpg
     image_title: Angel
     image_description:
-  - image_path: /uploads/gallery-images/anne-howeson/angel-ii-feb-15.jpg
-    image_title: Angel
-    image_description:
   - image_path: /uploads/gallery-images/anne-howeson/dsc-1653.jpg
     image_title: Great Waiting Room II
     image_description:
