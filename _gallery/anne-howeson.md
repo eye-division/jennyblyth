@@ -70,8 +70,11 @@ images:
   - image_path: /uploads/gallery-images/anne-howeson/dsc-1660.jpg
     image_title: A Rake and A Broom
     image_description:
-  - image_path: /uploads/gallery-images/anne-howeson/dsc-1663.jpg
-    image_title: Possible a Soldier
+  - image_path: ''
+    image_title: ''
+    image_description:
+  - image_path: /uploads/gallery-images/anne-howeson/ft-chair-ip2.jpg
+    image_title: Fox Talbot's Chair
     image_description:
   - image_path: /uploads/gallery-images/anne-howeson/dsc-1650.jpg
     image_title: BP Garage
@@ -81,6 +84,12 @@ images:
     image_description:
   - image_path: /uploads/gallery-images/anne-howeson/dsc-1683.jpg
     image_title: Rustic Bench
+    image_description:
+  - image_path: /uploads/gallery-images/anne-howeson/possibly-a-sailor-15-feb.jpg
+    image_title: Possibly a Soldier
+    image_description:
+  - image_path: /uploads/gallery-images/anne-howeson/ruins-feb-15.jpg
+    image_title: Ruins
     image_description:
 _options:
   image_path:
