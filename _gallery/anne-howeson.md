@@ -56,7 +56,7 @@ description_markdown: >-
 homepage_description_markdown: ''
 frontpage: true
 gallery_date:
-permalink:
+permalink: /gallery/anne-howeson/
 archive: false
 main_image_path: /uploads/dsc-1674.jpg
 display_title: true
