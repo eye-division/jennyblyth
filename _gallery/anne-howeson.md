@@ -10,16 +10,16 @@ description_markdown: >-
   **CAREY BLYTH GALLERY : 8 Woodstock Road Oxford OX2 6HT**
 
 
-  **Hours : Wed-Sat 12-5 pm**
+  **Hours : Wed-Sat 12-5 pm. Free.**
 
 
   **Note : There will be two Talks.&nbsp; One with artist in conversation with
   Sacha Craddock, journalist & art critic, and one in conversation with Erika
-  Lederman, V&A Women in Photography Specialist. Dates and times to be
+  Lederman, V&A, Women in Photography Specialist. Dates and times to be
   confirmed.**
 
 
-  Drawing is often overlooked, presented as sketches for ‘finished’ work, a
+  Drawing is often overlooked, presented as sketches for finished work, a
   journey towards the myriad paintings or sculptures we enjoy.&nbsp; Rarely is
   it considered in its own right.&nbsp; But artists like William Kentridge have
   brought a whole new insight and appreciation to the fine art of drawing, and
@@ -33,12 +33,14 @@ description_markdown: >-
 
   **Feet of Angels** is a new body of work responding to the photography of
   William Henry Fox Talbot.&nbsp; It is accompanied by drawings from recent
-  years that follow through from her last exhibition ‘**Present in the Past’,**
-  in which she explored the transformation of Kings Cross over 300 years.&nbsp;
-  Where previously she used 18th and 19th Century engravings, the new drawings
-  are worked over Fox Talbot photographs from the Bodleian Libraries Collection,
-  and their online Catalogue Raisonée.
-  *(*[*https://talbot.bodleian.ox.ac.uk/*](https://talbot.bodleian.ox.ac.uk/)*)*
+  years that follow through from her last exhibition **Present in the
+  Past&nbsp;**in which she explored the transformation of Kings Cross over 300
+  years.&nbsp; Where previously she used 18th and 19th Century engravings, the
+  new drawings are worked over Fox Talbot photographs from the Bodleian
+  Libraries Collection, and their online Catalogue Raisonée.
+  *(*[*https://talbot.bodleian.ox.ac.uk/*](https://talbot.bodleian.ox.ac.uk/)*)*&nbsp;
+
+
   Howeson celebrates photography, but her work is infused with narrative and
   dreams, peopled with characters drawn from plays and poems, perhaps a figure
   she has encountered momentarily.&nbsp; Her chosen photograph may contain much,
