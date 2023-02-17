@@ -64,13 +64,13 @@ images:
   - image_path: /uploads/gallery-images/anne-howeson/dsc-1674.jpg
     image_title:
     image_description: >-
-      A Rake and A Basket 2022<br />gouache, conte, crayon, digital print<br
-      />42 x 48 cm<br />&amp;pound 
+      Rake and Basket 2022<br />gouache, conte, crayon, digital print<br />42 x
+      48 cm<br />&amp;pound 
   - image_path: /uploads/gallery-images/anne-howeson/dsc-1660.jpg
     image_title:
     image_description: >-
-      A Spade and A Broom 2022<br />gouache, conte, digital print<br />44 x 52
-      cm<br />&amp;pound 
+      Spade and Broom 2022<br />gouache, conte, digital print<br />44 x 52 cm<br
+      />&amp;pound 
   - image_path: /uploads/gallery-images/anne-howeson/dsc-1683.jpg
     image_title:
     image_description: >-
