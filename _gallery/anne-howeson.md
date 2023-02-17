@@ -65,37 +65,41 @@ display_title: true
 images:
   - image_path: /uploads/gallery-images/anne-howeson/dsc-1674.jpg
     image_title: A Rake and A Basket
-    image_description:
+    image_description: Rake and Basket 2022 gouache, conte, crayon, digital print 42 x 48 cm
   - image_path: /uploads/gallery-images/anne-howeson/dsc-1660.jpg
     image_title: A Spade and A Broom
-    image_description:
+    image_description: Spade and Broom 2022 gouache, conte, digital print 44 x 52 cm
   - image_path: /uploads/gallery-images/anne-howeson/dsc-1683.jpg
     image_title: Rustic Bench
-    image_description:
+    image_description: Rustic Bench 2022 gouache, conte, crayon, digital print 58 x 48 cm
   - image_path: /uploads/gallery-images/anne-howeson/ft-chair-ip2.jpg
     image_title: Fox Talbot's Chair
-    image_description:
+    image_description: Talbot’s Chair 2022 gouache, conte, crayon, digital print 45 x 52 cm
   - image_path: /uploads/gallery-images/anne-howeson/dsc-1667.jpg
     image_title: A Shed and A House
-    image_description:
+    image_description: A Shed and A House 2022 conte, crayon, digital print 49 x 54 cm
   - image_path: /uploads/gallery-images/anne-howeson/possibly-a-sailor-15-feb.jpg
     image_title: Possibly a Soldier
-    image_description:
+    image_description: Possibly a Soldier 2022 conte, crayon, digital print 54 x 47 cm
   - image_path: /uploads/gallery-images/anne-howeson/dsc-1645.jpg
     image_title: Burning Books
-    image_description:
+    image_description: Burning Books 2019 conte, crayon, digital print 45 x 57 cm
   - image_path: /uploads/gallery-images/anne-howeson/ruins-feb-15.jpg
-    image_title: Ruins
+    image_title: Ruin
     image_description:
   - image_path: /uploads/gallery-images/anne-howeson/angel-feb-15.jpg
     image_title: Angel
-    image_description:
+    image_description: Angel 2021 gouache, conte, crayon, digital print 23.5 x 44.8 cm
   - image_path: /uploads/gallery-images/anne-howeson/dsc-1653.jpg
     image_title: Great Waiting Room II
-    image_description:
+    image_description: |-
+      Great Northern Waiting Room
+      gouache, conte,  digital print 43.5 x 57 cm
   - image_path: /uploads/gallery-images/anne-howeson/gwri-feb-15.jpg
     image_title: Great Waiting Room I
-    image_description:
+    image_description: |-
+      Great Northern Waiting Room 
+      gouache, conte,  digital print 43.5 x 57 cm
   - image_path: /uploads/gallery-images/anne-howeson/dsc-1650.jpg
     image_title: BP Garage
     image_description:
