@@ -3,56 +3,56 @@ title: Anne Howeson
 surname: Howeson
 currentshow:
 description_markdown: >-
-  **FEET OF ANGELS&nbsp; &nbsp;:&nbsp; &nbsp;ANNE HOWESON&nbsp; &nbsp; :
-  &nbsp;****18 March – 29 April 2023**
+  **FEET OF ANGELS : ANNE HOWESON :****18 March – 29 April 2023**
 
 
   **CAREY BLYTH GALLERY : 8 Woodstock Road Oxford OX2 6HT**
 
 
-  **Hours : Wed-Sat 12-5 pm**
+  **Hours : Wed-Sat 12-5 pm. Free.**
 
 
-  **Note : There will be two Talks.&nbsp; One with artist in conversation with
-  Sacha Craddock, journalist & art critic, and one in conversation with Erika
-  Lederman, V&A Women in Photography Specialist. Dates and times to be
+  **Note : There will be two Talks. One with artist in conversation with Sacha
+  Craddock, journalist & art critic, and one in conversation with Erika
+  Lederman, V&A, Women in Photography Specialist. Dates and times to be
   confirmed.**
 
 
-  Drawing is often overlooked, presented as sketches for ‘finished’ work, a
-  journey towards the myriad paintings or sculptures we enjoy.&nbsp; Rarely is
-  it considered in its own right.&nbsp; But artists like William Kentridge have
-  brought a whole new insight and appreciation to the fine art of drawing, and
-  the different ways in which it can be expressed. Anne Howeson’s work is a
-  truly contemporary representation of the medium. Observed with a mind fixed in
+  Drawing is often overlooked, presented as sketches for finished work, a
+  journey towards the myriad paintings or sculptures we enjoy. Rarely is it
+  considered in its own right. But artists like William Kentridge have brought a
+  whole new insight and appreciation to the fine art of drawing, and the
+  different ways in which it can be expressed. Anne Howeson’s work is a truly
+  contemporary representation of the medium. Observed with a mind fixed in
   politics, she reflects on the historical and the contemporary, noting
-  intention and effect.&nbsp; Her desire to balance out fears for the future or
-  the wrongdoings of the past, is manifest in an ethereal dimension that is
-  apparent in her enjoyment of storytelling and imagination.
+  intention and effect. Her desire to balance out fears for the future or the
+  wrongdoings of the past, is manifest in an ethereal dimension that is apparent
+  in her enjoyment of storytelling and imagination.
 
 
   **Feet of Angels** is a new body of work responding to the photography of
-  William Henry Fox Talbot.&nbsp; It is accompanied by drawings from recent
-  years that follow through from her last exhibition ‘**Present in the Past’,**
-  in which she explored the transformation of Kings Cross over 300 years.&nbsp;
-  Where previously she used 18th and 19th Century engravings, the new drawings
-  are worked over Fox Talbot photographs from the Bodleian Libraries Collection,
-  and their online Catalogue Raisonée.
+  William Henry Fox Talbot. It is accompanied by drawings from recent years that
+  follow through from her last exhibition **Present in the Past** in which she
+  explored the transformation of Kings Cross over 300 years. Where previously
+  she used 18th and 19th Century engravings, the new drawings are worked over
+  Fox Talbot photographs from the Bodleian Libraries Collection, and their
+  online Catalogue Raisonée.
   *(*[*https://talbot.bodleian.ox.ac.uk/*](https://talbot.bodleian.ox.ac.uk/)*)*
+
+
   Howeson celebrates photography, but her work is infused with narrative and
   dreams, peopled with characters drawn from plays and poems, perhaps a figure
-  she has encountered momentarily.&nbsp; Her chosen photograph may contain much,
-  or little of note to anyone other than herself.&nbsp; It is a springboard to
-  other worlds, for transcending time as she prepares to choreograph her
-  dioramas.&nbsp; After scrubbing out selected original figures and features,
-  Howeson introduces her own players, trees and greenery. &nbsp;Working in
-  gouache, conté and crayon, she brings colour to the monochrome, accentuating
-  light and dark. Chiaroscuro adds rigour to her tableaux, and the narrative
-  unfurls as she introduces both period and contemporary characters to a
-  re-orchestrated landscape.&nbsp; Her work is complex, whether pastoral and
-  quiet, or politically charged and pithy, it is laced with moments from beyond
-  with which she seeks to soften the grit of reality.&nbsp; The overall effect
-  is unsettling, suggesting an unearthly presence.
+  she has encountered momentarily. Her chosen photograph may contain much, or
+  little of note to anyone other than herself. It is a springboard to other
+  worlds, for transcending time as she prepares to choreograph her dioramas.
+  After scrubbing out selected original figures and features, Howeson introduces
+  her own players, trees and greenery. Working in gouache, conté and crayon, she
+  brings colour to the monochrome, accentuating light and dark. Chiaroscuro adds
+  rigour to her tableaux, and the narrative unfurls as she introduces both
+  period and contemporary characters to a re-orchestrated landscape. Her work is
+  complex, whether pastoral and quiet, or politically charged and pithy, it is
+  laced with moments from beyond with which she seeks to soften the grit of
+  reality. The overall effect is unsettling, suggesting an unearthly presence.
 homepage_description_markdown: ''
 frontpage: true
 gallery_date:
@@ -62,41 +62,63 @@ main_image_path: /uploads/dsc-1674.jpg
 display_title: true
 images:
   - image_path: /uploads/gallery-images/anne-howeson/dsc-1674.jpg
-    image_title: A Rake and A Basket
-    image_description:
+    image_title:
+    image_description: >-
+      A Rake and A Basket 2022<br />gouache, conte, crayon, digital print<br
+      />42 x 48 cm<br />&amp;pound 
   - image_path: /uploads/gallery-images/anne-howeson/dsc-1660.jpg
-    image_title: A Spade and A Broom
-    image_description:
+    image_title:
+    image_description: >-
+      A Spade and A Broom 2022<br />gouache, conte, digital print<br />44 x 52
+      cm<br />&amp;pound 
   - image_path: /uploads/gallery-images/anne-howeson/dsc-1683.jpg
-    image_title: Rustic Bench
-    image_description:
+    image_title:
+    image_description: >-
+      Rustic Bench 2022<br />gouache, conte, crayon, digital print<br />58 x 48
+      cm<br />&amp;pound 
   - image_path: /uploads/gallery-images/anne-howeson/ft-chair-ip2.jpg
-    image_title: Fox Talbot's Chair
-    image_description:
+    image_title:
+    image_description: >-
+      Talbot’s Chair 2022<br />gouache, conte, crayon, digital print<br />45 x
+      52 cm<br />&amp;pound 
   - image_path: /uploads/gallery-images/anne-howeson/dsc-1667.jpg
-    image_title: A Shed and A House
-    image_description:
+    image_title:
+    image_description: >-
+      A Shed and A House 2022<br />conte, crayon, digital print<br />49 x 42
+      cm<br />&amp;pound 
   - image_path: /uploads/gallery-images/anne-howeson/possibly-a-sailor-15-feb.jpg
-    image_title: Possibly a Soldier
-    image_description:
+    image_title:
+    image_description: >-
+      Possibly a Soldier  2022<br />conte, crayon, digital print<br />54 x 47
+      cm<br />&amp;pound 
   - image_path: /uploads/gallery-images/anne-howeson/dsc-1645.jpg
-    image_title: Burning Books
-    image_description:
+    image_title:
+    image_description: >-
+      Burning Books 2019<br />conte, crayon, digital print<br />45 x 57 cm<br
+      />&amp;pound 
   - image_path: /uploads/gallery-images/anne-howeson/ruins-feb-15.jpg
-    image_title: Ruins
-    image_description:
+    image_title:
+    image_description: >-
+      Ruin 2019<br />gouache, conte, crayon, digital print<br />xxx cm<br
+      />&amp;pound 
   - image_path: /uploads/gallery-images/anne-howeson/angel-feb-15.jpg
-    image_title: Angel
-    image_description:
-  - image_path: /uploads/gallery-images/anne-howeson/dsc-1653.jpg
-    image_title: Great Waiting Room II
-    image_description:
+    image_title:
+    image_description: >-
+      Angel 2021<br />gouache, conte, crayon, digital print<br />23.5 x 44.8
+      cm<br />&amp;pound 
   - image_path: /uploads/gallery-images/anne-howeson/gwri-feb-15.jpg
-    image_title: Great Waiting Room I
-    image_description:
+    image_title:
+    image_description: >-
+      Great Northern Waiting Room I 2019<br />gouache, conte, digital print<br
+      />43.5 x 57 cm<br />&amp;pound
+  - image_path: /uploads/gallery-images/anne-howeson/dsc-1653.jpg
+    image_title:
+    image_description: >-
+      Great Northern Waiting Room II 2019<br />gouache, conte, digital print<br
+      />43.5 x 57 cm<br />&amp;pound 
   - image_path: /uploads/gallery-images/anne-howeson/dsc-1650.jpg
-    image_title: BP Garage
-    image_description:
+    image_title:
+    image_description: BP Garage 2022<br />gouache, conte, <br />43.5 x 57 cm<br />&amp;pound
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
