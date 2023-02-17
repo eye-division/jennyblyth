@@ -64,13 +64,13 @@ images:
   - image_path: /uploads/gallery-images/anne-howeson/dsc-1674.jpg
     image_title:
     image_description: >-
-      A Rake and A Basket 2022<br />gouache, conte, crayon, digital print<br
-      />42 x 48 cm<br />&amp;pound 
+      Rake and Basket 2022<br />gouache, conte, crayon, digital print<br />42 x
+      48 cm<br />&amp;pound 
   - image_path: /uploads/gallery-images/anne-howeson/dsc-1660.jpg
     image_title:
     image_description: >-
-      A Spade and A Broom 2022<br />gouache, conte, digital print<br />44 x 52
-      cm<br />&amp;pound 
+      Spade and Broom 2022<br />gouache, conte, digital print<br />44 x 52 cm<br
+      />&amp;pound 
   - image_path: /uploads/gallery-images/anne-howeson/dsc-1683.jpg
     image_title:
     image_description: >-
@@ -99,7 +99,7 @@ images:
   - image_path: /uploads/gallery-images/anne-howeson/ruins-feb-15.jpg
     image_title:
     image_description: >-
-      Ruin 2019<br />gouache, conte, crayon, digital print<br />xxx cm<br
+      Ruin 2019<br />gouache, conte,  digital print<br />38 x 46 cm<br
       />&amp;pound 
   - image_path: /uploads/gallery-images/anne-howeson/angel-feb-15.jpg
     image_title:
@@ -118,7 +118,92 @@ images:
       />43.5 x 57 cm<br />&amp;pound 
   - image_path: /uploads/gallery-images/anne-howeson/dsc-1650.jpg
     image_title:
-    image_description: BP Garage 2022<br />gouache, conte, <br />43.5 x 57 cm<br />&amp;pound
+    image_description: >-
+      BP Garage 2021<br />gouache, conte, crayon<br />36.5 x 47 cm<br
+      />&amp;pound
+  - image_path: ''
+    image_title:
+    image_description: >-
+      Tourists 2022<br />gouache, conte, digital print<br />41 x 53 cm<br
+      />&amp;pound
+  - image_path: ''
+    image_title:
+    image_description: >-
+      Different Journeys 2017<br />gouache, crayon, conte, digital print<br
+      />xxx cm<br />&amp;pound
+  - image_path: ''
+    image_title:
+    image_description: >-
+      Foundling Boys 2020<br />gouache, crayon, conte, digital print<br />44 x
+      58 cm<br />&amp;pound
+  - image_path: ''
+    image_title:
+    image_description: >-
+      Three Sisters 2021<br />gouache, conte, digital print<br />xxx cm<br
+      />&amp;pound
+  - image_path: ''
+    image_title:
+    image_description: Minaret 2017<br />charcoal and contet<br />xxx cm<br />&amp;pound
+  - image_path: ''
+    image_title:
+    image_description: >-
+      Battlebridge 1797, 20xx<br />charcoal and pencil<br /> xxx cm<br
+      />&amp;pound
+  - image_path: ''
+    image_title:
+    image_description: >-
+      Kings Cross Railway Shed 2015<br />crayon, conte, digital print<br />xxx
+      cm<br />&amp;pound
+  - image_path: ''
+    image_title:
+    image_description: >-
+      Celebrations of the Dead 2, 2021<br />mixed media, digital print<br /> 32
+      x 45 cm<br />&amp;pound
+
+      (Edited 2021 was St P churchyard at Night)
+  - image_path: ''
+    image_title:
+    image_description: >-
+      Midland Line Railway Works 20xx<br />gouache, conte, digital print<br />40
+      x 47  cm<br />&amp;pound
+  - image_path: ''
+    image_title:
+    image_description: >-
+      St Pancras Fortifications 1642 20xx<br />gouache, conte, digital print<br
+      />42 x 53  cm<br />&amp;pound
+  - image_path: ''
+    image_title:
+    image_description: >-
+      Foundlings 2015<br />gouache, conte, digital print<br />xxx  cm<br
+      />&amp;pound
+  - image_path: ''
+    image_title:
+    image_description: >-
+      Dust Heap 2015<br />gouache, conte, digital print<br />39 x 52  cm<br
+      />&amp;pound
+  - image_path: ''
+    image_title:
+    image_description: >-
+      Smallpox Hospital, Battlebridge 20xx<br />gouache, conte, crayon, digital
+      print<br />52 x 63  cm<br />&amp;pound
+  - image_path: ''
+    image_title:
+    image_description: >-
+      Under the Barlow Shed 2015<br />conte, digital print<br />xxx  cm<br
+      />&amp;pound
+  - image_path: ''
+    image_title:
+    image_description: >-
+      Stanley's Cornered 20xx<br />gouache, conte,  xxx<br />xxx  cm<br
+      />&amp;pound
+  - image_path: ''
+    image_title:
+    image_description: >-
+      Battlebridge 1797 20xx<br />carbon, digital print<br />42 x 56  cm<br
+      />&amp;pound
+  - image_path: ''
+    image_title:
+    image_description:
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
