@@ -1,44 +1,44 @@
 ---
 title: Antonia Bruce
 surname: Bruce
-currentshow: true
+currentshow: false
 description_markdown: >-
   Currently showing ***Maize Dining Table*** in oak, with felt underside,
   overlaid with cyanotypes of Maize created in the fields of Oaxaca…. 180 x 75
-  cm &pound;1850
+  cm £1850
 
 
   \*Delight your guests with this unique and beautiful dining table that
-  captures the spirit of Oaxaca, Mexico…&nbsp; \*
+  captures the spirit of Oaxaca, Mexico… \*
 
 
   Maize is the food staff of life, the ‘first food’ for many. The natural
   diversity of maize grown over thousands of years contributes to our treasured
-  bio-diversity, and is an essential resource for mankind.&nbsp; Debates over
-  genetically modified foods raise issues and concerns for all.&nbsp;
+  bio-diversity, and is an essential resource for mankind. Debates over
+  genetically modified foods raise issues and concerns for all.
 
 
   Antonia Bruce has been working on a cooperative exchange between UK and
   Mexican artists for ten years, responding to ‘First Foods’. In Mexico’s
   *Heartland*, ‘everyman’ has a perceived right to his own plot ‘La Milpa’ - to
-  grow his own corn, beans and squash. Indeed, the expression *Viva La Milpa*\!
+  grow his own corn, beans and squash. Indeed, the expression *Viva La Milpa*!
   is core to Mexican culture.
 
 
   Surrounding the growing of corn, are the many rituals, offerings, music and
   dance that have evolved since man first cultivated crops. Antonia’s cyanotypes
   capture the magic of the maize that towers above the farmers, moving like
-  dancers, in the spirit of freedom.&nbsp; Laid against heavy duty watercolour
-  paper which she paints with a solution of iron compounds, the silhouettes of
-  her subjects are developed in daylight in the corn fields of Oaxaca, Mexico,
+  dancers, in the spirit of freedom. Laid against heavy duty watercolour paper
+  which she paints with a solution of iron compounds, the silhouettes of her
+  subjects are developed in daylight in the corn fields of Oaxaca, Mexico,
   creating exquisite shadows on blue. This extraordinary body of photographic
   work complements Antonia’s previous drawings in ink of dancers. Her chosen
   medium invariably embraces an element of film and movement.
 
 
   ***Enquiries \*\*****\:
-  [jennyblythart@gmail.com](mailto:jennyblythart@gmail.com)&nbsp; &nbsp; mobile
-  : 07798 526 252*\*\*
+  [jennyblythart@gmail.com](mailto:jennyblythart@gmail.com) mobile : 07798 526
+  252*\*\*
 
 
   **LOVE AND KISSES at Carey Blyth Gallery, Oxford**
@@ -47,14 +47,13 @@ description_markdown: >-
   **14 February – 1 March 2020**
 
 
-  **Antonia Bruce &nbsp; &nbsp;*Milagritos Hearts (Above)***
+  **Antonia Bruce *Milagritos Hearts (Above)***
 
 
-  **Rose Artbuthnott &nbsp; &nbsp;*Portraits***
+  **Rose Artbuthnott *Portraits***
 
 
-  *\*Nicholas Arbuthnott &nbsp; &nbsp;*Sculpture\*&nbsp; &nbsp; &nbsp; &nbsp;
-  &nbsp; \*\*
+  *\*Nicholas Arbuthnott* Sculpture\* \*\*
 
 
   **LOVE & KISSES** an exhibition of work by British artists of drawings,
@@ -73,31 +72,31 @@ description_markdown: >-
   Mexican artists over five years, responding to the culture of Oaxaca around
   staple foods such as corn, cactus, honey etc… She has also curated a wonderful
   exhibition of ex-votos or devotional paintings that was shown at Wellcome
-  Trust in London.&nbsp; Her ***Milagritos Hearts*** follow on from the
-  devotional theme.&nbsp;
+  Trust in London. Her ***Milagritos Hearts*** follow on from the devotional
+  theme.
 
 
-  **Rose Arbuthnott** &nbsp;: \|”*One morning in Mexico, I began the
-  inordinately simple task of drawing faces ….”*
+  **Rose Arbuthnott** : \|”*One morning in Mexico, I began the inordinately
+  simple task of drawing faces ….”*
 
 
   Rose was one of the artists in residency in Part One of the First Foods
-  Project.&nbsp; She has created a beautiful body of portraits in charcoal on
-  paper and oil on board.&nbsp; Her simple line drawings are powerfully emotive
-  catching the pathos in a look, a kiss, a gesture between two lovers.&nbsp;
+  Project. She has created a beautiful body of portraits in charcoal on paper
+  and oil on board. Her simple line drawings are powerfully emotive catching the
+  pathos in a look, a kiss, a gesture between two lovers.
 
 
   Antonia Bruce attended Newcastle Polytechnic and went on to work in Film
   Production.
 
 
-  **Nicholas Arbuthnott** is showing heads sculpted in stone.&nbsp; His muses
-  embrace the classical with lines that recall the elongated melancholy of
-  Modigliani and conversely Picasso-esque reference to tribal art and cubism
-  expressed in sculpture and paintings such as *Les Demoiselles D’Avignon*.
+  **Nicholas Arbuthnott** is showing heads sculpted in stone. His muses embrace
+  the classical with lines that recall the elongated melancholy of Modigliani
+  and conversely Picasso-esque reference to tribal art and cubism expressed in
+  sculpture and paintings such as *Les Demoiselles D’Avignon*.
 
 
-  **ANTONIA BRUCE**&nbsp;: HEARTLAND&nbsp;
+  **ANTONIA BRUCE** : HEARTLAND
 
 
   Jenny Blyth Fine Art at ART JERICHO
@@ -159,7 +158,7 @@ description_markdown: >-
 
 
   May 8 from 6.30-9 pm : Drawing Class with Antonia Bruce and Kassandra
-  Isaacson. Rachel Gildea, dancer, to model. &pound;15 - materials supplied.
+  Isaacson. Rachel Gildea, dancer, to model. £15 - materials supplied.
 
 
   May 9 from 7-8.30 pm : Dance Performance from Marina Collard, Susie Crow &
@@ -259,9 +258,9 @@ description_markdown: >-
   *As a result the process becomes integral to the making of the photographs
   which in turn stands for a tiny amount of the many enigmatic experiences that
   I share with everybody who has ever spent time on Port Meadow. The project
-  continues to be a simultaneously chaotic and compelling experience. "*&nbsp;
-  Antonia Bruce 2010.
-homepage_description_markdown:
+  continues to be a simultaneously chaotic and compelling experience. "* Antonia
+  Bruce 2010.
+homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/antonia-bruce/

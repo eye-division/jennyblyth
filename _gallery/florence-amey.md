@@ -1,7 +1,7 @@
 ---
 title: Florence Amey
 surname: Amey
-currentshow: true
+currentshow: false
 description_markdown: >-
   **FLORENCE AMEY &nbsp;**
 
@@ -43,10 +43,7 @@ description_markdown: >-
 
 
   \*Jenny Blyth Fine Art at Carey Blyth Gallery \*
-
-
-  &nbsp;
-homepage_description_markdown:
+homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/florence-amey/

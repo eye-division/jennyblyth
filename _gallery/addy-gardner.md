@@ -1,9 +1,9 @@
 ---
 title: Addy Gardner
 surname: Gardner
-currentshow: true
+currentshow: false
 description_markdown: >-
-  **ADDY GARDNER showing at CAREY BLYTH **
+  \*\*ADDY GARDNER showing at CAREY BLYTH \*\*
 
 
   8 Woodstock Road OX2 6HT (Tues-Sat 11-5 pm)
@@ -78,7 +78,7 @@ description_markdown: >-
   Jenny Blyth at North Wall Arts Centre, Oxford*
 
 
-  ***Touching The Earth ***marks the moment where these two artists meet - a
+  *\*\*Touching The Earth \*\**marks the moment where these two artists meet - a
   point of balance where the intangible meets substance. Both artists delight in
   the earthiness of an organic sense of form whilst celebrating an ethereal
   ambivalence.
@@ -123,7 +123,7 @@ description_markdown: >-
   Art at Art Jericho, Oxford
 
 
-  **DECEMBER 2016 **
+  \*\*DECEMBER 2016 \*\*
 
 
   Addy Gardner, Oxfordshire artist, trained in both Fine Art and Applied

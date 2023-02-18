@@ -1,7 +1,7 @@
 ---
 title: Jethro Buck
 surname: Buck
-currentshow: false
+currentshow: true
 description_markdown: >-
   #### 2021
 
@@ -10,13 +10,10 @@ description_markdown: >-
   Oxford OX2 6HT in mixed ***Christmas Show 2021 at CBG***.
 
 
-  ***The Forest*** at &pound;550 Framed in oak 95 x 76 cm
+  ***The Forest*** at £550 Framed in oak 95 x 76 cm
 
 
   ***Large Forest*** - dimensions and price on enquiry : jennyblythart@gmail.com
-
-
-  &nbsp;
 
 
   #### FREEFALL : An Exhibition of Contemporary Indian Miniatures by JETHRO BUCK
@@ -52,10 +49,10 @@ description_markdown: >-
 
   After an intense three weeks, he returned to the UK determined to study in
   India. He applied to INTACH (India National Trust for Art and Cultural
-  Heritage) for a travel grant, and was awarded &pound;1000 for flight and
-  travel. He researched the possibilities for apprenticeship and was referred by
-  artist Olivia Fraser, to miniaturist Master Ajay Sharma who invited him to
-  Jaipur – the Pink City – to work with him as a student in the studio.
+  Heritage) for a travel grant, and was awarded £1000 for flight and travel. He
+  researched the possibilities for apprenticeship and was referred by artist
+  Olivia Fraser, to miniaturist Master Ajay Sharma who invited him to Jaipur –
+  the Pink City – to work with him as a student in the studio.
 
 
   Unlike the surface craft of art churned out by street artists in cities across
@@ -122,7 +119,7 @@ description_markdown: >-
 
   INTACH grants are awarded to British students and academics who wish to learn
   traditional Indian crafts.
-homepage_description_markdown:
+homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/jethro-buck/
@@ -200,5 +197,3 @@ _comments:
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
 ---
-
-
