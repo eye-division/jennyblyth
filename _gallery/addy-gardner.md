@@ -3,7 +3,7 @@ title: Addy Gardner
 surname: Gardner
 currentshow: true
 description_markdown: >-
-  **ADDY GARDNER showing at CAREY BLYTH&nbsp;**
+  **ADDY GARDNER showing at CAREY BLYTH **
 
 
   8 Woodstock Road OX2 6HT (Tues-Sat 11-5 pm)
@@ -21,32 +21,31 @@ description_markdown: >-
 
   Essentially Addy Gardner’s paintings are autobiographical, reflecting her
   thoughts and preoccupations which morph into compositions capturing the drama
-  of darker moments and lighter dawns of realisation, a sense &nbsp;of self and
-  'peak experience'***.***
+  of darker moments and lighter dawns of realisation, a sense of self and 'peak
+  experience'***.***
 
 
-  *'A World Of Our Own'&nbsp;*&nbsp;is such a painting with all the joy and
-  inflections of mood that colour the landscape of the Welsh Mountains, and the
-  promise of the valley beyond. Inspired by De Kooning, Addy has infused her
-  paintings with a rigour and dynamic that is at the heart of the landscape. '*A
-  Journey Of Our Own'* and '*I Found My Way Back Alone'&nbsp;*are the artist’s
-  response to walking in Snowdonia.&nbsp; Off the well-trodden path to the
-  summit of Snowdon, hidden away, lies The Blue Lake. &nbsp;Glacial blue water
-  cascades into an old quarry, &nbsp;coloured by the stones beneath.&nbsp; The
-  mountains on each side shape its path spilling crimson and cyan into high
-  skies.
+  *'A World Of Our Own'* is such a painting with all the joy and inflections of
+  mood that colour the landscape of the Welsh Mountains, and the promise of the
+  valley beyond. Inspired by De Kooning, Addy has infused her paintings with a
+  rigour and dynamic that is at the heart of the landscape. '*A Journey Of Our
+  Own'* and '*I Found My Way Back Alone'* are the artist’s response to walking
+  in Snowdonia. Off the well-trodden path to the summit of Snowdon, hidden away,
+  lies The Blue Lake. Glacial blue water cascades into an old quarry, coloured
+  by the stones beneath. The mountains on each side shape its path spilling
+  crimson and cyan into high skies.
 
 
   Abstract expressionism in Addy's work treads a fine line with figuration as
   land meets sky, affording us an insight into the artist's journey whilst
-  inviting us to explore our own path.&nbsp;
+  inviting us to explore our own path.
 
 
-  *'Along By The Willows, Deep In Thought '*&nbsp;is the artist’s response to
-  walking by the River Windrush in Oxfordshire.&nbsp; Winter is not yet over,
-  but there is a promise of Spring and new beginnings in the cool blues and
-  whites of the sky fresh against the earthier tones of the land, and the dance
-  of the willow branches whipping in the wind. *(Jenny Blyth, 2020)*
+  *'Along By The Willows, Deep In Thought '* is the artist’s response to walking
+  by the River Windrush in Oxfordshire. Winter is not yet over, but there is a
+  promise of Spring and new beginnings in the cool blues and whites of the sky
+  fresh against the earthier tones of the land, and the dance of the willow
+  branches whipping in the wind. *(Jenny Blyth, 2020)*
 
 
   ***Addy Gardner : 'My paintings are born from an emotional response to places
@@ -72,42 +71,42 @@ description_markdown: >-
   many others.
 
 
-  MAY - JUNE 2019 : TOUCHING THE EARTH&nbsp;&nbsp;
+  MAY - JUNE 2019 : TOUCHING THE EARTH
 
 
   Paintings by **Addy Gardner** and Sculpture by **Martin Smith,** c*urated by
   Jenny Blyth at North Wall Arts Centre, Oxford*
 
 
-  ***Touching The Earth&nbsp;***marks the moment where these two artists meet -
-  a point of balance where the intangible meets substance.&nbsp; Both artists
-  delight in the earthiness of an organic sense of form whilst celebrating an
-  ethereal ambivalence.&nbsp;
+  ***Touching The Earth ***marks the moment where these two artists meet - a
+  point of balance where the intangible meets substance. Both artists delight in
+  the earthiness of an organic sense of form whilst celebrating an ethereal
+  ambivalence.
 
 
   **Addy Gardner** studied Psychology before committing to Fine Art twenty years
-  ago.&nbsp; Her genre is abstracted landscape, popular with landscape painters
-  but Gardner distinguishes her work through an experiential journey that
-  reflects the scene before her, entwined with memories and thoughts evoked by
-  the beauty she finds in the landscape. ‘Peak Experience’ has been her goal,
-  and that moment of ‘ah-ness’ the pivotal point for her compositions.&nbsp;
-  Drawing inspiration from the landscape of the Windrush Valley and woodlands,
-  her work is about her life and relationships – historical, and of the moment.
+  ago. Her genre is abstracted landscape, popular with landscape painters but
+  Gardner distinguishes her work through an experiential journey that reflects
+  the scene before her, entwined with memories and thoughts evoked by the beauty
+  she finds in the landscape. ‘Peak Experience’ has been her goal, and that
+  moment of ‘ah-ness’ the pivotal point for her compositions. Drawing
+  inspiration from the landscape of the Windrush Valley and woodlands, her work
+  is about her life and relationships – historical, and of the moment.
 
 
   Addy Gardner’s collection of new paintings marks a departure from safer
   territory that she knows works well for her, towards fresh pastures and new
-  horizons, a journey that every painter must make.&nbsp; This makes for
-  exciting viewing for us as we share her journey and spirit of adventure.
+  horizons, a journey that every painter must make. This makes for exciting
+  viewing for us as we share her journey and spirit of adventure.
 
 
   When talking about sculpture, **Martin Smith** enthuses about jazz with equal
-  passion.&nbsp; Transported by iconic trumpeters and saxophonists from Miles
-  Davis to Ben Webster, he describes an alchemy of easy liberation where music,
+  passion. Transported by iconic trumpeters and saxophonists from Miles Davis to
+  Ben Webster, he describes an alchemy of easy liberation where music,
   mellifluous and light, ‘*comes through them like breath’,* and how that
   process of synesthesia for him is expressed through sculpture, ‘*the breath of
-  stone’*.&nbsp; Patterns of sound and shape are transposed, so that the
-  language of marble and alabaster is alchemized into sculpture.&nbsp;
+  stone’*. Patterns of sound and shape are transposed, so that the language of
+  marble and alabaster is alchemized into sculpture.
 
 
   The beauty of Smith’s chosen stone is in the degree of opacity and tone,
@@ -116,15 +115,15 @@ description_markdown: >-
   touch and warm when lit from behind.
 
 
-  Text by Jenny Blyth © 2019 &nbsp;&nbsp; For images/info contact Jenny Blyth
-  &nbsp; Mob: 07798 526 252&nbsp; jennyblyth@btconnect.com
+  Text by Jenny Blyth © 2019 For images/info contact Jenny Blyth Mob: 07798 526
+  252 jennyblyth@btconnect.com
 
 
   **SKYFALL : Paintings & Drawings by ADDY GARDNER** curated by Jenny Blyth Fine
   Art at Art Jericho, Oxford
 
 
-  **DECEMBER 2016&nbsp;**
+  **DECEMBER 2016 **
 
 
   Addy Gardner, Oxfordshire artist, trained in both Fine Art and Applied
@@ -183,7 +182,7 @@ description_markdown: >-
   a representation of the point at which beauty emerges in the natural world.
   Addy Gardner.
 homepage_description_markdown: ''
-frontpage: true
+frontpage: false
 gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/addygardner/
 archive: false
