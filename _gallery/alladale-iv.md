@@ -1,7 +1,7 @@
 ---
 title: Netta Carey
 surname: Carey
-currentshow: true
+currentshow: false
 description_markdown: >-
   **SEPTEMBER 2022 at CBG**
 
@@ -33,7 +33,7 @@ description_markdown: >-
   colour – note how the light in the reds are set off by the deep indigo blue.
 
 
-  In ***Back To The Wild, ***shown here at CBG last year, Nettaexplored the
+  In *\*\*Back To The Wild, \*\**shown here at CBG last year, Nettaexplored the
   landscape and spirit of the Scottish Highlands at Alladale where Paul Lister
   over the 16 years created a rewilding project. Lister’s intention is to return
   the 23,000 acre estate to a natural woodland haven for wildlife, to include
