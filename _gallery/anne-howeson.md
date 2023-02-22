@@ -203,6 +203,13 @@ images:
       />&amp;pound SOLD
 
       Digital Print of Original work above available : 
+  - image_path: /uploads/gallery-images/anne-howeson/st-pancras-in-the-fields-1752-1.jpg
+    image_title:
+    image_description: >-
+      St Pancras in the Fields 1782, xx<br />gouache and carbon, digital
+      print<br />36 x 57 cm<br />&amp;pound SOLD
+
+      Digital Print of Original work above available : 
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
