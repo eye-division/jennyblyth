@@ -121,34 +121,34 @@ images:
     image_description: >-
       BP Garage 2021<br />gouache, conte, crayon<br />36.5 x 47 cm<br
       />&amp;pound
-  - image_path: ''
+  - image_path: /uploads/gallery-images/anne-howeson/2-resized-tourists-300ppi.jpg
     image_title:
     image_description: >-
       Tourists 2022<br />gouache, conte, digital print<br />41 x 53 cm<br
       />&amp;pound
-  - image_path: ''
+  - image_path: /uploads/gallery-images/anne-howeson/2-different-journeys-1.jpg
     image_title:
     image_description: >-
       Different Journeys 2017<br />gouache, crayon, conte, digital print<br
       />xxx cm<br />&amp;pound
-  - image_path: ''
+  - image_path: /uploads/gallery-images/anne-howeson/foundling-boys-300ppi-1.jpg
     image_title:
     image_description: >-
       Foundling Boys 2020<br />gouache, crayon, conte, digital print<br />44 x
       58 cm<br />&amp;pound
-  - image_path: ''
+  - image_path: /uploads/gallery-images/anne-howeson/2-three-sisters.jpg
     image_title:
     image_description: >-
       Three Sisters 2021<br />gouache, conte, digital print<br />xxx cm<br
       />&amp;pound
-  - image_path: ''
+  - image_path: /uploads/gallery-images/anne-howeson/2-minaret.jpg
     image_title:
     image_description: Minaret 2017<br />charcoal and contet<br />xxx cm<br />&amp;pound
-  - image_path: ''
+  - image_path: /uploads/gallery-images/anne-howeson/2-st-pancras-fortifications-1642.jpg
     image_title:
     image_description: >-
-      Battlebridge 1797, 20xx<br />charcoal and pencil<br /> xxx cm<br
-      />&amp;pound
+      St Pancras Fortifications 1642 20xx<br />gouache, conte, digital print<br
+      />42 x 53  cm<br />&amp;pound
   - image_path: ''
     image_title:
     image_description: >-
@@ -166,11 +166,6 @@ images:
     image_description: >-
       Midland Line Railway Works 20xx<br />gouache, conte, digital print<br />40
       x 47  cm<br />&amp;pound
-  - image_path: ''
-    image_title:
-    image_description: >-
-      St Pancras Fortifications 1642 20xx<br />gouache, conte, digital print<br
-      />42 x 53  cm<br />&amp;pound
   - image_path: ''
     image_title:
     image_description: >-
@@ -201,9 +196,13 @@ images:
     image_description: >-
       Battlebridge 1797 20xx<br />carbon, digital print<br />42 x 56  cm<br
       />&amp;pound
-  - image_path: ''
+  - image_path: /uploads/gallery-images/anne-howeson/hampstead-horses-2-cropped.jpg
     image_title:
-    image_description:
+    image_description: >
+      Hampstead Horses xx<br /> conte, crayon, digital print<br />28 x 46  cm<br
+      />&amp;pound SOLD
+
+      Digital Print of Original work above available : 
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
