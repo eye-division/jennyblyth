@@ -86,6 +86,11 @@ images:
     image_description: >-
       A Shed and A House 2022<br />conte, crayon, digital print<br />49 x 42
       cm<br />&amp;pound 
+  - image_path: /uploads/gallery-images/anne-howeson/2-three-sisters.jpg
+    image_title:
+    image_description: >-
+      Three Sisters 2021<br />gouache, conte, digital print<br />xxx cm<br
+      />&amp;pound
   - image_path: /uploads/gallery-images/anne-howeson/possibly-a-sailor-15-feb.jpg
     image_title:
     image_description: >-
@@ -116,7 +121,7 @@ images:
     image_description: >-
       Great Northern Waiting Room II 2019<br />gouache, conte, digital print<br
       />43.5 x 57 cm<br />&amp;pound 
-  - image_path: /uploads/gallery-images/anne-howeson/dsc-1650.jpg
+  - image_path: /uploads/gallery-images/anne-howeson/bp-garage.jpg
     image_title:
     image_description: >-
       BP Garage 2021<br />gouache, conte, crayon<br />36.5 x 47 cm<br
@@ -136,11 +141,6 @@ images:
     image_description: >-
       Foundling Boys 2020<br />gouache, crayon, conte, digital print<br />44 x
       58 cm<br />&amp;pound
-  - image_path: /uploads/gallery-images/anne-howeson/2-three-sisters.jpg
-    image_title:
-    image_description: >-
-      Three Sisters 2021<br />gouache, conte, digital print<br />xxx cm<br
-      />&amp;pound
   - image_path: /uploads/gallery-images/anne-howeson/2-minaret.jpg
     image_title:
     image_description: Minaret 2017<br />charcoal and contet<br />xxx cm<br />&amp;pound
