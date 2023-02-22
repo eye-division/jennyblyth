@@ -210,6 +210,13 @@ images:
       print<br />36 x 57 cm<br />&amp;pound SOLD
 
       Digital Print of Original work above available : 
+  - image_path: /uploads/gallery-images/anne-howeson/tile-kilns.jpg
+    image_title:
+    image_description: >-
+      Tile Kilns xx<br /> conte, crayon, digital print<br />32 x 45 cm<br
+      />&amp;pound SOLD
+
+      Digital Print of Original work above available : 
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
