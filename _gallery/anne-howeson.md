@@ -149,11 +149,6 @@ images:
     image_description: >-
       St Pancras Fortifications 1642 20xx<br />gouache, conte, digital print<br
       />42 x 53  cm<br />&amp;pound
-  - image_path: ''
-    image_title:
-    image_description: >-
-      Kings Cross Railway Shed 2015<br />crayon, conte, digital print<br />xxx
-      cm<br />&amp;pound
   - image_path: /uploads/gallery-images/anne-howeson/2-celebrations-of-the-dead.jpg
     image_title:
     image_description: >-
@@ -161,16 +156,26 @@ images:
       x 45 cm<br />&amp;pound
 
       (Edited 2021 was St P churchyard at Night)
-  - image_path: ''
-    image_title:
-    image_description: >-
-      Midland Line Railway Works 20xx<br />gouache, conte, digital print<br />40
-      x 47  cm<br />&amp;pound
   - image_path: /uploads/gallery-images/anne-howeson/2-foundlings.jpg
     image_title:
     image_description: >-
       Foundlings 2015<br />gouache, conte, digital print<br />xxx  cm<br
       />&amp;pound
+  - image_path: /uploads/gallery-images/anne-howeson/2-celebrations-of-the-dead-2.jpg
+    image_title:
+    image_description: >
+      Celebrations of the Dead 2, 2021<br />mixed media, digital print<br /> 32
+      x 45 cm<br />&amp;pound
+  - image_path: ''
+    image_title:
+    image_description: >-
+      Kings Cross Railway Shed 2015<br />crayon, conte, digital print<br />xxx
+      cm<br />&amp;pound
+  - image_path: ''
+    image_title:
+    image_description: >-
+      Midland Line Railway Works 20xx<br />gouache, conte, digital print<br />40
+      x 47  cm<br />&amp;pound
   - image_path: ''
     image_title:
     image_description: >-
@@ -217,9 +222,6 @@ images:
       />&amp;pound SOLD
 
       Digital Print of Original work above available : 
-  - image_path: /uploads/gallery-images/anne-howeson/2-celebrations-of-the-dead-2.jpg
-    image_title:
-    image_description: ''
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
