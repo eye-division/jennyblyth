@@ -3,7 +3,7 @@ title: Anne Howeson
 surname: Howeson
 currentshow: Anne HOWESON
 description_markdown: >-
-  **FEET OF ANGELS : ANNE HOWESON :****18 March – 29 April 2023**
+  **FEET OF ANGELS : ANNE HOWESON :&nbsp;****18 March – 29 April 2023**
 
 
   **CAREY BLYTH GALLERY : 8 Woodstock Road Oxford OX2 6HT**
