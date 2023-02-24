@@ -139,11 +139,11 @@ images:
   - image_path: /uploads/gallery-images/anne-howeson/foundling-boys-300ppi-1.jpg
     image_title:
     image_description: >-
-      Foundling Boys 2020<br />gouache, crayon, conte, digital print<br />44 x
+      Foundling Boys 2022<br />gouache, crayon, conte, digital print<br />44 x
       58 cm<br />&amp;pound
   - image_path: /uploads/gallery-images/anne-howeson/2-minaret.jpg
     image_title:
-    image_description: Minaret 2017<br />charcoal and contet<br />xxx cm<br />&amp;pound
+    image_description: Minaret 2015<br />charcoal and contet<br />xxx cm<br />&amp;pound
   - image_path: /uploads/gallery-images/anne-howeson/2-st-pancras-fortifications-1642.jpg
     image_title:
     image_description: >-
@@ -166,7 +166,7 @@ images:
     image_description: >
       Celebrations of the Dead 2, 2021<br />mixed media, digital print<br /> 32
       x 45 cm<br />&amp;pound
-  - image_path: ''
+  - image_path: /uploads/gallery-images/anne-howeson/2-kings-cross-railway-shed.jpg
     image_title:
     image_description: >-
       Kings Cross Railway Shed 2015<br />crayon, conte, digital print<br />xxx
@@ -196,7 +196,7 @@ images:
     image_description: >-
       Stanley's Cornered 20xx<br />gouache, conte,  xxx<br />xxx  cm<br
       />&amp;pound
-  - image_path: ''
+  - image_path: /uploads/gallery-images/anne-howeson/2-battlebridge-1797.jpg
     image_title:
     image_description: >-
       Battlebridge 1797 20xx<br />carbon, digital print<br />42 x 56  cm<br
@@ -211,7 +211,7 @@ images:
   - image_path: /uploads/gallery-images/anne-howeson/st-pancras-in-the-fields-1752-1.jpg
     image_title:
     image_description: >-
-      St Pancras in the Fields 1782, xx<br />gouache and carbon, digital
+      St Pancras in the Fields 1782, 2014 xx<br />gouache and carbon, digital
       print<br />36 x 57 cm<br />&amp;pound SOLD
 
       Digital Print of Original work above available : 
