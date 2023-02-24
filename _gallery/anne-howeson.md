@@ -181,7 +181,7 @@ images:
     image_description: >-
       Dust Heap 2015<br />gouache, conte, digital print<br />39 x 52  cm<br
       />&amp;pound
-  - image_path: /uploads/gallery-images/anne-howeson/2-smallpox-hospital-1.jpg
+  - image_path: /uploads/gallery-images/anne-howeson/2-smallpox-hospital-2.jpg
     image_title:
     image_description: >-
       Smallpox Hospital, Battlebridge 20xx<br />gouache, conte, crayon, digital
