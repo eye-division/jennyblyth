@@ -3,7 +3,7 @@ title: Anne Howeson
 surname: Howeson
 currentshow: Anne HOWESON
 description_markdown: >-
-  **FEET OF ANGELS : ANNE HOWESON :&nbsp;****18 March – 29 April 2023**
+  **FEET OF ANGELS : ANNE HOWESON :****18 March – 29 April 2023**
 
 
   **CAREY BLYTH GALLERY : 8 Woodstock Road Oxford OX2 6HT**
@@ -99,7 +99,7 @@ images:
   - image_path: /uploads/gallery-images/anne-howeson/dsc-1645.jpg
     image_title:
     image_description: >-
-      Burning Books 2019<br />conte, crayon, digital print<br />45 x 57 cm<br
+      Burning Books 2020<br />conte, crayon, digital print<br />45 x 57 cm<br
       />&amp;pound 
   - image_path: /uploads/gallery-images/anne-howeson/ruins-feb-15.jpg
     image_title:
@@ -181,7 +181,7 @@ images:
     image_description: >-
       Dust Heap 2015<br />gouache, conte, digital print<br />39 x 52  cm<br
       />&amp;pound
-  - image_path: ''
+  - image_path: /uploads/gallery-images/anne-howeson/2-smallpox-hospital-2.jpg
     image_title:
     image_description: >-
       Smallpox Hospital, Battlebridge 20xx<br />gouache, conte, crayon, digital
