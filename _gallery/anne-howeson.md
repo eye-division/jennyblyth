@@ -171,7 +171,7 @@ images:
     image_description: >-
       Kings Cross Railway Shed 2015<br />crayon, conte, digital print<br />xxx
       cm<br />&amp;pound
-  - image_path: ''
+  - image_path: /uploads/gallery-images/anne-howeson/2-midland-line-railway-works-2.jpg
     image_title:
     image_description: >-
       Midland Line Railway Works 20xx<br />gouache, conte, digital print<br />40
@@ -186,7 +186,7 @@ images:
     image_description: >-
       Smallpox Hospital, Battlebridge 20xx<br />gouache, conte, crayon, digital
       print<br />52 x 63  cm<br />&amp;pound
-  - image_path: ''
+  - image_path: /uploads/gallery-images/anne-howeson/2-under-the-barlow-shed-crop.jpg
     image_title:
     image_description: >-
       Under the Barlow Shed 2015<br />conte, digital print<br />xxx  cm<br
