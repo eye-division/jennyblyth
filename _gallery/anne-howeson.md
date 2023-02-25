@@ -186,7 +186,7 @@ images:
     image_description: >-
       Smallpox Hospital, Battlebridge 20xx<br />gouache, conte, crayon, digital
       print<br />52 x 63  cm<br />&amp;pound
-  - image_path: ''
+  - image_path: /uploads/gallery-images/anne-howeson/2-under-the-barlow-shed-crop.jpg
     image_title:
     image_description: >-
       Under the Barlow Shed 2015<br />conte, digital print<br />xxx  cm<br
