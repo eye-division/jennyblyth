@@ -193,7 +193,9 @@ images:
       />&amp;pound
   - image_path: /uploads/gallery-images/anne-howeson/foundling-boys-300ppi-1-1.jpg
     image_title:
-    image_description: Foundling Boys 20xx<br />gouache, conte,  xxx<br />xxx  cm<br />&amp;pound
+    image_description: >-
+      Foundling Boys 20xx<br />gouache, conte,  digital print xxx<br />xxx 
+      cm<br />&amp;pound
   - image_path: /uploads/gallery-images/anne-howeson/2-battlebridge-1797.jpg
     image_title:
     image_description: >-
