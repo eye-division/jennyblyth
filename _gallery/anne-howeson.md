@@ -191,11 +191,9 @@ images:
     image_description: >-
       Under the Barlow Shed 2015<br />conte, digital print<br />xxx  cm<br
       />&amp;pound
-  - image_path: ''
+  - image_path: /uploads/gallery-images/anne-howeson/foundling-boys-300ppi-1-1.jpg
     image_title:
-    image_description: >-
-      Stanley's Cornered 20xx<br />gouache, conte,  xxx<br />xxx  cm<br
-      />&amp;pound
+    image_description: Foundling Boys 20xx<br />gouache, conte,  xxx<br />xxx  cm<br />&amp;pound
   - image_path: /uploads/gallery-images/anne-howeson/2-battlebridge-1797.jpg
     image_title:
     image_description: >-
@@ -222,6 +220,9 @@ images:
       />&amp;pound SOLD
 
       Digital Print of Original work above available : 
+  - image_path: ''
+    image_title:
+    image_description: ''
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
