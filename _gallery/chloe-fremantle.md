@@ -1,7 +1,7 @@
 ---
 title: Chloe Fremantle
 surname: Fremantle
-currentshow: true
+currentshow: false
 description_markdown: >-
   ### **Chloe Fremantle & Peter Blegvad**
 

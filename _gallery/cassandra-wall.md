@@ -1,7 +1,7 @@
 ---
 title: Cassandra Wall
 surname: Wall
-currentshow: false
+currentshow: true
 description_markdown: >-
   Highlights from CONTEMPLATION : SPRING INTO WATER now showing at CBG
 
@@ -58,7 +58,7 @@ description_markdown: >-
   (Dodecanese)***; exquisite are her ***Autumn Floor*** with leaves underfoot,
   ***Impressionist Garden -*** *a Spring explosion&nbsp;*in fresh pinks and
   primrose yellows, and the golden hum of hexangonal ***Honeycomb***.
-homepage_description_markdown:
+homepage_description_markdown: ''
 frontpage: true
 gallery_date:
 permalink: /gallery/cassandra-wall/

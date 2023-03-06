@@ -1,7 +1,7 @@
 ---
 title: Michael BUCK
 surname: BUCK
-currentshow:
+currentshow: Michael BUCK
 description_markdown: >-
   **MICHAEL BUCK&nbsp;**
 
@@ -77,11 +77,8 @@ description_markdown: >-
   *Text&nbsp; : Jenny Blyth 2022*
 
 
-  ###### &nbsp;
-
-
-  &nbsp;
-homepage_description_markdown:
+  ######
+homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2022-02-10 00:00:00
 permalink: /gallery/MichaelBUCK/
@@ -169,4 +166,3 @@ _enabled_editors:
   - data
   - visual
 ---
-
