@@ -3,7 +3,7 @@ title: Chloe Fremantle
 surname: Fremantle
 currentshow: true
 description_markdown: >-
-  ### ***Forthcoming* : Chloe Fremantle & Peter Blegvad**
+  ### **Chloe Fremantle & Peter Blegvad**
 
 
   ### **'Light Seeking Light'&nbsp; &nbsp;: 1-12 November 2022&nbsp;**
