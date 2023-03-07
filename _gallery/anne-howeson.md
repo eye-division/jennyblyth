@@ -91,10 +91,10 @@ images:
     image_description: >-
       Possibly a Soldier  2022<br />conte, crayon, digital print<br />54 x 47
       cm<br />&amp;pound 
-  - image_path: /uploads/gallery-images/anne-howeson/bp-garage.jpg
+  - image_path: /uploads/gallery-images/anne-howeson/2-three-sisters.jpg
     image_title:
     image_description: >-
-      BP Garage 2021<br />gouache, conte, crayon<br />36.5 x 47 cm<br
+      Three Sisters 2021<br />gouache, conte, digital print<br />xxx cm<br
       />&amp;pound
   - image_path: /uploads/gallery-images/anne-howeson/dsc-1645.jpg
     image_title:
@@ -106,6 +106,11 @@ images:
     image_description: >-
       Midland Line Railway Works 20xx<br />gouache, conte, digital print<br />40
       x 47  cm<br />&amp;pound
+  - image_path: /uploads/gallery-images/anne-howeson/bp-garage.jpg
+    image_title:
+    image_description: >-
+      BP Garage 2021<br />gouache, conte, crayon<br />36.5 x 47 cm<br
+      />&amp;pound
   - image_path: /uploads/gallery-images/anne-howeson/ruins-feb-15.jpg
     image_title:
     image_description: >-
@@ -126,11 +131,6 @@ images:
     image_description: >-
       Great Northern Waiting Room I 2019<br />gouache, conte, digital print<br
       />43.5 x 57 cm<br />&amp;pound
-  - image_path: /uploads/gallery-images/anne-howeson/2-three-sisters.jpg
-    image_title:
-    image_description: >-
-      Three Sisters 2021<br />gouache, conte, digital print<br />xxx cm<br
-      />&amp;pound
   - image_path: /uploads/gallery-images/anne-howeson/dsc-1653.jpg
     image_title:
     image_description: >-
