@@ -15,14 +15,13 @@ layout: default
   {% if site.showfeatured %}
     {% if page.main_image_path %}
 
-    <figure>
+    <!--<figure>
 
       {% assign alt_text = page.title %}
       {% if page.main_image_caption %} {% assign alt_text = page.main_image_caption %} {% endif %}
       {% include img.html src=page.main_image_path fit=crop alt=alt_text max-h=400 %}
+    </figure> -->
 
-      <figcaption></figcaption>
-    </figure>
     <div class="expander">
       <!-- <a href="javascript:void(0)" class="expander-trigger expander-hidden">View gallery</a>-->
 
@@ -50,7 +49,15 @@ layout: default
               {% endif %}
             {% endfor %}
           </section>
-      {% endif %}
+        {% else %}
+          <figure>
+
+            {% assign alt_text = page.title %}
+            {% if page.main_image_caption %} {% assign alt_text = page.main_image_caption %} {% endif %}
+            {% include img.html src=page.main_image_path fit=crop alt=alt_text max-h=400 %}
+            
+          </figure>
+        {% endif %}
 
       </div>
       </div>
