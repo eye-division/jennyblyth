@@ -14,10 +14,11 @@ description_markdown: >-
 
   **Talk : Anne Howeson, artist talks about Feet of Angels with Sacha Craddock,
   art critic and curator, at The Oxford Friends House, Meeting Room on Saturday,
-  25 March at 3 pm.&nbsp; Join us for drinks at the CBG after the talk.&nbsp; **
+  25 March at 3 pm.&nbsp; Join us for drinks at the CBG after the talk.&nbsp;
+  RSVP jennyblythart@gmail.com**
 
 
-  **RSVP jennyblythart@gmail.com**
+  Text Jenny Blyth © 2023
 
 
   Drawing is often overlooked, presented as sketches for finished work, a
