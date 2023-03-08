@@ -171,6 +171,11 @@ images:
     image_description: >-
       Kings Cross Railway Shed 2015<br />crayon, conte, digital print<br />xxx
       cm<br />&amp;pound
+  - image_path: /uploads/gallery-images/anne-howeson/2-coal-and-fish-hoardings-copy.jpg
+    image_title:
+    image_description: >-
+      Coal and Fish Hoardingsxx<br /> conte, crayon, digital print<br />xxx
+      cm<br />&amp;pound 
   - image_path: /uploads/gallery-images/anne-howeson/2-dust-heap-jpg.jpg
     image_title:
     image_description: >-
@@ -217,9 +222,6 @@ images:
       />&amp;pound SOLD
 
       Digital Print of Original work above available : 
-  - image_path: ''
-    image_title:
-    image_description: ''
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
