@@ -217,9 +217,11 @@ images:
       />&amp;pound SOLD
 
       Digital Print of Original work above available : 
-  - image_path: ''
+  - image_path: /uploads/gallery-images/anne-howeson/2-coal-and-fish-hoardings-copy.jpg
     image_title:
-    image_description: ''
+    image_description: >-
+      Coal and Fish Hoardingsxx<br /> conte, crayon, digital print<br />xxx
+      cm<br />&amp;pound 
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
