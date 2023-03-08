@@ -3,19 +3,22 @@ title: Anne Howeson
 surname: Howeson
 currentshow: Anne HOWESON
 description_markdown: >-
-  > **FEET OF ANGELS : ANNE HOWESON :****18 March – 29 April 2023**
+  > **'FEET OF ANGELS' ANNE HOWESON&nbsp; &nbsp;18 March – 29 April 2023**
 
 
   **CAREY BLYTH GALLERY : 8 Woodstock Road Oxford OX2 6HT**
 
 
-  **Hours : Wed-Sat 12-5 pm. Free.**
+  **Hours : Wed-Sat 12-5 pm.&nbsp;**
 
 
-  **Note : There will be two Talks. One with artist in conversation with Sacha
-  Craddock, journalist & art critic, and one in conversation with Erika
-  Lederman, V&A, Women in Photography Specialist. Dates and times to be
-  confirmed.**
+  **Talk : Anne Howeson, artist talks about Feet of Angels with Sacha Craddock,
+  art critic and curator, at The Oxford Friends House, Meeting Room on Saturday,
+  25 March at 3 pm.&nbsp; Join us for drinks at the CBG after the talk.&nbsp;
+  RSVP jennyblythart@gmail.com**
+
+
+  Text Jenny Blyth © 2023
 
 
   Drawing is often overlooked, presented as sketches for finished work, a
