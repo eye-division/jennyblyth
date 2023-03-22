@@ -77,7 +77,7 @@ description_markdown: >-
   *Text&nbsp; : Jenny Blyth 2022*
 
 
-  ######
+  \######
 homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2022-02-10 00:00:00
@@ -88,7 +88,7 @@ display_title: true
 images:
   - image_path: /uploads/mb-crows-over-spring-fields.JPG
     image_title:
-    image_description: Rooks Rising, Early Morning, oil on canvas, 36 x 65 inches
+    image_description: Rooks Rising, Early Morning, oil on canvas, 36 x 65 inches £3500 SOLD
   - image_path: /uploads/mb008.jpg
     image_title:
     image_description: Light Beyond The Bluff, acrylic on paper 9.5 x 12 inches
