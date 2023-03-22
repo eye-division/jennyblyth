@@ -77,7 +77,7 @@ description_markdown: >-
   *Text&nbsp; : Jenny Blyth 2022*
 
 
-  ######
+  \######
 homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2022-02-10 00:00:00
@@ -88,29 +88,29 @@ display_title: true
 images:
   - image_path: /uploads/mb-crows-over-spring-fields.JPG
     image_title:
-    image_description: Rooks Rising, Early Morning, oil on canvas, 36 x 65 inches
+    image_description: Rooks Rising, Early Morning, oil on canvas, 36 x 65 inches £3500 SOLD
   - image_path: /uploads/mb008.jpg
     image_title:
-    image_description: Light Beyond The Bluff, acrylic on paper 9.5 x 12 inches
+    image_description: Light Beyond The Bluff, acrylic on paper 9.5 x 12 inches SOLD
   - image_path: /uploads/gallery-images/michael-buck/mb024.jpg
     image_title:
     image_description: >-
       Gulls Rising - Towards the Singing Way, Wytham, oil on board 9.5 x 7.5
-      inches
+      inches SOLD
   - image_path: /uploads/gallery-images/michael-buck/mb015.jpg
     image_title:
     image_description: >-
       Stubble Burning, The Cut Towards Oxfordshire, oil on board  10 x 9.5
-      inches
+      inches SOLD
   - image_path: /uploads/gallery-images/michael-buck/mb031.jpg
     image_title:
     image_description: Glad Goldhearts, oil on canvas  38 x 48 inches
   - image_path: /uploads/gallery-images/michael-buck/mb033.jpg
     image_title:
-    image_description: Blackthorn in Spring, acrylic on canvas  36 x 54 inches
+    image_description: Blackthorn in Spring, acrylic on canvas  36 x 54 inches SOLD
   - image_path: /uploads/gallery-images/michael-buck/mb030.jpg
     image_title:
-    image_description: Black Poplar, Binsey, oil on paper  9 x 8 inches
+    image_description: Black Poplar, Binsey, oil on paper  9 x 8 inches SOLD
   - image_path: /uploads/gallery-images/michael-buck/mb011.jpg
     image_title:
     image_description: Winter Morning, oil on paper  10 x 10 inches
@@ -119,21 +119,21 @@ images:
     image_description: Rainbow Droplets, Blackthorn, acrylic on paper   9.5 x 9.5 inches
   - image_path: /uploads/gallery-images/michael-buck/mb025.jpg
     image_title:
-    image_description: Morning Mist, Port Meadow, acrylic on paper  9 x 9 inches
+    image_description: Morning Mist, Port Meadow, acrylic on paper  9 x 9 inches SOLD
   - image_path: /uploads/gallery-images/michael-buck/mb012.jpg
     image_title:
-    image_description: Blackthorn in Blossom, acrylic on paper  9.5 x 9.5 inches
+    image_description: Blackthorn in Blossom, acrylic on paper  9.5 x 9.5 inches SOLD
   - image_path: /uploads/gallery-images/michael-buck/mb023.jpg
     image_title:
-    image_description: 'Down By The Water, acrylic on paper  8 x 8.5 inches '
+    image_description: Down By The Water, acrylic on paper  8 x 8.5 inches  SOLD
   - image_path: /uploads/gallery-images/michael-buck/mb007.jpg
     image_title:
     image_description: |-
       Storm, Western Highlands, acrylic on paper 
-       10 x 10.5 inches
+       10 x 10.5 inches SOLD
   - image_path: /uploads/gallery-images/michael-buck/mb021.jpg
     image_title:
-    image_description: Clouds Clearing over The Cuillins, acrylic on paper  9 x 9 inches
+    image_description: Clouds Clearing over The Cuillins, acrylic on paper  9 x 9 inches SOLD
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
