@@ -98,12 +98,12 @@ images:
     image_title:
     image_description: >-
       Burning Books 2020<br />conte, crayon, digital print<br />45 x 57 cm<br
-      />&amp;pound 
+      />&amp;pound £2500 SOLD
   - image_path: /uploads/gallery-images/anne-howeson/2-midland-line-railway-works-2.jpg
     image_title:
     image_description: >-
       Midland Line Railway Works 20xx<br />gouache, conte, digital print<br />40
-      x 47  cm<br />&amp;pound
+      x 47  cm<br />&amp;pound £2250 SOLD
   - image_path: /uploads/gallery-images/anne-howeson/bp-garage.jpg
     image_title:
     image_description: >-
