@@ -9,13 +9,13 @@ description_markdown: >-
   **CAREY BLYTH GALLERY : 8 Woodstock Road Oxford OX2 6HT**
 
 
-  **Hours : Wed-Sat 12-5 pm.&nbsp;**
+  **Hours : Wed-Sat 12-5 pm. **
 
 
   **Talk : Anne Howeson, artist talks about Feet of Angels with Sacha Craddock,
   art critic and curator, at The Oxford Friends House, Meeting Room on Saturday,
-  25 March at 3 pm.&nbsp; Join us for drinks at the CBG after the talk.&nbsp;
-  RSVP jennyblythart@gmail.com**
+  25 March at 3 pm. Join us for drinks at the CBG after the talk. RSVP
+  jennyblythart@gmail.com**
 
 
   Text Jenny Blyth © 2023
@@ -73,7 +73,7 @@ images:
     image_title:
     image_description: >-
       Spade and Broom 2022<br />gouache, conte, digital print<br />44 x 52 cm<br
-      />&amp;pound 
+      />&amp;pound  £2500 SOLD
   - image_path: /uploads/gallery-images/anne-howeson/dsc-1683.jpg
     image_title:
     image_description: >-
