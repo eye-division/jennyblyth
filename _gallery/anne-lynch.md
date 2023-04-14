@@ -57,6 +57,9 @@ archive: false
 main_image_path: /uploads/patience-and-mischief-1mb-copy.jpg
 display_title: true
 images:
+  - image_path: /uploads/patience-and-mischief-1mb-copy.jpg
+    image_title: Patience and Mischief
+    image_description:
   - image_path: >-
       /uploads/gallery-images/anne-lynchsectrets-of-the-home-waiting-to-be-heard-101x130cmjpeg-copy.jpg
     image_title: Secrets Yet To Be Heard
