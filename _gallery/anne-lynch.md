@@ -1,7 +1,7 @@
 ---
 title: Anne LYNCH
 surname: Lynch
-currentshow:
+currentshow: Anne LYNCH
 description_markdown: >-
   Food, storytelling and myths are at the heart of Anne Lynch’s paintings.&nbsp;
   Working in watercolour and occasional collage, she defies the traditional
