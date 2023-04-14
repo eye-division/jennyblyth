@@ -9,7 +9,7 @@ description_markdown: >-
   **CAREY BLYTH GALLERY : 8 Woodstock Road Oxford OX2 6HT**
 
 
-  **Hours : Wed-Sat 12-5 pm. **
+  \*\*Hours : Wed-Sat 12-5 pm. \*\*
 
 
   **Talk : Anne Howeson, artist talks about Feet of Angels with Sacha Craddock,
