@@ -54,7 +54,7 @@ frontpage: true
 gallery_date: 2023-05-11 00:00:00
 permalink: /gallery/anne-lynch/
 archive: false
-main_image_path: /uploads/patience-and-mischief-1mb-copy.jpg
+main_image_path: /uploads/patience-and-mischief-1mb-copy-1.jpg
 display_title: true
 images:
   - image_path: /uploads/patience-and-mischief-1mb-copy.jpg
