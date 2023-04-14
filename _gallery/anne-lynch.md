@@ -64,6 +64,17 @@ images:
   - image_path: /uploads/gallery-images/anne-lynch-memories-in-unsettling-times.jpg
     image_title: Holding Wisdom for The Young
     image_description:
+  - image_path: /uploads/gallery-images/anne-lynch-memories-in-unsettling-times.jpg
+    image_title: Memories in Unsettling Times
+    image_description:
+  - image_path: >-
+      /uploads/gallery-images/anne-lynch/anne-lynch-setting-the-table-watercolour-59x42-se22-copy.jpg
+    image_title: Setting The Table
+    image_description:
+  - image_path: >-
+      /uploads/gallery-images/anne-lynch/anne-lynch-thinking-of-laying-the-table-watercolour-74x55cmimg-3470.jpg
+    image_title: Thinking of Laying The Table
+    image_description:
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
