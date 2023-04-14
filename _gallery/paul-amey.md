@@ -71,7 +71,7 @@ images:
     image_title:
     image_description: >-
       Kentallen at Dusk<br />acrylic on board<br />75 x 100cm<br />&amp;pound
-      3,500
+      3,500 SOLD
   - image_path: /uploads/fruit--freesias.JPG
     image_title:
     image_description: >-
