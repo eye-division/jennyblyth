@@ -1,7 +1,7 @@
 ---
 title: Anne LYNCH
 surname: Lynch
-currentshow:
+currentshow: Anne LYNCH
 description_markdown: >-
   Food, storytelling and myths are at the heart of Anne Lynch’s paintings.&nbsp;
   Working in watercolour and occasional collage, she defies the traditional
@@ -51,7 +51,7 @@ description_markdown: >-
   from a central flower which she describes as a body response to composition.
 homepage_description_markdown: ''
 frontpage: true
-gallery_date:
+gallery_date: 2023-05-11 00:00:00
 permalink: /gallery/anne-lynch/
 archive: false
 main_image_path: /uploads/patience-and-mischief-1mb-copy.jpg
