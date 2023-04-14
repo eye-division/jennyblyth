@@ -1,7 +1,7 @@
 ---
 title: Alison Berrett
 surname: Berrett
-currentshow: Alison BERRETT
+currentshow:
 description_markdown: >-
   **ALISON BERRETT**
 
