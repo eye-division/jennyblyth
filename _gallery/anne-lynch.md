@@ -61,7 +61,8 @@ images:
       /uploads/gallery-images/anne-lynchsectrets-of-the-home-waiting-to-be-heard-101x130cmjpeg-copy.jpg
     image_title: Secrets Yet To Be Heard
     image_description:
-  - image_path: /uploads/gallery-images/anne-lynch-memories-in-unsettling-times.jpg
+  - image_path: >-
+      /uploads/gallery-images/anne-lynch/anne-lynch-holding-wisdom-for-the-youth-watercolour-84x116cm-fr-2300.jpg
     image_title: Holding Wisdom for The Young
     image_description:
   - image_path: /uploads/gallery-images/anne-lynch-memories-in-unsettling-times.jpg
@@ -74,6 +75,20 @@ images:
   - image_path: >-
       /uploads/gallery-images/anne-lynch/anne-lynch-thinking-of-laying-the-table-watercolour-74x55cmimg-3470.jpg
     image_title: Thinking of Laying The Table
+    image_description:
+  - image_path: >-
+      /uploads/gallery-images/anne-lynch/replacing-hopes-105x76-watercolour-collage.jpg
+    image_title: Replacing Hopes
+    image_description:
+  - image_path: >-
+      /uploads/gallery-images/anne-lynch/thoughts-of-childhood-100x70uf-watercolour-copy-2.jpg
+    image_title: Thoughts of Childhood
+    image_description:
+  - image_path: /uploads/gallery-images/anne-lynch/disconnected-memories-2.jpg
+    image_title: Disconnected Memories
+    image_description:
+  - image_path: ''
+    image_title: ''
     image_description:
 _options:
   image_path:
