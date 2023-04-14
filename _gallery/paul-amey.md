@@ -3,10 +3,10 @@ title: Paul Amey
 surname: Amey
 currentshow: true
 description_markdown: >-
-  \*\*PAUL AMEY : 10 July - August 2021 \*\*
+  PAUL AMEY : 10 July - August 2021&nbsp;
 
 
-  \*\*Carey Blyth Gallery 8 Woodstock Road Oxford OX2 6HT \*\*
+  Carey Blyth Gallery 8 Woodstock Road Oxford OX2 6HT \*\*
 
 
   Medium holds no boundaries for Paul AMEY. He is both painter and sculptor of
@@ -51,7 +51,7 @@ images:
     image_title:
     image_description: >-
       Fireworks/Harbour<br />acrylic on board<br />150 x 130 cm<br />&amp;pound
-      3950
+      3950 SOLD
   - image_path: /uploads/img-0699.jpg
     image_title: Table Top with Laptop
     image_description: >-
@@ -71,7 +71,7 @@ images:
     image_title:
     image_description: >-
       Kentallen at Dusk<br />acrylic on board<br />75 x 100cm<br />&amp;pound
-      3,500
+      3,500 SOLD
   - image_path: /uploads/fruit--freesias.JPG
     image_title:
     image_description: >-
