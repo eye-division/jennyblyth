@@ -87,8 +87,9 @@ images:
   - image_path: /uploads/gallery-images/anne-lynch/disconnected-memories-2.jpg
     image_title: Disconnected Memories
     image_description:
-  - image_path: ''
-    image_title: ''
+  - image_path: >-
+      /uploads/gallery-images/anne-lynch/anne-lynch-rws-103x67-watercolour-gardens-unite-all-generations-2100-copy.jpg
+    image_title: Gardens Unite All Generations
     image_description:
 _options:
   image_path:
