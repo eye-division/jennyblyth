@@ -1,7 +1,7 @@
 ---
 title: Netta Carey
 surname: Carey
-currentshow: true
+currentshow: false
 description_markdown: >-
   **SEPTEMBER 2022 at CBG**
 
