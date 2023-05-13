@@ -1,7 +1,7 @@
 ---
 title: Gerry Judah
 surname: Judah
-currentshow: true
+currentshow: false
 description_markdown: >-
   **GERRY JUDAH : ARK ANGELS**
 
@@ -153,7 +153,7 @@ description_markdown: >-
 
 
   COUNTRY December 2010 - January 2011 at the Fitzroy Gallery, New York. Country
-  curated by Jenny Blyth. Text by Jenny Blyth &copy; 2013 :
+  curated by Jenny Blyth. Text by Jenny Blyth © 2013 :
 
 
   *The role for contemporary artists is to react and reflect upon life and the
@@ -235,7 +235,7 @@ description_markdown: >-
   London, Chris Drake Collection Sussex, Centre for Arts Israel, Irena Hochman
   Collection New York, Bobby Kapoor Collection India, Museum of Old and New Art
   Australia and The Earl of March, Goodwood.
-homepage_description_markdown:
+homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/gerry-judah/
@@ -300,14 +300,14 @@ images:
       cm
 _options:
   image_path:
-    uploads_dir: "uploads/gallery-images/:title"
+    uploads_dir: uploads/gallery-images/:title
     width: 1200
     height: 1200
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    resize_style: contain
+    mime_type: image/jpeg
     accepts_mime_types:
-      - "image/png"
-      - "image/jpeg"
+      - image/png
+      - image/jpeg
   main_image_path:
     width: 1200
     height: 800
@@ -325,5 +325,3 @@ _comments:
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
 ---
-
-
