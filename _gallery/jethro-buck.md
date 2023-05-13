@@ -10,7 +10,7 @@ description_markdown: >-
   Oxford OX2 6HT in mixed ***Christmas Show 2021 at CBG***.
 
 
-  ***The Forest*** at £550 Framed in oak 95 x 76 cm
+  ***The Forest*** at £750 Framed in oak 95 x 76 cm
 
 
   ***Large Forest*** - dimensions and price on enquiry : jennyblythart@gmail.com
