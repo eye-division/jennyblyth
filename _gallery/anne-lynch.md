@@ -3,6 +3,15 @@ title: Anne LYNCH
 surname: Lynch
 currentshow: Anne LYNCH
 description_markdown: >-
+  **ANNE LYNCH**
+
+
+  **Pots of Plenty at CBG**
+
+
+  **11 May - End June 2023**
+
+
   Food, storytelling and myths are at the heart of Anne Lynch’s paintings.&nbsp;
   Working in watercolour and occasional collage, she defies the traditional
   parameters of scale and content of her chosen medium. &nbsp; Although tutored
