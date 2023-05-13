@@ -61,28 +61,26 @@ images:
     image_title:
     image_description: >-
       Patience & Mischief<br />watercolour and collage<br />113 x 154 cm<br
-      />&amp;pound 
+      />&amp;pound 3750
   - image_path: >-
       /uploads/gallery-images/anne-lynchsectrets-of-the-home-waiting-to-be-heard-101x130cmjpeg-copy.jpg
     image_title:
     image_description: >-
       Secrets Yet To Be Heard<br />watercolour and collage<br />101 x 138 cm<br
-      />&amp;pound 
+      />&amp;pound 3750
   - image_path: >-
       /uploads/gallery-images/anne-lynch/anne-lynch-holding-wisdom-for-the-youth-watercolour-84x116cm-fr-2300.jpg
     image_title:
     image_description: >-
       Holding Wisdom for The Young<br />watercolour and collage<br />84 x 116 
-      cm<br />&amp;pound 
+      cm<br />&amp;pound 1850
   - image_path: /uploads/gallery-images/anne-lynch-memories-in-unsettling-times.jpg
     image_title:
-    image_description: >-
-      Memories in Unsettling Times<br />watercolour<br />76 x 105 cm<br
-      />&amp;pound 
+    image_description: 'Generating Seeds<br />watercolour<br />76 x 105 cm<br />&amp;pound 1950 '
   - image_path: >-
       /uploads/gallery-images/anne-lynch/anne-lynch-setting-the-table-watercolour-59x42-se22-copy.jpg
     image_title:
-    image_description: 'Setting The Table<br />watercolour<br />76 x 60 cm<br />&amp;pound '
+    image_description: Setting The Table<br />watercolour<br />76 x 60 cm<br />&amp;pound 875
   - image_path: >-
       /uploads/gallery-images/anne-lynch/anne-lynch-thinking-of-laying-the-table-watercolour-74x55cmimg-3470.jpg
     image_title:
@@ -92,18 +90,18 @@ images:
   - image_path: >-
       /uploads/gallery-images/anne-lynch/replacing-hopes-105x76-watercolour-collage.jpg
     image_title:
-    image_description: 'Replacing With Hopes<br />watercolour <br />105 x 76 cm<br />&amp;pound '
+    image_description: Regeneration<br />watercolour <br />105 x 76 cm<br />&amp;pound 1950
   - image_path: >-
       /uploads/gallery-images/anne-lynch/thoughts-of-childhood-100x70uf-watercolour-copy-2.jpg
     image_title:
     image_description: >-
       Thoughts of Childhood<br />watercolour and collage<br />100 x 70 cm<br
-      />&amp;pound 
+      />&amp;pound 1950
   - image_path: /uploads/gallery-images/anne-lynch/disconnected-memories-2.jpg
     image_title:
     image_description: >-
-      Disconnected Memories<br />watercolour and collage<br />94 x 72 cm<br
-      />&amp;pound 
+      Reflections I<br />watercolour and collage<br />94 x 72 cm<br />&amp;pound
+      875
   - image_path: >-
       /uploads/gallery-images/anne-lynch/anne-lynch-rws-103x67-watercolour-gardens-unite-all-generations-2100-copy.jpg
     image_title:
