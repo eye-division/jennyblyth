@@ -86,6 +86,13 @@ images:
     image_description: >-
       <br />Dolomite glaze on Scarva Handbuilding white stoneware clayfired to
       1255 degrees<br />113 x 154 cm<br />&amp;pound 450 each
+  - image_path: /uploads/gallery-images/alan-berman/nut.jpg
+    image_title: Nut Jar
+    image_description: |-
+      <br />Crank stoneware
+      fired to 1250 degrees
+      Manganese glaze 
+      <br />113 x 154 cm<br />&amp;pound 500
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
