@@ -1,11 +1,9 @@
 ---
 title: Alan BERMAN
 surname: BERMAN
-currentshow:
+currentshow: Alan BERMAN
 description_markdown: >-
   **ALAN BERMAN**
-
-
 
 
   **POTS OF PLENTY**
@@ -25,34 +23,32 @@ description_markdown: >-
 
 
   In ancient Indian culture, food and drink for the Gods were contained in
-  special vessels, that appeared full to brimming.&nbsp; The Sanskrit word for
-  pot ‘kumbh’ translates literally as *body*, and has been used widely in Indian
-  Art and Literature to mean woman, bounty, earth and plentitude. Where Bernard
+  special vessels, that appeared full to brimming. The Sanskrit word for pot
+  ‘kumbh’ translates literally as *body*, and has been used widely in Indian Art
+  and Literature to mean woman, bounty, earth and plentitude. Where Bernard
   Leach spoke of ‘*the lip, the neck and the shoulder’*, Betty Blandino, Oxford
-  potter, described the ideal pot as ‘*so full as to stretch the skin’.&nbsp;*
-  Hans Coper, Lucie Rie - referred to as *Godmother of Potting*, and Betty
-  Blendino, have been Berman’s most treasured muses, and it is that feeling of
-  plentitude that Berman seeks to achieve.&nbsp;
-
-
+  potter, described the ideal pot as ‘*so full as to stretch the skin’.*  Hans
+  Coper, Lucie Rie - referred to as *Godmother of Potting*, and Betty Blendino,
+  have been Berman’s most treasured muses, and it is that feeling of plentitude
+  that Berman seeks to achieve.
 
 
   A highly respected award-winning architect, creating and extending buildings
   both contemporary and classical, Alan Berman is engaged with form, and life
   now happily affords the opportunity to explore further passions for planting
-  trees and ceramics.&nbsp; In all three disciplines, form is at the heart of
-  the matter.&nbsp; With a profound love for nature and the environment, AB says
-  that ‘*nothing is quite as perfect as the design of a tree’*, and *Pots of
-  Plenty* that he has been making without a wheel for thirty years, are by
-  definition about both the inside as much as the outside.&nbsp; Form defines
-  space, defines form…
+  trees and ceramics. In all three disciplines, form is at the heart of the
+  matter. With a profound love for nature and the environment, AB says that
+  ‘*nothing is quite as perfect as the design of a tree’*, and *Pots of Plenty*
+  that he has been making without a wheel for thirty years, are by definition
+  about both the inside as much as the outside. Form defines space, defines
+  form…
 
 
   Working with stoneware clay that he rolls and coils is AB’s preferred
   practice, scraping inside and out to achieve a raw surface that gives both
-  character and warmth.&nbsp; Dolomite glaze in shades of white or manganese
-  dark brown are undecorated, so as not to detract from line and shape. His pots
-  are asymmetrical, each unique. Unlike architecture where the ‘making’ of the
+  character and warmth. Dolomite glaze in shades of white or manganese dark
+  brown are undecorated, so as not to detract from line and shape. His pots are
+  asymmetrical, each unique. Unlike architecture where the ‘making’ of the
   building affords that one chance to get it right, potting can be repeated
   again and again in the quest for perfection. There are moments when
   architecture spills across into his ceramics, which is evident in Berman’s
@@ -62,11 +58,11 @@ description_markdown: >-
 
   Given the unpredictability of firing where bubbles deep in the clay might
   burst forth, and glazing brings an infinite spectrum of possibilities, one pot
-  can never be the same as the last.&nbsp; So potting is something of a life
-  journey, where intention and practice hone the skills required to do, or to
-  be, one’s best.&nbsp; There is an inherent alchemy of serendipity in the
-  process of potting, but as technique is mastered and form is pared back, it is
-  more by design than by chance that Alan Berman creates beautiful pots.
+  can never be the same as the last. So potting is something of a life journey,
+  where intention and practice hone the skills required to do, or to be, one’s
+  best. There is an inherent alchemy of serendipity in the process of potting,
+  but as technique is mastered and form is pared back, it is more by design than
+  by chance that Alan Berman creates beautiful pots.
 homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2023-05-13 00:00:00
