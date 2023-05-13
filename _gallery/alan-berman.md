@@ -72,14 +72,22 @@ main_image_path: /uploads/large-bowl-crop-1.jpg
 display_title: true
 images:
   - image_path: /uploads/gallery-images/large-bowl-crop.jpg
-    image_title: Large Bowl
-    image_description:
+    image_title:
+    image_description: |-
+      Large Bowl<br />Dolomite glaze on Potclay’s Craft Crank stoneware clay
+      fired to 1245 degrees C<br />113 x 154 cm<br />&amp;pound 600
   - image_path: /uploads/gallery-images/leaning-slab-african-stone-ii.jpg
     image_title: Leaning Slab in Manganese Brown
-    image_description:
+    image_description: >-
+      Leaning Slab<br />Manganese brown and Dolomite glaze on African Stone
+      highly grogged stoneware clay fired to 1255 degrees<br />113 x 154 cm<br
+      />&amp;pound 500
   - image_path: /uploads/gallery-images/leaning-slab.jpg
-    image_title: Leaning Slab in White I
-    image_description:
+    image_title: Leaning Slab in White I & II
+    image_description: >-
+      Leaning Slab I & II<br />Dolomite glaze on Scarva Handbuilding white
+      stoneware clayfired to 1255 degrees<br />113 x 154 cm<br />&amp;pound 450
+      each
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
