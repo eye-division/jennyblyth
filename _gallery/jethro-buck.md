@@ -1,16 +1,16 @@
 ---
 title: Jethro Buck
 surname: Buck
-currentshow: true
+currentshow: false
 description_markdown: >-
   #### 2021
 
 
-  Currently showing Digital Prints at Carey Blyth Gallery, 8 Woodstock Road,
-  Oxford OX2 6HT in mixed ***Christmas Show 2021 at CBG***.
+  Digital Prints in pigmented inks on archival paper on sale at Carey Blyth
+  Gallery, 8 Woodstock Road, Oxford OX2 6HT&nbsp;
 
 
-  ***The Forest*** at £550 Framed in oak 95 x 76 cm
+  ***The Forest*** at £750 Framed in oak 95 x 76 cm
 
 
   ***Large Forest*** - dimensions and price on enquiry : jennyblythart@gmail.com
