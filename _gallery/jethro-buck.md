@@ -1,7 +1,7 @@
 ---
 title: Jethro Buck
 surname: Buck
-currentshow: true
+currentshow: false
 description_markdown: >-
   #### 2021
 
