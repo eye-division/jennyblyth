@@ -1,7 +1,7 @@
 ---
 title: Martin Smith
 surname: Smith
-currentshow: true
+currentshow: false
 description_markdown: >-
   **Currently showing at CAREY BLYTH 8 Woodstock Road OX2 6HT**
 
@@ -19,7 +19,6 @@ description_markdown: >-
   figures are entwined, carved from alabaster and are as one.
 
 
-  &nbsp;
 
 
   TOUCHING THE EARTH&nbsp;
@@ -72,8 +71,8 @@ description_markdown: >-
   exciting viewing for us as we share her journey and spirit of adventure.
 
 
-  Text by Jenny Blyth &copy; 2019 &nbsp;&nbsp; For images/info contact Jenny
-  Blyth &nbsp; Mob: 07798 526 252&nbsp; jennyblyth@btconnect.com
+  Text by Jenny Blyth © 2019 &nbsp;&nbsp; For images/info contact Jenny Blyth
+  &nbsp; Mob: 07798 526 252&nbsp; jennyblyth@btconnect.com
 
 
   THE ART OF MUSIC & LANGUAGE
@@ -132,7 +131,7 @@ description_markdown: >-
 
 
   * Claire CHRISTIE SMITH see above
-homepage_description_markdown:
+homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/martin-smith/

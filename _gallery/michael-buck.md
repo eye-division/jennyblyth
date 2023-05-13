@@ -1,7 +1,7 @@
 ---
 title: Michael BUCK
 surname: BUCK
-currentshow: Michael BUCK
+currentshow:
 description_markdown: >-
   **MICHAEL BUCK&nbsp;**
 

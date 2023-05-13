@@ -1,7 +1,7 @@
 ---
 title: Paul Amey
 surname: Amey
-currentshow: true
+currentshow: false
 description_markdown: >-
   PAUL AMEY : 10 July - August 2021&nbsp;
 
