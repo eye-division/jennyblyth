@@ -1,7 +1,7 @@
 ---
 title: Anne Howeson
 surname: Howeson
-currentshow: Anne HOWESON
+currentshow:
 description_markdown: >-
   > ***ANNE HOWESON Feet of Angels 18 March - 29 April 2023***
 
