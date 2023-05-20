@@ -82,7 +82,7 @@ images:
     image_title:
     image_description: >-
       Holding Wisdom for The Young<br />watercolour and collage<br />84 x 116 
-      cm<br />&amp;pound 1850
+      cm<br />&amp;pound 1950
   - image_path: /uploads/gallery-images/anne-lynch-memories-in-unsettling-times.jpg
     image_title:
     image_description: 'Generating Seeds<br />watercolour<br />76 x 105 cm<br />&amp;pound 1950 '
