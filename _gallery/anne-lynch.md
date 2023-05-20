@@ -77,8 +77,7 @@ images:
     image_description: >-
       Secrets Yet To Be Heard<br />watercolour and collage<br />101 x 138 cm<br
       />&amp;pound 3750
-  - image_path: >-
-      /uploads/gallery-images/anne-lynch/anne-lynch-holding-wisdom-for-the-youth-watercolour-84x116cm-fr-2300.jpg
+  - image_path: /uploads/gallery-images/anne-lynch/holding-wisdon-for-the-young.jpg
     image_title:
     image_description: >-
       Holding Wisdom for The Young<br />watercolour and collage<br />84 x 116 
