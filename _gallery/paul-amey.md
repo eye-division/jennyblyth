@@ -56,7 +56,7 @@ images:
     image_title: Table Top with Laptop
     image_description: >-
       Table Top with Laptop<br />acrylic on board<br />75 x 100cm<br
-      />&amp;pound 2950
+      />&amp;pound 2950 SOLD
   - image_path: /uploads/tabletop-night.jpg
     image_title: Table Top / Night
     image_description: >-
