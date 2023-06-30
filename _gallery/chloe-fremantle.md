@@ -179,6 +179,9 @@ images:
     image_description: >-
       Evocations 25<br />Acrylic on canvas<br />122 x 132 cm<br />&amp;pound;
       5,000
+  - image_path: /uploads/7-evocations-no-20-gouache--collage-22-x-30--2019-20.jpg
+    image_title:
+    image_description: Evocations 20<br />Gouache on paper<br />46 x 70 cm<br />&amp;pound; 1,500
   - image_path: >-
       /uploads/4-memento-mori-52-acr-on-canvas-52-x-54--132-x-137cms-2017-18-1.jpg
     image_title:
@@ -216,23 +219,27 @@ images:
       Contemplations and Divisions<br />Gouache on paper<br />65 x 45 cm<br
       />&amp;pound; 1,750
   - image_path: >-
-      /uploads/10-contemplations-86-alizarin-and-cadmium-red-10-2019-gouache68-5-x-47-5-cms.jpg
-    image_title:
-    image_description: >-
-      Contemplations 86<br />Gouache on paper<br />68.5 x 47.5 cm<br
-      />&amp;pound; 1,750
-  - image_path: >-
       /uploads/9-contemplations-78-aqua--grey--red-circles-3-2019-gouache-67-5-x-46-cms-1.jpg
     image_title:
     image_description: >-
       Contemplations 78<br />Gouache on paper<br />67.5 x 46 cm<br />&amp;pound;
       1,750
+  - image_path: >-
+      /uploads/10-contemplations-86-alizarin-and-cadmium-red-10-2019-gouache68-5-x-47-5-cms.jpg
+    image_title:
+    image_description: >-
+      Contemplations 86<br />Gouache on paper<br />68.5 x 47.5 cm<br
+      />&amp;pound; 1,750 SOLD
   - image_path: /uploads/6-evocations-no-22-gouache-22-x-30--19-20.jpg
     image_title:
-    image_description: Evocations 22<br />Gouache on paper<br />22 x 30 cm<br />&amp;pound; 1,500
-  - image_path: /uploads/7-evocations-no-20-gouache--collage-22-x-30--2019-20.jpg
+    image_description: >-
+      Evocations 22<br />Gouache on paper<br />46 x 70 cm<br />&amp;pound; 1,500
+      SOLD
+  - image_path: /uploads/17-fragments-tree-semicircle-on-red-4022-mm-56-x-76-cm.jpg
     image_title:
-    image_description: Evocations 20<br />Gouache on paper<br />22 x 30 cm<br />&amp;pound; 1,500
+    image_description: >-
+      Fragments, Home Sweet Home <br />Gouache on paper<br />50 x 70 cm<br
+      />&amp;pound; 1,600
   - image_path: >-
       /uploads/16-fragments-river-flotsam-124-gouache--collage-56-x-76-cm-2021.jpg
     image_title:
@@ -251,17 +258,12 @@ images:
     image_description: >-
       Lockdown Evocation - Urban Autumn Street<br />Gouache on collage paper<br
       />56 x 76 cm<br />&amp;pound; 1,600
-  - image_path: /uploads/17-fragments-tree-semicircle-on-red-4022-mm-56-x-76-cm.jpg
-    image_title:
-    image_description: >-
-      Fragments, Home Sweet Home <br />Gouache on paper<br />56 x 76 cm<br
-      />&amp;pound; 1,600
   - image_path: >-
       /uploads/19-fragments-home-sweet-home-reds--purples--on-6-panels-146-22-framed-38-5-x-39-5-work-30-x-30-cm-each-15-x-9-5-cm.jpg
     image_title:
     image_description: >-
       Fragments - Home Sweet Home (reds & purples)<br />Gouache on  paper<br
-      />30 x 30 cm<br />&amp;pound; 450
+      />30 x 30 cm<br />&amp;pound; 450 SOLD
   - image_path: >-
       /uploads/18-fragments-home-sweet-home-reds--greens--on-6-panels-145-22-framed-38-5-x-39-5-work-30-x-30-cm-each-15-x-9-5-cm.jpg
     image_title:
@@ -335,7 +337,7 @@ images:
     image_title:
     image_description: >-
       Home Sweet Home (orange)<br />Mixed media on canvas<br />20 x 25.5 cm<br
-      />&amp;pound; 365
+      />&amp;pound; 365 SOLD
   - image_path: /uploads/21-home-sweet-home-grey-150-22-acr--mm-on-can-20-x-25-5.jpg
     image_title:
     image_description: >-
