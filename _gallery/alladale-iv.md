@@ -98,7 +98,7 @@ homepage_description_markdown: >-
   Netta Carey trained at the Paris American Academy (1982-83), London College of
   Printing (1984-87), Chelsea School of Art (1983-84) and L’Ecole Des Beaux
   Artes, Nantes (1986). She lives and works in Oxfordshire and Snowdonia where
-  she has studios.[…](__notset__)
+  she has studios.[…]()
 frontpage: true
 gallery_date: 2019-10-11 15:28:51
 permalink: /gallery/nettacarey/
@@ -111,7 +111,7 @@ images:
     image_description: Mirror, Mirror <br />oil on canvas<80 x 122 cm<br />&amp;pound 3,200
   - image_path: /uploads/cup-half-full.jpg
     image_title:
-    image_description: Cup Half Full <br />oil on canvas<90 x 70 cm<br />&amp;pound 3,450
+    image_description: Cup Half Full <br />oil on canvas<90 x 70 cm<br />&amp;pound 3,450 SOLD
   - image_path: /uploads/nothing-is-ever-forever-100-x-130-cm.jpg
     image_title:
     image_description: >-
