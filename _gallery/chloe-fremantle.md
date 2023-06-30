@@ -9,29 +9,34 @@ description_markdown: >-
   July 2023
 
 
-  A selection of paintings from Light Seeking Light below.&nbsp; Beautiful
-  summer paintings that reference colourfield,
+  A selection of paintings from 'Light Seeking Light' below.&nbsp; Beautiful
+  summer paintings that reference colourfield, surrealism and abstraction.&nbsp;
+  Chloe Fremantle is a member of the Royal Watercolour Society and has been
+  painting and exhibiting internationally for forty years with work in
+  international Collections. She has lived in New York and Italy and now splits
+  her studio time between London and the Alpes Maritime on the Cote
+  d'Azur.&nbsp; Chloe has a terrific palette, capturing the light and joy of the
+  Mediterranean and her paintings impart surprisingly a wonderful calm that
+  comes from a natural union that she achieves in her compositions.
 
 
-  ###
+  ##### **Chloe Fremantle & Peter Blegvad**
 
 
-  ### **Chloe Fremantle & Peter Blegvad**
+  ##### **'Light Seeking Light'&nbsp; November 2022&nbsp;** curated by Jenny
+  Blyth
 
 
-  ### **'Light Seeking Light'&nbsp; &nbsp;: 1-12 November 2022&nbsp;**
+  ##### **Royal Watercolour Society Galleries**
 
 
-  ### **Royal Watercolour Society Galleries**
+  ##### **London WC2 &nbsp;**
 
 
-  ### **3-5 Whitcomb Street London WC2H&nbsp; 7HA**
+  ##### **​**
 
 
-  ### **​​​​Tuesday-Saturday 10-5 pm**
-
-
-  ***‘Colour and I are one.&nbsp; I am a painter’ Paul Klee***
+  ***'Colour and I are one.&nbsp; I am a painter’ Paul Klee***
 
 
   Colour influences our perceptions, affecting our behaviour and our moods
@@ -43,9 +48,9 @@ description_markdown: >-
   colours the mind.&nbsp; For Artists, it is a path to liberation.
 
 
-  Chloe Fremantle: ***‘Evocations'&nbsp;*reflect the fleetingness of our
+  Chloe Fremantle's&nbsp;*‘Evocations'&nbsp;*reflect the fleetingness of our
   memories, and the wealth of individual experience which inform our responses
-  to any given moment’.**
+  to any given moment.
 
 
   Artists share with us their unique journeys through observation and expression
