@@ -1,7 +1,7 @@
 ---
 title: Chloe Fremantle
 surname: Fremantle
-currentshow: false
+currentshow: true
 description_markdown: >-
   ### Back To Abstract at CBG
 
@@ -9,34 +9,33 @@ description_markdown: >-
   July 2023
 
 
-  A selection of paintings from 'Light Seeking Light' below.&nbsp; Beautiful
-  summer paintings that reference colourfield, surrealism and abstraction.&nbsp;
-  Chloe Fremantle is a member of the Royal Watercolour Society and has been
-  painting and exhibiting internationally for forty years with work in
-  international Collections. She has lived in New York and Italy and now splits
-  her studio time between London and the Alpes Maritime on the Cote
-  d'Azur.&nbsp; Chloe has a terrific palette, capturing the light and joy of the
-  Mediterranean and her paintings impart surprisingly a wonderful calm that
-  comes from a natural union that she achieves in her compositions.
+  A selection of paintings from 'Light Seeking Light' below. Beautiful summer
+  paintings that reference colourfield, surrealism and abstraction. Chloe
+  Fremantle is a member of the Royal Watercolour Society and has been painting
+  and exhibiting internationally for forty years with work in international
+  Collections. She has lived in New York and Italy and now splits her studio
+  time between London and the Alpes Maritime on the Cote d'Azur. Chloe has a
+  terrific palette, capturing the light and joy of the Mediterranean and her
+  paintings impart surprisingly a wonderful calm that comes from a natural union
+  that she achieves in her compositions.
 
 
   ##### **Chloe Fremantle & Peter Blegvad**
 
 
-  ##### **'Light Seeking Light'&nbsp; November 2022&nbsp;** curated by Jenny
-  Blyth
+  ##### **'Light Seeking Light' November 2022**  curated by Jenny Blyth
 
 
   ##### **Royal Watercolour Society Galleries**
 
 
-  ##### **London WC2 &nbsp;**
+  ##### **London WC2**
 
 
   ##### **​**
 
 
-  ***'Colour and I are one.&nbsp; I am a painter’ Paul Klee***
+  ***'Colour and I are one. I am a painter’ Paul Klee***
 
 
   Colour influences our perceptions, affecting our behaviour and our moods
@@ -45,12 +44,12 @@ description_markdown: >-
   for the soul’. From the Ancient Egyptians who used prisms to split the colours
   from crystals for medicinal purpose and to enhance wellbeing, to Carl Jung who
   said that ‘colours are the mother tongue of the subconscious’, clearly palette
-  colours the mind.&nbsp; For Artists, it is a path to liberation.
+  colours the mind. For Artists, it is a path to liberation.
 
 
-  Chloe Fremantle's&nbsp;*‘Evocations'&nbsp;*reflect the fleetingness of our
-  memories, and the wealth of individual experience which inform our responses
-  to any given moment.
+  Chloe Fremantle's *‘Evocations'* reflect the fleetingness of our memories, and
+  the wealth of individual experience which inform our responses to any given
+  moment.
 
 
   Artists share with us their unique journeys through observation and expression
@@ -63,37 +62,35 @@ description_markdown: >-
 
 
   There is an innate sense of joy in Chloe Fremantle’s painting irrespective of
-  her subject.&nbsp; Such is the effect of colour and patterning in her work for
-  us as viewers.&nbsp; On close inspection one can unravel her language of
-  mark-making that she has developed from observations of the natural world and
-  her immediate environment.&nbsp;
+  her subject. Such is the effect of colour and patterning in her work for us as
+  viewers. On close inspection one can unravel her language of mark-making that
+  she has developed from observations of the natural world and her immediate
+  environment.
 
 
   High up in the Alpes Maritimes, close to a much-loved pied-a-terre on the Cote
-  d’Azur, is a beautiful cemetery that pans out over the Mediterranean
-  below.&nbsp; Chloe’s ***Memento Mori in Black and Gold*** explores the curve
-  and line of stonework and trellis, interspersed with the adornments particular
-  to catholic French graveyards, and the flowers and succulents that flourish
-  there.&nbsp;
+  d’Azur, is a beautiful cemetery that pans out over the Mediterranean below.
+  Chloe’s ***Memento Mori in Black and Gold*** explores the curve and line of
+  stonework and trellis, interspersed with the adornments particular to catholic
+  French graveyards, and the flowers and succulents that flourish there.
 
 
-  Urbanity and politics do not go unnoticed.&nbsp; Her
-  ***Contemplation*&nbsp;&nbsp;**series celebrates diversity whilst reflecting
-  on the seemingly unreconcilable stand-off arising from Brexit. Lockdown during
-  Covid, highlighted the nuances of ***Home Sweet Home,*** contrasting with
-  Chloe’s explorations of space - the ‘out’ from ‘within’.&nbsp;
+  Urbanity and politics do not go unnoticed. Her ***Contemplation*** series
+  celebrates diversity whilst reflecting on the seemingly unreconcilable
+  stand-off arising from Brexit. Lockdown during Covid, highlighted the nuances
+  of ***Home Sweet Home,*** contrasting with Chloe’s explorations of space - the
+  ‘out’ from ‘within’.
 
 
   Seeds, pods and petals of myriad flora observed, inform her mark-making and
   are complemented by the micro of biology and cellular structure, to the macro
-  of curves and contouring in the landscape.&nbsp; All of this is academic
-  because she has over years created her own alphabet and language that has a
-  life of its own.&nbsp; It is instantly recognisable and distinctly Fremantle
-  in both palette and form.&nbsp; Memories and emotions through association
-  pervade her compositions so that the initial delight that one enjoys on first
-  inspection is challenged as we explore the complexities of her compositions.
-  The overall effect is a ‘jazz fusion’ of balance on the canvas, the product of
-  a life time of painting.&nbsp;
+  of curves and contouring in the landscape. All of this is academic because she
+  has over years created her own alphabet and language that has a life of its
+  own. It is instantly recognisable and distinctly Fremantle in both palette and
+  form. Memories and emotions through association pervade her compositions so
+  that the initial delight that one enjoys on first inspection is challenged as
+  we explore the complexities of her compositions. The overall effect is a ‘jazz
+  fusion’ of balance on the canvas, the product of a life time of painting.
 
 
   Text by Jenny Blyth, Curator © 2022
