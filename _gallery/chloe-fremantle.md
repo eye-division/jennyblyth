@@ -3,6 +3,19 @@ title: Chloe Fremantle
 surname: Fremantle
 currentshow: false
 description_markdown: >-
+  ### Back To Abstract at CBG
+
+
+  July 2023
+
+
+  A selection of paintings from Light Seeking Light below.&nbsp; Beautiful
+  summer paintings that reference colourfield,
+
+
+  ###
+
+
   ### **Chloe Fremantle & Peter Blegvad**
 
 
@@ -185,7 +198,7 @@ images:
       6,250
   - image_path: /uploads/11-evocations-a-dec-2019-gouache-30-x-22--.jpg
     image_title:
-    image_description: Evocations A<br />Gouache on paper<br />30 x 22 cm<br />&amp;pound; 1,500
+    image_description: Evocations A<br />Gouache on paper<br />66 x 47 cm<br />&amp;pound; 1,500
   - image_path: /uploads/40-cpg-mixed-flower-beds-93-gouache-2020-76-x-56-cm.jpg
     image_title:
     image_description: >-
