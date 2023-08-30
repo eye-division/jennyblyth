@@ -118,10 +118,10 @@ display_title: false
 images:
   - image_path: /uploads/gallery-images/trish-wylie/sisters-i.jpg
     image_title: Sisters I
-    image_description:
+    image_description: 'Sisters I<br />oil on canvas<br />cm<br />&amp;pound '
   - image_path: /uploads/gallery-images/sisters-ii.jpg
     image_title: Sisters II
-    image_description:
+    image_description: 'Sisters II<br />oil on canvas<br />cm<br />&amp;pound '
   - image_path: /uploads/gallery-images/trish-wylie/rearing-horse-in-black-and-pink.jpg
     image_title: Misfit Stallion
     image_description:
