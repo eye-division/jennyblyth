@@ -141,13 +141,19 @@ images:
       />&amp;pound 
   - image_path: /uploads/gallery-images/trish-wylie/lino-cut-1.jpg
     image_title: Magnificent Seven Black and Gold
-    image_description: 'Magnificent Seven Black and Gold<br />linocut ed<br />cm<br />&amp;pound '
+    image_description: >-
+      Magnificent Seven Black and Gold<br />linocut edition of 25<br />cm<br
+      />&amp;pound 
   - image_path: /uploads/gallery-images/trish-wylie/lino-cut-3.jpg
     image_title: Magnificent Seven Red and Gold
-    image_description: 'Magnificent Seven Red and Gold<br />linocut ed<br />cm<br />&amp;pound '
+    image_description: >-
+      Magnificent Seven Red and Gold<br />linocut edition of 25<br />cm<br
+      />&amp;pound 
   - image_path: /uploads/gallery-images/trish-wylie/lino-cut-4.jpg
     image_title: Magnificent Seven Blue
-    image_description: 'Magnificent Seven Blue and Gold<br />linocut ed<br />cm<br />&amp;pound '
+    image_description: >-
+      Magnificent Seven Blue and Gold<br />linocut edition of 25<br />cm<br
+      />&amp;pound 
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
