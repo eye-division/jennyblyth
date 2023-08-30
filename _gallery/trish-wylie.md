@@ -136,16 +136,16 @@ images:
     image_description: 'Blue Rider<br />oil on canvas<br />cm<br />&amp;pound '
   - image_path: /uploads/gallery-images/mojave-horse.jpg
     image_title: Mojave Horse
-    image_description:
+    image_description: 'Mojave Horse<br />oil on canvas<br />cm<br />&amp;pound '
   - image_path: /uploads/gallery-images/trish-wylie/lino-cut-1.jpg
     image_title: Magnificent Seven Black and Gold
-    image_description:
+    image_description: 'Magnificent Seven Black and Gold<br />linocut ed<br />cm<br />&amp;pound '
   - image_path: /uploads/gallery-images/trish-wylie/lino-cut-3.jpg
     image_title: Magnificent Seven Red and Gold
-    image_description:
+    image_description: 'Magnificent Seven Red and Gold<br />linocut ed<br />cm<br />&amp;pound '
   - image_path: /uploads/gallery-images/trish-wylie/lino-cut-4.jpg
     image_title: Magnificent Seven Blue
-    image_description:
+    image_description: 'Magnificent Seven Blue and Gold<br />linocut ed<br />cm<br />&amp;pound '
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
