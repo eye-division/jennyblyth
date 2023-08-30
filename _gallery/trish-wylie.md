@@ -3,16 +3,19 @@ title: Trish WYLIE
 surname: WYLIE
 currentshow: Trish WYLIE
 description_markdown: >-
-  **TRISH WYLIE**
+  #### **TRISH WYLIE**
 
 
-  **‘ALL THE PRETTY HORSES’**
+  **ALL THE PRETTY HORSES**
 
 
-  at CAREY BLYTH GALLERY
+  ##### at CAREY BLYTH GALLERY
 
 
-  **Private View : 9 September (4-6 weeks)**
+  ###### **Private View : 9 September (4-6 weeks)**
+
+
+  ###### **Artists Talk : 2.30 pm Saturday 16 September**
 
 
   Text by Jenny Blyth, Curator & Gallerist
