@@ -124,16 +124,16 @@ images:
     image_description: 'Sisters II<br />oil on canvas<br />cm<br />&amp;pound '
   - image_path: /uploads/gallery-images/trish-wylie/rearing-horse-in-black-and-pink.jpg
     image_title: Misfit Stallion
-    image_description:
+    image_description: 'Misfit Stallion<br />oil on canvas<br />cm<br />&amp;pound '
   - image_path: /uploads/gallery-images/magnificent-7-x-2.jpg
     image_title: Two Riders
-    image_description:
+    image_description: 'Two Riders<br />oil on canvas<br />cm<br />&amp;pound '
   - image_path: /uploads/gallery-images/rearing-horse-black-pink.jpg
     image_title: Rearing Horse
-    image_description:
+    image_description: 'Rearing Horse<br />oil on canvas<br />cm<br />&amp;pound '
   - image_path: /uploads/gallery-images/riding-figure.jpg
     image_title: Blue Rider
-    image_description:
+    image_description: 'Blue Rider<br />oil on canvas<br />cm<br />&amp;pound '
   - image_path: /uploads/gallery-images/mojave-horse.jpg
     image_title: Mojave Horse
     image_description:
