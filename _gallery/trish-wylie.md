@@ -134,7 +134,7 @@ images:
   - image_path: /uploads/gallery-images/riding-figure.jpg
     image_title:
     image_description: 'Blue Rider<br />oil on canvas<br />5 x 4''<br />&amp;pound '
-  - image_path: /uploads/gallery-images/mojave-horse.jpg
+  - image_path: /uploads/gallery-images/trish-wylie/mojave-horse.jpg
     image_title:
     image_description: >-
       Mojave Horse<br />acrylic on board (framed) <br />12 x 16"<br
