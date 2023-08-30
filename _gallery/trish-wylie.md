@@ -108,12 +108,6 @@ description_markdown: >-
   breath and the speed as they run. Trish Wylie does not seek to recreate
   figurative semblance, more the spirit of the horses in the moment. Rearing
   horses feature predominantly, wild creatures, at one with a wild land.
-
-
-  <br>
-
-
-  <br>
 homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2023-09-09 00:00:00
@@ -122,14 +116,20 @@ archive: false
 main_image_path: /uploads/sisters-i-1.jpg
 display_title: false
 images:
+  - image_path: /uploads/gallery-images/trish-wylie/sisters-i.jpg
+    image_title: Sisters I
+    image_description:
+  - image_path: /uploads/gallery-images/sisters-ii.jpg
+    image_title: Sisters II
+    image_description:
+  - image_path: /uploads/gallery-images/trish-wylie/rearing-horse-in-black-and-pink.jpg
+    image_title: Misfit Stallion
+    image_description:
   - image_path: /uploads/gallery-images/magnificent-7-x-2.jpg
     image_title: Two Riders
     image_description:
   - image_path: /uploads/gallery-images/rearing-horse-black-pink.jpg
     image_title: Rearing Horse
-    image_description:
-  - image_path: /uploads/gallery-images/sisters-ii.jpg
-    image_title: Sisters II
     image_description:
   - image_path: /uploads/gallery-images/riding-figure.jpg
     image_title: Blue Rider
@@ -137,8 +137,14 @@ images:
   - image_path: /uploads/gallery-images/mojave-horse.jpg
     image_title: Mojave Horse
     image_description:
-  - image_path: ''
-    image_title: ''
+  - image_path: /uploads/gallery-images/trish-wylie/lino-cut-1.jpg
+    image_title: Magnificent Seven Black and Gold
+    image_description:
+  - image_path: /uploads/gallery-images/trish-wylie/lino-cut-3.jpg
+    image_title: Magnificent Seven Red and Gold
+    image_description:
+  - image_path: /uploads/gallery-images/trish-wylie/lino-cut-4.jpg
+    image_title: Magnificent Seven Blue
     image_description:
 _options:
   image_path:
