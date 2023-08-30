@@ -118,25 +118,27 @@ display_title: false
 images:
   - image_path: /uploads/gallery-images/trish-wylie/sisters-i.jpg
     image_title: Sisters I
-    image_description: 'Sisters I<br />oil on canvas<br />cm<br />&amp;pound '
+    image_description: 'Sisters I<br />oil on canvas<br />4 x 5''<br />&amp;pound '
   - image_path: /uploads/gallery-images/sisters-ii.jpg
     image_title: Sisters II
-    image_description: 'Sisters II<br />oil on canvas<br />cm<br />&amp;pound '
+    image_description: 'Sisters II<br />oil on canvas<br />4 x 5''<br />&amp;pound '
   - image_path: /uploads/gallery-images/trish-wylie/rearing-horse-in-black-and-pink.jpg
     image_title: Misfit Stallion
-    image_description: 'Misfit Stallion<br />oil on canvas<br />cm<br />&amp;pound '
+    image_description: 'Misfit Stallion<br />oil on canvas<br />30 x 40"<br />&amp;pound '
   - image_path: /uploads/gallery-images/magnificent-7-x-2.jpg
-    image_title: Two Riders
-    image_description: 'Two Riders<br />oil on canvas<br />cm<br />&amp;pound '
+    image_title: Desert Cowboys
+    image_description: 'Two Riders<br />oil on canvas<br />5 x 4''<br />&amp;pound '
   - image_path: /uploads/gallery-images/rearing-horse-black-pink.jpg
     image_title: Rearing Horse
-    image_description: 'Rearing Horse<br />oil on canvas<br />cm<br />&amp;pound '
+    image_description: 'Rearing Horse<br />oil on canvas<br />5 x 4''<br />&amp;pound '
   - image_path: /uploads/gallery-images/riding-figure.jpg
     image_title: Blue Rider
-    image_description: 'Blue Rider<br />oil on canvas<br />cm<br />&amp;pound '
+    image_description: 'Blue Rider<br />oil on canvas<br />5 x 4''<br />&amp;pound '
   - image_path: /uploads/gallery-images/mojave-horse.jpg
     image_title: Mojave Horse
-    image_description: 'Mojave Horse<br />oil on canvas<br />cm<br />&amp;pound '
+    image_description: >-
+      Mojave Horse<br />acrylic on board (framed) <br />12 x 16"<br
+      />&amp;pound 
   - image_path: /uploads/gallery-images/trish-wylie/lino-cut-1.jpg
     image_title: Magnificent Seven Black and Gold
     image_description: 'Magnificent Seven Black and Gold<br />linocut ed<br />cm<br />&amp;pound '
