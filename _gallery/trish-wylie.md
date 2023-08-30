@@ -1,7 +1,7 @@
 ---
 title: Trish WYLIE
 surname: WYLIE
-currentshow:
+currentshow: Trish WYLIE
 description_markdown: >-
   **TRISH WYLIE**
 
