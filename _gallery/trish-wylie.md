@@ -125,24 +125,24 @@ images:
   - image_path: /uploads/gallery-images/sisters-ii.jpg
     image_title:
     image_description: 'Sisters II<br />oil on canvas<br />4 x 5''<br />&amp;pound '
-  - image_path: /uploads/gallery-images/magnificent-7-x-2.jpg
-    image_title:
-    image_description: 'Two Riders<br />oil on canvas<br />5 x 4''<br />&amp;pound '
-  - image_path: /uploads/gallery-images/rearing-horse-black-pink.jpg
-    image_title:
-    image_description: 'Rearing Horse<br />oil on canvas<br />5 x 4''<br />&amp;pound '
-  - image_path: /uploads/gallery-images/riding-figure.jpg
-    image_title:
-    image_description: 'Blue Rider<br />oil on canvas<br />5 x 4''<br '
-  - image_path: /uploads/gallery-images/trish-wylie/rearing-horse-in-black-and-pink.jpg
-    image_title:
-    image_description: Misfit Stallion<br />oil on canvas<br />30 x 40"<br
-  - image_path: /uploads/gallery-images/trish-wylie/wild-horse-i.jpg
-    image_title: Wild Horse I
-    image_description: Wild Horse I<br />oil on canvas<br />20 x 24"<br
   - image_path: /uploads/gallery-images/trish-wylie/wild-horse-ii.jpg
     image_title: ''
     image_description: Wild Horse II<br />oil on canvas<br />20 x 24"<br
+  - image_path: /uploads/gallery-images/trish-wylie/wild-horse-i.jpg
+    image_title: Wild Horse I
+    image_description: Wild Horse I<br />oil on canvas<br />20 x 24"<br
+  - image_path: /uploads/gallery-images/magnificent-7-x-2.jpg
+    image_title:
+    image_description: 'Two Riders<br />oil on canvas<br />5 x 4''<br />&amp;pound '
+  - image_path: /uploads/gallery-images/riding-figure.jpg
+    image_title:
+    image_description: 'Blue Rider<br />oil on canvas<br />5 x 4''<br '
+  - image_path: /uploads/gallery-images/rearing-horse-black-pink.jpg
+    image_title:
+    image_description: 'Rearing Horse<br />oil on canvas<br />5 x 4''<br />&amp;pound '
+  - image_path: /uploads/gallery-images/trish-wylie/rearing-horse-in-black-and-pink.jpg
+    image_title:
+    image_description: Misfit Stallion<br />oil on canvas<br />30 x 40"<br
   - image_path: /uploads/gallery-images/trish-wylie/mojave-horse.jpg
     image_title:
     image_description: 'Mojave Horse<br />acrylic on board (framed) <br />12 x 16"<br '
