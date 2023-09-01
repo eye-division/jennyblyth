@@ -137,24 +137,30 @@ images:
   - image_path: /uploads/gallery-images/trish-wylie/rearing-horse-in-black-and-pink.jpg
     image_title:
     image_description: Misfit Stallion<br />oil on canvas<br />30 x 40"<br
+  - image_path: /uploads/gallery-images/trish-wylie/wild-horse-i.jpg
+    image_title: Wild Horse I
+    image_description: Wild Horse I<br />oil on canvas<br />20 x 24"<br
+  - image_path: /uploads/gallery-images/trish-wylie/wild-horse-ii.jpg
+    image_title: ''
+    image_description: Wild Horse II<br />oil on canvas<br />20 x 24"<br
   - image_path: /uploads/gallery-images/trish-wylie/mojave-horse.jpg
     image_title:
     image_description: 'Mojave Horse<br />acrylic on board (framed) <br />12 x 16"<br '
   - image_path: /uploads/gallery-images/trish-wylie/lino-cut-1.jpg
     image_title:
     image_description: >-
-      Magnificent Seven Black and Gold<br />linocut edition of 25<br />cm<br
-      />&amp;pound 
+      The Magnificent Seven (Black and Gold)<br />linocut edition of 25<br />30
+      x 25"<br />&amp;pound 
   - image_path: /uploads/gallery-images/trish-wylie/lino-cut-3.jpg
     image_title:
     image_description: >-
-      Magnificent Seven Red and Gold<br />linocut edition of 25<br />cm<br
-      />&amp;pound 
+      The Magnificent Seven (Red and Gold)<br />linocut edition of 25<br />25 x
+      30"<br />&amp;pound 
   - image_path: /uploads/gallery-images/trish-wylie/lino-cut-4.jpg
     image_title:
     image_description: >-
-      Magnificent Seven Blue and Gold<br />linocut edition of 25<br />cm<br
-      />&amp;pound 
+      The Magnificent Seven (Blue and Gold)<br />linocut edition of 25<br />30 x
+      25"<br />&amp;pound 
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
