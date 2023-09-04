@@ -6,8 +6,6 @@ description_markdown: >-
   **CAREY BLYTH GALLERY**
 
 
-
-
   **Private View : 9 September - mid October 2023**
 
 
