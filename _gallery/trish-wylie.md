@@ -94,13 +94,13 @@ description_markdown: >-
   industry, TW’s most recent work steps away from the lawlessness of an untamed
   land where gun laws continue to define and determine behaviour.&nbsp; Her new
   paintings celebrate the spirit of freedom portrayed so beautifully in Cormac
-  McCarthy’s ** ** Borderland Trilogy **All The Pretty Horses.** Identifying the
-  riders simply by the brim and curl of their hats, the jangle of spurs and the
-  squeeze of leather, the horses are the stars of the show – you can hear the
-  thunder of their hooves, the sound of their breath and the speed as they run.
-  Trish Wylie does not seek to recreate figurative semblance, more the spirit of
-  the horses in the moment, their exuberance and primal energy. Rearing horses
-  feature predominantly, wild creatures, at one with a wild land.
+  McCarthy’s \*\* \*\* Borderland Trilogy **All The Pretty Horses.** Identifying
+  the riders simply by the brim and curl of their hats, the jangle of spurs and
+  the squeeze of leather, the horses are the stars of the show – you can hear
+  the thunder of their hooves, the sound of their breath and the speed as they
+  run. Trish Wylie does not seek to recreate figurative semblance, more the
+  spirit of the horses in the moment, their exuberance and primal energy.
+  Rearing horses feature predominantly, wild creatures, at one with a wild land.
 homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2023-09-09 00:00:00
@@ -109,7 +109,7 @@ archive: false
 main_image_path: /uploads/sisters-i-1.jpg
 display_title: false
 images:
-  - image_path: /uploads/gallery-images/trish-wylie/sisters-i.jpg
+  - image_path: /uploads/gallery-images/trish-wylie/sisters-i-lg.jpg
     image_title:
     image_description: 'Sisters I<br />oil on canvas<br />4 x 5''<br />&amp;pound '
   - image_path: /uploads/gallery-images/sisters-ii.jpg
@@ -121,16 +121,16 @@ images:
   - image_path: /uploads/gallery-images/trish-wylie/wild-horse-i.jpg
     image_title: Wild Horse I
     image_description: Wild Horse I<br />oil on canvas<br />20 x 24"<br
-  - image_path: /uploads/gallery-images/magnificent-7-x-2.jpg
+  - image_path: /uploads/gallery-images/trish-wylie/desert-cowboys-lg.jpg
     image_title:
     image_description: 'Two Riders<br />oil on canvas<br />5 x 4''<br />&amp;pound '
   - image_path: /uploads/gallery-images/riding-figure.jpg
     image_title:
     image_description: 'Blue Rider<br />oil on canvas<br />5 x 4''<br '
-  - image_path: /uploads/gallery-images/rearing-horse-black-pink.jpg
+  - image_path: /uploads/gallery-images/trish-wylie/rearing-lg.jpg
     image_title:
     image_description: 'Rearing Horse<br />oil on canvas<br />5 x 4''<br />&amp;pound '
-  - image_path: /uploads/gallery-images/trish-wylie/rearing-horse-in-black-and-pink.jpg
+  - image_path: /uploads/gallery-images/trish-wylie/misfit-stallion-lg.jpg
     image_title:
     image_description: Misfit Stallion<br />oil on canvas<br />30 x 40"<br
   - image_path: /uploads/gallery-images/trish-wylie/mojave-horse.jpg
