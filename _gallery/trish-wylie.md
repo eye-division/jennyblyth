@@ -121,7 +121,7 @@ images:
   - image_path: /uploads/gallery-images/trish-wylie/wild-horse-i.jpg
     image_title: Wild Horse I
     image_description: Wild Horse I<br />oil on canvas<br />20 x 24"<br
-  - image_path: /uploads/gallery-images/magnificent-7-x-2.jpg
+  - image_path: /uploads/gallery-images/trish-wylie/desert-cowboys-lg.jpg
     image_title:
     image_description: 'Two Riders<br />oil on canvas<br />5 x 4''<br />&amp;pound '
   - image_path: /uploads/gallery-images/riding-figure.jpg
