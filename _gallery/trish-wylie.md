@@ -127,7 +127,7 @@ images:
   - image_path: /uploads/gallery-images/riding-figure.jpg
     image_title:
     image_description: 'Blue Rider<br />oil on canvas<br />5 x 4''<br '
-  - image_path: /uploads/gallery-images/rearing-horse-black-pink.jpg
+  - image_path: /uploads/gallery-images/trish-wylie/rearing-lg.jpg
     image_title:
     image_description: 'Rearing Horse<br />oil on canvas<br />5 x 4''<br />&amp;pound '
   - image_path: /uploads/gallery-images/trish-wylie/rearing-horse-in-black-and-pink.jpg
