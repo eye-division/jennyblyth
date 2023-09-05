@@ -139,7 +139,7 @@ images:
     image_description: 'Rearing Horse<br />oil on canvas<br />5 x 4''<br />&amp;pound '
   - image_path: /uploads/gallery-images/trish-wylie/misfit-stallion-lg.jpg
     image_title:
-    image_description: Misfit Stallion<br />oil on canvas<br />30 x 40"<br
+    image_description: Misfit Stallion<br />oil on canvas<br />30 x 40"
   - image_path: /uploads/gallery-images/trish-wylie/misfit-large-ii.jpg
     image_title:
     image_description: Misfit Stallion II<br />oil on linen<br />40 x 40"<br />
