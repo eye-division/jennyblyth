@@ -151,6 +151,24 @@ images:
     image_description: >-
       The Magnificent Seven (Blue and Gold)<br />linocut edition of 25<br />30 x
       25"<br />&amp;pound 
+  - image_path: >-
+      /uploads/gallery-images/trish-wylie/trish-wylie-2-little-joshuas-acrylic-on-board-in-black-wooden-frame-12-x-14.jpg
+    image_title:
+    image_description: >-
+      Little Joshuas<br />acrylic on board<br />12 x 14" (framed in black)<br
+      />&amp;pound 
+  - image_path: >-
+      /uploads/gallery-images/trish-wylie/trishwylie-golden-desert-path-acrylic-on-board-in-black-wooden-frame-12-x-14.jpg
+    image_title:
+    image_description: >-
+      Golden Desert Path<br />acrylic on board<br />12 x 14" (framed in
+      black)<br />&amp;pound 
+  - image_path: >-
+      /uploads/gallery-images/trish-wylie/trishwylie-horizon-joshuas-acrylic-on-board-in-black-wooden-frame-14-x-12.jpg
+    image_title:
+    image_description: >-
+      Horizon Joshuas<br />acrylic on board<br />12 x 14" (framed in black)<br
+      />&amp;pound 
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
