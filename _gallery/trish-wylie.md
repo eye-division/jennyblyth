@@ -127,6 +127,13 @@ images:
   - image_path: /uploads/gallery-images/riding-figure.jpg
     image_title:
     image_description: 'Blue Rider<br />oil on canvas<br />5 x 4''<br '
+  - image_path: >-
+      /uploads/gallery-images/trish-wylie/tw-western-spirit-oil-on-canvas-5-x-4.jpg
+    image_title:
+    image_description: 'Western Spirit<br />oil on linen<br />5 x 4''<br />&amp;pound '
+  - image_path: /uploads/gallery-images/trish-wylie/tw-stop-daddy-oil-on-canvas-5-x-4.jpg
+    image_title:
+    image_description: 'Stop Daddy<br />oil on linen<br />4 x 5''<br />&amp;pound '
   - image_path: /uploads/gallery-images/trish-wylie/rearing-lg.jpg
     image_title:
     image_description: 'Rearing Horse<br />oil on canvas<br />5 x 4''<br />&amp;pound '
@@ -172,13 +179,6 @@ images:
     image_description: >-
       The Magnificent Seven (Black and Gold)<br />linocut edition of 25<br />30
       x 25"<br />&amp;pound 
-  - image_path: /uploads/gallery-images/trish-wylie/tw-stop-daddy-oil-on-canvas-5-x-4.jpg
-    image_title:
-    image_description: 'Stop Daddy<br />oil on linen<br />4 x 5''<br />&amp;pound '
-  - image_path: >-
-      /uploads/gallery-images/trish-wylie/tw-western-spirit-oil-on-canvas-5-x-4.jpg
-    image_title:
-    image_description: 'Western Spirit<br />oil on linen<br />5 x 4''<br />&amp;pound '
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
