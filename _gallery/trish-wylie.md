@@ -110,8 +110,8 @@ main_image_path: /uploads/sisters-i-1.jpg
 display_title: false
 images:
   - image_path: /uploads/gallery-images/trish-wylie/sisters-i-lg.jpg
-    image_title:
-    image_description: 'Sisters I<br />oil on canvas<br />4 x 5''<br />&amp;pound '
+    image_title: Sisters I
+    image_description: '<br />oil on canvas<br />4 x 5''<br />&amp;pound '
   - image_path: /uploads/gallery-images/sisters-ii.jpg
     image_title:
     image_description: 'Sisters II<br />oil on canvas<br />4 x 5''<br />&amp;pound '
