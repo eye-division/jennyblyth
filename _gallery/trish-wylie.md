@@ -94,13 +94,13 @@ description_markdown: >-
   industry, TW’s most recent work steps away from the lawlessness of an untamed
   land where gun laws continue to define and determine behaviour.&nbsp; Her new
   paintings celebrate the spirit of freedom portrayed so beautifully in Cormac
-  McCarthy’s \*\* \*\* Borderland Trilogy **All The Pretty Horses.** Identifying
-  the riders simply by the brim and curl of their hats, the jangle of spurs and
-  the squeeze of leather, the horses are the stars of the show – you can hear
-  the thunder of their hooves, the sound of their breath and the speed as they
-  run. Trish Wylie does not seek to recreate figurative semblance, more the
-  spirit of the horses in the moment, their exuberance and primal energy.
-  Rearing horses feature predominantly, wild creatures, at one with a wild land.
+  McCarthy’s Borderland Trilogy **All The Pretty Horses.** Identifying the
+  riders simply by the brim and curl of their hats, the jangle of spurs and the
+  squeeze of leather, the horses are the stars of the show – you can hear the
+  thunder of their hooves, the sound of their breath and the speed as they run.
+  Trish Wylie does not seek to recreate figurative semblance, more the spirit of
+  the horses in the moment, their exuberance and primal energy. Rearing horses
+  feature predominantly, wild creatures, at one with a wild land.
 homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2023-09-09 00:00:00
