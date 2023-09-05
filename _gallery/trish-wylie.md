@@ -94,13 +94,13 @@ description_markdown: >-
   industry, TW’s most recent work steps away from the lawlessness of an untamed
   land where gun laws continue to define and determine behaviour.&nbsp; Her new
   paintings celebrate the spirit of freedom portrayed so beautifully in Cormac
-  McCarthy’s \*\* \*\* Borderland Trilogy **All The Pretty Horses.** Identifying
-  the riders simply by the brim and curl of their hats, the jangle of spurs and
-  the squeeze of leather, the horses are the stars of the show – you can hear
-  the thunder of their hooves, the sound of their breath and the speed as they
-  run. Trish Wylie does not seek to recreate figurative semblance, more the
-  spirit of the horses in the moment, their exuberance and primal energy.
-  Rearing horses feature predominantly, wild creatures, at one with a wild land.
+  McCarthy’s Borderland Trilogy **All The Pretty Horses.** Identifying the
+  riders simply by the brim and curl of their hats, the jangle of spurs and the
+  squeeze of leather, the horses are the stars of the show – you can hear the
+  thunder of their hooves, the sound of their breath and the speed as they run.
+  Trish Wylie does not seek to recreate figurative semblance, more the spirit of
+  the horses in the moment, their exuberance and primal energy. Rearing horses
+  feature predominantly, wild creatures, at one with a wild land.
 homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2023-09-09 00:00:00
@@ -132,7 +132,7 @@ images:
     image_description: 'Rearing Horse<br />oil on canvas<br />5 x 4''<br />&amp;pound '
   - image_path: /uploads/gallery-images/trish-wylie/misfit-stallion-lg.jpg
     image_title:
-    image_description: Misfit Stallion<br />oil on canvas<br />30 x 40"<br
+    image_description: Misfit Stallion<br />oil on canvas<br />40 x 40"<br
   - image_path: /uploads/gallery-images/trish-wylie/mojave-horse.jpg
     image_title:
     image_description: 'Mojave Horse<br />acrylic on board (framed) <br />12 x 16"<br '
@@ -151,6 +151,27 @@ images:
     image_description: >-
       The Magnificent Seven (Blue and Gold)<br />linocut edition of 25<br />30 x
       25"<br />&amp;pound 
+  - image_path: >-
+      /uploads/gallery-images/trish-wylie/trish-wylie-2-little-joshuas-acrylic-on-board-in-black-wooden-frame-12-x-14.jpg
+    image_title:
+    image_description: >-
+      Little Joshuas<br />acrylic on board<br />12 x 14" (framed in black)<br
+      />&amp;pound 
+  - image_path: >-
+      /uploads/gallery-images/trish-wylie/trishwylie-golden-desert-path-acrylic-on-board-in-black-wooden-frame-12-x-14.jpg
+    image_title:
+    image_description: >-
+      Golden Desert Path<br />acrylic on board<br />12 x 14" (framed in
+      black)<br />&amp;pound 
+  - image_path: >-
+      /uploads/gallery-images/trish-wylie/trishwylie-horizon-joshuas-acrylic-on-board-in-black-wooden-frame-14-x-12.jpg
+    image_title:
+    image_description: >-
+      Horizon Joshuas<br />acrylic on board<br />12 x 14" (framed in black)<br
+      />&amp;pound 
+  - image_path: /uploads/gallery-images/trish-wylie/misfit-large-ii.jpg
+    image_title:
+    image_description: 'Misfit Stallion II<br />oil on linen<br />40 x 40"<br />&amp;pound '
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
