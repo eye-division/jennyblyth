@@ -132,7 +132,7 @@ images:
     image_description: 'Rearing Horse<br />oil on canvas<br />5 x 4''<br />&amp;pound '
   - image_path: /uploads/gallery-images/trish-wylie/misfit-stallion-lg.jpg
     image_title:
-    image_description: Misfit Stallion<br />oil on canvas<br />30 x 40"<br
+    image_description: Misfit Stallion<br />oil on canvas<br />40 x 40"<br
   - image_path: /uploads/gallery-images/trish-wylie/mojave-horse.jpg
     image_title:
     image_description: 'Mojave Horse<br />acrylic on board (framed) <br />12 x 16"<br '
@@ -169,6 +169,9 @@ images:
     image_description: >-
       Horizon Joshuas<br />acrylic on board<br />12 x 14" (framed in black)<br
       />&amp;pound 
+  - image_path: /uploads/gallery-images/trish-wylie/misfit-large-ii.jpg
+    image_title:
+    image_description: 'Misfit Stallion II<br />oil on linen<br />40 x 40"<br />&amp;pound '
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
