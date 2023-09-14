@@ -10,7 +10,7 @@ description_markdown: >-
   Gallery, 8 Woodstock Road, Oxford OX2 6HT&nbsp;
 
 
-  ***The Forest*** at £750 Framed in oak 95 x 76 cm
+  ***The Forest*** at £750/950 Unframed/Framed in oak 95 x 76 cm
 
 
   ***Large Forest*** - dimensions and price on enquiry : jennyblythart@gmail.com
@@ -129,7 +129,7 @@ main_image_path: /assets/images/5470a26471c9d.jpg
 images:
   - image_path: /uploads/jethro-buck-the-forest-100-x-150-cm.jpg
     image_title: 'The Forest '
-    image_description: ' 2021<br />pigmented inks on archival paper<br />95 x 75 cm framed in oak<br />Limited Ed of 75 Giclee Prints £550'
+    image_description: ' 2021<br />pigmented inks on archival paper<br />95 x 75 cm<br />Limited Ed of 75 Giclee Prints £750/950 Unframed/Framed in Oak'
   - image_path: /assets/images/5470a26471c9d.jpg
     image_title: Mughal on a Vespa
     image_description: >-
