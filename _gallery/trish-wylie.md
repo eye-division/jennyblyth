@@ -116,8 +116,8 @@ images:
     image_title: Sisters II
     image_description: <br/>oil on canvas<br/>4 x 5'<br/>&amp;pound £6500
   - image_path: /uploads/gallery-images/trish-wylie/wild-horse-ii.jpg
-    image_title: Wild Horse I
-    image_description: <br/>oil on canvas<br/>20 x 24"<br/>&amp;pound £1750
+    image_title:
+    image_description: Wild Horse I<br/>oil on canvas<br/>20 x 24"<br/>&amp;pound £1750
   - image_path: /uploads/gallery-images/trish-wylie/wild-horse-i.jpg
     image_title: Wild Horse I
     image_description: <br/>oil on canvas<br/>20 x 24"<br/>&amp;pound £1750
