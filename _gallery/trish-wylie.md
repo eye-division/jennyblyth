@@ -113,29 +113,29 @@ images:
     image_description: <br />oil on canvas<br />4 x 5'<br />&amp;pound £6500
   - image_path: /uploads/gallery-images/sisters-ii.jpg
     image_title: Sisters II
-    image_description: '<br />oil on canvas<br />4 x 5''<br />&amp;pound '
+    image_description: <br />oil on canvas<br />4 x 5'<br />&amp;pound £6500
   - image_path: /uploads/gallery-images/trish-wylie/wild-horse-ii.jpg
     image_title: Wild Horse II
-    image_description: <br />oil on canvas<br />20 x 24"<br
+    image_description: <br />oil on canvas<br />20 x 24"<br />&amp;pound £1750
   - image_path: /uploads/gallery-images/trish-wylie/wild-horse-i.jpg
     image_title: Wild Horse I
-    image_description: <br />oil on canvas<br />20 x 24"<br
+    image_description: <br />oil on canvas<br />20 x 24"<br />&amp;pound £1750
   - image_path: /uploads/gallery-images/trish-wylie/desert-cowboys-lg.jpg
     image_title: Two Riders
-    image_description: '<br />oil on canvas<br />5 x 4''<br />&amp;pound '
+    image_description: <br />oil on canvas<br />5 x 4'<br />&amp;pound £5500
   - image_path: /uploads/gallery-images/riding-figure.jpg
     image_title: Blue Rider
-    image_description: '<br />oil on canvas<br />5 x 4''<br '
+    image_description: <br />oil on canvas<br />5 x 4'<br />&amp;pound £5500
   - image_path: >-
       /uploads/gallery-images/trish-wylie/tw-western-spirit-oil-on-canvas-5-x-4.jpg
     image_title: Western Spirit
-    image_description: '<br />oil on linen<br />5 x 4''<br />&amp;pound '
+    image_description: <br />oil on linen<br />5 x 4'<br />&amp;pound £5500
   - image_path: /uploads/gallery-images/trish-wylie/tw-stop-daddy-oil-on-canvas-5-x-4.jpg
     image_title: Stop Daddy
-    image_description: '<br />oil on linen<br />4 x 5''<br />&amp;pound '
+    image_description: <br />oil on linen<br />4 x 5'<br />&amp;pound £5500
   - image_path: /uploads/gallery-images/trish-wylie/rearing-lg.jpg
     image_title: Rearing
-    image_description: <br />oil on canvas<br />5 x 4'<br />&amp;pound
+    image_description: <br />oil on canvas<br />5 x 4'<br />&amp;pound £6000
   - image_path: /uploads/gallery-images/trish-wylie/misfit-stallion-lg.jpg
     image_title:
     image_description: Misfit Stallion I<br />oil on canvas<br />30 x 40"
