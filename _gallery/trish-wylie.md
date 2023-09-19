@@ -144,28 +144,34 @@ images:
     image_description: <br />oil on linen<br />40 x 40"
   - image_path: /uploads/gallery-images/trish-wylie/mojave-horse.jpg
     image_title: Mojave Horse
-    image_description: '<br />acrylic on board (framed) <br />12 x 16"<br '
+    image_description: <br />acrylic on board (framed) <br />12 x 16"<br />&amp;pound £750
   - image_path: >-
       /uploads/gallery-images/trish-wylie/trish-wylie-2-little-joshuas-acrylic-on-board-in-black-wooden-frame-12-x-14.jpg
     image_title: Little Joshuas
-    image_description: '<br />acrylic on board<br />12 x 14" (framed in black)<br '
+    image_description: >-
+      <br />acrylic on board<br />12 x 14" (framed in black)<br />&amp;pound
+      £700
   - image_path: >-
       /uploads/gallery-images/trish-wylie/trishwylie-horizon-joshuas-acrylic-on-board-in-black-wooden-frame-14-x-12.jpg
     image_title: Horizon Joshuas
-    image_description: '<br />acrylic on board<br />12 x 14" (framed in black)<br '
+    image_description: >-
+      <br />acrylic on board<br />12 x 14" (framed in black)<br />&amp;pound
+      £700
   - image_path: >-
       /uploads/gallery-images/trish-wylie/trishwylie-golden-desert-path-acrylic-on-board-in-black-wooden-frame-12-x-14.jpg
     image_title: Golden Desert Path
-    image_description: '<br />acrylic on board<br />12 x 14" (framed in black)<br '
+    image_description: >-
+      <br />acrylic on board<br />12 x 14" (framed in black)<br />&amp;pound
+      £700
   - image_path: /uploads/gallery-images/trish-wylie/lino-cut-3-lg.jpg
     image_title: The Magnificent Seven (Red and Gold)
-    image_description: <br />linocut edition of 25<br />25 x 30"
+    image_description: <br />linocut edition of 25<br />25 x 30"<br />&amp;pound £875
   - image_path: /uploads/gallery-images/trish-wylie/lino-cut-4-lg.jpg
     image_title: The Magnificent Seven (Blue and Gold)
-    image_description: <br />linocut edition of 25<br />30 x 25"
+    image_description: <br />linocut edition of 25<br />30 x 25"<br />&amp;pound £875
   - image_path: /uploads/gallery-images/trish-wylie/lino-cut-1-lg.jpg
     image_title: The Magnificent Seven (Black and Gold)
-    image_description: <br />linocut edition of 25<br />30 x 25"
+    image_description: <br />linocut edition of 25<br />30 x 25"<br />&amp;pound £875
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
