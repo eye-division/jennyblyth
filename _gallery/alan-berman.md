@@ -27,7 +27,7 @@ description_markdown: >-
   pot ‘kumbh’ translates literally as *body*, and has been used widely in Indian
   Art and Literature to mean woman, bounty, earth and plentitude. Where Bernard
   Leach spoke of ‘*the lip, the neck and the shoulder’*, Betty Blandino, Oxford
-  potter, described the ideal pot as ‘*so full as to stretch the skin’.&nbsp;*
+  potter, described the ideal pot as ‘*so full as to stretch the skin’.*&nbsp;
   Hans Coper, Lucie Rie - referred to as *Godmother of Potting*, and Betty
   Blendino, have been Berman’s most treasured muses, and it is that feeling of
   plentitude that Berman seeks to achieve.&nbsp;
