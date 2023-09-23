@@ -6,7 +6,7 @@ description_markdown: >-
   **CAREY BLYTH GALLERY**
 
 
-  **Private View : 9 September - 21 October 2023**
+  **Until 21 October 2023**
 
 
   **Paintings by TRISH WYLIE**
