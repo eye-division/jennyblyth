@@ -1,7 +1,7 @@
 ---
 title: Trish WYLIE
 surname: WYLIE
-currentshow: Trish WYLIE
+currentshow:
 description_markdown: >-
   **CAREY BLYTH GALLERY**
 

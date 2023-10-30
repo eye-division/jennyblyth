@@ -1,9 +1,9 @@
 ---
 title: Day Bowman
 surname: Bowman
-currentshow: false
+currentshow: true
 description_markdown: >-
-  ### DAY BOWMAN*&nbsp; 'Seaside Citadels'*
+  ### DAY BOWMAN *'Seaside Citadels'*
 
 
   #### 1 - 12 JUNE 2021
@@ -18,46 +18,45 @@ description_markdown: >-
   Curated by Jenny Blyth in association with Bermondsey Project Space
 
 
-  Hours : Tues - Sat 11 am - 6 pm &nbsp; www.project-space.london
+  Hours : Tues - Sat 11 am - 6 pm www.project-space.london
 
 
-  **Foreword by Jenny Blyth.&nbsp;** (Catalogue available upon request)
+  **Foreword by Jenny Blyth.**  (Catalogue available upon request)
 
 
   Our coastal boundaries appointed with castles and fortresses of old, protected
-  us for hundreds of years against invaders from foreign lands.&nbsp; The
-  geography of an island nation worked in our favour.&nbsp; Those citadels of
-  stone that spangled cliff tops looking out across the seas, were long ago
-  abandoned, but their ruins remain as reminders to us of past invaders and
-  would-be victors. That sense of vulnerability has not been dispelled.&nbsp;
-  Our borders are now politically fortified in a bid to control the complexities
-  of global migration.&nbsp; The layering of history and politics, like the
-  littoral shoreline of sand, sea and sky is constantly in flux.
+  us for hundreds of years against invaders from foreign lands. The geography of
+  an island nation worked in our favour. Those citadels of stone that spangled
+  cliff tops looking out across the seas, were long ago abandoned, but their
+  ruins remain as reminders to us of past invaders and would-be victors. That
+  sense of vulnerability has not been dispelled. Our borders are now politically
+  fortified in a bid to control the complexities of global migration. The
+  layering of history and politics, like the littoral shoreline of sand, sea and
+  sky is constantly in flux.
 
 
   Reflecting upon her personal life journey through a poetic response to the
   beauty of nature, Bowman captures the play of light on wet sands, but does not
   shy away from the contentious issues of global politics that underpin and
-  impact our transient lives.&nbsp; All is captured in her beautiful paintings
-  of *Fortresses* and *Seaside Citadels*.&nbsp;&nbsp;
+  impact our transient lives. All is captured in her beautiful paintings of
+  *Fortresses* and *Seaside Citadels*.
 
 
   Combining the fine art of drawing with that of painting comes naturally to
-  her. &nbsp;Bowman’s abstract expressionist paintings, in charcoal and conte
-  over oil on canvas, are mille feuille - complex yet fluent, strident and
-  charged, they intuitively balance the brittle notes of humanity against the
-  fragility of endeavor.&nbsp;
+  her. Bowman’s abstract expressionist paintings, in charcoal and conte over oil
+  on canvas, are mille feuille - complex yet fluent, strident and charged, they
+  intuitively balance the brittle notes of humanity against the fragility of
+  endeavor.
 
 
   For all of us together on this earth, the catharsis of walking barefoot along
   the shoreline, is primal - the criss-cross of shallow incoming tides erasing
-  our sadnesses like footprints from *Plashy Places.*&nbsp; For Day Bowman,
-  returning to the coastal landscape of her childhood, it is manna for the soul.
-  &nbsp;As we release ourselves to the elements, we find a path to peace and
-  healing.
+  our sadnesses like footprints from *Plashy Places.* For Day Bowman, returning
+  to the coastal landscape of her childhood, it is manna for the soul. As we
+  release ourselves to the elements, we find a path to peace and healing.
 
 
-  ### *DAY BOWMAN&nbsp; 'Plashy Places'*
+  ### *DAY BOWMAN 'Plashy Places'*
 
 
   #### Carey Blyth Gallery , Oxford
@@ -76,42 +75,41 @@ description_markdown: >-
 
   Day Bowman’s childhood days were spent in the Somerset town of Minehead, and
   it is the landscape of that unassuming post-industrial beach town that forms
-  the bedrock for her painting. &nbsp;Her hometown was recorded in the Domesday
-  Book but dates back to the Bronze Age. Strategically located on the coast, it
-  grew from busy trading post in the 1500s to industrial town of the 1800s
-  shipping herring, wool, cattle and coal to Bristol, Wales and Ireland.
-  Industry fell away to larger ports, leaving a detritus of abandoned mining and
-  industrial ‘architecture’.&nbsp; With a new railway line and a pier, Minehead
-  re-emerged as a fashionable Edwardian seaside resort, and remains today a
-  bucket-and-spade summer holiday destination.
+  the bedrock for her painting. Her hometown was recorded in the Domesday Book
+  but dates back to the Bronze Age. Strategically located on the coast, it grew
+  from busy trading post in the 1500s to industrial town of the 1800s shipping
+  herring, wool, cattle and coal to Bristol, Wales and Ireland. Industry fell
+  away to larger ports, leaving a detritus of abandoned mining and industrial
+  ‘architecture’. With a new railway line and a pier, Minehead re-emerged as a
+  fashionable Edwardian seaside resort, and remains today a bucket-and-spade
+  summer holiday destination.
 
 
   There is an echo to the ’layering’ in this coastal town that we see in
-  Bowman’s work.&nbsp; Her paintings are complex.&nbsp; Her skill is the alchemy
-  of juxtaposing the different elements that command her attention, composing
-  abstract paintings that are balanced and fluid.&nbsp; There is terrific
-  strength and confidence in her work. Movement abounds.&nbsp; She balances
-  blocks of black with trapeziums of rust, where ribbons of colour and charcoal
-  encircle pools of light, and scribbled hearts and footprints belie the depth
-  of darker planes and corners.
+  Bowman’s work. Her paintings are complex. Her skill is the alchemy of
+  juxtaposing the different elements that command her attention, composing
+  abstract paintings that are balanced and fluid. There is terrific strength and
+  confidence in her work. Movement abounds. She balances blocks of black with
+  trapeziums of rust, where ribbons of colour and charcoal encircle pools of
+  light, and scribbled hearts and footprints belie the depth of darker planes
+  and corners.
 
 
   It is the ‘*behind the scenes’* landscape of a ghosted industry and deserted
   winter beaches that fire her imagination. Bowman’s paintings are experiential
-  - ***Urban Wastelands*** &nbsp;resonate with the echo of footsteps - running
-  ‘tag’ through giant concrete tunnels, the plink of metal on metal, the dynamic
-  and drama of a wasteland tableaux that characterized ‘playgrounds’ for
-  children of the sixties.
+  - ***Urban Wastelands*** resonate with the echo of footsteps - running ‘tag’
+  through giant concrete tunnels, the plink of metal on metal, the dynamic and
+  drama of a wasteland tableaux that characterized ‘playgrounds’ for children of
+  the sixties.
 
 
   Bowman returns to the beaches of childhood in her recent paintings of
   *\*\*Plashy Places. \*\**Wet sand glistens as the incoming and receding tides
-  of '*Flood and Ebb'* &nbsp;erase calligraphic marks etched momentarily into
-  surface, where the pooling of seawater and reflections play out in oil on
-  canvas. Capturing the abandon of play, Bowman recalls W B Yeats’ *Man From
-  Faeryland,* who, careworn with the fears and concerns of adulthood, observes
-  the humble lugworm rising to the surface, singing of higher places and golden
-  skies …
+  of '*Flood and Ebb'* erase calligraphic marks etched momentarily into surface,
+  where the pooling of seawater and reflections play out in oil on canvas.
+  Capturing the abandon of play, Bowman recalls W B Yeats’ *Man From Faeryland,*
+  who, careworn with the fears and concerns of adulthood, observes the humble
+  lugworm rising to the surface, singing of higher places and golden skies …
 
 
   Bowman’s new and larger paintings of *\*\*Holiday Destinations I, II & III
@@ -122,9 +120,9 @@ description_markdown: >-
 
   While her post-industrial abstractions resonate with rigour and dynamic,
   sculpting shape and movement across the canvas, so Day Bowman’s beach
-  paintings of ***Plashy Places*** &nbsp;capture the magic and beauty of the
-  littoral shoreline, a perpetual dance between sea and land - that tangential,
-  kinetic point at which figuration and abstraction play out.&nbsp;
+  paintings of ***Plashy Places*** capture the magic and beauty of the littoral
+  shoreline, a perpetual dance between sea and land - that tangential, kinetic
+  point at which figuration and abstraction play out.
 
 
   *2019 has been a big year for Day Bowman. She was the Winner of the **Anima
@@ -134,12 +132,12 @@ description_markdown: >-
   University, she has exhibited widely with solo exhibitions over 15 years
   touring in Museums across UK, Germany and China where in 2017 she showed with
   Contemporary Masters from Britain. In 2012 she was commissioned to create
-  giant hoardings across Weymouth to mark the Olympic Sailing.&nbsp; She has
-  paintings in international collections, and works from her studios in London
-  and Dorset.*
+  giant hoardings across Weymouth to mark the Olympic Sailing. She has paintings
+  in international collections, and works from her studios in London and
+  Dorset.*
 
 
-  ### DAY BOWMAN &nbsp; *'ALCHEMY'*&nbsp;
+  ### DAY BOWMAN *'ALCHEMY'*
 
 
   #### 4 January - 8 February 2015
@@ -159,8 +157,8 @@ description_markdown: >-
   paintings are charged and fluid - dynamic in form and joyous in palette.
 
 
-  ***Day Bowman: &nbsp; \*\***There is a kind of cruel beauty in the destruction
-  we create - for me, the oil depot, stacked piping and overhead cables have
+  ***Day Bowman: \*\***There is a kind of cruel beauty in the destruction we
+  create - for me, the oil depot, stacked piping and overhead cables have
   superseded the rivers and hills of the traditional picturesque.*
 
 
@@ -316,7 +314,7 @@ description_markdown: >-
   University.
 
 
-  #### BIOGRAPHY&nbsp;
+  #### BIOGRAPHY
 
 
   **Education & Exhibitions**
@@ -326,15 +324,15 @@ description_markdown: >-
   1980. Highlights from the last 10 years include UK Touring Museum Solo
   Exhibitions : *The Urban Wastelands Project* 2011/12; *Edgelands* in 2016/17,
   and Solo Exhibitions of *Alchemy* in 2015 and *Plashy Places* in 2020 at Carey
-  Blyth Gallery, Oxford.&nbsp;
+  Blyth Gallery, Oxford.
 
 
   This year, as we came out of lockdown, Day Bowman has had a busy schedule with
   work appearing in the *Royal West of England Academy 168 th Open* in Bristol,
-  and ‘*Being With Trees’ - &nbsp;*amixed exhibition curated by Philippa Beale
-  at Bermondsey Project Space in April/May 2021.&nbsp; Her work was also shown
-  at the *Mall Galleries* as one of the selected pieces for the *Royal Institute
-  of Painters* in ‘*Water Colours 209th Exhibition’*.
+  and ‘*Being With Trees’ -* amixed exhibition curated by Philippa Beale at
+  Bermondsey Project Space in April/May 2021. Her work was also shown at the
+  *Mall Galleries* as one of the selected pieces for the *Royal Institute of
+  Painters* in ‘*Water Colours 209th Exhibition’*.
 
 
   **Prizes & Collections**

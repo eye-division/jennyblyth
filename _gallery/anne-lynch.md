@@ -1,7 +1,7 @@
 ---
 title: Anne LYNCH
 surname: Lynch
-currentshow: Anne LYNCH
+currentshow:
 description_markdown: >-
   **ANNE LYNCH**
 
