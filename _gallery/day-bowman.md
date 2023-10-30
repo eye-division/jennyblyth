@@ -397,7 +397,7 @@ images:
       3cm<br />&amp;pound;6750
   - image_path: /uploads/fortress-2.jpg
     image_title: Fortress 2
-    image_description: Fortress 2<br />oil on canvas<br />140 x 150 cm<br />&amp;pound;8000
+    image_description: Fortress 2<br />oil on canvas<br />140 x 150 cm<br />&amp;pound;8000 SOLD
   - image_path: >-
       /uploads/DayBowman_Fortress5_oil,charcoalandconteoncanvas_140x150x3cm_DSC_1035.jpg
     image_title: Fortress 5
@@ -432,7 +432,7 @@ images:
     image_title:
     image_description: >-
       Plashy Place 5 2019<br />oil on canvas<br />140 x 150 x 4cm<br
-      />&amp;pound; 6000
+      />&amp;pound; 6000 SOLD
   - image_path: /uploads/holiday-destination-1.jpg
     image_title:
     image_description: >-
