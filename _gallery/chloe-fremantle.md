@@ -1,7 +1,7 @@
 ---
 title: Chloe Fremantle
 surname: Fremantle
-currentshow: true
+currentshow: false
 description_markdown: >-
   ### Back To Abstract at CBG
 
@@ -9,7 +9,7 @@ description_markdown: >-
   July 2023
 
 
-  A selection of paintings from *Light Seeking Light 2022*  curated by Jenny
+  A selection of paintings from *Light Seeking Light 2022* curated by Jenny
   Blyth for the Royal Watercolour Society, London WC2. Beautiful summer
   paintings that reference colourfield, surrealism and abstraction. Chloe
   Fremantle is a member of the Royal Watercolour Society and has been painting
@@ -24,7 +24,7 @@ description_markdown: >-
   ##### **Chloe Fremantle & Peter Blegvad**
 
 
-  ##### **'Light Seeking Light' November 2022**  curated by Jenny Blyth
+  ##### **'Light Seeking Light' November 2022** curated by Jenny Blyth
 
 
   ##### **Royal Watercolour Society Galleries**
