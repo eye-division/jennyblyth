@@ -6,6 +6,15 @@ description_markdown: >-
   ### DAY BOWMAN *'Seaside Citadels'*
 
 
+  ##### Window Art at Carey Blyth Gallery November 2023
+
+
+  Drinks & Talks to be announced&nbsp;
+
+
+  ####
+
+
   #### 1 - 12 JUNE 2021
 
 
@@ -21,7 +30,7 @@ description_markdown: >-
   Hours : Tues - Sat 11 am - 6 pm www.project-space.london
 
 
-  **Foreword by Jenny Blyth.**  (Catalogue available upon request)
+  **Foreword by Jenny Blyth.** (Catalogue available upon request)
 
 
   Our coastal boundaries appointed with castles and fortresses of old, protected
