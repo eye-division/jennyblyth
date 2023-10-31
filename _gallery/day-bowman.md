@@ -447,7 +447,7 @@ images:
     image_title:
     image_description: >-
       Fortress Study 1<br />oil, charcoal and conte on canvas<br />45 x 50 x 4
-      cm<br />&amp;pound; 1200
+      cm<br />&amp;pound; 1200 
   - image_path:
     image_title:
     image_description: >-
@@ -500,7 +500,7 @@ images:
     image_title:
     image_description: >-
       Footprint Series 2019<br />oil, charcoal and graphite on cartridge
-      paper<br />20 x 20 cm<br />&amp;pound; 275 Each (3 SOLD)
+      paper<br />20 x 20 cm<br />&amp;pound; 275 Each (4 SOLD)
   - image_path: /assets/images/54afe9d0bbf7b.jpg
     image_title: Refinery 1
     image_description: >-
