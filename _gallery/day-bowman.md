@@ -390,6 +390,12 @@ main_image_path: >-
   /uploads/DayBowman_Citadel4_oil,charcoalandconteoncanvas_172x200x3cm_DSC_0986.jpg
 images:
   - image_path: >-
+      /uploads/DayBowman_Citadel4_oil,charcoalandconteoncanvas_172x200x3cm_DSC_0986.jpg
+    image_title: Citadel 4
+    image_description: >-
+      Citadel 4, 2020<br />oil, charcoal and conte on canvas<br />172 x 200
+      cm<br />&amp;pound;8750
+  - image_path: >-
       /uploads/day-bowman-fortress-7-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm-dsc-1024.jpg
     image_title: Fortress 7
     image_description: >-
@@ -404,6 +410,11 @@ images:
     image_description: >-
       Fortress 5, 2020<br />oil, charcoal and conte on canvas<br />140 x 150 x 3
       cm<br />&amp;pound;6750 SOLD
+  - image_path: /uploads/day-bowman-holiday-destination-2.jpg
+    image_title:
+    image_description: >-
+      Holiday Destination 2 2019<br />oil on canvas<br />152 x 168 x 4 cm<br
+      />&amp;pound; 7500 SOLD
   - image_path: >-
       /uploads/DayBowman_Fortress8_oil,charcoalandconteoncanvas_140x150x3cm_DSC_1058.jpg
     image_title: Fortress 8
@@ -411,22 +422,11 @@ images:
       Fortress 8, 2020<br />oil, charcoal and conte on canvas<br />140 x 150 x 3
       cm<br />&amp;pound;6750
   - image_path: >-
-      /uploads/DayBowman_Citadel4_oil,charcoalandconteoncanvas_172x200x3cm_DSC_0986.jpg
-    image_title: Citadel 4
-    image_description: >-
-      Citadel 4, 2020<br />oil, charcoal and conte on canvas<br />172 x 200
-      cm<br />&amp;pound;8750
-  - image_path: >-
       /uploads/DayBowman_Citadel3_oil,charcoalndconteoncanvas_172x200x3cm_DSC_0999.jpg
     image_title: Citadel 3
     image_description: >-
       Citadel 3, 2020<br />oil, charcoal and conte on canvas<br />172 x 200 x 3
       cm<br />&amp;pound;8750
-  - image_path: /uploads/day-bowman-holiday-destination-2.jpg
-    image_title:
-    image_description: >-
-      Holiday Destination 2 2019<br />oil on canvas<br />152 x 168 x 4 cm<br
-      />&amp;pound; 7500 SOLD
   - image_path: >-
       /uploads/day-bowman-plashy-place-5-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm-2.jpg
     image_title:
@@ -458,12 +458,12 @@ images:
     image_title:
     image_description: >-
       Fortress Study 4<br />oil, charcoal and conte on canvas<br />45 x 50 x 4
-      cm<br />&amp;pound; 1200
+      cm<br />&amp;pound; 1200 SOLD
   - image_path: /uploads/day-bowman-fortress-3.jpg
     image_title:
     image_description: >-
       Fortress Study 3<br />oil, charcoal and conte on canvas<br />45 x 50 x 4
-      cm<br />&amp;pound; 1200
+      cm<br />&amp;pound; 1200 SOLD
   - image_path: >-
       /uploads/day-bowman-tide-pool-10-oil-charcoal-and-conte-on-canvas-26-x-30-x-4-cm-dsc-1759.jpg
     image_title:
@@ -500,7 +500,7 @@ images:
     image_title:
     image_description: >-
       Footprint Series 2019<br />oil, charcoal and graphite on cartridge
-      paper<br />20 x 20 cm<br />&amp;pound; 275
+      paper<br />20 x 20 cm<br />&amp;pound; 275 Each (3 SOLD)
   - image_path: /assets/images/54afe9d0bbf7b.jpg
     image_title: Refinery 1
     image_description: >-
