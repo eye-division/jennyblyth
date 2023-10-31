@@ -75,7 +75,7 @@ images:
     image_title: Large Bowl
     image_description: |-
       <br />Dolomite glaze on Potclay’s Craft Crank stoneware clay
-      fired to 1245 degrees C<br />113 x 154 cm<br />&amp;pound 600
+      fired to 1245 degrees C<br />113 x 154 cm<br />&amp;pound 600 SOLD
   - image_path: /uploads/gallery-images/leaning-slab-african-stone-ii.jpg
     image_title: Leaning Slab in Manganese Brown
     image_description: >-
@@ -92,7 +92,7 @@ images:
       <br />Crank stoneware
       fired to 1250 degrees
       Manganese glaze 
-      <br />113 x 154 cm<br />&amp;pound 500
+      <br />113 x 154 cm<br />&amp;pound 500 SOLD
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
