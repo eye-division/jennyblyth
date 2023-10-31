@@ -9,7 +9,9 @@ description_markdown: >-
   ##### Window Art at Carey Blyth Gallery November 2023
 
 
-  Drinks & Talks to be announced&nbsp;
+  Gallery Open by Appointment : 07798 526 252 or jennyblythart@gmail.com&nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Drinks & Talks to be
+  announced during November.
 
 
   ####
