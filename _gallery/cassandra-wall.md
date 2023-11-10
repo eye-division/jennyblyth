@@ -67,9 +67,9 @@ archive: false
 main_image_path: /uploads/cassandra-wall-prospect-cottage.jpg
 display_title: true
 images:
-  - image_path:
+  - image_path: /uploads/snow-into-water.jpg
     image_title:
-    image_description:
+    image_description: Snow Into Water
 _options:
   image_path:
     width: 1200
