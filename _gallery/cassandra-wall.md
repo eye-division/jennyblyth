@@ -106,6 +106,9 @@ images:
   - image_path: /uploads/autumn-woodland.jpg
     image_title:
     image_description: Autumn Woodlands
+  - image_path: /uploads/autumn-woodland-2.jpg
+    image_title:
+    image_description: Autumn Woodlands (2)
 _options:
   image_path:
     width: 1200
