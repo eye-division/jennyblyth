@@ -79,6 +79,9 @@ images:
   - image_path: /uploads/prospect-cottage-collage.jpg
     image_title:
     image_description: Prospect Cottage, Dungeness Collage
+  - image_path: /uploads/cassandra-wall-prospect-cottage.jpg
+    image_title:
+    image_description: Prospect Cottage Textile
 _options:
   image_path:
     width: 1200
