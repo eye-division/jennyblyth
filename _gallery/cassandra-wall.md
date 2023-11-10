@@ -31,10 +31,11 @@ description_markdown: >-
   within on Winter nights with its wild Summer '*garden without
   borders*'.&nbsp;***Heather Hills*** features crests and waves of purple
   heather with backdrafts of golden-green mosses. Her collaged landscapes in
-  torn papers are precursors to her handstitched textiles, with hints of the
-  patterns and tessellations to come. Transposing her ‘sketches’ to cloth
-  involves sourcing vintage and hand-coloured fabrics some of which she tones
-  with tea, matching her swatches against her chosen subjects.
+  torn papers with hints of the patterns and tessellations to come, are
+  precursors to her immaculately handstitched textiles. Transposing her
+  ‘sketches’ to cloth involves sourcing vintage and hand-coloured fabrics some
+  of which she tones with tea, matching her swatches against her chosen
+  subjects.
 
 
   Contemplating nature's glorious kaleidescope of beauty, there is ultimately an
