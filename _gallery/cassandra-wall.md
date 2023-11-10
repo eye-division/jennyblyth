@@ -73,12 +73,12 @@ images:
   - image_path: /uploads/hastings-shed.jpg
     image_title:
     image_description: Hastings Net Shed
-  - image_path: ''
+  - image_path: /uploads/walberswick-sm.jpg
     image_title:
-    image_description: ''
-  - image_path: ''
+    image_description: Walberswick Sm
+  - image_path: /uploads/walberswick.jpg
     image_title:
-    image_description: ''
+    image_description: Walberswick Lg
 _options:
   image_path:
     width: 1200
