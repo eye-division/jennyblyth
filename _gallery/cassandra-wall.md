@@ -97,6 +97,9 @@ images:
   - image_path: /uploads/greek-seas.jpg
     image_title:
     image_description: Greek Seas
+  - image_path: /uploads/cherry-blossom.jpg
+    image_title:
+    image_description: Cherry Blossom
 _options:
   image_path:
     width: 1200
