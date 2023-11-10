@@ -26,15 +26,15 @@ description_markdown: >-
   compositions in varying degrees of abstraction that capture the spirit of the
   landscape, are initiated *sur le motif.*&nbsp; Particularly, she is drawn to
   the longshore drift where the tides pile up and wash away the shingle,
-  re-sculpting the littoral shoreline. &nbsp;***Dungeness: Summer and
+  re-sculpting the littoral shoreline. ***Dungeness: Summer and
   Winter***&nbsp;contrasts Derek Jarman's *Prospect Cottage,*&nbsp;lit from
   within on Winter nights with its wild Summer '*garden without
   borders*'.&nbsp;***Heather Hills*** features crests and waves of purple
   heather with backdrafts of golden-green mosses. Her collaged landscapes in
   torn papers are precursors to her textiles, with hints of the patterns and
   tessellations to come. Transposing her ‘sketches’ to cloth involves sourcing
-  vintage and hand-coloured fabrics some of which she&nbsp; tones with tea,
-  matching her swatches against her chosen subjects.
+  vintage and hand-coloured fabrics some of which she tones with tea, matching
+  her swatches against her chosen subjects.
 
 
   Contemplating nature's glorious kaleidescope of beauty, there is ultimately an
