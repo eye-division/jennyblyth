@@ -112,6 +112,14 @@ images:
   - image_path: /uploads/silver-birch.jpg
     image_title:
     image_description: Silver Birch
+  - image_path: /uploads/greek-seas-2.jpg
+    image_title:
+    image_description: Greek Seas (2)
+  - image_path: /uploads/heather-hills.jpg
+    image_title:
+    image_description: |-
+      Heather Hills
+      SOLD
 _options:
   image_path:
     width: 1200
