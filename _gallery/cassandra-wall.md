@@ -120,6 +120,9 @@ images:
     image_description: |-
       Heather Hills
       SOLD
+  - image_path: /uploads/heather-hills-2.jpg
+    image_title:
+    image_description: ''
 _options:
   image_path:
     width: 1200
