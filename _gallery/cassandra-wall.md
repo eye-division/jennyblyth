@@ -106,15 +106,15 @@ images:
   - image_path: /uploads/greek-sunsets.jpg
     image_title:
     image_description: Greek Sunsets
+  - image_path: /uploads/silver-birch.jpg
+    image_title:
+    image_description: Silver Birch
   - image_path: /uploads/autumn-woodland.jpg
     image_title:
     image_description: Autumn Woodlands
   - image_path: /uploads/autumn-woodland-2.jpg
     image_title:
     image_description: Autumn Woodlands (2)
-  - image_path: /uploads/silver-birch.jpg
-    image_title:
-    image_description: Silver Birch
   - image_path: /uploads/heather-hills.jpg
     image_title:
     image_description: |-
