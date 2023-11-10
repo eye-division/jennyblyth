@@ -3,7 +3,7 @@ title: Cassandra Wall
 surname: Wall
 currentshow: false
 description_markdown: >-
-  **SNOW INTO WATER** &nbsp;Curated by Jenny Blyth
+  **SNOW INTO WATER** Curated by Jenny Blyth
 
 
   **Textile Paintings by Cassandra WALL and paintings by Chloe FREMANTLE**
@@ -16,49 +16,48 @@ description_markdown: >-
 
 
   The exhibition is a celebration of the beauty of Nature and its liberating and
-  calming effect on the mind.&nbsp; Lockdown enforced a slowdown in pace of life
-  in all its noise and complexities, giving us a unique opportunity to re-engage
+  calming effect on the mind. Lockdown enforced a slowdown in pace of life in
+  all its noise and complexities, giving us a unique opportunity to re-engage
   with the sheer beauty and voice of the natural world around us, and the
   transience that makes it so precious.
 
 
   Whether through painting or textile, artists **Chloe FREMANTLE** and
   **Cassandra WALL,** working both for thirty years and more, contemplate that
-  beauty in nature expressed through patterning. &nbsp;In the expression of the
+  beauty in nature expressed through patterning. In the expression of the
   multiplicity and noise in patterning, there is ultimately a meditative calm.
 
 
   Quilting and patchwork brings to mind the Amish Culture where strength is
-  enhanced through simplicity.&nbsp; The repetition in patterning, of colour and
+  enhanced through simplicity. The repetition in patterning, of colour and
   shape, and the juxtapositions inform that simplicity and strength.
 
 
   Wall’s compositions, each created over months, present as contemporary textile
-  paintings floating in tray frames, unglazed.&nbsp; Her methodology is
-  hand-stitched patchwork, but her language is of tessellation and colourfield
-  abstraction towards a state of meditation, delighting in the journey of colour
-  and shape that nature presents dancing towards that end.&nbsp; All is
-  beautifully expressed as ***Snow Into Water.***
+  paintings floating in tray frames, unglazed. Her methodology is hand-stitched
+  patchwork, but her language is of tessellation and colourfield abstraction
+  towards a state of meditation, delighting in the journey of colour and shape
+  that nature presents dancing towards that end. All is beautifully expressed as
+  ***Snow Into Water.***
 
 
   Cassandra Wall has been working with textiles since childhood. All her
-  compositions such as ***Heather Hills*** are initiated *sur le
-  motif*&nbsp;capturing the spirit of the landscape - the crests of purple
-  heather-clad hills with backdrafts of golden green mosses.&nbsp; Initially,
-  she creates collages in torn papers, precursors and hints of the patterns and
-  tessellations to come.&nbsp; Transposing her ‘sketches’ to cloth, involves
-  sourcing vintage and hand-coloured fabrics that she tones with tea, matching
-  her swatches against her chosen subjects *en plein air*.&nbsp;
+  compositions such as ***Heather Hills*** are initiated *sur le motif*
+  capturing the spirit of the landscape - the crests of purple heather-clad
+  hills with backdrafts of golden green mosses. Initially, she creates collages
+  in torn papers, precursors and hints of the patterns and tessellations to
+  come. Transposing her ‘sketches’ to cloth, involves sourcing vintage and
+  hand-coloured fabrics that she tones with tea, matching her swatches against
+  her chosen subjects *en plein air*.
 
 
   Once her patterning is decided upon, the tessellation begins and her textile
-  paintings are hand stitched : &nbsp;***Hastings*** : ***Net Sheds******;
-  Dungeness : Winter and Summer (Derek Jarman’s Prospect Cottage on the
-  shingle*&nbsp;at Dungeness); *Heather Hills*** in the Peak District; and
-  ***Sunset Islands (Dodecanese)***; exquisite are her ***Autumn Floor*** with
-  leaves underfoot, ***Impressionist Garden -*** *a Spring explosion*&nbsp;in
-  fresh pinks and primrose yellows, and the golden hum of hexangonal
-  ***Honeycomb***.
+  paintings are hand stitched : ***Hastings*** : ***Net Sheds******; Dungeness :
+  Winter and Summer (Derek Jarman’s Prospect Cottage on the shingle* at
+  Dungeness); *Heather Hills*** in the Peak District; and ***Sunset Islands
+  (Dodecanese)***; exquisite are her ***Autumn Floor*** with leaves underfoot,
+  ***Impressionist Garden -*** *a Spring explosion* in fresh pinks and primrose
+  yellows, and the golden hum of hexangonal ***Honeycomb***.
 homepage_description_markdown: ''
 frontpage: true
 gallery_date:
@@ -106,21 +105,21 @@ images:
   - image_path: /uploads/greek-sunsets.jpg
     image_title:
     image_description: Greek Sunsets
+  - image_path: /uploads/silver-birch.jpg
+    image_title:
+    image_description: Silver Birch
   - image_path: /uploads/autumn-woodland.jpg
     image_title:
     image_description: Autumn Woodlands
   - image_path: /uploads/autumn-woodland-2.jpg
     image_title:
     image_description: Autumn Woodlands (2)
-  - image_path: /uploads/silver-birch.jpg
-    image_title:
-    image_description: Silver Birch
   - image_path: /uploads/heather-hills.jpg
     image_title:
     image_description: |-
       Heather Hills
       SOLD
-  - image_path: /uploads/heather-hills-2.jpg
+  - image_path: /uploads/heather-hills-2-1.jpg
     image_title:
     image_description: Heather Hills (2)
 _options:
