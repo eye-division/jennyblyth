@@ -3,7 +3,7 @@ title: Michael BUCK
 surname: BUCK
 currentshow:
 description_markdown: >-
-  **MICHAEL BUCK&nbsp;**
+  **MICHAEL BUCK**&nbsp;
 
 
   ***‘A LIFE IN THE LANDSCAPE’***&nbsp; &nbsp;:&nbsp; 1 March - 1 April
@@ -16,23 +16,23 @@ description_markdown: >-
   ***‘What is work for? - If it is to get the job done,***
 
 
-  ***then indeed get a chain saw.&nbsp;***
+  ***then indeed get a chain saw.***&nbsp;
 
 
-  ***If, however, it is to connect with Nature &nbsp;***
+  ***If, however, it is to connect with Nature*** &nbsp;
 
 
-  ***\- to know the tree and the rhythms it asks of our bodies -&nbsp;***
+  ***\- to know the tree and the rhythms it asks of our bodies -***&nbsp;
 
 
-  ***then let’s use our hands, our arms, our feet, our lungs.'**&nbsp;* Michael
+  ***then let’s use our hands, our arms, our feet, our lungs.'***&nbsp; Michael
   Buck 2022
 
 
-  ***'You work that you may keep pace with the Earth,&nbsp;***
+  ***'You work that you may keep pace with the Earth,***&nbsp;
 
 
-  ***and the Soul of the Earth.’**&nbsp; &nbsp;*
+  ***and the Soul of the Earth.’***&nbsp; &nbsp;
 
 
   ***For to be idle, is to become a stranger to the Seasons.***
@@ -41,7 +41,7 @@ description_markdown: >-
   ***When you work, you are a flute through whose heart,***
 
 
-  ***the whispering of the hours turns to music.’ &nbsp;**&nbsp;*Kahlil Gibran,
+  ***the whispering of the hours turns to music.’*** &nbsp;&nbsp;Kahlil Gibran,
   The Prophet, 1922
 
 
