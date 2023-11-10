@@ -38,9 +38,9 @@ description_markdown: >-
 
 
   Contemplating the beauty in nature through the multiplicity and noise in
-  patterning, there is ultimately an expression of meditative calm.&nbsp; The
-  repetition in patterning, of colour and shape, and the juxtapositions inform
-  that simplicity and strength.
+  patterning, there is ultimately an expression of meditative calm achieved
+  through the repetition in patterning, of colour and shape, and the
+  juxtapositions that inform that simplicity and strength.
 
 
   Wall’s compositions, each created over months, present as contemporary textile
