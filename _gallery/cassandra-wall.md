@@ -67,25 +67,18 @@ archive: false
 main_image_path: /uploads/cassandra-wall-prospect-cottage.jpg
 display_title: true
 images:
-  - image_path: /uploads/cassandra-wall-prospect-cottage.jpg
+  - image_path: /uploads/snow-into-water.jpg
     image_title:
-    image_description: Prospect Cottage Textile
-  - image_path: /uploads/prospect-cottage-collage.jpg
-    image_title:
-    image_description: |-
-      Prospect Cottage, Dungeness Collage
-      SOLD
+    image_description: Snow Into Water
   - image_path: /uploads/hastings-shed.jpg
     image_title:
     image_description: Hastings Net Shed
-  - image_path: /uploads/walberswick.jpg
+  - image_path: /uploads/autumn-hedges.jpg
     image_title:
-    image_description: Walberswick Lg
-  - image_path: /uploads/snow-into-water.jpg
+    image_description: Autumn Hedges
+  - image_path: ''
     image_title:
-    image_description: |-
-      Snow Into Water
-      SOLD
+    image_description: ''
 _options:
   image_path:
     width: 1200
