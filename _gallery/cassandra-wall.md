@@ -23,32 +23,31 @@ description_markdown: >-
 
 
   Cassandra Wall has been working with textiles since childhood. Her
-  compositions in varying degrees of abstraction, that capture the spirit of the
+  compositions in varying degrees of abstraction that capture the spirit of the
   landscape, are initiated *sur le motif.*&nbsp; Particularly, she is drawn to
-  the longshore drift of the littoral shoreline that changes with the tides that
-  pile up and wash away the shingle. &nbsp;***Dungeness: Summer and
+  the longshore drift where the tides endlessly pile up and wash away the
+  shingle, sculpting the littoral shoreline. &nbsp;***Dungeness: Summer and
   Winter***&nbsp;contrasts Derek Jarman's *Prospect Cottage,*&nbsp;lit from
-  within on Winter nights with its wild Summer 'garden without
-  borders'.&nbsp;***Heather Hills*** features crests and waves of purple heather
-  with backdrafts of golden-green mosses. Her collaged landscapes in torn papers
-  are precursors to her textiles, with hints of the patterns and tessellations
-  to come. Transposing her ‘sketches’ to cloth involves sourcing vintage and
-  hand-coloured fabrics some of which she&nbsp; tones with tea, matching her
-  swatches against her chosen subjects.
+  within on Winter nights with its wild Summer '*garden without
+  borders*'.&nbsp;***Heather Hills*** features crests and waves of purple
+  heather with backdrafts of golden-green mosses. Her collaged landscapes in
+  torn papers are precursors to her textiles, with hints of the patterns and
+  tessellations to come. Transposing her ‘sketches’ to cloth involves sourcing
+  vintage and hand-coloured fabrics some of which she&nbsp; tones with tea,
+  matching her swatches against her chosen subjects.
 
 
-  Contemplating the beauty in nature through the multiplicity and noise in
-  patterning, there is ultimately an expression of meditative calm achieved
-  through the repetition in patterning, of colour and shape, and the
-  juxtapositions that inform that simplicity and strength.
+  Contemplating nature's glorious kaleidescope of beauty, there is ultimately an
+  expression of meditative calm achieved through the patterning of colour and
+  shape, and the juxtapositions that inform that simplicity and strength.
 
 
   Wall’s compositions, each created over months, present as contemporary textile
   'paintings' floating in tray frames, unglazed. Her language is colourfield
-  abstraction towards a state of meditation, delighting in the journey of colour
-  and shape that nature presents dancing towards that end.&nbsp; All is
-  beautifully expressed as ***Snow Into Water*** where the white of falling
-  snowflakes presiding in the sky, melts into the blue of waters below.
+  abstraction towards a state of meditation, delighting in the journey that
+  nature presents dancing towards that end.&nbsp; All is beautifully expressed
+  as ***Snow Into Water*** where the white of falling snowflakes presiding in
+  the sky, melts into the blue of waters below.
 homepage_description_markdown: ''
 frontpage: true
 gallery_date:
