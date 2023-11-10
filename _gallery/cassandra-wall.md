@@ -25,8 +25,8 @@ description_markdown: >-
   Cassandra Wall has been working with textiles since childhood. Her
   compositions in varying degrees of abstraction that capture the spirit of the
   landscape, are initiated *sur le motif.*&nbsp; Particularly, she is drawn to
-  the longshore drift where the tides endlessly pile up and wash away the
-  shingle, sculpting the littoral shoreline. &nbsp;***Dungeness: Summer and
+  the longshore drift where the tides pile up and wash away the shingle,
+  re-sculpting the littoral shoreline. &nbsp;***Dungeness: Summer and
   Winter***&nbsp;contrasts Derek Jarman's *Prospect Cottage,*&nbsp;lit from
   within on Winter nights with its wild Summer '*garden without
   borders*'.&nbsp;***Heather Hills*** features crests and waves of purple
