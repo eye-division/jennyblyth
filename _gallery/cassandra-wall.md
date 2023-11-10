@@ -86,6 +86,9 @@ images:
     image_description: |-
       Snow Into Water
       SOLD
+  - image_path: /uploads/cherry-blossom.jpg
+    image_title:
+    image_description: Cherry Blossom
   - image_path: /uploads/autumn-hedges.jpg
     image_title:
     image_description: |-
@@ -97,12 +100,18 @@ images:
   - image_path: /uploads/greek-seas.jpg
     image_title:
     image_description: Greek Seas
-  - image_path: /uploads/cherry-blossom.jpg
-    image_title:
-    image_description: Cherry Blossom
   - image_path: /uploads/greek-sunsets.jpg
     image_title:
     image_description: Greek Sunsets
+  - image_path: /uploads/autumn-woodland.jpg
+    image_title:
+    image_description: Autumn Woodlands
+  - image_path: /uploads/autumn-woodland-2.jpg
+    image_title:
+    image_description: Autumn Woodlands (2)
+  - image_path: /uploads/silver-birch.jpg
+    image_title:
+    image_description: Silver Birch
 _options:
   image_path:
     width: 1200
