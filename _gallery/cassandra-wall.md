@@ -34,11 +34,11 @@ description_markdown: >-
 
 
   Wall’s compositions, each created over months, present as contemporary textile
-  paintings floating in tray frames, unglazed. Her methodology is hand-stitched
-  patchwork, but her language is of tessellation and colourfield abstraction
-  towards a state of meditation, delighting in the journey of colour and shape
-  that nature presents dancing towards that end. All is beautifully expressed as
-  ***Snow Into Water.***
+  paintings floating in tray frames, unglazed. Her methodology is observation,
+  sketches in collage transposed into handstitched textile, but her language is
+  of tessellation and colourfield abstraction towards a state of meditation,
+  delighting in the journey of colour and shape that nature presents dancing
+  towards that end. All is beautifully expressed as ***Snow Into Water.***
 
 
   Cassandra Wall has been working with textiles since childhood. All her
@@ -49,15 +49,6 @@ description_markdown: >-
   come. Transposing her ‘sketches’ to cloth, involves sourcing vintage and
   hand-coloured fabrics that she tones with tea, matching her swatches against
   her chosen subjects *en plein air*.
-
-
-  Once her patterning is decided upon, the tessellation begins and her textile
-  paintings are hand stitched : ***Hastings*** : ***Net Sheds******; Dungeness :
-  Winter and Summer (Derek Jarman’s Prospect Cottage on the shingle* at
-  Dungeness); *Heather Hills*** in the Peak District; and ***Sunset Islands
-  (Dodecanese)***; exquisite are her ***Autumn Floor*** with leaves underfoot,
-  ***Impressionist Garden -*** *a Spring explosion* in fresh pinks and primrose
-  yellows, and the golden hum of hexangonal ***Honeycomb***.
 homepage_description_markdown: ''
 frontpage: true
 gallery_date:
