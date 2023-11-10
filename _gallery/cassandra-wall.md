@@ -68,10 +68,10 @@ display_title: true
 images:
   - image_path: /uploads/cassandra-wall-prospect-cottage.jpg
     image_title:
-    image_description: >-
-      Dungeness: Summer & Winter, (Derek Jarman's Prospect Cottage) handstitched
-      textile in cottons - sourced, vintage, tea-dyed 100 x 100 cm (white wood
-      tray frame) £ 2500
+    image_description: |-
+      Dungeness: Summer & Winter, (Derek Jarman's Prospect Cottage) 
+      handstitched textile in cottons - sourced, vintage, tea-dyed 
+      100 x 100 cm (white wood tray frame) £ 2500
   - image_path: /uploads/prospect-cottage-collage.jpg
     image_title:
     image_description: >
