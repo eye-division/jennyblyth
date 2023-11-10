@@ -70,6 +70,15 @@ images:
   - image_path: /uploads/snow-into-water.jpg
     image_title:
     image_description: Snow Into Water
+  - image_path: /uploads/hastings-shed.jpg
+    image_title:
+    image_description: Hastings Net Shed
+  - image_path: ''
+    image_title:
+    image_description: ''
+  - image_path: ''
+    image_title:
+    image_description: ''
 _options:
   image_path:
     width: 1200
