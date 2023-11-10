@@ -3,29 +3,29 @@ title: Cassandra Wall
 surname: Wall
 currentshow: false
 description_markdown: >-
-  Highlights from CONTEMPLATION : SPRING INTO WATER now showing at CBG
-
-
-  Curated by Jenny Blyth for The North Wall Arts Centre, Oxford OX2 7JN
-
-
-  29 September - 10 October 2020
+  **SNOW INTO WATER** &nbsp;Curated by Jenny Blyth
 
 
   **Textile Paintings by Cassandra WALL and paintings by Chloe FREMANTLE**
 
 
+  for The North Wall Arts Centre, Oxford OX2 7JN
+
+
+  29 September - 10 October 2020
+
+
   The exhibition is a celebration of the beauty of Nature and its liberating and
-  calming effect on the mind.&nbsp; Lockdown has enforced a slowdown in pace of
-  life in all its noise and complexities, giving us a unique opportunity to
-  re-engage with the sheer beauty and voice of the natural world around us, and
-  the transience that makes it so precious.
+  calming effect on the mind.&nbsp; Lockdown enforced a slowdown in pace of life
+  in all its noise and complexities, giving us a unique opportunity to re-engage
+  with the sheer beauty and voice of the natural world around us, and the
+  transience that makes it so precious.
 
 
   Whether through painting or textile, artists **Chloe FREMANTLE** and
   **Cassandra WALL,** working both for thirty years and more, contemplate that
   beauty in nature expressed through patterning. &nbsp;In the expression of the
-  multiplicity and noise in patterning, there is ultimately silence and calm.
+  multiplicity and noise in patterning, there is ultimately a meditative calm.
 
 
   Quilting and patchwork brings to mind the Amish Culture where strength is
@@ -43,7 +43,7 @@ description_markdown: >-
 
   Cassandra Wall has been working with textiles since childhood. All her
   compositions such as ***Heather Hills*** are initiated *sur le
-  motif&nbsp;*capturing the spirit of the landscape - the crests of purple
+  motif*&nbsp;capturing the spirit of the landscape - the crests of purple
   heather-clad hills with backdrafts of golden green mosses.&nbsp; Initially,
   she creates collages in torn papers, precursors and hints of the patterns and
   tessellations to come.&nbsp; Transposing her ‘sketches’ to cloth, involves
@@ -52,12 +52,13 @@ description_markdown: >-
 
 
   Once her patterning is decided upon, the tessellation begins and her textile
-  paintings are stitched : &nbsp;***Hastings*** : ***Net Sheds******; Dungeness
-  : Winter and Summer (Derek Jarman’s Prospect Cottage on the shingle*&nbsp;at
-  Dungeness); *Heather Hills*** in the Peak District; and ***Sunset Islands
-  (Dodecanese)***; exquisite are her ***Autumn Floor*** with leaves underfoot,
-  ***Impressionist Garden -*** *a Spring explosion&nbsp;*in fresh pinks and
-  primrose yellows, and the golden hum of hexangonal ***Honeycomb***.
+  paintings are hand stitched : &nbsp;***Hastings*** : ***Net Sheds******;
+  Dungeness : Winter and Summer (Derek Jarman’s Prospect Cottage on the
+  shingle*&nbsp;at Dungeness); *Heather Hills*** in the Peak District; and
+  ***Sunset Islands (Dodecanese)***; exquisite are her ***Autumn Floor*** with
+  leaves underfoot, ***Impressionist Garden -*** *a Spring explosion*&nbsp;in
+  fresh pinks and primrose yellows, and the golden hum of hexangonal
+  ***Honeycomb***.
 homepage_description_markdown: ''
 frontpage: true
 gallery_date:
