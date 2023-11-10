@@ -1,7 +1,7 @@
 ---
-title: Cassandra Wall
+title: Cassandra WALL
 surname: Wall
-currentshow: false
+currentshow: true
 description_markdown: >-
   **SNOW INTO WATER** Curated by Jenny Blyth
 
