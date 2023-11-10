@@ -76,9 +76,9 @@ images:
   - image_path: /uploads/snow-into-water.jpg
     image_title:
     image_description: Snow Into Water
-  - image_path: ''
+  - image_path: /uploads/prospect-cottage-collage.jpg
     image_title:
-    image_description: ''
+    image_description: Prospect Cottage, Dungeness Collage
 _options:
   image_path:
     width: 1200
