@@ -91,6 +91,9 @@ images:
     image_description: |-
       Autumn Hedges 
       SOLD
+  - image_path: /uploads/spring.jpg
+    image_title:
+    image_description: Spring
 _options:
   image_path:
     width: 1200
