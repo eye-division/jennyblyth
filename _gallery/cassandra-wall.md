@@ -42,7 +42,7 @@ description_markdown: >-
 
 
   Wall’s compositions, each created over months, present as contemporary textile
-  paintings floating in tray frames, unglazed. Her language is colourfield
+  'paintings' floating in tray frames, unglazed. Her language is colourfield
   abstraction towards a state of meditation, delighting in the journey of colour
   and shape that nature presents dancing towards that end.&nbsp; All is
   beautifully expressed as ***Snow Into Water*** where the white of falling
