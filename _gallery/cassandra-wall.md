@@ -67,6 +67,9 @@ archive: false
 main_image_path: /uploads/cassandra-wall-prospect-cottage.jpg
 display_title: true
 images:
+  - image_path: /uploads/cassandra-wall-prospect-cottage.jpg
+    image_title:
+    image_description: Prospect Cottage, Dungeness textile
   - image_path: /uploads/prospect-cottage-collage.jpg
     image_title:
     image_description: Prospect Cottage, Dungeness collage
@@ -76,15 +79,9 @@ images:
   - image_path: /uploads/hastings-shed.jpg
     image_title:
     image_description: Hastings Net Shed
-  - image_path: /uploads/walberswick-sm.jpg
-    image_title:
-    image_description: Walberswick Sm
   - image_path: /uploads/walberswick.jpg
     image_title:
     image_description: Walberswick Lg
-  - image_path: /uploads/cassandra-wall-prospect-cottage.jpg
-    image_title:
-    image_description: Prospect Cottage, Dungeness textile
 _options:
   image_path:
     width: 1200
