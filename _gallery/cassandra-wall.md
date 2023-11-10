@@ -109,6 +109,9 @@ images:
   - image_path: /uploads/autumn-woodland-2.jpg
     image_title:
     image_description: Autumn Woodlands (2)
+  - image_path: /uploads/silver-birch.jpg
+    image_title:
+    image_description: Silver Birch
 _options:
   image_path:
     width: 1200
