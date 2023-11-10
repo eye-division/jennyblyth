@@ -94,6 +94,9 @@ images:
   - image_path: /uploads/spring.jpg
     image_title:
     image_description: Spring
+  - image_path: /uploads/greek-seas.jpg
+    image_title:
+    image_description: Greek Seas
 _options:
   image_path:
     width: 1200
