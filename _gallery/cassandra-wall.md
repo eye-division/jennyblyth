@@ -17,20 +17,27 @@ description_markdown: >-
 
   The exhibition is a celebration of the beauty of Nature and its liberating and
   calming effect on the mind. Lockdown enforced a slowdown in pace of life in
-  all its noise and complexities, giving us a unique opportunity to re-engage
-  with the sheer beauty and voice of the natural world around us, and the
-  transience that makes it so precious.
+  all its noise and complexities, giving all of us a unique opportunity to
+  re-engage with the sheer beauty and voice of the natural world around us, and
+  the transience that makes it so precious.
 
 
-  Whether through painting or textile, artists **Chloe FREMANTLE** and
-  **Cassandra WALL,** working both for thirty years and more, contemplate that
-  beauty in nature expressed through patterning. In the expression of the
-  multiplicity and noise in patterning, there is ultimately a meditative calm.
+  Cassandra Wall has been working with textiles since childhood. All her
+  compositions such as **Dungeness** and&nbsp;**&nbsp;**&nbsp;***Heather
+  Hills*** are initiated *sur le motif* capturing the spirit of the landscape
+  with crests of purple heather-clad hills and backdrafts of golden green
+  mosses. Initially, she creates collages in torn papers, precursors and hints
+  of the patterns and tessellations to come. Transposing her ‘sketches’ to
+  cloth, involves sourcing vintage and hand-coloured fabrics that she tones with
+  tea, matching her swatches against her chosen subjects *en plein air before
+  committing to her chosen composition.*
 
 
-  Quilting and patchwork brings to mind the Amish Culture where strength is
-  enhanced through simplicity. The repetition in patterning, of colour and
-  shape, and the juxtapositions inform that simplicity and strength.
+  **Cassandra WALL**&nbsp;contemplates the beauty in nature. In the expression
+  of the multiplicity and noise in patterning, there is ultimately a meditative
+  calm.&nbsp; Quilting and patchwork brings to mind the Amish Culture where
+  strength is enhanced through simplicity. The repetition in patterning, of
+  colour and shape, and the juxtapositions informs that simplicity and strength.
 
 
   Wall’s compositions, each created over months, present as contemporary textile
@@ -38,17 +45,9 @@ description_markdown: >-
   sketches in collage transposed into handstitched textile, but her language is
   of tessellation and colourfield abstraction towards a state of meditation,
   delighting in the journey of colour and shape that nature presents dancing
-  towards that end. All is beautifully expressed as ***Snow Into Water.***
-
-
-  Cassandra Wall has been working with textiles since childhood. All her
-  compositions such as ***Heather Hills*** are initiated *sur le motif*
-  capturing the spirit of the landscape - the crests of purple heather-clad
-  hills with backdrafts of golden green mosses. Initially, she creates collages
-  in torn papers, precursors and hints of the patterns and tessellations to
-  come. Transposing her ‘sketches’ to cloth, involves sourcing vintage and
-  hand-coloured fabrics that she tones with tea, matching her swatches against
-  her chosen subjects *en plein air*.
+  towards that end.&nbsp; All is beautifully expressed as *Snow Into Water*
+  where the white of falling snowflakes presiding in the sky, melts into the
+  blue of waters below.
 homepage_description_markdown: ''
 frontpage: true
 gallery_date:
