@@ -15,31 +15,30 @@ description_markdown: >-
   29 September - 10 October 2020
 
 
-  The exhibition above and recent work is a celebration of the beauty of Nature
-  and its liberating and calming effect on the mind. Lockdown enforced a
-  slowdown in the pace of life with all its noise and complexities, and accorded
-  us a unique opportunity to hear the voice of the natural world around us, and
-  the transience that makes it so precious.
+  The exhibition above and **Cassandra Wall's r**ecent work is a celebration of
+  the beauty of Nature and its liberating and calming effect on the mind.
+  Lockdown enforced a slowdown in the pace of life with all its noise and
+  complexities, and accorded us a unique opportunity to hear the voice of the
+  natural world around us, and the transience that makes it so precious.
 
 
-  Cassandra Wall has been working with textiles since childhood. Her
-  compositions in varying degrees of abstraction that capture the spirit of the
-  landscape, are initiated *sur le motif.*&nbsp; Particularly, she is drawn to
-  the longshore drift where the tides pile up and wash away the shingle,
-  re-sculpting the littoral shoreline. ***Dungeness: Summer and
-  Winter***&nbsp;contrasts Derek Jarman's *Prospect Cottage,*&nbsp;lit from
-  within on Winter nights with its wild Summer '*garden without
-  borders*'.&nbsp;***Heather Hills*** features crests and waves of purple
-  heather with backdrafts of golden-green mosses. Her collaged landscapes in
-  torn papers with hints of the patterns and tessellations to come, are
-  precursors to her immaculately handstitched textiles. Transposing her
-  ‘sketches’ to cloth involves sourcing vintage and hand-coloured fabrics some
-  of which she tones with tea, matching her swatches against her chosen
-  subjects.
+  CW has been working with textiles since childhood. Her compositions in varying
+  degrees of abstraction that capture the spirit of the landscape, are initiated
+  *sur le motif.*&nbsp; Particularly, she is drawn to the longshore drift where
+  the tides pile up and wash away the shingle, re-sculpting the littoral
+  shoreline. ***Dungeness: Summer and Winter***&nbsp;contrasts Derek Jarman's
+  *Prospect Cottage,*&nbsp;lit from within on Winter nights, with its wild
+  Summer '*garden without borders*'.&nbsp;***Heather Hills*** features crests
+  and waves of purple heather with backdrafts of golden-green mosses. Her
+  collaged landscapes in torn papers with hints of the patterns and
+  tessellations to come, are precursors to her immaculately handstitched
+  textiles. Transposing her ‘sketches’ to cloth involves sourcing vintage and
+  hand-coloured fabrics some of which she tones with tea, matching her swatches
+  against her chosen subjects.
 
 
   Contemplating nature's glorious kaleidescope of beauty, there is ultimately an
-  expression of meditative calm achieved through the patterning of colour and
+  expression of meditative calm achieved through the repetitions of colour and
   shape, and the juxtapositions that inform that simplicity and strength.
 
 
