@@ -15,11 +15,11 @@ description_markdown: >-
   29 September - 10 October 2020
 
 
-  The exhibition is a celebration of the beauty of Nature and its liberating and
-  calming effect on the mind. Lockdown enforced a slowdown in the pace of life
-  with all its noise and complexities, and accorded us a unique opportunity to
-  hear the voice of the natural world around us, and the transience that makes
-  it so precious.
+  The exhibition above and recent work is a celebration of the beauty of Nature
+  and its liberating and calming effect on the mind. Lockdown enforced a
+  slowdown in the pace of life with all its noise and complexities, and accorded
+  us a unique opportunity to hear the voice of the natural world around us, and
+  the transience that makes it so precious.
 
 
   Cassandra Wall has been working with textiles since childhood. Her
