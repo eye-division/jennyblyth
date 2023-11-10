@@ -79,6 +79,9 @@ images:
   - image_path: /uploads/walberswick.jpg
     image_title:
     image_description: Walberswick Lg
+  - image_path: /uploads/prospect-cottage-collage.jpg
+    image_title:
+    image_description: Prospect Cottage, Dungeness collage
 _options:
   image_path:
     width: 1200
