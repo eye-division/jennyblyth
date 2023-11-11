@@ -15,7 +15,7 @@ description_markdown: >-
   29 September - 10 October 2020
 
 
-  The exhibition above and **Cassandra Wall's r**ecent work is a celebration of
+  **Snow Into Water** and **Cassandra Wall's** recent work is a celebration of
   the beauty of Nature and its liberating and calming effect on the mind.
   Lockdown enforced a slowdown in the pace of life with all its noise and
   complexities, and accorded us a unique opportunity to hear the voice of the
@@ -37,7 +37,7 @@ description_markdown: >-
   against her chosen subjects.
 
 
-  Contemplating nature's glorious kaleidescope of beauty, there is ultimately an
+  Contemplating nature's kaleidescope of beauty, there is ultimately an
   expression of meditative calm achieved through the repetitions of colour and
   shape, and the juxtapositions that inform that simplicity and strength.
 
@@ -46,8 +46,8 @@ description_markdown: >-
   'paintings' floating in tray frames, unglazed. Her language is colourfield
   abstraction towards a state of meditation, delighting in the journey that
   nature presents dancing towards that end.&nbsp; All is beautifully expressed
-  as ***Snow Into Water*** where the white of falling snowflakes presiding in
-  the sky, melts into the blue of waters below.
+  as ***Snow Into Water*** where the white of falling snowflakes from the sky
+  melts into the blue of waters below.
 homepage_description_markdown: ''
 frontpage: true
 gallery_date:
