@@ -10,11 +10,12 @@ description_markdown: >-
 
 
   Gallery Open by Appointment : 07798 526 252 or jennyblythart@gmail.com&nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Drinks & Talks to be
-  announced during November.
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Drinks & Talks 2.30 pm
+  Saturday 25 November&nbsp; - Gallery open 10-5 pm.**
 
 
-  ####
+  In essence there is an alchemy of energy within Day Bowman's paintings that is
+  invigorating yet poetic....
 
 
   #### 1 - 12 JUNE 2021
