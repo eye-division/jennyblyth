@@ -506,38 +506,40 @@ images:
       Footprint Series 2019<br />oil, charcoal and graphite on cartridge
       paper<br />20 x 20 cm<br />&amp;pound; 275 Each (4 SOLD)
   - image_path: /assets/images/54afe9d0bbf7b.jpg
-    image_title: Refinery 1
+    image_title:
     image_description: >-
       Refinery 1, 2014<br />oil on canvas<br />200 x 270 cm<br
       />&amp;pound;16,000
   - image_path: /assets/images/506c39c5ee5bc.jpg
-    image_title: Weymouth/Portland 11, 2012
+    image_title:
     image_description: >-
       Weymouth/Portland 11, 2012<br />mixed media collage on canvas<br />26 x 38
       cm<br />&amp;pound;650
   - image_path: /assets/images/506c3b1e7ed2f.jpg
-    image_title: Weymouth/Portland 4, 2012
+    image_title:
     image_description: >-
       Weymouth/Portland 4, 2012<br />mixed media on board<br />26 x 38 cm<br
       />&amp;pound;650
   - image_path: /assets/images/506c373ad028e.jpg
-    image_title: Weymouth/Portland  3 2012
+    image_title:
     image_description: >-
       Weymouth/Portland  3 2012 2012<br />mixed media, collage on canvas<br />26
       x 38 cm<br />&amp;pound;12,000 for set of 16
   - image_path: /assets/images/506c3c9468a15.jpg
-    image_title: Weymouth/Portland 9, 2012
+    image_title:
     image_description: >-
       Weymouth/Portland 9, 2012<br />Mixed media on board<br />26 x 38 cm<br
       />&amp;pound;650
   - image_path: /assets/images/506c3d4298488.jpg
-    image_title: Weymouth/Portland 12, 2012
+    image_title:
     image_description: >-
       Weymouth/Portland 12, 2012<br />Mixed media media on board<br />26 x 38
       cm<br />&amp;pound;650
   - image_path: /assets/images/54afe73b8799c.jpg
-    image_title: Edgelands 2, 2012
-    image_description: Edgelands 2, 2012<br />oil, charcoal and conte on canvas<br />173 x 400 cm
+    image_title:
+    image_description: >-
+      Edgelands 2, 2012<br />oil, charcoal and conte on canvas<br />173 x 400 cm
+      SOLD
 _options:
   image_path:
     width: 1200
