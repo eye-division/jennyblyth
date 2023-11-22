@@ -16,7 +16,7 @@ description_markdown: >-
   jennyblythart@gmail.com&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 
-  #### **Drinks & Talks 2.30 pm Saturday 25 November .&nbsp; The gallery will be
+  #### **Drinks & Talks 2.30 pm Saturday 25 November.&nbsp; The gallery will be
   open 10-5 pm.**
 
 
