@@ -3,18 +3,6 @@ title: Cassandra WALL
 surname: Wall
 currentshow: true
 description_markdown: >-
-  **SNOW INTO WATER** Curated by Jenny Blyth
-
-
-  **Textile Paintings by Cassandra WALL and paintings by Chloe FREMANTLE**
-
-
-  for The North Wall Arts Centre, Oxford OX2 7JN
-
-
-  29 September - 10 October 2020
-
-
   **Snow Into Water** and **Cassandra Wall's** recent work is a celebration of
   the beauty of Nature and its liberating and calming effect on the mind.
   Lockdown enforced a slowdown in the pace of life with all its noise and
@@ -48,6 +36,18 @@ description_markdown: >-
   nature presents dancing towards that end.&nbsp; All is beautifully expressed
   as ***Snow Into Water*** where the white of falling snowflakes from the sky
   melts into the blue of waters below.
+
+
+  **SNOW INTO WATER** Curated by Jenny Blyth
+
+
+  **Textile Paintings by Cassandra WALL and paintings by Chloe FREMANTLE**
+
+
+  for The North Wall Arts Centre, Oxford OX2 7JN
+
+
+  29 September - 10 October 2020
 homepage_description_markdown: ''
 frontpage: true
 gallery_date:
