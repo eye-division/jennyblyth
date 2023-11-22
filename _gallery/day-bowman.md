@@ -6,34 +6,35 @@ description_markdown: >-
   ### DAY BOWMAN *'Seaside Citadels'*
 
 
-  ##### Window Art at Carey Blyth Gallery November 2023
+  ##### &nbsp;Carey Blyth Gallery November 2023
 
 
-  Gallery Open by Appointment : 07798 526 252 or jennyblythart@gmail.com&nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Drinks & Talks 2.30 pm
-  Saturday 25 November&nbsp; - Gallery open 10-5 pm.**
+  ##### *Gallery Open by Appointment* : 07798 526 252 or
+  jennyblythart@gmail.com&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+
+
+  **Drinks & Talks 2.30 pm Saturday 25 November .&nbsp; The gallery will be open
+  10-5 pm.**
 
 
   In essence there is an alchemy of energy within Day Bowman's paintings that is
-  invigorating yet poetic....
+  invigorating yet poetic…. abstraction at its most exciting.
 
 
-  #### 1 - 12 JUNE 2021
+  #### 1 - 12 June 2021
 
 
-  #### Bermondsey Project Space
-
-
-  #### 183 - 185 Bermondsey Street London SE1 3UW
+  #### Bermondsey Project Space London SE1 3UW
 
 
   Curated by Jenny Blyth in association with Bermondsey Project Space
+  www.project-space.london
 
 
-  Hours : Tues - Sat 11 am - 6 pm www.project-space.london
+  **Foreword by Jenny Blyth.**
 
 
-  **Foreword by Jenny Blyth.** (Catalogue available upon request)
+  (Catalogue available upon request £10)
 
 
   Our coastal boundaries appointed with castles and fortresses of old, protected
