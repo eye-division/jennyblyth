@@ -3,18 +3,21 @@ title: Day Bowman
 surname: Bowman
 currentshow: true
 description_markdown: >-
-  ### DAY BOWMAN *'Seaside Citadels'*
+  #### DAY BOWMAN&nbsp;
 
 
-  ##### &nbsp;Carey Blyth Gallery November 2023
+  #### The Power of Painting
 
 
-  ##### *Gallery Open by Appointment* : 07798 526 252 or
+  #### Carey Blyth Gallery November 2023
+
+
+  #### *Gallery Open by Appointment* : 07798 526 252 or
   jennyblythart@gmail.com&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 
-  **Drinks & Talks 2.30 pm Saturday 25 November .&nbsp; The gallery will be open
-  10-5 pm.**
+  #### **Drinks & Talks 2.30 pm Saturday 25 November.&nbsp; The gallery will be
+  open 10-5 pm.**
 
 
   In essence there is an alchemy of energy within Day Bowman's paintings that is
