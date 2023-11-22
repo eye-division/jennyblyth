@@ -3,34 +3,16 @@ title: Day BOWMAN
 surname: Bowman
 currentshow: true
 description_markdown: >-
-  ####
+  <br>DAY BOWMAN&nbsp;<br>The Power of Painting<br>November 2023<br>CBG Open by
+  Appointment : 07798 526 252 or jennyblythart@gmail.com &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp;Drinks & Talks 2.30 pm Saturday 25 November. &nbsp;The
+  gallery will be open 10-5.<br>In &nbsp;essence there is an alchemy of energy
+  within Day Bowman's paintings that is invigorating yet poetic…. abstraction at
+  its most exciting.
 
 
-  #### **DAY BOWMAN**&nbsp;
-
-
-  #### **The Power of Painting**
-
-
-  #### **November 2023**
-
-
-  #### ***CBG Open by Appointment* : 07798 526 252 or
-  jennyblythart@gmail.com&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Drinks &
-  Talks 2.30 pm Saturday 25 November.&nbsp; The gallery will be open 10-5.**
-
-
-  In&nbsp; essence there is an alchemy of energy within Day Bowman's paintings
-  that is invigorating yet poetic…. abstraction at its most exciting.
-
-
-  #### Seaside Citadels
-
-
-  #### 1 - 12 June 2021
-
-
-  #### Bermondsey Project Space London SE1 3UW
+  Seaside Citadels<br>1 - 12 June 2021<br>Bermondsey Project Space London SE1
+  3UW
 
 
   Curated by Jenny Blyth in association with Bermondsey Project Space
