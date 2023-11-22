@@ -3,17 +3,18 @@ title: Day Bowman
 surname: Bowman
 currentshow: true
 description_markdown: >-
-  #### DAY BOWMAN&nbsp;
+  #### **DAY BOWMAN**&nbsp;
 
 
-  #### The Power of Painting
+  #### **The Power of Painting**
 
 
-  #### Carey Blyth Gallery November 2023
+  #### **November 2023**
 
 
-  #### *Gallery Open by Appointment* : 07798 526 252 or
-  jennyblythart@gmail.com&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  #### ***CBG Open by Appointment* : 07798 526 252 or
+  jennyblythart@gmail.com**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp;
 
 
   #### **Drinks & Talks 2.30 pm Saturday 25 November.&nbsp; The gallery will be
