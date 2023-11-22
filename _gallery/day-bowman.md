@@ -1,8 +1,11 @@
 ---
-title: Day Bowman
+title: Day BOWMAN
 surname: Bowman
 currentshow: true
 description_markdown: >-
+  ####
+
+
   #### **DAY BOWMAN**&nbsp;
 
 
