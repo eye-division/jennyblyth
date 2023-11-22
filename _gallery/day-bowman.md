@@ -17,8 +17,11 @@ description_markdown: >-
   Talks 2.30 pm Saturday 25 November.&nbsp; The gallery will be open 10-5.**
 
 
-  In essence there is an alchemy of energy within Day Bowman's paintings that is
-  invigorating yet poetic…. abstraction at its most exciting.
+  In&nbsp; essence there is an alchemy of energy within Day Bowman's paintings
+  that is invigorating yet poetic…. abstraction at its most exciting.
+
+
+  #### Seaside Citadels
 
 
   #### 1 - 12 June 2021
@@ -31,10 +34,7 @@ description_markdown: >-
   www.project-space.london
 
 
-  **Foreword by Jenny Blyth.**
-
-
-  (Catalogue available upon request £10)
+  **Foreword by Jenny Blyth.**&nbsp;Catalogue available upon request £10
 
 
   Our coastal boundaries appointed with castles and fortresses of old, protected
