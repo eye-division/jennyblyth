@@ -12,7 +12,9 @@ description_markdown: >-
 
 
   In &nbsp;essence there is an alchemy of energy within Day Bowman's paintings
-  that is invigorating yet poetic…. abstraction at its most exciting.
+  that is invigorating yet poetic…. abstraction at its most exciting. Day Bowman
+  in conversation with JB, talks about her painting, her practice and her
+  inspiration.
 
 
   **Seaside Citadels<br>1 - 12 June 2021<br>Bermondsey Project Space London SE1
