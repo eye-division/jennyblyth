@@ -13,12 +13,8 @@ description_markdown: >-
 
 
   #### ***CBG Open by Appointment* : 07798 526 252 or
-  jennyblythart@gmail.com**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  &nbsp;
-
-
-  #### **Drinks & Talks 2.30 pm Saturday 25 November.&nbsp; The gallery will be
-  open 10-5 pm.**
+  jennyblythart@gmail.com&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Drinks &
+  Talks 2.30 pm Saturday 25 November.&nbsp; The gallery will be open 10-5.**
 
 
   In essence there is an alchemy of energy within Day Bowman's paintings that is
