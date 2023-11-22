@@ -395,18 +395,18 @@ main_image_path: >-
 images:
   - image_path: >-
       /uploads/DayBowman_Citadel4_oil,charcoalandconteoncanvas_172x200x3cm_DSC_0986.jpg
-    image_title: Citadel 4
+    image_title:
     image_description: >-
       Citadel 4, 2020<br />oil, charcoal and conte on canvas<br />172 x 200
       cm<br />&amp;pound;8750
   - image_path: >-
       /uploads/day-bowman-fortress-7-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm-dsc-1024.jpg
-    image_title: Fortress 7
+    image_title:
     image_description: >-
       Fortress 7, 2020<br />oil, charcoal and conte on canvas<br />140 x 150 x
       3cm<br />&amp;pound;6750
   - image_path: /uploads/fortress-2.jpg
-    image_title: Fortress 2
+    image_title:
     image_description: Fortress 2<br />oil on canvas<br />140 x 150 cm<br />&amp;pound;8000 SOLD
   - image_path: >-
       /uploads/DayBowman_Fortress5_oil,charcoalandconteoncanvas_140x150x3cm_DSC_1035.jpg
