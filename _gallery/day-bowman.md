@@ -3,17 +3,17 @@ title: Day BOWMAN
 surname: Bowman
 currentshow: true
 description_markdown: >-
-  **DAY BOWMAN&nbsp;<br>The Power of Painting<br>November 2023<br>CBG Open by
-  Appointment :** 07798 526 252 or jennyblythart@gmail.com&nbsp;
+  **DAY BOWMAN <br>The Power of Painting<br>November 2023<br>CBG Open by
+  Appointment :** 07798 526 252 or jennyblythart@gmail.com
 
 
-  **Drinks & Artist Talk: 2.30 pm Saturday 25 November. &nbsp;The gallery will
-  be open 10-5.**
+  **Drinks & Artist Talk: 2.30 pm Saturday 25 November. The gallery will be open
+  10-5.**
 
 
-  In &nbsp;essence there is an alchemy of energy within Day Bowman's paintings
-  that is invigorating yet poetic…. abstraction at its most exciting. Day Bowman
-  in conversation with JB, talks about her painting, her practice and her
+  In essence there is an alchemy of energy within Day Bowman's paintings that is
+  invigorating yet poetic…. abstraction at its most exciting. Day Bowman in
+  conversation with JB, talks about her painting, her practice and her
   inspiration.
 
 
@@ -25,7 +25,7 @@ description_markdown: >-
   www.project-space.london
 
 
-  **Foreword by Jenny Blyth.**&nbsp;Catalogue available upon request £10
+  **Foreword by Jenny Blyth.** Catalogue available upon request £10
 
 
   Our coastal boundaries appointed with castles and fortresses of old, protected
@@ -395,7 +395,7 @@ images:
     image_title:
     image_description: >-
       Fortress 7, 2020<br />oil, charcoal and conte on canvas<br />140 x 150 x
-      3cm<br />&amp;pound;6750
+      3cm<br />&amp;pound;7500
   - image_path: /uploads/fortress-2.jpg
     image_title:
     image_description: Fortress 2<br />oil on canvas<br />140 x 150 cm<br />&amp;pound;8000 SOLD
@@ -415,7 +415,7 @@ images:
     image_title:
     image_description: >-
       Fortress 8, 2020<br />oil, charcoal and conte on canvas<br />140 x 150 x 3
-      cm<br />&amp;pound;6750
+      cm<br />&amp;pound;7500
   - image_path: >-
       /uploads/DayBowman_Citadel3_oil,charcoalndconteoncanvas_172x200x3cm_DSC_0999.jpg
     image_title:
@@ -427,12 +427,12 @@ images:
     image_title:
     image_description: >-
       Plashy Place 5 2019<br />oil on canvas<br />140 x 150 x 4cm<br
-      />&amp;pound; 6000 SOLD
+      />&amp;pound; 7500
   - image_path: /uploads/holiday-destination-1.jpg
     image_title:
     image_description: >-
       Holiday Destination 1 2019<br />oil on canvas<br />152 x 168 x 4 cm<br
-      />&amp;pound; 7500
+      />&amp;pound; 7500 SOLD
   - image_path: /uploads/dsc-7117.jpg
     image_title:
     image_description: >-
@@ -464,18 +464,18 @@ images:
     image_title:
     image_description: >-
       Tide Pool 10<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
-      />&amp;pound; 675
+      />&amp;pound; 675 SOLD
   - image_path: >-
       /uploads/day-bowman-tide-pool-6-oil-charcoal-and-conte-on-canvas-26-x-30-x-4-cm-dsc-7128.jpg
     image_title:
     image_description: >-
       Tide Pool 6<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
-      />&amp;pound; 675
+      />&amp;pound; 675 SOLD
   - image_path: /uploads/dsc-7124.jpg
     image_title:
     image_description: >-
       Tide Pool 5<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
-      />&amp;pound; 675
+      />&amp;pound; 675 SOLD
   - image_path: /uploads/tide-pool-1.jpg
     image_title:
     image_description: >-
@@ -485,22 +485,27 @@ images:
     image_title:
     image_description: >-
       Tide Pool 4<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
-      />&amp;pound; 675
+      />&amp;pound; 675 SOLD
   - image_path: /uploads/dsc-7133.jpg
     image_title:
     image_description: >-
       Tide Pool 2<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
-      />&amp;pound; 675
+      />&amp;pound; 675 SOLD
   - image_path: /uploads/day-bowman-footprint.jpg
     image_title:
     image_description: >-
       Footprint Series 2019<br />oil, charcoal and graphite on cartridge
-      paper<br />20 x 20 cm<br />&amp;pound; 275 Each (4 SOLD)
+      paper<br />20 x 20 cm<br />&amp;pound; 275 Each: 4 SOLD 10 remaining
+  - image_path: /assets/images/54afe73b8799c.jpg
+    image_title:
+    image_description: >-
+      Edgelands 2, 2012<br />oil, charcoal and conte on canvas<br />173 x 400
+      cm<br />£100SOLD
   - image_path: /assets/images/54afe9d0bbf7b.jpg
     image_title:
     image_description: >-
-      Refinery 1, 2014<br />oil on canvas<br />200 x 270 cm<br
-      />&amp;pound;16,000
+      Refinery 1, 2014<br />oil on canvas<br />200 x 270 cm<br />&amp;pound;
+      12500
   - image_path: /assets/images/506c39c5ee5bc.jpg
     image_title:
     image_description: >-
@@ -510,7 +515,7 @@ images:
     image_title:
     image_description: >-
       Weymouth/Portland 4, 2012<br />mixed media on board<br />26 x 38 cm<br
-      />&amp;pound;650
+      />&amp;pound;650 
   - image_path: /assets/images/506c373ad028e.jpg
     image_title:
     image_description: >-
@@ -526,11 +531,6 @@ images:
     image_description: >-
       Weymouth/Portland 12, 2012<br />Mixed media media on board<br />26 x 38
       cm<br />&amp;pound;650
-  - image_path: /assets/images/54afe73b8799c.jpg
-    image_title:
-    image_description: >-
-      Edgelands 2, 2012<br />oil, charcoal and conte on canvas<br />173 x 400 cm
-      SOLD
 _options:
   image_path:
     width: 1200
