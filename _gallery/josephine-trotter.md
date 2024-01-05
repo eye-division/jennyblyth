@@ -23,7 +23,7 @@ description_markdown: >-
   an artist rooted in the tradition of modern Post-Impressionist painting but
   her deeply felt, poetic response to her native landscape brings a strong and
   totally individual vision to her subjects.&nbsp; She is a superlative painter
-  in the truest sense of the word.'&nbsp;***
+  in the truest sense of the word.'***&nbsp;
 
 
   ***…Trotter's gift for distilling in her paintings that first ecstatic
@@ -317,7 +317,7 @@ description_markdown: >-
   this case her husband claims some credit for its successful completion. “Angus
   feels he was very important in these pictures, which he was. He was whopping
   all the tourists away with an umbrella. They were like ants. We were there for
-  seven hours. Angus said to me, “You are so rude\!” I explained, “If I talk to
+  seven hours. Angus said to me, “You are so rude!” I explained, “If I talk to
   anybody, I’d never paint, I have to be so focussed”. If anybody stuck their
   face in mine I just said I was foreign”.
 
@@ -465,8 +465,8 @@ description_markdown: >-
   and tells us of what and where we are in the world. Josephine Trotter gets it
   right enough, and we are surprised and engaged by it, and better, for it\_.
   London March 2006. William Packer Art Critic with Financial Times since
-  1974."&nbsp; &nbsp;***&copy; Ann Dumas 2018***
-homepage_description_markdown:
+  1974."&nbsp; &nbsp;***© Ann Dumas 2018***
+homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2018-06-11 00:00:00
 permalink: /gallery/josephine-trotter/
