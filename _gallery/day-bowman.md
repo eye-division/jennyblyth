@@ -3,7 +3,7 @@ title: Day BOWMAN
 surname: Bowman
 currentshow: true
 description_markdown: >-
-  **DAY BOWMAN <br>The Power of Painting<br>November 2023<br>CBG Open by
+  **DAY BOWMAN<br>The Power of Painting<br>November 2023<br>CBG Open by
   Appointment :** 07798 526 252 or jennyblythart@gmail.com
 
 
