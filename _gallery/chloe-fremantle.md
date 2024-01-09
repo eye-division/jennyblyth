@@ -1,7 +1,7 @@
 ---
 title: Chloe Fremantle
 surname: Fremantle
-currentshow: false
+currentshow: true
 description_markdown: >-
   ### Back To Abstract at CBG
 
