@@ -176,7 +176,7 @@ images:
     image_title:
     image_description: >-
       Evocations 23<br />Acrylic on canvas<br />152 x 183 cm<br />&amp;pound;
-      6,500
+      10,000
   - image_path: /uploads/5-mb-evocations-20-acr-on-canvas-122-x-132-cm2019-2.jpg
     image_title:
     image_description: >-
@@ -184,24 +184,26 @@ images:
       5,000
   - image_path: /uploads/7-evocations-no-20-gouache--collage-22-x-30--2019-20.jpg
     image_title:
-    image_description: Evocations 20<br />Gouache on paper<br />46 x 70 cm<br />&amp;pound; 1,500
+    image_description: >-
+      Evocations 20<br />Gouache on paper<br />46 x 70 cm<br />&amp;pound; 1,500
+      SOLD
   - image_path: >-
       /uploads/4-memento-mori-52-acr-on-canvas-52-x-54--132-x-137cms-2017-18-1.jpg
     image_title:
     image_description: >-
       Memento Mori in Blue 2018<br />Acrylic on canvas<br />130 x 137 cm<br
-      />&amp;pound;6,000
+      />&amp;pound;8,000
   - image_path: >-
       /uploads/3-memento-mori-53-52-x-54---132-x-137-cms-2017-18-acr-on-canvas-1.jpg
     image_title:
     image_description: >-
       Memento Mori in Black & Gold<br />Acrylic on canvas<br />130 x 137 cm<br
-      />&amp;pound; 6,000
+      />&amp;pound; 8,000
   - image_path: /uploads/5-evocations-no-26-acr-188-x-142-cm-2019-1.jpg
     image_title:
     image_description: >-
       Evocations 26<br />Acrylic on canvas<br />188 x 142cm<br />&amp;pound;
-      6,250
+      7,500
   - image_path: /uploads/11-evocations-a-dec-2019-gouache-30-x-22--.jpg
     image_title:
     image_description: Evocations A<br />Gouache on paper<br />66 x 47 cm<br />&amp;pound; 1,500
