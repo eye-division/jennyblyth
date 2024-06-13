@@ -1,7 +1,7 @@
 ---
 title: Alison Berrett
 surname: Berrett
-currentshow: Berrett
+currentshow:
 description_markdown: >-
   **ALISON BERRETT**
 
@@ -9,7 +9,7 @@ description_markdown: >-
   **My Bathybic Heart**
 
 
-  **APRIL 2022 at Carey Blyth Gallery**&nbsp;
+  **APRIL 2022 at Carey Blyth Gallery**
 
 
   ***I must go down to the seas again, for the call of the running tide***
