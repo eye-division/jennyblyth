@@ -90,8 +90,8 @@ description_markdown: >-
   centenary of World War 1 currently on display at St. Paul's Cathedral.
 
 
-  **Also currently showing : *THE CRUSADER* - on permanent display at Imperial
-  War Museum of the North, Manchester since NOVEMBER 2010**
+  **Also currently showing :** ***THE CRUSADER*** **- on permanent display at
+  Imperial War Museum of the North, Manchester since NOVEMBER 2010**
 
 
   [<font
@@ -152,8 +152,10 @@ description_markdown: >-
   BABYLON at Flowers East Gallery, London 2009
 
 
-  COUNTRY December 2010 - January 2011 at the Fitzroy Gallery, New York. Country
-  curated by Jenny Blyth. Text by Jenny Blyth © 2013 :
+  COUNTRY December 2010 - January 2011 at the Fitzroy Gallery, New York.
+
+
+  Text by Jenny Blyth © 2013 :
 
 
   *The role for contemporary artists is to react and reflect upon life and the
