@@ -11,6 +11,18 @@ archive: false
 main_image_path: /uploads/desert-cowboys-3-1.jpg
 display_title: false
 images:
+  - image_path: /uploads/desert-cowboys-3.jpg
+    image_title: Desert Cowboys
+    image_description: Desert Cowboys
+  - image_path: /uploads/gallery-images/trish-wylie/tw-desert-cowboys-lg-light.jpg
+    image_title: Two Riders
+    image_description: <br/>oil on canvas<br/>5 x 4'<br/> £5500
+  - image_path: /uploads/gallery-images/trish-wylie/blue-rider-152cm-x-122cm-2022.jpeg
+    image_title: Blue Rider
+    image_description: <br/>oil on canvas<br/>5 x 4'<br/> £5500
+  - image_path: /uploads/gallery-images/trish-wylie/rearing-lg.jpg
+    image_title: Rearing
+    image_description: <br/>oil on canvas<br/>5 x 4'<br/> £6000
   - image_path: /uploads/gallery-images/trish-wylie/sisters-i-lg.jpg
     image_title: Sisters I
     image_description: <br/>oil on canvas<br/>4 x 5'<br/> £6500
@@ -20,12 +32,6 @@ images:
   - image_path: /uploads/gallery-images/trish-wylie/wild-horse-i.jpg
     image_title: Wild Horse I
     image_description: <br/>oil on canvas<br/>20 x 24'<br/> £1750
-  - image_path: /uploads/gallery-images/trish-wylie/tw-desert-cowboys-lg-light.jpg
-    image_title: Two Riders
-    image_description: <br/>oil on canvas<br/>5 x 4'<br/> £5500
-  - image_path: /uploads/gallery-images/riding-figure.jpg
-    image_title: Blue Rider
-    image_description: <br/>oil on canvas<br/>5 x 4'<br/> £5500
   - image_path: >-
       /uploads/gallery-images/trish-wylie/tw-western-spirit-oil-on-canvas-5-x-4.jpg
     image_title: Western Spirit
@@ -33,9 +39,6 @@ images:
   - image_path: /uploads/gallery-images/trish-wylie/tw-stop-daddy-oil-on-canvas-5-x-4.jpg
     image_title: Stop Daddy
     image_description: <br/>oil on linen<br/>4 x 5'<br /> £5500
-  - image_path: /uploads/gallery-images/trish-wylie/rearing-lg.jpg
-    image_title: Rearing
-    image_description: <br/>oil on canvas<br/>5 x 4'<br/> £6000
   - image_path: /uploads/gallery-images/trish-wylie/mojave-horse.jpg
     image_title: Mojave Horse
     image_description: <br/>acrylic on board (framed)<br />12 x 16'<br /> £750 SOLD
@@ -43,14 +46,6 @@ images:
       /uploads/gallery-images/trish-wylie/trish-wylie-2-little-joshuas-acrylic-on-board-in-black-wooden-frame-12-x-14.jpg
     image_title: Little Joshuas
     image_description: <br/>acrylic on board<br />12 x 14'<br /> £700 framed SOLD
-  - image_path: >-
-      /uploads/gallery-images/trish-wylie/trishwylie-horizon-joshuas-acrylic-on-board-in-black-wooden-frame-14-x-12.jpg
-    image_title: Horizon Joshuas
-    image_description: <br/>acrylic on board<br />12 x 14'<br /> £700 framed
-  - image_path: >-
-      /uploads/gallery-images/trish-wylie/trishwylie-golden-desert-path-acrylic-on-board-in-black-wooden-frame-12-x-14.jpg
-    image_title: Golden Desert Path
-    image_description: <br/>acrylic on board<br />12 x 14' <br/> £700 framed
   - image_path: /uploads/gallery-images/trish-wylie/lino-cut-3-lg.jpg
     image_title: The Magnificent Seven (Red and Gold)
     image_description: <br/>linocut edition of 25<br/>25 x 30'<br/> £875
@@ -63,9 +58,6 @@ images:
   - image_path: ''
     image_title: ''
     image_description: ''
-  - image_path: /uploads/desert-cowboys-3.jpg
-    image_title: Desert Cowboys
-    image_description: Desert Cowboys
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
