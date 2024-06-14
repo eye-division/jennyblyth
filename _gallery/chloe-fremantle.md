@@ -3,10 +3,19 @@ title: Chloe Fremantle
 surname: Fremantle
 currentshow: true
 description_markdown: >-
-  ### Back To Abstract at CBG
+  **CHLOE FREMANTLE**
 
 
-  July 2023
+  Chloe is building on her *Home Sweet Home* series that flow naturally from her
+  Evocations, Contemplations and Reflections - from within looking out, and from
+  outside looking in.  She is working both figuratively and with abstraction
+  reflecting on the fast changing environment that we inhabit.
+
+
+  Back To Abstract at CBG
+
+
+  December 2023
 
 
   A selection of paintings from *Light Seeking Light 2022* curated by Jenny
