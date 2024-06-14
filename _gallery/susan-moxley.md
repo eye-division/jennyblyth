@@ -26,7 +26,7 @@ description_markdown: >-
   Working with mixed media, SM is a printmaker supreme, creating exquisite
   prints, collages, sculpture and jewellery. Although her work is based in
   figuration, it is largely abstracted. Concepts and politics remain important
-  to her. Her new body of work *** *** focuses particularly on ‘textile
+  to her. Her new body of work *\*\* \*\** focuses particularly on ‘textile
   paintings’ with sculpture that celebrates music and the beauty of the female
   form.
 
@@ -55,7 +55,7 @@ description_markdown: >-
   of hard manual work and thrift that underpinned traditional life on the
   island. SM’s *mement**i*** represent the women, working a fine balance of
   austerity and creativity - an apron marked with cooking oil, a fragment of
-  blanket darned, and over-darned... Some of the fabrics, heavy with flax like
+  blanket darned, and over-darned… Some of the fabrics, heavy with flax like
   fine chainmail, are over 100 years old. As Sufi food is made with love, so too
   were the handmade fabrics that brought warmth and joy beyond the practical, a
   binding together of generations and community.
@@ -142,7 +142,7 @@ archive: false
 main_image_path: /uploads/sm-sm-first-storm-68-x-205-cm.jpg
 display_title: true
 images:
-  - image_path:
+  - image_path: /uploads/gallery-images/susan-moxley/violin-woman-i.jpg
     image_title:
     image_description:
 _options:
