@@ -14,6 +14,10 @@ images:
   - image_path: /uploads/desert-cowboys-3.jpg
     image_title: Desert Cowboys
     image_description: Desert Cowboys
+  - image_path: >-
+      /uploads/gallery-images/trish-wylie/tw-desert-paintings-triptych-side-md.jpeg
+    image_title: ''
+    image_description: ''
   - image_path: /uploads/gallery-images/trish-wylie/tw-desert-cowboys-lg-light.jpg
     image_title: Two Riders
     image_description: <br/>oil on canvas<br/>5 x 4'<br/> £5500
@@ -29,6 +33,9 @@ images:
   - image_path: /uploads/gallery-images/trish-wylie/stop-daddy-a.jpg
     image_title: ''
     image_description: ''
+  - image_path: /uploads/gallery-images/trish-wylie/tw-stop-daddy-oil-on-canvas-5-x-4.jpg
+    image_title: Stop Daddy
+    image_description: <br/>oil on linen<br/>4 x 5'<br /> £5500
   - image_path: >-
       /uploads/gallery-images/trish-wylie/tw-western-spirit-oil-on-canvas-5-x-4.jpg
     image_title: Western Spirit
@@ -42,9 +49,6 @@ images:
   - image_path: /uploads/gallery-images/trish-wylie/wild-horse-i.jpg
     image_title: Wild Horse I
     image_description: <br/>oil on canvas<br/>20 x 24'<br/> £1750
-  - image_path: /uploads/gallery-images/trish-wylie/tw-stop-daddy-oil-on-canvas-5-x-4.jpg
-    image_title: Stop Daddy
-    image_description: <br/>oil on linen<br/>4 x 5'<br /> £5500
   - image_path: /uploads/gallery-images/trish-wylie/mojave-horse.jpg
     image_title: Mojave Horse
     image_description: <br/>acrylic on board (framed)<br />12 x 16'<br /> £750 SOLD
