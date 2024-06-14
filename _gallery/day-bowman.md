@@ -388,10 +388,22 @@ main_image_path: >-
   /uploads/DayBowman_Citadel4_oil,charcoalandconteoncanvas_172x200x3cm_DSC_0986.jpg
 images:
   - image_path: >-
+      /uploads/day-jbfa-day-bowman-swaying-1-oil-conte-charcoal-on-canvas-14-x-150-x-3-cm.jpg
+    image_title: Swaling I 2024
+    image_description: >-
+      <br />oil, charcoal and conte on canvas<br />140 x 150 x 4 cm<br
+      />&amp;pound; 10,000 SOLD
+  - image_path: >-
       /uploads/DayBowman_Citadel4_oil,charcoalandconteoncanvas_172x200x3cm_DSC_0986.jpg
     image_title:
     image_description: >-
       Citadel 4, 2020<br />oil, charcoal and conte on canvas<br />172 x 200
+      cm<br />&amp;pound;8750
+  - image_path: >-
+      /uploads/DayBowman_Citadel3_oil,charcoalndconteoncanvas_172x200x3cm_DSC_0999.jpg
+    image_title:
+    image_description: >-
+      Citadel 3, 2020<br />oil, charcoal and conte on canvas<br />172 x 200 x 3
       cm<br />&amp;pound;8750
   - image_path: >-
       /uploads/day-bowman-fortress-7-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm-dsc-1024.jpg
@@ -419,12 +431,6 @@ images:
     image_description: >-
       Fortress 8, 2020<br />oil, charcoal and conte on canvas<br />140 x 150 x 3
       cm<br />&amp;pound;7500
-  - image_path: >-
-      /uploads/DayBowman_Citadel3_oil,charcoalndconteoncanvas_172x200x3cm_DSC_0999.jpg
-    image_title:
-    image_description: >-
-      Citadel 3, 2020<br />oil, charcoal and conte on canvas<br />172 x 200 x 3
-      cm<br />&amp;pound;8750
   - image_path: >-
       /uploads/day-bowman-plashy-place-5-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm-2.jpg
     image_title:
@@ -534,12 +540,6 @@ images:
     image_description: >-
       Weymouth/Portland 12, 2012<br />Mixed media media on board<br />26 x 38
       cm<br />&amp;pound;650
-  - image_path: >-
-      /uploads/day-jbfa-day-bowman-swaying-1-oil-conte-charcoal-on-canvas-14-x-150-x-3-cm.jpg
-    image_title: Swaling I 2024
-    image_description: >-
-      <br />oil, charcoal and conte on canvas<br />140 x 150 x 4 cm<br
-      />&amp;pound; 10,000 SOLD
 _options:
   image_path:
     width: 1200
