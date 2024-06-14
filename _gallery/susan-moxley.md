@@ -142,7 +142,7 @@ archive: false
 main_image_path: /uploads/sm-sm-first-storm-68-x-205-cm.jpg
 display_title: true
 images:
-  - image_path: /uploads/gallery-images/susan-moxley/sm-harbour-i.jpg
+  - image_path: /uploads/gallery-images/susan-moxley/sm-sm-first-storm-68-x-205-cm.jpg
     image_title:
     image_description:
   - image_path: ''
