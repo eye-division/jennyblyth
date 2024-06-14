@@ -6,9 +6,9 @@ description_markdown: >-
   **DAY BOWMAN**
 
 
-  DB's new series 2024 explores the land in *Marking the Boundaries.*
-  ***Swalilng 1*** above placed in beautiful collection in Crete.  Despite the
-  setting surrounded by azure seas, water is an issue for the islands as summer
+  DB's new series 2024 explores the land in *Marking the Boundaries.* ***Swaling
+  1*** above placed in beautiful collection in Crete.  Despite the setting
+  surrounded by azure seas, water is an issue for the islands as summer
   temperatures soar.  As a child Day observed the 'marking off' of the land for
   controlled moor fires. She continues to engage with global concerns from
   climate change to migration.  As ever Day brings energy and passion to the
