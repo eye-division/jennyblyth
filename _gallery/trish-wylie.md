@@ -29,18 +29,19 @@ images:
   - image_path: /uploads/gallery-images/trish-wylie/tw-desert-cowboys-lg-light.jpg
     image_title: Two Riders
     image_description: <br/>oil on canvas<br/>5 x 4'<br/> £5500
+  - image_path: >-
+      /uploads/gallery-images/trish-wylie/american-bison-comeback-oil-on-canvas-5-x-4.jpg
+    image_title: American Bison Comeback
+    image_description: <br/>oil on canvas<br/>5 x 4'<br/> £6000
   - image_path: /uploads/gallery-images/trish-wylie/img-8819.jpg
-    image_title:
+    image_title: Look Daddy Look Oil
     image_description: <br/>oil on canvas<br/>5 x 4'<br/> £8500
   - image_path: /uploads/gallery-images/trish-wylie/stop-daddy-a.jpg
     image_title: Stop Daddy II
     image_description: <br/>oil on canvas<br/>5 x 4'<br/> £6500
   - image_path: /uploads/gallery-images/trish-wylie/tw-stop-daddy-oil-on-canvas-5-x-4.jpg
-    image_title: Stop Daddy I
+    image_title: Stop Daddy Stop Oil
     image_description: <br/>oil on linen<br/>4 x 5'<br /> £6500
-  - image_path: /uploads/gallery-images/trish-wylie/rearing-lg.jpg
-    image_title: Rearing
-    image_description: <br/>oil on canvas<br/>5 x 4'<br/> £6000
   - image_path: /uploads/gallery-images/trish-wylie/pink-cowboy.jpg
     image_title: Western Spirit
     image_description: <br/>oil on linen<br/>5 x 4'<br/> £5500
