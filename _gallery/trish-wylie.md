@@ -58,16 +58,16 @@ images:
       /uploads/gallery-images/trish-wylie/trish-wylie-2-little-joshuas-acrylic-on-board-in-black-wooden-frame-12-x-14.jpg
     image_title: Little Joshuas
     image_description: <br/>acrylic on board<br />12 x 14'<br /> £700 framed SOLD
+  - image_path: >-
+      /uploads/gallery-images/trish-wylie/tw-golden-desert-path-acrylic-on-board-in-black-wooden-frame-12-x-14.jpg
+    image_title: Golden Desert Path
+    image_description: <br/>oil on board<br/>12 x 14 in<br/> £700
   - image_path: /uploads/gallery-images/trish-wylie/lino-cut-3-lg.jpg
     image_title: The Magnificent Seven (Red and Gold)
     image_description: <br/>linocut edition of 25<br/>25 x 30'<br/> £875
   - image_path: /uploads/gallery-images/trish-wylie/lino-cut-1-lg.jpg
     image_title: The Magnificent Seven (Black and Gold)
     image_description: <br/>linocut edition of 25<br/>30 x 25'<br/> £875
-  - image_path: >-
-      /uploads/gallery-images/trish-wylie/tw-golden-desert-path-acrylic-on-board-in-black-wooden-frame-12-x-14.jpg
-    image_title: Golden Desert Path
-    image_description: <br/>oil on board<br/>12 x 14 in<br/> £700
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
