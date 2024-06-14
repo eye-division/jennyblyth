@@ -6,6 +6,13 @@ description_markdown: >-
   **ANNE HOWESON**
 
 
+  New series : Volcanoes - AH has produced beautiful new drawings of people
+  living 'under' the volcano close to her studio in Italy.  The volcano presides
+  as the people pass through.  AH continues to work on her Kings X series, and
+  has a wonderful body of work composed around her two sisters and she -
+  childhood on the East Coast of Ireland where they meet every year.
+
+
   **CAREY BLYTH GALLERY  Feet of Angels March -April 2023**
 
 
