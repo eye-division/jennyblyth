@@ -149,6 +149,9 @@ images:
       /uploads/gallery-images/susan-moxley/susan-moxley-sm-violin-woman-in-white-with-minoan-bird-1.jpg
     image_title:
     image_description:
+  - image_path: /uploads/gallery-images/susan-moxley/violin-case-woman-i-sm.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
