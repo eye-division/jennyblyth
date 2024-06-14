@@ -6,13 +6,18 @@ description_markdown: >-
   **CHLOE FREMANTLE**
 
 
-  Chloe is building on her *Home Sweet Home* series that flow naturally from her
-  Evocations, Contemplations and Reflections - from within looking out, and from
-  outside looking in.  She is working both figuratively and with abstraction
-  reflecting on the fast changing environment that we inhabit.
+  *News* ..... Chloe is building on her *Home Sweet Home* series that flow
+  naturally from her *Evocations, Contemplations* and *Reflections* - from
+  within looking out, and from outside looking in.  She is working both
+  figuratively and with abstraction reflecting on the fast changing environment
+  that we inhabit. There is an innate sense of joy in Chloe Fremantle’s painting
+  irrespective of her subject. Such is the effect of colour and patterning in
+  her work for us as viewers. On close inspection one can unravel her language
+  of mark-making that she has developed from observations of the natural world
+  and her immediate environment.
 
 
-  Back To Abstract at CBG
+  **Back To Abstract at CBG**
 
 
   December 2023
