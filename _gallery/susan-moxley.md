@@ -133,10 +133,10 @@ description_markdown: >-
   [*https://www.violinist.com/blog/Mle/20106/11325/*](https://www.violinist.com/blog/Mle/20106/11325/)
 homepage_description_markdown: ''
 frontpage: true
-gallery_date:
-permalink:
+gallery_date: 2024-06-14 00:00:00
+permalink: /gallery/susan-moxley/
 archive: false
-main_image_path:
+main_image_path: /uploads/sm-first-storm-textile-thread-5-mb-68-x-205-cm.jpg
 display_title: true
 images:
   - image_path:
