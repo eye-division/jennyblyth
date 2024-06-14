@@ -3,16 +3,13 @@ title: Trish WYLIE
 surname: WYLIE
 currentshow: Wylie
 description_markdown: >-
-  **CAREY BLYTH GALLERY**
-
-
-  **October 2023**
+  **CAREY BLYTH GALLERY October 2023**
 
 
   **Paintings by TRISH WYLIE**
 
 
-  **‘ALL THE PRETTY HORSES’**
+  **ALL THE PRETTY HORSES**
 
 
   Text by Jenny Blyth, Curator & Gallerist
@@ -28,7 +25,7 @@ description_markdown: >-
   Stills, traced, drawn and washed in inks… Her paintings have a cinematic
   sensibility – cool and glamorous, with strong lines and flat planes of colour
   in oil on canvas. The reds, blacks and purples are unapologetic, and lend an
-  immediacy we associate with Pop Art.&nbsp;
+  immediacy we associate with Pop Art.
 
 
   True, that as a child of the 60s & 70s she grew up on a diet of TV Westerns.
@@ -43,7 +40,7 @@ description_markdown: >-
   goods at Camden.&nbsp; She recalls, as a child, the sound of horses kicking
   stable doors of a morning. Her parents had run away together from Ireland
   where her father was employed as a Saddler for Trish’s grandfather.&nbsp; So
-  for Trish, as for her parents and grandparents, horses are in the blood.&nbsp;
+  for Trish, as for her parents and grandparents, horses are in the blood.
 
 
   Perhaps it was those early years where she first wisted after the adventure
@@ -121,7 +118,7 @@ images:
   - image_path: /uploads/gallery-images/trish-wylie/wild-horse-i.jpg
     image_title: Wild Horse I
     image_description: <br/>oil on canvas<br/>20 x 24'<br/> £1750
-  - image_path: /uploads/gallery-images/trish-wylie/desert-cowboys-lg.jpg
+  - image_path: /uploads/gallery-images/trish-wylie/tw-desert-cowboys-lg-light.jpg
     image_title: Two Riders
     image_description: <br/>oil on canvas<br/>5 x 4'<br/> £5500
   - image_path: /uploads/gallery-images/riding-figure.jpg
@@ -137,12 +134,6 @@ images:
   - image_path: /uploads/gallery-images/trish-wylie/rearing-lg.jpg
     image_title: Rearing
     image_description: <br/>oil on canvas<br/>5 x 4'<br/> £6000
-  - image_path: /uploads/gallery-images/trish-wylie/misfit-stallion-lg.jpg
-    image_title: Misfit Stallion I
-    image_description: <br/>oil on canvas<br/>30 x 40"
-  - image_path: /uploads/gallery-images/trish-wylie/misfit-large-ii.jpg
-    image_title: Misfit Stallion II
-    image_description: <br/>oil on linen<br />40 x 40'
   - image_path: /uploads/gallery-images/trish-wylie/mojave-horse.jpg
     image_title: Mojave Horse
     image_description: <br/>acrylic on board (framed)<br />12 x 16'<br /> £750 SOLD
