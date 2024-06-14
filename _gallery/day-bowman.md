@@ -6,12 +6,14 @@ description_markdown: >-
   **DAY BOWMAN**
 
 
-  DB's new series explores the land in *Marking the Boundaries.*  As a child she
-  observed the 'marking off' of the land for controlled moor fires. Day
-  continues to engage with global concerns from climate change to migration.  As
-  ever she brings energy and passion to the canvas finding the poetry within
-  however tough the subject.**<br><br>Carey Blyth Gallery : The Power of
-  Painting Nov-Dec 2023<br>**Artist Talk Saturday 25 November
+  DB's new series 2024 explores the land in *Marking the Boundaries.*
+  ***Swalilng 1*** above placed in beautiful collection in Crete.  Despite the
+  setting surrounded by azure seas, water is an issue for the islands as summer
+  temperatures soar.  As a child Day observed the 'marking off' of the land for
+  controlled moor fires. She continues to engage with global concerns from
+  climate change to migration.  As ever Day brings energy and passion to the
+  canvas finding the poetry within however tough the subject. **<br><br>Carey
+  Blyth Gallery : The Power of Painting December 2023<br>**Artist Talk with JB
 
 
   In essence there is an alchemy of energy within Day Bowman's paintings that is
@@ -63,16 +65,13 @@ description_markdown: >-
   release ourselves to the elements, we find a path to peace and healing.
 
 
-  ### *DAY BOWMAN 'Plashy Places'*
+  **DAY BOWMAN   Plashy Places**
 
 
-  #### Carey Blyth Gallery , Oxford
+  Carey Blyth Gallery , Oxford
 
 
-  #### **6 March - 5 April 2020**
-
-
-  **Text by Jenny Blyth**
+  Text by Jenny Blyth©March 2020
 
 
   How deeply are etched within us our childhood memories - where time stood
@@ -388,10 +387,22 @@ main_image_path: >-
   /uploads/DayBowman_Citadel4_oil,charcoalandconteoncanvas_172x200x3cm_DSC_0986.jpg
 images:
   - image_path: >-
+      /uploads/day-jbfa-day-bowman-swaying-1-oil-conte-charcoal-on-canvas-14-x-150-x-3-cm.jpg
+    image_title: Swaling I 2024
+    image_description: >-
+      <br />oil, charcoal and conte on canvas<br />140 x 150 x 4 cm<br
+      />&amp;pound; 10,000 SOLD
+  - image_path: >-
       /uploads/DayBowman_Citadel4_oil,charcoalandconteoncanvas_172x200x3cm_DSC_0986.jpg
     image_title:
     image_description: >-
       Citadel 4, 2020<br />oil, charcoal and conte on canvas<br />172 x 200
+      cm<br />&amp;pound;8750
+  - image_path: >-
+      /uploads/DayBowman_Citadel3_oil,charcoalndconteoncanvas_172x200x3cm_DSC_0999.jpg
+    image_title:
+    image_description: >-
+      Citadel 3, 2020<br />oil, charcoal and conte on canvas<br />172 x 200 x 3
       cm<br />&amp;pound;8750
   - image_path: >-
       /uploads/day-bowman-fortress-7-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm-dsc-1024.jpg
@@ -419,12 +430,6 @@ images:
     image_description: >-
       Fortress 8, 2020<br />oil, charcoal and conte on canvas<br />140 x 150 x 3
       cm<br />&amp;pound;7500
-  - image_path: >-
-      /uploads/DayBowman_Citadel3_oil,charcoalndconteoncanvas_172x200x3cm_DSC_0999.jpg
-    image_title:
-    image_description: >-
-      Citadel 3, 2020<br />oil, charcoal and conte on canvas<br />172 x 200 x 3
-      cm<br />&amp;pound;8750
   - image_path: >-
       /uploads/day-bowman-plashy-place-5-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm-2.jpg
     image_title:
