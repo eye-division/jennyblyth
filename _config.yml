@@ -10,7 +10,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Jenny Blyth Fine Art at Carey Blyth Gallery
+title: Jenny Blyth Fine Art
 subtitle:
 name: Jenny Blyth Fine Art
 description: Art gallery based in Oxford
@@ -43,7 +43,7 @@ collections:
       output: true
       permalink: /gallery/:path/
       _hide_content: true
-      
+
 
 cloudcannon:
   collections:
