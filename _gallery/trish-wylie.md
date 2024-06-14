@@ -6,7 +6,8 @@ description_markdown: >-
   **TRISH WYLIE**
 
 
-  New work above - Desert Cowboys & American Bison Comeback....
+  *New work above - **Desert Cowboys** & **American Bison Comeback** and more
+  ...*
 
 
   **ALL THE PRETTY HORSES**
