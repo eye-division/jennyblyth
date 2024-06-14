@@ -3,12 +3,15 @@ title: Day BOWMAN
 surname: Bowman
 currentshow: true
 description_markdown: >-
-  **DAY BOWMAN<br>The Power of Painting<br>November 2023<br>CBG Open by
-  Appointment :** 07798 526 252 or jennyblythart@gmail.com
+  **DAY BOWMAN**
 
 
-  **Drinks & Artist Talk: 2.30 pm Saturday 25 November. The gallery will be open
-  10-5.**
+  DB's new series explores the land in *Marking the Boundaries.*  As a child she
+  observed the 'marking off' of the land for controlled moor fires. Day
+  continues to engage with global concerns from climate change to migration.  As
+  ever she brings energy and passion to the canvas finding the poetry within
+  however tough the subject.**<br><br>Carey Blyth Gallery : The Power of
+  Painting Nov-Dec 2023<br>**Artist Talk Saturday 25 November
 
 
   In essence there is an alchemy of energy within Day Bowman's paintings that is
