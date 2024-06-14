@@ -14,19 +14,21 @@ images:
   - image_path: /uploads/desert-cowboys-3.jpg
     image_title: Desert Cowboys
     image_description: <br/>oil on canvas x 3<br/>5 x 4'<br/> £10,000 each
-  - image_path: >-
-      /uploads/gallery-images/trish-wylie/tw-desert-paintings-triptych-side-md.jpeg
-    image_title: Desert Cowboys
-    image_description: <br/>oil on canvas x 3<br/>5 x 4'<br/> £10,000
-  - image_path: /uploads/gallery-images/trish-wylie/tw-desert-cowboys-lg-light.jpg
-    image_title: Two Riders
-    image_description: <br/>oil on canvas<br/>5 x 4'<br/> £5500
+  - image_path: /uploads/gallery-images/trish-wylie/14-orange-cowboy-3.jpg
+    image_title: ''
+    image_description: ''
+  - image_path: /uploads/gallery-images/trish-wylie/13-orange-cowboy-2.jpg
+    image_title: ''
+    image_description: ''
+  - image_path: /uploads/gallery-images/trish-wylie/12-orange-cowboy-1.jpg
+    image_title: ''
+    image_description: ''
   - image_path: /uploads/gallery-images/trish-wylie/blue-rider-152cm-x-122cm-2022.jpeg
     image_title: Blue Rider
     image_description: <br/>oil on canvas<br/>5 x 4'<br/> £5500
-  - image_path: /uploads/gallery-images/trish-wylie/rearing-lg.jpg
-    image_title: Rearing
-    image_description: <br/>oil on canvas<br/>5 x 4'<br/> £6000
+  - image_path: /uploads/gallery-images/trish-wylie/tw-desert-cowboys-lg-light.jpg
+    image_title: Two Riders
+    image_description: <br/>oil on canvas<br/>5 x 4'<br/> £5500
   - image_path: /uploads/gallery-images/trish-wylie/img-8819.jpg
     image_title:
     image_description: <br/>oil on canvas<br/>5 x 4'<br/> £8500
@@ -36,8 +38,10 @@ images:
   - image_path: /uploads/gallery-images/trish-wylie/tw-stop-daddy-oil-on-canvas-5-x-4.jpg
     image_title: Stop Daddy I
     image_description: <br/>oil on linen<br/>4 x 5'<br /> £6500
-  - image_path: >-
-      /uploads/gallery-images/trish-wylie/tw-western-spirit-oil-on-canvas-5-x-4.jpg
+  - image_path: /uploads/gallery-images/trish-wylie/rearing-lg.jpg
+    image_title: Rearing
+    image_description: <br/>oil on canvas<br/>5 x 4'<br/> £6000
+  - image_path: /uploads/gallery-images/trish-wylie/pink-cowboy.jpg
     image_title: Western Spirit
     image_description: <br/>oil on linen<br/>5 x 4'<br/> £5500
   - image_path: /uploads/gallery-images/trish-wylie/sisters-i-lg.jpg
@@ -59,9 +63,6 @@ images:
   - image_path: /uploads/gallery-images/trish-wylie/lino-cut-3-lg.jpg
     image_title: The Magnificent Seven (Red and Gold)
     image_description: <br/>linocut edition of 25<br/>25 x 30'<br/> £875
-  - image_path: /uploads/gallery-images/trish-wylie/lino-cut-4-lg.jpg
-    image_title: The Magnificent Seven (Blue and Gold)
-    image_description: <br/>linocut edition of 25<br/>30 x 25'<br/> £875
   - image_path: /uploads/gallery-images/trish-wylie/lino-cut-1-lg.jpg
     image_title: The Magnificent Seven (Black and Gold)
     image_description: <br/>linocut edition of 25<br/>30 x 25'<br/> £875
