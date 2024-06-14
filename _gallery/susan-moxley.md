@@ -136,7 +136,7 @@ frontpage: true
 gallery_date: 2024-06-14 00:00:00
 permalink: /gallery/susan-moxley/
 archive: false
-main_image_path: /uploads/sm-first-storm-textile-thread-5-mb-68-x-205-cm.jpg
+main_image_path: /uploads/sm-sm-first-storm-68-x-205-cm.jpg
 display_title: true
 images:
   - image_path:
