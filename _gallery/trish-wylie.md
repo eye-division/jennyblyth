@@ -8,14 +8,11 @@ frontpage: true
 gallery_date: 2023-09-09 00:00:00
 permalink: /gallery/trish-wylie-gallery/
 archive: false
-main_image_path: /uploads/sisters-i-1.jpg
+main_image_path: /uploads/desert-cowboys-3-1.jpg
 display_title: false
 images:
   - image_path: /uploads/gallery-images/trish-wylie/sisters-i-lg.jpg
     image_title: Sisters I
-    image_description: <br/>oil on canvas<br/>4 x 5'<br/> £6500
-  - image_path: /uploads/gallery-images/sisters-ii.jpg
-    image_title: Sisters II
     image_description: <br/>oil on canvas<br/>4 x 5'<br/> £6500
   - image_path: /uploads/gallery-images/trish-wylie/wild-horse-ii.jpg
     image_title: Wild Horse I
