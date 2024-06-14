@@ -64,6 +64,9 @@ images:
   - image_path: /uploads/gallery-images/trish-wylie/lino-cut-1-lg.jpg
     image_title: The Magnificent Seven (Black and Gold)
     image_description: <br/>linocut edition of 25<br/>30 x 25'<br/> £875
+  - image_path: ''
+    image_title: ''
+    image_description: ''
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
