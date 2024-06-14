@@ -142,7 +142,11 @@ archive: false
 main_image_path: /uploads/sm-sm-first-storm-68-x-205-cm.jpg
 display_title: true
 images:
-  - image_path: ''
+  - image_path: /uploads/gallery-images/susan-moxley/sm-harbour-i-2.jpg
+    image_title:
+    image_description:
+  - image_path: >-
+      /uploads/gallery-images/susan-moxley/susan-moxley-sm-violin-woman-in-white-with-minoan-bird-1.jpg
     image_title:
     image_description:
 _options:
