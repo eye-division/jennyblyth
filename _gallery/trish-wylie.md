@@ -23,6 +23,16 @@ images:
   - image_path: /uploads/gallery-images/trish-wylie/rearing-lg.jpg
     image_title: Rearing
     image_description: <br/>oil on canvas<br/>5 x 4'<br/> £6000
+  - image_path: /uploads/gallery-images/trish-wylie/img-8819.jpg
+    image_title: ''
+    image_description: ''
+  - image_path: /uploads/gallery-images/trish-wylie/stop-daddy-a.jpg
+    image_title: ''
+    image_description: ''
+  - image_path: >-
+      /uploads/gallery-images/trish-wylie/tw-western-spirit-oil-on-canvas-5-x-4.jpg
+    image_title: Western Spirit
+    image_description: <br/>oil on linen<br/>5 x 4'<br/> £5500
   - image_path: /uploads/gallery-images/trish-wylie/sisters-i-lg.jpg
     image_title: Sisters I
     image_description: <br/>oil on canvas<br/>4 x 5'<br/> £6500
@@ -32,10 +42,6 @@ images:
   - image_path: /uploads/gallery-images/trish-wylie/wild-horse-i.jpg
     image_title: Wild Horse I
     image_description: <br/>oil on canvas<br/>20 x 24'<br/> £1750
-  - image_path: >-
-      /uploads/gallery-images/trish-wylie/tw-western-spirit-oil-on-canvas-5-x-4.jpg
-    image_title: Western Spirit
-    image_description: <br/>oil on linen<br/>5 x 4'<br/> £5500
   - image_path: /uploads/gallery-images/trish-wylie/tw-stop-daddy-oil-on-canvas-5-x-4.jpg
     image_title: Stop Daddy
     image_description: <br/>oil on linen<br/>4 x 5'<br /> £5500
@@ -55,9 +61,6 @@ images:
   - image_path: /uploads/gallery-images/trish-wylie/lino-cut-1-lg.jpg
     image_title: The Magnificent Seven (Black and Gold)
     image_description: <br/>linocut edition of 25<br/>30 x 25'<br/> £875
-  - image_path: ''
-    image_title: ''
-    image_description: ''
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
