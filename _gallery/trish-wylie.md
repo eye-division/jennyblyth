@@ -64,9 +64,10 @@ images:
   - image_path: /uploads/gallery-images/trish-wylie/lino-cut-1-lg.jpg
     image_title: The Magnificent Seven (Black and Gold)
     image_description: <br/>linocut edition of 25<br/>30 x 25'<br/> £875
-  - image_path: ''
-    image_title: ''
-    image_description: ''
+  - image_path: >-
+      /uploads/gallery-images/trish-wylie/tw-golden-desert-path-acrylic-on-board-in-black-wooden-frame-12-x-14.jpg
+    image_title: Golden Desert Path
+    image_description: <br/>oil on board<br/>12 x 14 in<br/> £700
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
