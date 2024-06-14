@@ -11,9 +11,6 @@ archive: false
 main_image_path: /uploads/desert-cowboys-3-1.jpg
 display_title: false
 images:
-  - image_path: /uploads/desert-cowboys-3.jpg
-    image_title: Desert Cowboys
-    image_description: <br/>oil on canvas x 3<br/>5 x 4'<br/> £10,000 each
   - image_path: /uploads/gallery-images/trish-wylie/14-orange-cowboy-3.jpg
     image_title: ''
     image_description: ''
@@ -23,16 +20,16 @@ images:
   - image_path: /uploads/gallery-images/trish-wylie/12-orange-cowboy-1.jpg
     image_title: ''
     image_description: ''
+  - image_path: >-
+      /uploads/gallery-images/trish-wylie/american-bison-comeback-oil-on-canvas-5-x-4.jpg
+    image_title: American Bison Comeback
+    image_description: <br/>oil on canvas<br/>5 x 4'<br/> £6000
   - image_path: /uploads/gallery-images/trish-wylie/blue-rider-152cm-x-122cm-2022.jpeg
     image_title: Blue Rider
     image_description: <br/>oil on canvas<br/>5 x 4'<br/> £5500
   - image_path: /uploads/gallery-images/trish-wylie/tw-desert-cowboys-lg-light.jpg
     image_title: Two Riders
     image_description: <br/>oil on canvas<br/>5 x 4'<br/> £5500
-  - image_path: >-
-      /uploads/gallery-images/trish-wylie/american-bison-comeback-oil-on-canvas-5-x-4.jpg
-    image_title: American Bison Comeback
-    image_description: <br/>oil on canvas<br/>5 x 4'<br/> £6000
   - image_path: /uploads/gallery-images/trish-wylie/img-8819.jpg
     image_title: Look Daddy Look Oil
     image_description: <br/>oil on canvas<br/>5 x 4'<br/> £8500
