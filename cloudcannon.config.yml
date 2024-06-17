@@ -1,0 +1,95 @@
+paths:
+  uploads: uploads
+  uploads_use_relative_path: false
+  static: ''
+  dam_uploads: ''
+  dam_static: ''
+  collections: ''
+  data: _data
+  layouts: _layouts
+  includes: _includes
+collections_config:
+  gallery:
+    path: _gallery
+    output: true
+    icon: notes
+    _enabled_editors:
+      - data
+      - visual
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  data:
+    path: _data
+    output: false
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  posts:
+    path: _posts
+    output: true
+    icon: notes
+    create:
+      path: >-
+        [relative_base_path]/{date|year}-{date|month}-{date|day}-{title|slugify}.[ext]
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  pages:
+    path: ''
+    output: true
+    filter: strict
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+_inputs:
+  categories:
+    type: multiselect
+    options:
+      allow_create: true
+      empty_type: array
+    cascade: true
+  tags:
+    type: multiselect
+    options:
+      allow_create: true
+      empty_type: array
+    cascade: true
+_select_data:
+  imagecdn:
+    staging: https://ed-jennyblythfineart-dev.imgix.net
+    production: https://ed-jennyblythfineart.imgix.net
+  social:
+    - name: Facebook
+      icon: icon-facebook_sign
+      username:
+      url:
+      desc: Like on Facebook
+      share: true
+    - name: Instagram
+      icon: icon-instagram
+      username:
+      url:
+      desc: Follow me on Instagram
+      share: false
+    - name: Twitter
+      icon: icon-twitter_sign
+      username:
+      url:
+      desc: Follow us on Twitter
+      share: true
+    - name: Pinterest
+      icon: icon-pinterest
+      username:
+      url:
+      desc: Follow me on Pinterest
+      share: true
+  protocols:
+    fb_image: /siteicon.png
+    fb_image_width: 480
+    fb_image_height: 480
+    fb_image_type: image/png
+    twitter_image: /siteicon.png
+timezone: Etc/UTC
