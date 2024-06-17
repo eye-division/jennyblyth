@@ -1,7 +1,7 @@
 ---
 title: Anne LYNCH
 surname: Lynch
-currentshow:
+currentshow: false
 description_markdown: "**ANNE LYNCH**\n\n**Pots of Plenty at CBG**\n\n**11 May - End June 2023**\n\nFood, storytelling and myths are at the heart of Anne Lynch’s paintings.\_ Working in watercolour and occasional collage, she defies the traditional parameters of scale and content of her chosen medium. \_ Although tutored by Elizabeth Blackadder, her work is more wild than pretty, nor is she drawn to the romance of landscape. Woodlands may entice her, but as a place to hide, or to protect her.\_ Trees feature in her paintings because she enjoys the dancing silhouettes of maritime pines that spangle the Charantes Maritime coast where she has a home and studio.\_ Dividing her time between UK and France, *joie de vivre* is a phrase that comes naturally to her.\n\nFood, particularly the French rituals that surround the sharing of food, is centre stage in much of her work where women gossip as they lay the tables, and guests delight in food and company in equal measure. A Francophile of many years, AL has been inspired by medieval paintings in ecclesiastic settings of *norms alimentaires du Moyen Age,* where the women often ate without the men. Her paintings ***Secret Yet to be Heard*** and ***Patience and Mischief*** are staged in the nearby 11th Century Abbaye de Fontdouce, and are indeed infused with piquant, secret exchange and mischief.\n\nAL’s father was Jewish and her mother Irish Catholic. She says that nationality and culture cannot be separated. \_Her parents ran a 1950s hotel, and as a child, she found herself, despite the bustle of unending catering, ‘bizarrely’ lonely, running up and down long hotel corridors. One can appreciate how she is drawn to the warmth of the Gallic approach.\_ \_Her work exudes a spirit of joy and generosity yet there is a pervading sense of ‘*lost in a fairytale’* that inhabits her work.\_ She speaks of ‘windows of escape, and clarity’.\n\n‘Soul Jars’ or Vessels that house spirits have recurred in the mythology of different cultures across millenia, and ‘pots of plenty’ particularly, are part of AL’s painting language where you will find eyes peering out from within.\_ The ancient Sanskrit word for ‘pot’ means body, and has been used widely in Indian art and literature to mean woman, earth, bounty, womb and plentitude, and such is the inference in her compositions.\n\nBotanics feature strongly in her narrative with outsized sunflowers reminding us of *Jack and the Beanstalk,* beckoning to be climbed, and the glorious sunflower fields of Le Midi that turn their faces to follow the sun through the day.\_ Elizabeth Blackadder often placed her chosen subject physically on the page, building her composition around it, and AL has used that technique to construct her botanical paintings, exploring the page outwards from a central flower which she describes as a body response to composition."
 homepage_description_markdown: ''
 frontpage: true
@@ -25,7 +25,7 @@ images:
   - image_path: /uploads/gallery-images/anne-lynch/holding-wisdon-for-the-young.jpg
     image_title:
     image_description: >-
-      Holding Wisdom for The Young<br />watercolour and collage<br />84 x 116 
+      Holding Wisdom for The Young<br />watercolour and collage<br />84 x 116
       cm<br />&amp;pound 1950
   - image_path: /uploads/gallery-images/anne-lynch-memories-in-unsettling-times.jpg
     image_title:
@@ -39,7 +39,7 @@ images:
     image_title:
     image_description: >-
       Thinking of Laying The Table<br />watercolour<br />74 x 55 cm<br
-      />&amp;pound 
+      />&amp;pound
   - image_path: >-
       /uploads/gallery-images/anne-lynch/replacing-hopes-105x76-watercolour-collage.jpg
     image_title:
@@ -60,7 +60,7 @@ images:
     image_title:
     image_description: >-
       Gardens Unite All Generations<br />watercolour<br />103 x 67 cm<br
-      />&amp;pound 
+      />&amp;pound
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title

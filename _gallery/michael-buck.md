@@ -1,7 +1,7 @@
 ---
 title: Michael BUCK
 surname: BUCK
-currentshow:
+currentshow: false
 description_markdown: >-
   **MICHAEL BUCK**&nbsp;
 
@@ -129,7 +129,7 @@ images:
   - image_path: /uploads/gallery-images/michael-buck/mb007.jpg
     image_title:
     image_description: |-
-      Storm, Western Highlands, acrylic on paper 
+      Storm, Western Highlands, acrylic on paper
        10 x 10.5 inches SOLD
   - image_path: /uploads/gallery-images/michael-buck/mb021.jpg
     image_title:

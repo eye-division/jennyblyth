@@ -31,17 +31,31 @@
         </li>
         <br>
         <!-- end row 1 -->
-        {% assign galleries = site.gallery | sort: 'surname' %}
 
-        {% for gallery in galleries %}
+        <!-- row 2 - current show-->
+        {% assign currentGalleries = site.gallery | where:"currentshow", true %}
 
-          <li class="nav-link{% if page.url == gallery.permalink | prepend: site.baseurl %} active{% endif %} {% if gallery.currentshow %} current{% endif %}">
+        {% for current in currentGalleries %}
+
+        <li class="nav-link{% if page.url == current.permalink | prepend: site.baseurl %} active{% endif %} current">
+          <a href="{{ current.permalink | prepend: site.baseurl }}" class="">{{ current.title }}</a>
+        </li>
+
+        {% endfor %}
+        <br>
+        <!-- end current show -->
+
+      <!-- all the rest -->
+        {% assign galleries = site.gallery | where:"currentshow", false | sort: 'surname' %}
+
+          {% for gallery in galleries %}
+
+            <li class="nav-link{% if page.url == gallery.permalink | prepend: site.baseurl %} active{% endif %} {% if gallery.currentshow %} current{% endif %}">
             <a href="{{ gallery.permalink | prepend: site.baseurl }}" class="">{{ gallery.title }}</a>
           </li>
 
         {% endfor %}
-
-
+        <!-- end the rest -->
 
     </ul>
   </nav>
