@@ -33,7 +33,7 @@
         <!-- end row 1 -->
 
         <!-- row 2 - current show-->
-        {% assign currentGalleries = site.gallery | where:"currentshow", true %}
+        {% assign currentGalleries = site.gallery | where:"currentshow", true  | sort: 'surname' %}
 
         {% for current in currentGalleries %}
 
@@ -50,7 +50,7 @@
 
           {% for gallery in galleries %}
 
-            <li class="nav-link{% if page.url == gallery.permalink | prepend: site.baseurl %} active{% endif %} {% if gallery.currentshow %} current{% endif %}">
+            <li class="nav-link{% if page.url == gallery.permalink | prepend: site.baseurl %} active{% endif %}">
             <a href="{{ gallery.permalink | prepend: site.baseurl }}" class="">{{ gallery.title }}</a>
           </li>
 
