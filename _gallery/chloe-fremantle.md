@@ -6,7 +6,7 @@ description_markdown: >-
   **CHLOE FREMANTLE**
 
 
-  *News* ..... Chloe is building on her *Home Sweet Home* series that flow
+  ***News*** ….. Chloe is building on her *Home Sweet Home* series that flow
   naturally from her *Evocations, Contemplations* and *Reflections* - from
   within looking out, and from outside looking in.  She is working both
   figuratively and with abstraction reflecting on the fast changing environment
@@ -17,37 +17,15 @@ description_markdown: >-
   and her immediate environment.
 
 
-  **Back To Abstract at CBG**
+  **Chloe Fremantle : Back To Abstract : December
+  2023**                                Carey Blyth Gallery, Oxford
 
 
-  December 2023
+  A selection of paintings from *Light Seeking Light 2022* .
 
 
-  A selection of paintings from *Light Seeking Light 2022* curated by Jenny
-  Blyth for the Royal Watercolour Society, London WC2. Beautiful summer
-  paintings that reference colourfield, surrealism and abstraction. Chloe
-  Fremantle is a member of the Royal Watercolour Society and has been painting
-  and exhibiting internationally for forty years with work in international
-  Collections. She has lived in New York and Italy and now splits her studio
-  time between London and the Alpes Maritime on the Cote d'Azur. Chloe has a
-  terrific palette, capturing the light and joy of the Mediterranean and her
-  paintings impart surprisingly a wonderful calm that comes from a natural union
-  that she achieves in her compositions.
-
-
-  ##### **Chloe Fremantle & Peter Blegvad**
-
-
-  ##### **'Light Seeking Light' November 2022** curated by Jenny Blyth
-
-
-  ##### **Royal Watercolour Society Galleries**
-
-
-  ##### **London WC2**
-
-
-  ##### **​**
+  **Chloe Fremantle & Peter Blegvad : Light Seeking Light : Nov 2022** curated
+  by Jenny Blyth at Royal Watercolour Society Galleries, London.
 
 
   ***'Colour and I are one. I am a painter’ Paul Klee***
@@ -108,13 +86,11 @@ description_markdown: >-
   fusion’ of balance on the canvas, the product of a life time of painting.
 
 
-  Text by Jenny Blyth, Curator © 2022
+  *Text by Jenny Blyth, Curator © 2022*
 
 
-  ### 'REFLECTIONS'
-
-
-  **ART JERICHO 4 June - 5 July 2015**
+  **Chloe Fremantle : Reflections : June-July
+  2015**                                       Art  Jericho Oxford
 
 
   Chloe Fremantle has clearly found her signature - her compositions appear to
@@ -129,10 +105,8 @@ description_markdown: >-
   watercolour paper, small, medium and large.
 
 
-  ### MUSE IN THE GARDEN : March - May 2013
-
-
-  The Gallery, Oxford Botanic Garden curated by Jenny Blyth Fine Art
+  **Chloe Fremantle : Muse in The Garden : March-May 2013**      The Gallery,
+  Oxford Botanic Garden curated by Jenny Blyth Fine Art
 
 
   For the past year Chloe Fremantle, contemporary artist, has been observing the
@@ -147,13 +121,8 @@ description_markdown: >-
   beauty.
 
 
-  ### CHLOE FREMANTLE & TAEKO MAKINO
-
-
-  **SUMMER HAIKU at ART JERICHO**
-
-
-  **23 July – 27 August 2011**
+  **CHLOE FREMANTLE : SUMMER HAIKU : August 2011**                            
+  Art Jericho Oxford
 
 
   Jenny Blyth Fine Art at Art Jericho presents SUMMER HAIKU, an exhibition of
@@ -161,24 +130,16 @@ description_markdown: >-
   the glory of summer at Art Jericho.
 
 
-  Chloe Fremantle explores the rhythm and pattern of nature inherent in
-  feathers, petals, waves, splashes, leaves, flowers, seeds, trees, tracks,
-  contours, spirals, curves, clouds and circles….. In the spirit of ‘visual’
-  Haiku, the artist uses her observation of simple elements in the natural world
-  to impart a symbolic interpretation of universality, constraint, stillness,
-  energy, movement, peace, freedom, chaos, imagination, beauty, endurance,
-  strength and empathy. Delighted by the repetitions, the infinite variety, the
-  colour and play of pattern irrespective of form, her recent paintings in oil
-  on canvas abstract to unexpected landscape. Chloe Fremantle trained in Fine
-  Art at Byam Shaw School of Art in London in 1968. She has been painting for
-  forty years living in Italy, New York and London where she has been based
-  since 1987.
-
-
-  Taeko Makino’s exquisite wood engravings of peonies, camellias, chrysanthemums
-  inlaid with gilt draw directly on Japanese tradition of fine art. The artist
-  lives and works in Tokyo.
-homepage_description_markdown: ''
+  &nbsp;
+homepage_description_markdown: >-
+  Beautiful summer paintings that reference colourfield, surrealism and
+  abstraction. Chloe Fremantle is a member of the Royal Watercolour Society and
+  has been painting and exhibiting internationally for forty years with work in
+  international Collections. She has lived in New York and Italy and now splits
+  her studio time between London and the Alpes Maritime on the Cote d'Azur.
+  Chloe has a terrific palette, capturing the light and joy of the Mediterranean
+  and her paintings impart surprisingly a wonderful calm that comes from a
+  natural union that she achieves in her compositions.
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/chloe-fremantle/
