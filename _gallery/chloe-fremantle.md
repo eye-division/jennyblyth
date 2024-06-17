@@ -9,12 +9,14 @@ description_markdown: >-
   ***News*** ….. Chloe is building on her *Home Sweet Home* series that flow
   naturally from her *Evocations, Contemplations* and *Reflections* - from
   within looking out, and from outside looking in.  She is working both
-  figuratively and with abstraction reflecting on the fast changing environment
-  that we inhabit. There is an innate sense of joy in Chloe Fremantle’s painting
-  irrespective of her subject. Such is the effect of colour and patterning in
-  her work for us as viewers. On close inspection one can unravel her language
-  of mark-making that she has developed from observations of the natural world
-  and her immediate environment.
+  figuratively and with abstraction, reflecting on the fast changing environment
+  that we inhabit.
+
+
+  She is a member of the Royal Watercolour Society, and has been painting and
+  exhibiting internationally for forty years with work in international
+  Collections. She has lived in New York and Italy, and now splits her studio
+  time between London and the Alpes Maritime on the Cote d'Azur.
 
 
   **Chloe Fremantle : Back To Abstract : December
@@ -99,10 +101,10 @@ description_markdown: >-
   delight for some decades.
 
 
-  Reflections includes artist response to gardens, to urban London scenes, to
-  remote rural Northumberland landscapes and to a hill village in the South Of
-  France & Oxford University Botanic Garden in acrylic on canvas and gouache on
-  watercolour paper, small, medium and large.
+  *Reflections* includes the artist's response to gardens, to urban London
+  scenes, to remote rural Northumberland landscapes and to a hill village in the
+  South Of France & Oxford University Botanic Garden in acrylic on canvas and
+  gouache on watercolour paper, small, medium and large.
 
 
   **Chloe Fremantle : Muse in The Garden : March-May 2013**      The Gallery,
