@@ -2,71 +2,8 @@
 title: Jenny Blyth
 surname: Blyth
 currentshow: false
-description_markdown: >-
-  ## REFLECTING THE LANDSCAPE
-
-
-  **Jenny Blyth shows 50 photographs of Port Meadow, Oxfordshire and
-  Beyond…(Scottish Highlands)**
-
-
-  **4 May - 1 June 2019**
-
-
-  enquiries :&nbsp; jennyblyth@btconnect.com
-
-
-  "I have spent a year through the seasons photographing Wolfson College and the
-  gardens that run down to the River Cherwell.&nbsp; The Brutalist architecture
-  was groundbreaking in its time and remains at odds in a city known for its
-  dreaming spires.&nbsp; The gardens and trees are now matured, and nature has
-  softened the geometry of the buildings creating reflections and shadows that
-  play out across the surfaces changing colours, textures and moods so that each
-  day, each hour is different.&nbsp; I have been struck by the calm and joy in
-  the environment of Wolfson that was designed to engender 'humane' living.
-  &nbsp;&nbsp;
-
-
-  I walk daily whatever the weather and find a sense of oneness with nature that
-  I attempt to capture in my photographs.&nbsp; I am drawn to the poetry in the
-  landscape, and find that I am chasing beauty.
-
-
-  I never tire of Port Meadow and have walked come rain or shine for years. I
-  love the huge skies, and stepping onto the meadow that stretches towards
-  Oxford, it presents like an old Dutch master, an ever-changing canvas. It is
-  large enough to lose yourself in nature, to embrace the elements, and familiar
-  enough to encourage a quiet meditation.
-
-
-  The seasons transform the landscape, shape-shifting and refreshing the
-  palette. There is invariably something unexpected and beautiful to observe
-  whether that is a hawthorn bush heady with musk scented flowers, or a murmur
-  of plover that contours the broad backs of horses, their long tails sashaying.
-  Gun-metal skies threaten thunder over a buttercup ocean in May, while hoar
-  frost on winter days crystallises the floodplains under high blue skies. In
-  autumn, the last of the black poplars shed yellow leaves that fringe the edge
-  of the river like a golden thread.
-
-
-  I am not technically minded, and shy away from photoshop so that the images
-  are as true as they can be."
-
-
-  &copy; Jenny Blyth 2019
-
-
-  **18 February - 28 March 2019**
-
-
-  **Reflecting the Landscape at**
-
-
-  **Wolfson College, Linton Road, OX2 6UD**
-
-
-  &nbsp;
-homepage_description_markdown:
+description_markdown: "## REFLECTING THE LANDSCAPE\n\n**Jenny Blyth shows 50 photographs of Port Meadow, Oxfordshire and Beyond…(Scottish Highlands)**\n\n**4 May - 1 June 2019**\n\nenquiries :\_ jennyblyth@btconnect.com\n\n\"I have spent a year through the seasons photographing Wolfson College and the gardens that run down to the River Cherwell.\_ The Brutalist architecture was groundbreaking in its time and remains at odds in a city known for its dreaming spires.\_ The gardens and trees are now matured, and nature has softened the geometry of the buildings creating reflections and shadows that play out across the surfaces changing colours, textures and moods so that each day, each hour is different.\_ I have been struck by the calm and joy in the environment of Wolfson that was designed to engender 'humane' living.\n\nI walk daily whatever the weather and find a sense of oneness with nature that I attempt to capture in my photographs.\_ I am drawn to the poetry in the landscape, and find that I am chasing beauty.\n\nI never tire of Port Meadow and have walked come rain or shine for years. I love the huge skies, and stepping onto the meadow that stretches towards Oxford, it presents like an old Dutch master, an ever-changing canvas. It is large enough to lose yourself in nature, to embrace the elements, and familiar enough to encourage a quiet meditation.\n\nThe seasons transform the landscape, shape-shifting and refreshing the palette. There is invariably something unexpected and beautiful to observe whether that is a hawthorn bush heady with musk scented flowers, or a murmur of plover that contours the broad backs of horses, their long tails sashaying. Gun-metal skies threaten thunder over a buttercup ocean in May, while hoar frost on winter days crystallises the floodplains under high blue skies. In autumn, the last of the black poplars shed yellow leaves that fringe the edge of the river like a golden thread.\n\nI am not technically minded, and shy away from photoshop so that the images are as true as they can be.\"\n\n© Jenny Blyth 2019\n\n**18 February - 28 March 2019**\n\n**Reflecting the Landscape at**\n\n**Wolfson College, Linton Road, OX2 6UD**\n\n&nbsp;"
+homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2019-01-01 00:00:00
 permalink: /gallery/jenny-blyth/
@@ -75,31 +12,31 @@ display_title: true
 main_image_path: /assets/images/Raasay & Skye Across Applecross Bay.jpg
 images:
   - image_path: /uploads/raasay--skye-across-applecross-bay.jpg
-    image_title: Raasay & Skye Across Applecross Bay 2018
+    image_title: 'Raasay & Skye Across Applecross Bay '
     image_description: >-
-      Photograph printed in pigmented inks onto archival cotton rag paper<br
-      />50 x 60 cm<br />&amp;pound;195  Limited Edition of 12.
+      Digital Print in pigmented inks onto archival cotton rag paper<br />50 x
+      60 cm<br />&amp;pound;195 unframed. Limited Edition.
   - image_path: /uploads/sea-grasses-applecross-bay.jpg
     image_title: Sea Grasses, Applecross Bay
     image_description: >-
-      Photograph printed in pigmented inks onto archival cotton rag paper<br
-      />50 x 60 cm<br />&amp;pound;195  Limited Edition of 12.
+      Digital Print in pigmented inks onto archival cotton rag paper<br />50 x
+      60 cm<br />&amp;pound;195 unframed. Limited Edition.
   - image_path: /uploads/towards-the-inner-sound-from-sand-bay.jpg
     image_title: Towards the Inner Sound from Sand Bay 2018
     image_description: >-
-      Photograph printed in pigmented inks onto archival cotton rag paper<br
-      />50 x 60 cm<br />&amp;pound;195  Limited Edition of 12.
+      Digital Print in pigmented inks onto archival cotton rag paper<br />50 x
+      60 cm<br />&amp;pound;195  Limited Edition of 12.
   - image_path: /assets/images/5925ee2ab3ab6.jpg
-    image_title: Flight Downstream, 2017
+    image_title: Flight Downstream
     image_description: >-
-      Flight Downstream, 2017<br />Photograph printed in pigmented inks on
-      cotton rag paper<br />40 x 50 cm<br />&amp;pound;175 Limited Edition of 25
+      Flight Downstream7<br />Digital Print in pigmented inks on archival
+      paper<br />40 x 50 cm<br />&amp;pound;195 unframed. Limited Edition.
   - image_path: /assets/images/591eef6cdc862.jpg
-    image_title: Walnut Spinney, Winter, 2017
+    image_title: Walnut Spinney, Winter
     image_description: >-
-      The Walnut Spinney - Snowscape 2016<br />Photograph printed in pigmented
-      inks on cotton rag paper<br />60 x 50 cm<br />&amp;pound;195 Limited
-      Edition of 25
+      The Walnut Spinney - Snowscape <br />Photograph printed in pigmented inks
+      on cotton rag paper<br />60 x 50 cm<br />&amp;pound;195 unframed. Limited
+      Edition.
   - image_path: /assets/images/5925eefb6ff61.jpg
     image_title: Lime Trees, Snowscape, 2016
     image_description: >-
@@ -107,10 +44,11 @@ images:
       cotton rag paper<br />40 x 50 cm<br />&amp;pound;175 Limited Edition of
       25.
   - image_path: /assets/images/5925f0d5b1c84.jpg
-    image_title: Morning Mist, 2016
+    image_title: Morning Mist
     image_description: >-
-      Morning Mist, 2016<br />Photograph printed in pigmented inks on cotton rag
-      paper<br />40 x 50 cm<br />&amp;Acirc;&amp;pound;175 Limited Edition of 25
+      Morning Mist over The Thames<br />Photograph printed in pigmented inks on
+      cotton rag paper<br />40 x 50 cm<br />&amp;Acirc;&amp;pound;195 unframed.
+      Limited Edition.
   - image_path: /assets/images/5925ebab9e529.jpg
     image_title: Flood Plains, 2016
     image_description: >-
