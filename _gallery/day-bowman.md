@@ -213,38 +213,34 @@ images:
       />&amp;pound; 10,000 SOLD
   - image_path: >-
       /uploads/DayBowman_Citadel4_oil,charcoalandconteoncanvas_172x200x3cm_DSC_0986.jpg
-    image_title:
+    image_title: Citadel 4
     image_description: >-
-      Citadel 4<br />oil, charcoal and conte on canvas<br />172 x 200 cm<br
-      />&amp;pound;8750
+      <br />oil, charcoal and conte on canvas<br />172 x 200 cm<br
+      />&amp;pound;12,500
   - image_path: >-
       /uploads/day-bowman-fortress-7-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm-dsc-1024.jpg
-    image_title:
+    image_title: Fortress 7
     image_description: >-
-      Fortress 7,<br />oil, charcoal and conte on canvas<br />140 x 150 x 3cm<br
+      ,<br />oil, charcoal and conte on canvas<br />140 x 150 x 3cm<br
       />&amp;pound;7500
   - image_path: >-
       /uploads/DayBowman_Fortress8_oil,charcoalandconteoncanvas_140x150x3cm_DSC_1058.jpg
-    image_title:
+    image_title: Fortress 8
     image_description: >-
-      Fortress 8<br />oil, charcoal and conte on canvas<br />140 x 150 x 3 cm<br
+      <br />oil, charcoal and conte on canvas<br />140 x 150 x 3 cm<br
       />&amp;pound;7500
   - image_path: >-
       /uploads/day-bowman-plashy-place-5-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm-2.jpg
-    image_title:
-    image_description: >-
-      Plashy Place 5<br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound;
-      7500
+    image_title: Plashy Places 5
+    image_description: <br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; 7500
   - image_path: /assets/images/54afe9d0bbf7b.jpg
-    image_title:
-    image_description: >-
-      Refinery 1, 2014<br />oil on canvas<br />200 x 270 cm<br />&amp;pound;
-      12500
+    image_title: Refinery 1
+    image_description: <br />oil on canvas<br />200 x 270 cm<br />&amp;pound; 12500
   - image_path: /uploads/day-bowman-footprint.jpg
-    image_title:
+    image_title: Footprint Study 1
     image_description: >-
-      Footprint Series 2019<br />oil, charcoal and graphite on cartridge
-      paper<br />20 x 20 cm<br />&amp;pound; 275 Each: 4 SOLD 10 remaining
+      <br />oil, charcoal and graphite on cartridge paper<br />20 x 20 cm<br
+      />&amp;pound; 275 Each: 4 SOLD 10 remaining
 _options:
   image_path:
     width: 1200
