@@ -1,7 +1,7 @@
 ---
 title: Day Bowman
 surname: Bowman
-currentshow: true
+currentshow: false
 description_markdown: >-
   **DAY BOWMAN : New Work**
 
