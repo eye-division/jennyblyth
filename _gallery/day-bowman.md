@@ -213,31 +213,11 @@ images:
       Citadel 4<br />oil, charcoal and conte on canvas<br />172 x 200 cm<br
       />&amp;pound;8750
   - image_path: >-
-      /uploads/DayBowman_Citadel3_oil,charcoalndconteoncanvas_172x200x3cm_DSC_0999.jpg
-    image_title:
-    image_description: >-
-      Citadel 3<br />oil, charcoal and conte on canvas<br />172 x 200 x 3 cm<br
-      />&amp;pound;8750
-  - image_path: >-
       /uploads/day-bowman-fortress-7-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm-dsc-1024.jpg
     image_title:
     image_description: >-
       Fortress 7,<br />oil, charcoal and conte on canvas<br />140 x 150 x 3cm<br
       />&amp;pound;7500
-  - image_path: /uploads/fortress-2.jpg
-    image_title:
-    image_description: Fortress 2<br />oil on canvas<br />140 x 150 cm<br />&amp;pound;8000 SOLD
-  - image_path: >-
-      /uploads/DayBowman_Fortress5_oil,charcoalandconteoncanvas_140x150x3cm_DSC_1035.jpg
-    image_title:
-    image_description: >-
-      Fortress 5<br />oil, charcoal and conte on canvas<br />140 x 150 x 3 cm<br
-      />&amp;pound;6750 SOLD
-  - image_path: /uploads/day-bowman-holiday-destination-2.jpg
-    image_title:
-    image_description: >-
-      Holiday Destination 2 2019<br />oil on canvas<br />152 x 168 x 4 cm<br
-      />&amp;pound; 7500 SOLD
   - image_path: >-
       /uploads/DayBowman_Fortress8_oil,charcoalandconteoncanvas_140x150x3cm_DSC_1058.jpg
     image_title:
@@ -250,11 +230,6 @@ images:
     image_description: >-
       Plashy Place 5<br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound;
       7500
-  - image_path: /uploads/holiday-destination-1.jpg
-    image_title:
-    image_description: >-
-      Holiday Destination 1 2019<br />oil on canvas<br />152 x 168 x 4 cm<br
-      />&amp;pound; 7500 SOLD
   - image_path: /uploads/dsc-7117.jpg
     image_title:
     image_description: >-
@@ -265,94 +240,16 @@ images:
     image_description: >-
       Fortress Study 1<br />oil, charcoal and conte on canvas<br />45 x 50 x 4
       cm<br />&amp;pound; 1200 
-  - image_path:
-    image_title:
-    image_description: >-
-      Tide Pool 3<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
-      />&amp;pound; 675
-  - image_path: >-
-      /uploads/foretress-series-4-oil-charcoal-and-conte-on-canvas-45-x-50-x-4cm.jpg
-    image_title:
-    image_description: >-
-      Fortress Study 4<br />oil, charcoal and conte on canvas<br />45 x 50 x 4
-      cm<br />&amp;pound; 1200 SOLD
-  - image_path: /uploads/day-bowman-fortress-3.jpg
-    image_title:
-    image_description: >-
-      Fortress Study 3<br />oil, charcoal and conte on canvas<br />45 x 50 x 4
-      cm<br />&amp;pound; 1200 SOLD
-  - image_path: >-
-      /uploads/day-bowman-tide-pool-10-oil-charcoal-and-conte-on-canvas-26-x-30-x-4-cm-dsc-1759.jpg
-    image_title:
-    image_description: >-
-      Tide Pool 10<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
-      />&amp;pound; 675 SOLD
-  - image_path: >-
-      /uploads/day-bowman-tide-pool-6-oil-charcoal-and-conte-on-canvas-26-x-30-x-4-cm-dsc-7128.jpg
-    image_title:
-    image_description: >-
-      Tide Pool 6<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
-      />&amp;pound; 675 SOLD
-  - image_path: /uploads/dsc-7124.jpg
-    image_title:
-    image_description: >-
-      Tide Pool 5<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
-      />&amp;pound; 675 SOLD
-  - image_path: /uploads/tide-pool-1.jpg
-    image_title:
-    image_description: >-
-      Tide Pool 1<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
-      />&amp;pound; 675
-  - image_path: /uploads/dsc-7131.jpg
-    image_title:
-    image_description: >-
-      Tide Pool 4<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
-      />&amp;pound; 675 SOLD
-  - image_path: /uploads/dsc-7133.jpg
-    image_title:
-    image_description: >-
-      Tide Pool 2<br />oil, charcoal and conte on canvas<br />26 x 30 x 4 cm<br
-      />&amp;pound; 675 SOLD
   - image_path: /uploads/day-bowman-footprint.jpg
     image_title:
     image_description: >-
       Footprint Series 2019<br />oil, charcoal and graphite on cartridge
       paper<br />20 x 20 cm<br />&amp;pound; 275 Each: 4 SOLD 10 remaining
-  - image_path: /assets/images/54afe73b8799c.jpg
-    image_title:
-    image_description: >-
-      Edgelands 2, 2012<br />oil, charcoal and conte on canvas<br />173 x 400
-      cm<br />£100SOLD
   - image_path: /assets/images/54afe9d0bbf7b.jpg
     image_title:
     image_description: >-
       Refinery 1, 2014<br />oil on canvas<br />200 x 270 cm<br />&amp;pound;
       12500
-  - image_path: /assets/images/506c39c5ee5bc.jpg
-    image_title:
-    image_description: >-
-      Weymouth/Portland 11, 2012<br />mixed media collage on canvas<br />26 x 38
-      cm<br />&amp;pound;650
-  - image_path: /assets/images/506c3b1e7ed2f.jpg
-    image_title:
-    image_description: >-
-      Weymouth/Portland 4, 2012<br />mixed media on board<br />26 x 38 cm<br
-      />&amp;pound;650 
-  - image_path: /assets/images/506c373ad028e.jpg
-    image_title:
-    image_description: >-
-      Weymouth/Portland  3 2012 2012<br />mixed media, collage on canvas<br />26
-      x 38 cm<br />&amp;pound;12,000 for set of 16
-  - image_path: /assets/images/506c3c9468a15.jpg
-    image_title:
-    image_description: >-
-      Weymouth/Portland 9, 2012<br />Mixed media on board<br />26 x 38 cm<br
-      />&amp;pound;650
-  - image_path: /assets/images/506c3d4298488.jpg
-    image_title:
-    image_description: >-
-      Weymouth/Portland 12, 2012<br />Mixed media media on board<br />26 x 38
-      cm<br />&amp;pound;650
 _options:
   image_path:
     width: 1200
