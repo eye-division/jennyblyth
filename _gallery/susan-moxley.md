@@ -26,9 +26,8 @@ description_markdown: >-
   Working with mixed media, SM is a printmaker supreme, creating exquisite
   prints, collages, sculpture and jewellery. Although her work is based in
   figuration, it is largely abstracted. Concepts and politics remain important
-  to her. Her new body of work *\*\* \*\** focuses particularly on ‘textile
-  paintings’ with sculpture that celebrates music and the beauty of the female
-  form.
+  to her. Her new body of work focuses particularly on ‘textile paintings’ with
+  sculpture that celebrates music and the beauty of the female form.
 
 
   Splitting their time between UK and Greece, SM and her husband Korky Paul,
