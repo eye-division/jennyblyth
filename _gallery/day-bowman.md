@@ -207,7 +207,7 @@ images:
       />&amp;pound; 10,000 
   - image_path: >-
       /uploads/day-jbfa-day-bowman-swaying-1-oil-conte-charcoal-on-canvas-14-x-150-x-3-cm.jpg
-    image_title: Swaling I 2024
+    image_title: 'Swaling I '
     image_description: >-
       <br />oil, charcoal and conte on canvas<br />140 x 150 x 4 cm<br
       />&amp;pound; 10,000 SOLD
