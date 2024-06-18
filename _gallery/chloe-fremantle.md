@@ -156,7 +156,7 @@ images:
     image_title:
     image_description: >-
       Evocations 25<br />Acrylic on canvas<br />122 x 132 cm<br />&amp;pound;
-      5,000
+      6500
   - image_path: /uploads/7-evocations-no-20-gouache--collage-22-x-30--2019-20.jpg
     image_title:
     image_description: >-
@@ -181,7 +181,7 @@ images:
       7,500
   - image_path: /uploads/11-evocations-a-dec-2019-gouache-30-x-22--.jpg
     image_title:
-    image_description: Evocations A<br />Gouache on paper<br />66 x 47 cm<br />&amp;pound; 1,500
+    image_description: Evocations A<br />Gouache on paper<br />66 x 47 cm<br />&amp;pound; 1,750
   - image_path: /uploads/40-cpg-mixed-flower-beds-93-gouache-2020-76-x-56-cm.jpg
     image_title:
     image_description: >-
