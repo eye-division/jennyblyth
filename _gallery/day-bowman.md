@@ -200,6 +200,11 @@ display_title: true
 main_image_path: >-
   /uploads/DayBowman_Citadel4_oil,charcoalandconteoncanvas_172x200x3cm_DSC_0986.jpg
 images:
+  - image_path: /uploads/day-bowman-marking-out-the-boundaries4.jpg
+    image_title: Marking Out the Boundaries 3
+    image_description: >-
+      <br />oil, charcoal and conte on canvas<br />140 x 150 x 4 cm<br
+      />&amp;pound; 10,000 
   - image_path: >-
       /uploads/day-jbfa-day-bowman-swaying-1-oil-conte-charcoal-on-canvas-14-x-150-x-3-cm.jpg
     image_title: Swaling I 2024
@@ -230,26 +235,16 @@ images:
     image_description: >-
       Plashy Place 5<br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound;
       7500
-  - image_path: /uploads/dsc-7117.jpg
-    image_title:
-    image_description: >-
-      Fortress Study 2<br />oil, charcoal and conte on canvas<br />45 x 50 x 4
-      cm<br />&amp;pound; 1200
-  - image_path: /uploads/fortress-study-1.jpg
-    image_title:
-    image_description: >-
-      Fortress Study 1<br />oil, charcoal and conte on canvas<br />45 x 50 x 4
-      cm<br />&amp;pound; 1200 
-  - image_path: /uploads/day-bowman-footprint.jpg
-    image_title:
-    image_description: >-
-      Footprint Series 2019<br />oil, charcoal and graphite on cartridge
-      paper<br />20 x 20 cm<br />&amp;pound; 275 Each: 4 SOLD 10 remaining
   - image_path: /assets/images/54afe9d0bbf7b.jpg
     image_title:
     image_description: >-
       Refinery 1, 2014<br />oil on canvas<br />200 x 270 cm<br />&amp;pound;
       12500
+  - image_path: /uploads/day-bowman-footprint.jpg
+    image_title:
+    image_description: >-
+      Footprint Series 2019<br />oil, charcoal and graphite on cartridge
+      paper<br />20 x 20 cm<br />&amp;pound; 275 Each: 4 SOLD 10 remaining
 _options:
   image_path:
     width: 1200
