@@ -1,7 +1,7 @@
 ---
 title: Susan Moxley
 surname: Moxley
-currentshow: false
+currentshow: true
 description_markdown: >-
   Susan Moxley *First Storm* textile, thread 68 x 205 cm
 
