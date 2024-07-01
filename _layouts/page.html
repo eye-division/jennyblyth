@@ -4,9 +4,17 @@ layout: default
 ---
 <div class="page">
 
-  <header class="post-header">
-    <h2 class="post-title">{{ page.title }}</h2>
-  </header>
+  {% if page.url != "/" %}
+
+    {% if page.title != "" %}
+
+      <header class="post-header">
+        <h2 class="post-title">{{ page.title }}</h2>
+      </header>
+
+    {% endif %}
+
+  {% endif %}
 
 	{% if page.main_image_path %}
 		<figure>

@@ -16,8 +16,7 @@ h6 {
   font-family: $heading-font-family;
   font-size: $base-font-size;
   line-height: $heading-line-height;
-  margin: 0 0 $base-font-size;
-  margin: 0 0 rem($base-font-size);
+  margin: 0;
   font-weight: 300;
   color: $jbgray;
 }
@@ -82,4 +81,8 @@ code {
     display: inline-block;
     border-radius: 3px;
     padding: 0 3px;
+}
+
+.pt0 {
+  padding-top: 0;
 }
