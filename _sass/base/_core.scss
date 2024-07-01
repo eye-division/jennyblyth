@@ -23,8 +23,8 @@ body {
       "navigation"
       "page"
       "footer";
-    grid-template-rows: minmax(80px, 10%) 0 1fr 20%;
-    grid-gap: 10px;
+    grid-template-rows: minmax(40px, 10%) minmax(40px, 10%) 1fr 20%;
+    grid-gap: 5px;
     height: 100vh;
     margin: 0;
     background-color: $base-background-color;
@@ -55,6 +55,9 @@ body {
 section {
     clear: both;
     padding: 1rem 0;
+}
+#page-title {
+    padding: 0;
 }
 
 ol.default {
@@ -90,12 +93,13 @@ figure {
 
     .page {
         @include outer-container;
-        padding: 1em;
+        padding: 0 1em 1em 1em;
         background-color: $white;
         @include media ($medium) {
             padding: 1em 0;
         }
     }
+
     ///	index.html
     .site-header-container {
         color: $white;

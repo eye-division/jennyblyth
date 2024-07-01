@@ -42,7 +42,7 @@ _comments:
 ---
 {% if page.carousel %}
     <!-- <div class="two-thirds no-gutter"> -->
-    <section>
+    <section class="pt0">
       <div class="flexslider">
           <ul class="slides">
             {% for slides in page.carousel %}
@@ -50,7 +50,7 @@ _comments:
               {% if slides.link %}
               <a href="{{ site.baseurl }}{{ slides.link }}" title="View project">
               {% endif %}
-              {% include img.html src=slides.image width=960 alt=slides.caption %}
+              {% include img.html src=slides.image alt=slides.caption %}
               {% if slides.link %}
               </a>
             {% endif %}
