@@ -83,14 +83,14 @@ description_markdown: >-
   [www.judah.co.uk](http://www.judah.co.uk)
 
 
-  **Great War Sculptures** at St. Paul's Cathedral since 2014.
+  **Great War Sculptures** at St. Paul’s Cathedral since 2014.
 
 
   Gerry Judah was commissioned to create two sculptures to commemorate the
-  centenary of World War 1 currently on display at St. Paul's Cathedral.
+  centenary of World War 1 currently on display at St. Paul’s Cathedral.
 
 
-  **Also currently showing :** ***THE CRUSADER*** **- on permanent display at
+  **Also currently showing :** ***THE CRUSADER*** **\- on permanent display at
   Imperial War Museum of the North, Manchester since NOVEMBER 2010**
 
 
@@ -122,9 +122,9 @@ description_markdown: >-
   explores construction and deconstruction, decline and regeneration.
 
 
-  The setting in Imperial War Museum North's landmark building - designed by
+  The setting in Imperial War Museum North’s landmark building - designed by
   internationally celebrated architect Daniel Libeskind to represent a globe
-  shattered by conflict - is fitting, given THE CRUSADER'S conceptual references
+  shattered by conflict - is fitting, given THE CRUSADER’S conceptual references
   and Judah’s exploration of ‘presence of absence’.
 
 
@@ -229,7 +229,7 @@ description_markdown: >-
   **COLLECTIONS**
 
 
-  Gerry Judah's work has been exhibited at the Whitechapel Art Gallery, Camden
+  Gerry Judah’s work has been exhibited at the Whitechapel Art Gallery, Camden
   Arts Centre and Yorkshire Sculpture Park and has entered many international
   public and private collections including the Charles Saatchi Collection
   London, Anita and Poju Zabludowicz Collection London, Imperial War Museum
@@ -298,7 +298,7 @@ images:
   - image_path: /assets/images/4b9a3fa8deb53.jpg
     image_title: Raphael
     image_description: >-
-      Raphael, 2009<br />Mixed media and acrylic on canvas<br />200 x 325 x 60
+      Raphael, 2023<br />Mixed media and acrylic on canvas<br />200 x 325 x 60
       cm
 _options:
   image_path:
