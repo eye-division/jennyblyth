@@ -3,16 +3,11 @@ title: Gerry Judah
 surname: Judah
 currentshow: true
 description_markdown: >-
-  **EARTH &
-  ANGELS**                                                                                                        
-  ***Day Bowman & Gerry
-  Judah***                                                                                    
+  **EARTH & ANGELS** ***Paintings and Drawings by Gerry
+  Judah***                                                                              
   October 2024 – 14 February
   2025                                                                      
   Curated by Jenny Blyth
-
-
-  Paintings and Drawings by ***Gerry Judah***
 
 
   Gerry Judah trained at Goldsmiths’ graduating with an MA from The Slade. 
@@ -142,9 +137,16 @@ description_markdown: >-
   "blocked::http://www.iwm.org.uk/north")
 
 
+  [<font color="#0000ff"></font>](http://www.iwm.org.uk/north
+  "blocked::http://www.iwm.org.uk/north")
+
+
   [<font
   color="#0000ff">www.iwm.org.uk/north</font>](http://www.iwm.org.uk/north
   "blocked::http://www.iwm.org.uk/north")
+
+
+  &nbsp;
 
 
   &nbsp;
