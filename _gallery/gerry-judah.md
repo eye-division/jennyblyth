@@ -295,11 +295,9 @@ images:
   - image_path: /assets/images/4b9a30648eacf.jpg
     image_title: Motherlands (detail)
     image_description: Motherlands (detail), 2008<br />acrylic gesso and mixed media on canvas
-  - image_path: /assets/images/4b9a3fa8deb53.jpg
-    image_title: Raphael
-    image_description: >-
-      Raphael, 2023<br />Mixed media and acrylic on canvas<br />200 x 325 x 60
-      cm
+  - image_path: /uploads/gerry-judah-angel-i-installation-earth-angels.jpg
+    image_title: Angel
+    image_description: <br />Mixed media and acrylic on canvas<br />200 x 325 x 60 cm
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
