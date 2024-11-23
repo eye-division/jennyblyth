@@ -3,13 +3,22 @@ title: Day Bowman
 surname: Bowman
 currentshow: true
 description_markdown: >-
-  **DAY BOWMAN : New Work**
+  **Day BOWMAN** currently showing new work in **Earth & Angels** at the
+  Brookfield space at 30 Fenchurch Street, Bishopsgate, City of London **until
+  14 February 2025**.  Two man show with Gerry JUDAH.
 
 
-  DB's new series 2024 explores the land in *Marking the Boundaries.* ***Swaling
+  Fresh from the studio, **Marking the Boundaries** refers to the controlled
+  burning of moorland to inhibit wildfires that dazzled Day as a child. This
+  series of paintings captures the texture and colours of the moors with strong
+  lines demarcating zones to be burnt where rust-coloured earth, hot flames and
+  the black of charred stubble are set against sky blues.
+
+
+  DB’s new series 2024 explores the land in *Marking the Boundaries.* ***Swaling
   1*** (above) placed in beautiful collection in Crete.  Despite the setting
   surrounded by azure seas, water is an issue for the islands as summer
-  temperatures soar.  As a child, Day observed the 'marking off' of the land for
+  temperatures soar.  As a child, Day observed the ‘marking off’ of the land for
   controlled moor fires. She continues to engage with global concerns from
   climate change to migration.  As ever Day brings energy and passion to the
   canvas finding the poetry within however tough the subject. **<br><br>Day
@@ -18,7 +27,7 @@ description_markdown: >-
 
 
   **Day Bowman : Seaside Citadels : June 2021**                             
-  Bermondsey Project Space London
+  Bermondsey Project Space London, curated by Jenny Blyth.
 
 
   Our coastal boundaries appointed with castles and fortresses of old, protected
@@ -98,8 +107,8 @@ description_markdown: >-
 
 
   Bowman returns to the beaches of childhood in her recent paintings of *Plashy
-  Places.* Wet sand glistens as the incoming and receding tides of '*Flood and
-  Ebb'* erase calligraphic marks etched momentarily into surface, where the
+  Places.* Wet sand glistens as the incoming and receding tides of ‘*Flood and
+  Ebb’* erase calligraphic marks etched momentarily into surface, where the
   pooling of seawater and reflections play out in oil on canvas. Capturing the
   abandon of play, Bowman recalls W B Yeats’ *Man From Faeryland,* who, careworn
   with the fears and concerns of adulthood, observes the humble lugworm rising
@@ -125,19 +134,19 @@ description_markdown: >-
   Jericho Oxford
 
 
-  ***DB "**There is a kind of cruel beauty in the destruction we create - for
+  ***DB “**There is a kind of cruel beauty in the destruction we create - for
   me, the oil depot, stacked piping and overhead cables have superseded the
-  rivers and hills of the traditional picturesque."*
+  rivers and hills of the traditional picturesque.”*
 
 
   *Painting is central to my practice as an artist. By this, I do not mean that
   it is to the exclusion of all other activities such as drawing, collage and
   printmaking that are integral to the work that I produce on canvas. As a
   painter, I work in series which allows me to focus and explore the subject in
-  depth."*
+  depth.”*
 
 
-  Day Bowman is emerging as one of the UK's most exciting contemporary painters.
+  Day Bowman is emerging as one of the UK’s most exciting contemporary painters.
   Drawing inspiration from post industrial landscape, Day has written her own
   alphabet and language of painting. You can clearly distinguish the origins for
   her gestural marks that refer back to a childhood spent exploring urban
