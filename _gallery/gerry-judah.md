@@ -3,16 +3,9 @@ title: Gerry Judah
 surname: Judah
 currentshow: true
 description_markdown: >-
-  **EARTH &
-  ANGELS**                                                                                                        
-  ***Day Bowman & Gerry
-  Judah***                                                                                    
-  October 2024 – 14 February
-  2025                                                                      
-  Curated by Jenny Blyth
-
-
-  Paintings and Drawings by ***Gerry Judah***
+  **EARTH & ANGELS** at 30 Fenchurch Street, Bishopsgate, City of London EC3
+  until 14 February 2025. EARTH : Paintings by Day Bowman. ANGELS : Paintings
+  and Drawings by Gerry Judah. Curated by Jenny Blyth for Brookfield Properties.
 
 
   Gerry Judah trained at Goldsmiths’ graduating with an MA from The Slade. 
@@ -36,16 +29,7 @@ description_markdown: >-
   worldwide.
 
 
-  There is a shared polarity in the essence of Day Bowman’s and Gerry Judah’s
-  work. Both artists manifest a dynamic and rigorous expression in the execution
-  of their painting that is exciting. Each have a keen enjoyment of architecture
-  and construct, whilst delighting in the deconstruct. Day‘s new paintings that
-  score and scorch the Earth in **Marking Out The Boundaries** are set against
-  high blue skies, whilst Gerry’s ethereal white **Angels** capture the ravages
-  of climate change and conflict.
-
-
-  **Carey Blyth Gallery** October 2021
+  **Gerry JUDAH at Carey Blyth Gallery, Oxford :** October 2021
 
 
   The breadth of Judah’s works reflects his personal journey with references to
@@ -55,15 +39,15 @@ description_markdown: >-
   people, the cities and the landscape.
 
 
-  *Carey Blyth Gallery is showing a portfolio of Drawings and Sculptures in
-  **Past and Forward**. Monochrome impasto oil pastels manifest as **Ark
-  Angels** - stellar trees, both rigorous and beautiful. His sculptures are
-  constructs from clouds to temples mounted onto rickshaws. The engineering is
-  patently hand worked with bindings in steel and bamboo confirming a tradition
-  of making anything and fixing everything. Explosively polarised, as with all
-  Judah’s work, they encompass both **Past and Forward,** with references past
-  to the beginnings of time, to the Tree of Life, and forward infused with
-  inferences that arise from climate change and conflict.*
+  *Drawings and Sculptures in **Past and Forward**. Monochrome impasto oil
+  pastels manifest as **Ark Angels** - stellar trees, both rigorous and
+  beautiful. Judah's sculptures are constructs from clouds to temples mounted
+  onto rickshaws. The engineering is patently hand worked with bindings in steel
+  and bamboo confirming a tradition of making anything and fixing everything.
+  Explosively polarised, as with all Judah’s work, they encompass both **Past
+  and Forward,** with references past to the beginnings of time, to the Tree of
+  Life, and forward infused with inferences that arise from climate change and
+  conflict.*
 
 
   Judah’s work provides a portal into his perceptions of the changing world.
@@ -92,7 +76,7 @@ description_markdown: >-
 
 
   The early 2000s marked a return for Judah to his prime calling as artist in
-  the purist sense. Graduating from Goldsmiths and the Slade in the early 80s,
+  the purist sense. Graduating from Goldsmiths and The Slade in the early 80s,
   he was selected by the Whitechapel for ‘Best of Young Sculptors’. Thereafter
   Production Design proved an exciting outsource for his creativity over two
   decades. Film and theatre were his mainstay working with producers from Ridley
@@ -103,21 +87,12 @@ description_markdown: >-
   capturing the unspeakable speed and sheer excitement of Formula One.
 
 
-  Since returning to fine art, Judah has built an international reputation for
-  his white three dimensional paintings that debate conflict and sustainability.
-  His work is in museums and collections worldwide, with commissions currently
-  displayed at St Pauls’ Cathedral to commemorate The Great War, and Manchester
-  Imperial War Museum where **Crusader**,a seven metre sculpture in pure white
-  is suspended like an exploding star across the dusk of a darkened hanger from
-  a Nighthawk stealth aircraft.
-
-
   Jenny Blyth Fine Art has been working with Judah since 2003 exhibiting his
-  work in London (The Royal Institute of British Architects, Louise Blouin
-  Foundation, London Art Fair (Special Projects), placing work in international
-  collections (Saatchi Collection, David Roberts Collection and more) and
-  securing commissions (Imperial War Museum of the North, Wolverhampton Art
-  Gallery…) For exhibition details and images:
+  work in London (Frontiers at Shoreditch, The Royal Institute of British
+  Architects, Louise Blouin Foundation, London Art Fair (Special Projects),
+  placing work in international collections (Saatchi Collection, David Roberts
+  Collection and more) and securing commissions (Imperial War Museum of the
+  North, Wolverhampton Art Gallery…) For exhibition details and images:
   [www.jennyblythfineart.co.uk](http://www.jennyblythfineart.co.uk) and
   [www.judah.co.uk](http://www.judah.co.uk)
 
@@ -142,9 +117,23 @@ description_markdown: >-
   "blocked::http://www.iwm.org.uk/north")
 
 
+  [<font color="#0000ff"></font>](http://www.iwm.org.uk/north
+  "blocked::http://www.iwm.org.uk/north")
+
+
+  [<font color="#0000ff"></font>](http://www.iwm.org.uk/north
+  "blocked::http://www.iwm.org.uk/north")
+
+
   [<font
   color="#0000ff">www.iwm.org.uk/north</font>](http://www.iwm.org.uk/north
   "blocked::http://www.iwm.org.uk/north")
+
+
+  &nbsp;
+
+
+  &nbsp;
 
 
   &nbsp;
