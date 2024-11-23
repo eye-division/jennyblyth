@@ -3,20 +3,25 @@ title: Cassandra Wall
 surname: Wall
 currentshow: true
 description_markdown: >-
-  **Snow Into Water** and **Cassandra Wall's** recent work is a celebration of
-  the beauty of Nature and its liberating and calming effect on the mind.
-  Lockdown enforced a slowdown in the pace of life with all its noise and
-  complexities, and accorded us a unique opportunity to hear the voice of the
-  natural world around us, and the transience that makes it so precious.
+  **Cassandra Wall** will be showing new work at **The Sewell Gallery,
+  Oxordshire** in **September 2025** curated by Jenny Blyth Fine Art.
+
+
+  **Snow Into Water** **2020** featured textile landscapes (figurative &
+  abstracted) by **Cassandra Wall’s**  in a celebration of the beauty of Nature
+  and its liberating and calming effect on the mind. Lockdown enforced a
+  slowdown in the pace of life with all its noise and complexities, and accorded
+  us a unique opportunity to hear the voice of the natural world around us, and
+  the transience that makes it so precious.
 
 
   CW has been working with textiles since childhood. Her compositions in varying
   degrees of abstraction that capture the spirit of the landscape, are initiated
   *sur le motif.*&nbsp; Particularly, she is drawn to the longshore drift where
   the tides pile up and wash away the shingle, re-sculpting the littoral
-  shoreline. ***Dungeness: Summer and Winter***&nbsp;contrasts Derek Jarman's
+  shoreline. ***Dungeness: Summer and Winter***&nbsp;contrasts Derek Jarman’s
   *Prospect Cottage,*&nbsp;lit from within on Winter nights, with its wild
-  Summer '*garden without borders*'.&nbsp;***Heather Hills*** features crests
+  Summer ‘*garden without borders*’.&nbsp;***Heather Hills*** features crests
   and waves of purple heather with backdrafts of golden-green mosses. Her
   collaged landscapes in torn papers with hints of the patterns and
   tessellations to come, are precursors to her immaculately handstitched
@@ -25,13 +30,13 @@ description_markdown: >-
   against her chosen subjects.
 
 
-  Contemplating nature's kaleidescope of beauty, there is ultimately an
+  Contemplating nature’s kaleidescope of beauty, there is ultimately an
   expression of meditative calm achieved through the repetitions of colour and
   shape, and the juxtapositions that inform that simplicity and strength.
 
 
   Wall’s compositions, each created over months, present as contemporary textile
-  'paintings' floating in tray frames, unglazed. Her language is colourfield
+  ‘paintings’ floating in tray frames, unglazed. Her language is colourfield
   abstraction towards a state of meditation, delighting in the journey that
   nature presents dancing towards that end.&nbsp; All is beautifully expressed
   as ***Snow Into Water*** where the white of falling snowflakes from the sky
