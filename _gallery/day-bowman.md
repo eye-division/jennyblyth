@@ -225,18 +225,12 @@ images:
     image_title: Citadel 4
     image_description: >-
       <br />oil, charcoal and conte on canvas<br />172 x 200 cm<br
-      />&amp;pound;12,500
+      />&amp;pound;12,500 SOLD
   - image_path: >-
       /uploads/day-bowman-fortress-7-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm-dsc-1024.jpg
     image_title: Fortress 7
     image_description: >-
       ,<br />oil, charcoal and conte on canvas<br />140 x 150 x 3cm<br
-      />&amp;pound;7500
-  - image_path: >-
-      /uploads/DayBowman_Fortress8_oil,charcoalandconteoncanvas_140x150x3cm_DSC_1058.jpg
-    image_title: Fortress 8
-    image_description: >-
-      <br />oil, charcoal and conte on canvas<br />140 x 150 x 3 cm<br
       />&amp;pound;7500
   - image_path: >-
       /uploads/day-bowman-plashy-place-5-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm-2.jpg
@@ -255,7 +249,11 @@ images:
     image_title: Marking Out the Boundaries 6
     image_description: <br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; 10,000
   - image_path: >-
-      /uploads/day-bowman-marking-out-the-boundaries-4-oil-charcoal-and-conte-on-canvs-140-x-150-x-3-cm-2023.jpg
+      /uploads/day-bowman-marking-out-the-boundaries-3-sm-oil-charcoal-and-conte-on-canvs-140-x-150-x-3-cm-2023.jpg
+    image_title: Marking Out The Boundaries 3
+    image_description: <br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; 10,000
+  - image_path: >-
+      /uploads/day-bowman-marking-out-the-boundaries-4-sm-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm-2023.jpg
     image_title: Marking Out The Boundaries 4
     image_description: <br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; 10,000
 _options:
