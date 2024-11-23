@@ -3,10 +3,49 @@ title: Gerry Judah
 surname: Judah
 currentshow: true
 description_markdown: >-
-  **GERRY JUDAH : ARK ANGELS**
+  **EARTH &
+  ANGELS**                                                                                                        
+  ***Day Bowman & Gerry
+  Judah***                                                                                    
+  October 2024 – 14 February
+  2025                                                                      
+  Curated by Jenny Blyth
 
 
-  **Carey Blyth Gallery** from October 2021
+  Paintings and Drawings by ***Gerry Judah***
+
+
+  Gerry Judah trained at Goldsmiths’ graduating with an MA from The Slade. 
+  Primary years lived in India before moving to London in the 1960s have had a
+  lifelong impact on his perception of the world. The ornate architecture and
+  rituals of temples, mosques, and synagogues infuse his work. *Crusaders I, II
+  & III* are on permanent exhibition at *St. Paul’s Cathedral* and the *Imperial
+  War Museum of the North*. Selected as one of the *Best of Young British
+  Sculptors* at Whitechapel Gallery, Judah stepped across into Production
+  Design, where he created sets for film, opera, and dance for more than twenty
+  years. He has worked with Tarkovsky, David Bailey, and Ridley Scott, and
+  continues to create the signature sculpture for Goodwood’s annual Festival of
+  Speed.
+
+
+  Faith, conflict and climate change have been at the heart of Judah’s work
+  since his return to Fine Art fifteen years ago. His 3D white-on-white
+  **Angels**, which document the devastation of war and the ravages to the Earth
+  of climate change, have been shown internationally in museums and galleries
+  with paintings and sculpture placed in public and private collections
+  worldwide.
+
+
+  There is a shared polarity in the essence of Day Bowman’s and Gerry Judah’s
+  work. Both artists manifest a dynamic and rigorous expression in the execution
+  of their painting that is exciting. Each have a keen enjoyment of architecture
+  and construct, whilst delighting in the deconstruct. Day‘s new paintings that
+  score and scorch the Earth in **Marking Out The Boundaries** are set against
+  high blue skies, whilst Gerry’s ethereal white **Angels** capture the ravages
+  of climate change and conflict.
+
+
+  **Carey Blyth Gallery** October 2021
 
 
   The breadth of Judah’s works reflects his personal journey with references to
@@ -37,10 +76,10 @@ description_markdown: >-
 
 
   Judah is a Londoner, charged by the architecture of his home turf of more than
-  half a century. Driving across London to his studio, he notes the newbuilds,
-  hoardings, and ongoing demolition making space for the new. Excited by the
-  challenges of a continually changing cityscape, it is the geography of his
-  environment that informs his work. It is his constant muse.
+  half a century. Driving across London to his studio, he notes the new
+  buildings, hoardings, and ongoing demolition making space for the new. Excited
+  by the challenges of a continually changing cityscape, it is the geography of
+  his environment that informs his work. It is his constant muse.
 
 
   His studio in Manor House, North London is a multi-cultural light industrial
@@ -83,7 +122,8 @@ description_markdown: >-
   [www.judah.co.uk](http://www.judah.co.uk)
 
 
-  **Great War Sculptures** at St. Paul’s Cathedral since 2014.
+  **Crusader II & III, Great War Sculptures** at St. Paul’s Cathedral since
+  2014.
 
 
   Gerry Judah was commissioned to create two sculptures to commemorate the
@@ -94,9 +134,23 @@ description_markdown: >-
   Imperial War Museum of the North, Manchester since NOVEMBER 2010**
 
 
+  [<font color="#0000ff"></font>](http://www.iwm.org.uk/north
+  "blocked::http://www.iwm.org.uk/north")
+
+
+  [<font color="#0000ff"></font>](http://www.iwm.org.uk/north
+  "blocked::http://www.iwm.org.uk/north")
+
+
   [<font
   color="#0000ff">www.iwm.org.uk/north</font>](http://www.iwm.org.uk/north
   "blocked::http://www.iwm.org.uk/north")
+
+
+  &nbsp;
+
+
+  &nbsp;
 
 
   Sculpture commission secured by Jenny Blyth Fine Art.
@@ -255,6 +309,14 @@ images:
   - image_path: /uploads/gallery-images/gerry-judah/0.jpg
     image_title: Ark Angel
     image_description: <br />Mixed media and acrylic on canvas<br /> 190 x 225 x 30 cm
+  - image_path: >-
+      /uploads/gallery-images/gerry-judah/jbfa-gerry-judah-ark-angel-drawing-at-30-fenchurch-street.jpg
+    image_title: Ark Angel 5
+    image_description: <br />oil pastel, conte on archival paper<br />75 x 100 cm<br />£ 3200
+  - image_path: >-
+      /uploads/gallery-images/gerry-judah/jbfa-gerry-judah-power-drawing-four-elements-bengal-series.jpg
+    image_title: Power, Four Elements, Bengal Series
+    image_description: <br />oil pastel, conte on archival paper<br />75 x 100 cm<br />£ 3200
   - image_path: /assets/images/4cd80f2862fb7.jpg
     image_title: The Crusader at Imperial War Museum of the North
     image_description: >-
@@ -283,10 +345,6 @@ images:
     image_description: >-
       Ark Angel 4<br />oil pastel, conte on archival paper<br />75 x 100 cm<br
       />£ 3200
-  - image_path: >-
-      /uploads/gallery-images/gerry-judah/jbfa-gerry-judah-ark-angel-drawing-at-30-fenchurch-street.jpg
-    image_title: Ark Angel 5
-    image_description: <br />oil pastel, conte on archival paper<br />75 x 100 cm<br />£ 3200
   - image_path: /uploads/JudahNov19-005.png
     image_title: Power
     image_description: |-
