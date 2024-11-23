@@ -248,6 +248,13 @@ images:
   - image_path: /uploads/gerry-judah-angel-i-installation-earth-angels.jpg
     image_title: Angel
     image_description: <br />Mixed media and acrylic on canvas<br />200 x 325 x 60 cm
+  - image_path: >-
+      /uploads/gallery-images/gerry-judah/jbfa-gerry-judah-earth-at-30-fenchurch-street.jpg
+    image_title: Earth
+    image_description: <br />Mixed media and acrylic on canvas<br />225 x 190 x 30 cm
+  - image_path: /uploads/gallery-images/gerry-judah/0.jpg
+    image_title: Ark Angel
+    image_description: <br />Mixed media and acrylic on canvas<br /> 190 x 225 x 30 cm
   - image_path: /assets/images/4cd80f2862fb7.jpg
     image_title: The Crusader at Imperial War Museum of the North
     image_description: >-
@@ -260,28 +267,34 @@ images:
     image_title: Ark Angel 1
     image_description: >-
       Ark Angel 1<br />oil pastel, conte on archival paper<br />75 x 100 cm<br
-      />£ 2400
+      />£ 3200
   - image_path: /uploads/April2021-019.jpg
     image_title: Ark Angel 2
     image_description: >-
       Ark Angel 2<br />oil pastel, conte on archival paper<br />75 x 100 cm<br
-      />£ 2400
+      />£ 3200
   - image_path: /uploads/April2021-008.jpg
     image_title: Ark Angel 3
     image_description: >-
       Ark Angel 3<br />oil pastel, conte on archival paper<br />75 x 100 cm<br
-      />£ 2400
+      />£ 3200
   - image_path: /uploads/April2021-381.jpg
     image_title: Ark Angel 4
     image_description: >-
       Ark Angel 4<br />oil pastel, conte on archival paper<br />75 x 100 cm<br
-      />£ 2400
+      />£ 3200
+  - image_path: >-
+      /uploads/gallery-images/gerry-judah/jbfa-gerry-judah-ark-angel-drawing-at-30-fenchurch-street.jpg
+    image_title: Ark Angel 5
+    image_description: <br />oil pastel, conte on archival paper<br />75 x 100 cm<br />£ 3200
+  - image_path: /uploads/JudahNov19-005.png
+    image_title: Power
+    image_description: |-
+
+      <br />wood, resin, wax<br />h 110 x w 92 x d 25cm<br />£ POE
   - image_path: /uploads/JudahNov19-027.png
     image_title: Flame
     image_description: FLAME<br />wood, resin, wax<br />h 122 x w 58 x d 52 cm<br />£ POE
-  - image_path: /uploads/JudahNov19-005.png
-    image_title:
-    image_description: POWER<br />wood, resin, wax<br />h 110 x w 92 x d 25cm<br />£ POE
   - image_path: /assets/images/4b9a3df70271c.jpg
     image_title: White Country 1
     image_description: >-
@@ -298,13 +311,6 @@ images:
   - image_path: /assets/images/4b9a30648eacf.jpg
     image_title: Motherlands (detail)
     image_description: Motherlands (detail), 2008<br />acrylic gesso and mixed media on canvas
-  - image_path: >-
-      /uploads/gallery-images/gerry-judah/jbfa-gerry-judah-earth-at-30-fenchurch-street.jpg
-    image_title: Earth
-    image_description: <br />Mixed media and acrylic on canvas<br />225 x 190 x 30 cm
-  - image_path: ''
-    image_title: ''
-    image_description: ''
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
