@@ -222,18 +222,21 @@ images:
     image_description: >-
       <br />oil, charcoal and conte on canvas<br />140 x 150 x 4 cm<br
       />&amp;pound; 10,000 
-  - image_path: >-
-      /uploads/day-bowman-fortress-7-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm-dsc-1024.jpg
-    image_title: Fortress 7
-    image_description: >-
-      ,<br />oil, charcoal and conte on canvas<br />140 x 150 x 3cm<br
-      />&amp;pound;7500
+  - image_path: /uploads/db-fortress-4-140-x-150-x-3-cm-2021-dsc-1071.jpg
+    image_title: Fortress 4
+    image_description: <br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; 10,000
   - image_path: >-
       /uploads/day-jbfa-day-bowman-swaying-1-oil-conte-charcoal-on-canvas-14-x-150-x-3-cm.jpg
     image_title: 'Swaling I '
     image_description: >-
       <br />oil, charcoal and conte on canvas<br />140 x 150 x 4 cm<br
       />&amp;pound; 10,000 SOLD
+  - image_path: >-
+      /uploads/day-bowman-fortress-7-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm-dsc-1024.jpg
+    image_title: Fortress 7
+    image_description: >-
+      ,<br />oil, charcoal and conte on canvas<br />140 x 150 x 3cm<br
+      />&amp;pound;8000 SOLD
   - image_path: >-
       /uploads/DayBowman_Citadel4_oil,charcoalandconteoncanvas_172x200x3cm_DSC_0986.jpg
     image_title: Citadel 4
