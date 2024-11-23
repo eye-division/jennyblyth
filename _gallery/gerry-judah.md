@@ -85,18 +85,6 @@ description_markdown: >-
   straddled across an expanse of studio floor awaiting construction.
 
 
-  The early 2000s marked a return for Judah to his prime calling as artist in
-  the purist sense. Graduating from Goldsmiths and The Slade in the early 80s,
-  he was selected by the Whitechapel for ‘Best of Young Sculptors’. Thereafter
-  Production Design proved an exciting outsource for his creativity over two
-  decades. Film and theatre were his mainstay working with producers from Ridley
-  Scott to Andrei Tartovsky on a myriad of projects such as set design for Tim
-  Burton’s **Batman** and **The Festival of Speed** where, for twenty five
-  years, Judah has stunned audiences with sculpture podiums towering over
-  Goodwood House. These art works have been experiential for the viewer,
-  capturing the unspeakable speed and sheer excitement of Formula One.
-
-
   Jenny Blyth Fine Art has been working with Judah since 2003 exhibiting his
   work in London (see below), placing work in international collections (Saatchi
   Collection, David Roberts Collection and more) and securing commissions
@@ -111,58 +99,14 @@ description_markdown: >-
 
 
   Gerry Judah was commissioned to create two sculptures to commemorate the
-  centenary of World War 1 currently on display at St. Paul’s Cathedral.
+  centenary of World War 1 currently on display at St. Paul’s Cathedral.&nbsp;
 
 
-  **Also currently showing :** ***THE CRUSADER*** **\- on permanent display at
-  Imperial War Museum of the North, Manchester since NOVEMBER 2010**
+  Sculpture commission secured by Jenny Blyth Fine Art :
 
 
-  [<font color="#0000ff"></font>](http://www.iwm.org.uk/north
-  "blocked::http://www.iwm.org.uk/north")
-
-
-  [<font color="#0000ff"></font>](http://www.iwm.org.uk/north
-  "blocked::http://www.iwm.org.uk/north")
-
-
-  [<font color="#0000ff"></font>](http://www.iwm.org.uk/north
-  "blocked::http://www.iwm.org.uk/north")
-
-
-  [<font color="#0000ff"></font>](http://www.iwm.org.uk/north
-  "blocked::http://www.iwm.org.uk/north")
-
-
-  [<font color="#0000ff"></font>](http://www.iwm.org.uk/north
-  "blocked::http://www.iwm.org.uk/north")
-
-
-  [<font
-  color="#0000ff">www.iwm.org.uk/north</font>](http://www.iwm.org.uk/north
-  "blocked::http://www.iwm.org.uk/north")
-
-
-  &nbsp;
-
-
-  &nbsp;
-
-
-  &nbsp;
-
-
-  &nbsp;
-
-
-  &nbsp;
-
-
-  Sculpture commission secured by Jenny Blyth Fine Art.
-
-
-  THE CRUSADER was created in direct response to global conflict. It reflects on
-  modern day wars, whilst recalling the history of world conflict such as the
+  **Crusader I** was created in direct response to global conflict. It reflects
+  on modern day wars, whilst recalling the history of world conflict such as the
   faith based Crusades. A powerful and thought-provoking piece, this iconic
   sculpture comprises a 7 metre three-dimensional crucifix covered with a
   lattice of war torn buildings lacquered in snow white redolent of the memorial
@@ -172,7 +116,7 @@ description_markdown: >-
   such as Robert Ryman and Jasper Johns.
 
 
-  THE CRUSADER is the culmination of five years work in which Gerry Judah
+  **Crusader I** is the culmination of five years work in which Gerry Judah
   created a series of three-dimensional paintings of urban decimation focusing
   particularly on the Middle East and Afghanistan, whilst also responding to
   environmental damage resulting from natural disasters such as the Tsunami in
