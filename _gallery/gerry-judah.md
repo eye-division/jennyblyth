@@ -255,6 +255,14 @@ images:
   - image_path: /uploads/gallery-images/gerry-judah/0.jpg
     image_title: Ark Angel
     image_description: <br />Mixed media and acrylic on canvas<br /> 190 x 225 x 30 cm
+  - image_path: >-
+      /uploads/gallery-images/gerry-judah/jbfa-gerry-judah-ark-angel-drawing-at-30-fenchurch-street.jpg
+    image_title: Ark Angel 5
+    image_description: <br />oil pastel, conte on archival paper<br />75 x 100 cm<br />£ 3200
+  - image_path: >-
+      /uploads/gallery-images/gerry-judah/jbfa-gerry-judah-power-drawing-four-elements-bengal-series.jpg
+    image_title: Power, Four Elements, Bengal Series
+    image_description: <br />oil pastel, conte on archival paper<br />75 x 100 cm<br />£ 3200
   - image_path: /assets/images/4cd80f2862fb7.jpg
     image_title: The Crusader at Imperial War Museum of the North
     image_description: >-
@@ -283,10 +291,6 @@ images:
     image_description: >-
       Ark Angel 4<br />oil pastel, conte on archival paper<br />75 x 100 cm<br
       />£ 3200
-  - image_path: >-
-      /uploads/gallery-images/gerry-judah/jbfa-gerry-judah-ark-angel-drawing-at-30-fenchurch-street.jpg
-    image_title: Ark Angel 5
-    image_description: <br />oil pastel, conte on archival paper<br />75 x 100 cm<br />£ 3200
   - image_path: /uploads/JudahNov19-005.png
     image_title: Power
     image_description: |-
