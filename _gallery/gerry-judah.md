@@ -4,8 +4,18 @@ surname: Judah
 currentshow: true
 description_markdown: >-
   **EARTH & ANGELS** at 30 Fenchurch Street, Bishopsgate, City of London EC3
-  until 14 February 2025. EARTH : Paintings by Day Bowman. ANGELS : Paintings
-  and Drawings by Gerry Judah. Curated by Jenny Blyth for Brookfield Properties.
+  until 14 February 2025. **EARTH :** Paintings by Day Bowman. **ANGELS :**
+  Paintings and Drawings by Gerry Judah. Curated by Jenny Blyth for Brookfield
+  Properties.
+
+
+  There is a shared polarity in the essence of Day Bowman’s and Gerry Judah’s
+  work. Both artists manifest a dynamic and rigorous expression in the execution
+  of their painting that is exciting. Each have a keen enjoyment of architecture
+  and construct, whilst delighting in the deconstruct. Day‘s new paintings that
+  score and scorch the Earth in **Marking Out The Boundaries** are set against
+  high blue skies, whilst Gerry’s ethereal white **Angels** capture the ravages
+  of climate change and conflict.
 
 
   Gerry Judah trained at Goldsmiths’ graduating with an MA from The Slade. 
@@ -41,7 +51,7 @@ description_markdown: >-
 
   *Drawings and Sculptures in **Past and Forward**. Monochrome impasto oil
   pastels manifest as **Ark Angels** - stellar trees, both rigorous and
-  beautiful. Judah's sculptures are constructs from clouds to temples mounted
+  beautiful. Judah’s sculptures are constructs from clouds to temples mounted
   onto rickshaws. The engineering is patently hand worked with bindings in steel
   and bamboo confirming a tradition of making anything and fixing everything.
   Explosively polarised, as with all Judah’s work, they encompass both **Past
@@ -88,11 +98,10 @@ description_markdown: >-
 
 
   Jenny Blyth Fine Art has been working with Judah since 2003 exhibiting his
-  work in London (Frontiers at Shoreditch, The Royal Institute of British
-  Architects, Louise Blouin Foundation, London Art Fair (Special Projects),
-  placing work in international collections (Saatchi Collection, David Roberts
-  Collection and more) and securing commissions (Imperial War Museum of the
-  North, Wolverhampton Art Gallery…) For exhibition details and images:
+  work in London (see below), placing work in international collections (Saatchi
+  Collection, David Roberts Collection and more) and securing commissions
+  (Imperial War Museum of the North, Wolverhampton Art Gallery…) For exhibition
+  details and images:
   [www.jennyblythfineart.co.uk](http://www.jennyblythfineart.co.uk) and
   [www.judah.co.uk](http://www.judah.co.uk)
 
@@ -125,9 +134,16 @@ description_markdown: >-
   "blocked::http://www.iwm.org.uk/north")
 
 
+  [<font color="#0000ff"></font>](http://www.iwm.org.uk/north
+  "blocked::http://www.iwm.org.uk/north")
+
+
   [<font
   color="#0000ff">www.iwm.org.uk/north</font>](http://www.iwm.org.uk/north
   "blocked::http://www.iwm.org.uk/north")
+
+
+  &nbsp;
 
 
   &nbsp;
