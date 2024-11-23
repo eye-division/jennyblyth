@@ -245,6 +245,9 @@ archive: false
 display_title: true
 main_image_path: /assets/images/4cd80f2862fb7.jpg
 images:
+  - image_path: /uploads/gerry-judah-angel-i-installation-earth-angels.jpg
+    image_title: Angel
+    image_description: <br />Mixed media and acrylic on canvas<br />200 x 325 x 60 cm
   - image_path: /assets/images/4cd80f2862fb7.jpg
     image_title: The Crusader at Imperial War Museum of the North
     image_description: >-
@@ -295,9 +298,13 @@ images:
   - image_path: /assets/images/4b9a30648eacf.jpg
     image_title: Motherlands (detail)
     image_description: Motherlands (detail), 2008<br />acrylic gesso and mixed media on canvas
-  - image_path: /uploads/gerry-judah-angel-i-installation-earth-angels.jpg
-    image_title: Angel
-    image_description: <br />Mixed media and acrylic on canvas<br />200 x 325 x 60 cm
+  - image_path: >-
+      /uploads/gallery-images/gerry-judah/jbfa-gerry-judah-earth-at-30-fenchurch-street.jpg
+    image_title: Earth
+    image_description: <br />Mixed media and acrylic on canvas<br />225 x 190 x 30 cm
+  - image_path: ''
+    image_title: ''
+    image_description: ''
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
