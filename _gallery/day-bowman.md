@@ -41,6 +41,9 @@ description_markdown: >-
   from the same series.
 
 
+  &nbsp;
+
+
   **Previous Exhibitions** below with **Jenny Blyth Fine Art** at Carey Blyth
   Gallery and Art Jericho, Oxford, also Bersmondsey and London.
 
