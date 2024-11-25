@@ -291,16 +291,6 @@ images:
   - image_path: /uploads/JudahNov19-027.png
     image_title: Flame
     image_description: FLAME<br />wood, resin, wax<br />h 122 x w 58 x d 52 cm<br />£ POE
-  - image_path: /assets/images/4b9a3df70271c.jpg
-    image_title: White Country 1
-    image_description: >-
-      White Country 1, 2009<br />Mixed media and acrylic on canvas<br />190 x
-      380 x 110 cm
-  - image_path: /assets/images/4b9a417203578.jpg
-    image_title: White Country 2
-    image_description: >-
-      White Country 2, 2009<br />Mixed media and acrylic on canvas<br />200 x
-      260 x 100 cm
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
