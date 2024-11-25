@@ -220,7 +220,7 @@ description_markdown: >-
   Day’s work is held in many international Private and Public Collections
   including : Hilton Hotel Group; British Dental Association; Dorset County
   Hospital; St. Vincent and Grenadines Govt. Art Collection; The Priseman
-  Seabrook Collection, and The Yantai Art Museum Collection, China.
+  Seabrook Collection, ING, and The Yantai Art Museum Collection, China.
 homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
