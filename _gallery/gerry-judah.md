@@ -251,6 +251,9 @@ images:
       /uploads/gallery-images/gerry-judah/jbfa-gerry-judah-earth-at-30-fenchurch-street.jpg
     image_title: Earth
     image_description: <br />Mixed media and acrylic on canvas<br />225 x 190 x 30 cm
+  - image_path: /assets/images/4b9a2f92c69c6.jpg
+    image_title: Motherlands
+    image_description: Motherlands, 2008<br />acrylic gesso and mixed media on canvas
   - image_path: /uploads/gallery-images/gerry-judah/0.jpg
     image_title: Ark Angel
     image_description: <br />Mixed media and acrylic on canvas<br /> 190 x 225 x 30 cm
@@ -279,12 +282,7 @@ images:
       />£ 3200
   - image_path: /assets/images/4d00e45cb58ea.jpg
     image_title: The Crusader (IWMN)
-    image_description: The Crusader, 2010<br />7 metres<br />price on application
-  - image_path: /assets/images/4cd80f2862fb7.jpg
-    image_title: The Crusader at Imperial War Museum of the North
-    image_description: >-
-      The Crusader, 2010<br />Plaster, acrylic gesso, foamboard, nylon and steel
-      fibres on steel girders<br />7 metres<br />Price on application
+    image_description: The Crusader, 2010<br />7 metres<br />
   - image_path: /uploads/JudahNov19-005.png
     image_title: Power
     image_description: |-
@@ -303,12 +301,6 @@ images:
     image_description: >-
       White Country 2, 2009<br />Mixed media and acrylic on canvas<br />200 x
       260 x 100 cm
-  - image_path: /assets/images/4b9a2f92c69c6.jpg
-    image_title: Motherlands
-    image_description: Motherlands, 2008<br />acrylic gesso and mixed media on canvas
-  - image_path: /assets/images/4b9a30648eacf.jpg
-    image_title: Motherlands (detail)
-    image_description: Motherlands (detail), 2008<br />acrylic gesso and mixed media on canvas
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
