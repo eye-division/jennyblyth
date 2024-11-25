@@ -3,31 +3,54 @@ title: Day Bowman
 surname: Bowman
 currentshow: true
 description_markdown: >-
-  **Day BOWMAN** currently showing new work in **Earth & Angels** at the
-  Brookfield space at 30 Fenchurch Street, Bishopsgate, City of London **until
-  14 February 2025**.  Two man show with Gerry JUDAH.
+  **Currently Showing until 14 February 2025 :**
+
+
+  **EARTH & ANGELS** at **30 Fenchurch Street**, Bishopsgate, City of London EC3
+  .
+
+
+  **EARTH :** Paintings by Day Bowman. **ANGELS :** Paintings and Drawings by
+  Gerry Judah. Curated by Jenny Blyth for Brookfield Properties.
+
+
+  There is a shared polarity in the essence of Day Bowman’s and Gerry Judah’s
+  work. Both artists manifest a dynamic and rigorous expression in the execution
+  of their painting that is exciting. Each have a keen enjoyment of architecture
+  and construct, whilst delighting in the deconstruct. Day‘s new paintings that
+  score and scorch the Earth in **Marking Out The Boundaries** are set against
+  high blue skies, whilst Gerry’s ethereal white **Angels** capture the ravages
+  of climate change and conflict.
 
 
   Fresh from the studio, **Marking the Boundaries** refers to the controlled
   burning of moorland to inhibit wildfires that dazzled Day as a child. This
   series of paintings captures the texture and colours of the moors with strong
   lines demarcating zones to be burnt where rust-coloured earth, hot flames and
-  the black of charred stubble are set against sky blues.
+  the black of charred stubble are set against sky blues. As ever Day brings
+  energy and passion to the canvas finding the poetry within.
 
 
-  DB’s new series 2024 explores the land in *Marking the Boundaries.* ***Swaling
-  1*** (above) placed in beautiful collection in Crete.  Despite the setting
-  surrounded by azure seas, water is an issue for the islands as summer
-  temperatures soar.  As a child, Day observed the ‘marking off’ of the land for
-  controlled moor fires. She continues to engage with global concerns from
-  climate change to migration.  As ever Day brings energy and passion to the
-  canvas finding the poetry within however tough the subject. **<br><br>Day
-  Bowman : The Power of Painting : December 2023**                Carey Blyth
-  Gallery Oxford
+  The first painting in this series ***Swaling 1***  has been placed with
+  several further paintings from this and the previous series in a beautiful
+  collection in Greece.
+
+
+  Days latest work ***Marking Out The Boundaries 4,5*** and ***6*** are showing
+  in **Earth & Angels** with ***Fortress 4***, with a fourteen smaller paintings
+  from the same series.
+
+
+  **Previous Exhibitions** below with **Jenny Blyth Fine Art** at Carey Blyth
+  Gallery and Art Jericho, Oxford, also Bersmondsey and London.
+
+
+  **Day Bowman : The Power of Painting : December 2023**                Carey
+  Blyth Gallery Oxford
 
 
   **Day Bowman : Seaside Citadels : June 2021**                             
-  Bermondsey Project Space London, curated by Jenny Blyth.
+  Bermondsey Project Space London.
 
 
   Our coastal boundaries appointed with castles and fortresses of old, protected
@@ -62,13 +85,13 @@ description_markdown: >-
   release ourselves to the elements, we find a path to peace and healing.
 
 
-  *Curated by Jenny Blyth in association with Bermondsey Project Space
+  *Curated with Text by Jenny Blyth in association with Bermondsey Project Space
   www.project-space.london  Catalogue available (£10)*
 
 
-  **DAY BOWMAN :  Plashy
-  Places**                                                                         
-  Carey Blyth Gallery , Oxford.
+  **DAY BOWMAN :  Plashy Places, March
+  2020**                                                Carey Blyth Gallery ,
+  Oxford.
 
 
   How deeply are etched within us our childhood memories - where time stood
@@ -195,11 +218,8 @@ description_markdown: >-
 
   Day’s work is held in international Private and Public Collections including :
   Hilton Hotel Group; British Dental Association; Dorset County Hospital; St.
-  Vincent and Grenadines Govt. Art Collection; he Priseman Seabrook Collection,
-  and the Yantai Art Museum Collection China.
-
-
-  &nbsp;
+  Vincent and Grenadines Govt. Art Collection; The Priseman Seabrook Collection,
+  and The Yantai Art Museum Collection, China.
 homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
