@@ -36,16 +36,16 @@ description_markdown: >-
   collection in Greece.
 
 
-  Days latest work ***Marking Out The Boundaries 4,5*** and ***6*** are showing
-  in **Earth & Angels** with ***Fortress 4***, with a fourteen smaller paintings
-  from the same series.
+  Day Bowman's latest work - ***Marking Out The Boundaries 4,5*** and ***6***
+  -are showing in **Earth & Angels** with ***Fortress 4***, and fourteen smaller
+  paintings from the same series.
 
 
   &nbsp;
 
 
   **Previous Exhibitions** below with **Jenny Blyth Fine Art** at Carey Blyth
-  Gallery and Art Jericho, Oxford, also Bersmondsey and London.
+  Gallery and Art Jericho, Oxford, and London.
 
 
   **Day Bowman : The Power of Painting : December 2023**                Carey
@@ -190,7 +190,6 @@ description_markdown: >-
   at the Black Swan Arts as part of the Frome Arts Festival in July 2011, then
   toured to Dorchester Arts Centre, Kelly Ross Fine Art at The Art Stable,
   Dorset and travelled on to Quay Arts, Isle of Wight in February 2012.
-  Currently showing at Atkinson Gallery, Somerset.
 
 
   **Day Bowman : Belief and Beyond : March May
@@ -219,10 +218,10 @@ description_markdown: >-
   melusine
 
 
-  Day’s work is held in international Private and Public Collections including :
-  Hilton Hotel Group; British Dental Association; Dorset County Hospital; St.
-  Vincent and Grenadines Govt. Art Collection; The Priseman Seabrook Collection,
-  and The Yantai Art Museum Collection, China.
+  Day’s work is held in many international Private and Public Collections
+  including : Hilton Hotel Group; British Dental Association; Dorset County
+  Hospital; St. Vincent and Grenadines Govt. Art Collection; The Priseman
+  Seabrook Collection, and The Yantai Art Museum Collection, China.
 homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
