@@ -31,14 +31,14 @@ description_markdown: >-
   energy and passion to the canvas finding the poetry within.
 
 
-  The first painting in this series ***Swaling 1***  has been placed with
-  several further paintings from this and the previous series in a beautiful
-  collection in Greece.
-
-
-  Day Bowman's latest work - ***Marking Out The Boundaries 4,5*** and ***6***
+  Day Bowman’s latest work - ***Marking Out The Boundaries 4,5*** and ***6***
   -are showing in **Earth & Angels** with ***Fortress 4***, and fourteen smaller
   paintings from the same series.
+
+
+  The first painting in this series ***Swaling 1*** has been placed with several
+  further paintings from this and the previous series in a beautiful collection
+  in Greece by JBFA.
 
 
   &nbsp;
@@ -193,8 +193,7 @@ description_markdown: >-
 
 
   **Day Bowman : Belief and Beyond : March May
-  2012**                                   Barclays Bank Galllery Piccadilly
-  London
+  2012**                                   Piccadilly, London W1.
 
 
   **Prizes & Collections**
