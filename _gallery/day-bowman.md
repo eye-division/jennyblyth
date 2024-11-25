@@ -31,14 +31,14 @@ description_markdown: >-
   energy and passion to the canvas finding the poetry within.
 
 
-  The first painting in this series ***Swaling 1***  has been placed with
-  several further paintings from this and the previous series in a beautiful
-  collection in Greece.
-
-
-  Day Bowman's latest work - ***Marking Out The Boundaries 4,5*** and ***6***
+  Day Bowman’s latest work - ***Marking Out The Boundaries 4,5*** and ***6***
   -are showing in **Earth & Angels** with ***Fortress 4***, and fourteen smaller
   paintings from the same series.
+
+
+  The first painting in this series ***Swaling 1*** has been placed with several
+  further paintings from this and the previous series in a beautiful collection
+  in Greece by JBFA.
 
 
   &nbsp;
@@ -193,8 +193,7 @@ description_markdown: >-
 
 
   **Day Bowman : Belief and Beyond : March May
-  2012**                                   Barclays Bank Galllery Piccadilly
-  London
+  2012**                                   Piccadilly, London W1.
 
 
   **Prizes & Collections**
@@ -221,7 +220,7 @@ description_markdown: >-
   Day’s work is held in many international Private and Public Collections
   including : Hilton Hotel Group; British Dental Association; Dorset County
   Hospital; St. Vincent and Grenadines Govt. Art Collection; The Priseman
-  Seabrook Collection, and The Yantai Art Museum Collection, China.
+  Seabrook Collection, ING, and The Yantai Art Museum Collection, China.
 homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
