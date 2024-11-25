@@ -262,14 +262,6 @@ images:
       /uploads/gallery-images/gerry-judah/jbfa-gerry-judah-power-drawing-four-elements-bengal-series.jpg
     image_title: Power, Four Elements, Bengal Series
     image_description: <br />oil pastel, conte on archival paper<br />75 x 100 cm<br />£ 3200
-  - image_path: /assets/images/4cd80f2862fb7.jpg
-    image_title: The Crusader at Imperial War Museum of the North
-    image_description: >-
-      The Crusader, 2010<br />Plaster, acrylic gesso, foamboard, nylon and steel
-      fibres on steel girders<br />7 metres<br />Price on application
-  - image_path: /assets/images/4d00e45cb58ea.jpg
-    image_title: The Crusader (IWMN)
-    image_description: The Crusader, 2010<br />7 metres<br />price on application
   - image_path: /uploads/april-2021---021.jpg
     image_title: Ark Angel 1
     image_description: >-
@@ -285,11 +277,14 @@ images:
     image_description: >-
       Ark Angel 3<br />oil pastel, conte on archival paper<br />75 x 100 cm<br
       />£ 3200
-  - image_path: /uploads/April2021-381.jpg
-    image_title: Ark Angel 4
+  - image_path: /assets/images/4d00e45cb58ea.jpg
+    image_title: The Crusader (IWMN)
+    image_description: The Crusader, 2010<br />7 metres<br />price on application
+  - image_path: /assets/images/4cd80f2862fb7.jpg
+    image_title: The Crusader at Imperial War Museum of the North
     image_description: >-
-      Ark Angel 4<br />oil pastel, conte on archival paper<br />75 x 100 cm<br
-      />£ 3200
+      The Crusader, 2010<br />Plaster, acrylic gesso, foamboard, nylon and steel
+      fibres on steel girders<br />7 metres<br />Price on application
   - image_path: /uploads/JudahNov19-005.png
     image_title: Power
     image_description: |-
