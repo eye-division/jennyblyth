@@ -3,11 +3,11 @@ title: Gerry Judah
 surname: JUDAH
 currentshow: true
 description_markdown: >-
-  **Currently Showing :**
+  **Currently Showing until 14 February 2025 :**
 
 
   **EARTH & ANGELS** at **30 Fenchurch Street**, Bishopsgate, City of London EC3
-  **until 14 February 2025**.
+  .
 
 
   **EARTH :** Paintings by Day Bowman. **ANGELS :** Paintings and Drawings by
@@ -34,16 +34,16 @@ description_markdown: >-
 
 
   Sculpture commission secured by Jenny Blyth Fine Art on permanent display at
-  the Imperial War Museum of the North, Manchester : **Crusader I** was created
-  in direct response to global conflict. It reflects on modern day wars, whilst
-  recalling the history of world conflict such as the faith based Crusades. A
-  powerful and thought-provoking piece, this iconic sculpture comprises a 7
-  metre three-dimensional crucifix covered with a lattice of war torn buildings
-  lacquered in snow white redolent of the memorial crosses at Flanders Fields.
-  There are a multiplicity of art history references recalling to mind early
-  paintings which celebrated the martyrdom of Saint Sebastian and the ever
-  present Crown of Thorns, to American minimalist giants such as Robert Ryman
-  and Jasper Johns.
+  the **Imperial War Museum of the North**, Manchester : **Crusader I** was
+  created in direct response to global conflict. It reflects on modern day wars,
+  whilst recalling the history of world conflict such as the faith based
+  Crusades. A powerful and thought-provoking piece, this iconic sculpture
+  comprises a 7 metre three-dimensional crucifix covered with a lattice of war
+  torn buildings lacquered in snow white redolent of the memorial crosses at
+  Flanders Fields. There are a multiplicity of art history references recalling
+  to mind early paintings which celebrated the martyrdom of Saint Sebastian and
+  the ever present Crown of Thorns, to American minimalist giants such as Robert
+  Ryman and Jasper Johns.
 
 
   **Crusader I** is the culmination of five years work in which Gerry Judah
@@ -52,10 +52,8 @@ description_markdown: >-
   environmental damage resulting from natural disasters such as the Tsunami in
   the Asian Basin, New Orleans in flood ensuing from Hurricane Katrina, and the
   devastation resulting from earthquakes in Haiti and Iceland. Judah’s work
-  explores construction and deconstruction, decline and regeneration.
-
-
-  The setting in Imperial War Museum North’s landmark building - designed by
+  explores construction and deconstruction, decline and regeneration. The
+  setting in Imperial War Museum North’s landmark building - designed by
   internationally celebrated architect Daniel Libeskind to represent a globe
   shattered by conflict - is fitting, given the **Crusader** conceptual
   references and Judah’s exploration of ‘presence of absence’.
@@ -67,6 +65,9 @@ description_markdown: >-
 
   Gerry Judah was commissioned to create two sculptures to commemorate the
   centenary of World War 1 currently on display at St. Paul’s Cathedral.
+
+
+  **Selected Past Exhibitions :**
 
 
   **Gerry JUDAH at Carey Blyth Gallery, Oxford :** October 2021
@@ -124,7 +125,7 @@ description_markdown: >-
   [www.judah.co.uk](http://www.judah.co.uk)
 
 
-  **PREVIOUS SOLO EXHIBITIONS :**
+  **Selected Solo Exhibitions :**
 
 
   Exhibiting with Jenny Blyth Fine Art:
@@ -228,12 +229,13 @@ description_markdown: >-
 
   Gerry Judah’s work has been exhibited at the Whitechapel Art Gallery, Camden
   Arts Centre and Yorkshire Sculpture Park and has entered many international
-  public and private collections including the Charles Saatchi Collection
-  London, Anita and Poju Zabludowicz Collection London, Imperial War Museum
-  London, Essy & Fatima Maleki Collection London, David Roberts Collection
-  London, Chris Drake Collection Sussex, Centre for Arts Israel, Irena Hochman
-  Collection New York, Bobby Kapoor Collection India, Museum of Old and New Art
-  Australia and The Earl of March, Goodwood.
+  public and private collections including:  Saatchi Collection London;  Anita
+  and Poju Zabludowicz Collection London; Imperial War Museum London &
+  Manchester; Essy & Fatima Maleki Collection London; David Roberts Collection
+  London; Chris Drake Collection Sussex; Centre for Arts Israel; Irena Hochman
+  Collection New York; Bobby Kapoor Collection India; Museum of Old and New Art
+  Australia ; The Earl of March, Goodwood, and International Collections
+  worldwide in Europe, USA, Middle East and Australia.
 homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
