@@ -270,11 +270,6 @@ images:
     image_description: >-
       Ark Angel 1<br />oil pastel, conte on archival paper<br />75 x 100 cm<br
       />£ 3200
-  - image_path: /uploads/April2021-019.jpg
-    image_title: Ark Angel 2
-    image_description: >-
-      Ark Angel 2<br />oil pastel, conte on archival paper<br />75 x 100 cm<br
-      />£ 3200
   - image_path: /uploads/April2021-008.jpg
     image_title: Ark Angel 3
     image_description: >-
@@ -283,14 +278,6 @@ images:
   - image_path: /assets/images/4d00e45cb58ea.jpg
     image_title: The Crusader (IWMN)
     image_description: The Crusader, 2010<br />7 metres<br />
-  - image_path: /uploads/JudahNov19-005.png
-    image_title: Power
-    image_description: |-
-
-      <br />wood, resin, wax<br />h 110 x w 92 x d 25cm<br />£ POE
-  - image_path: /uploads/JudahNov19-027.png
-    image_title: Flame
-    image_description: FLAME<br />wood, resin, wax<br />h 122 x w 58 x d 52 cm<br />£ POE
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
