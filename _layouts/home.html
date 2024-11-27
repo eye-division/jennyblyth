@@ -10,7 +10,7 @@ layout: default
 	{% if page.main_image_path %}
 		<figure>
 		{% assign alt_text = page.title %}
-		{% if page.image_caption %} {% assign alt_text = page.image_caption %} {% endif %}
+		{% if page.image_caption %} {% assign alt_text = page.image_caption %} {% elsif page.main_image_caption %} {% assign alt_text = page.image_caption %} {% endif %}
 		{% include img.html src=page.main_image_path alt=alt_text %}
 		<figcaption>{{ alt_text }}</figcaption>
 		</figure>
