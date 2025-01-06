@@ -1,8 +1,112 @@
 ---
 title: Jenny Blyth
 surname: Blyth
-currentshow: false
-description_markdown: "## REFLECTING THE LANDSCAPE\n\n**Jenny Blyth shows 50 photographs of Port Meadow, Oxfordshire and Beyond…(Scottish Highlands)**\n\n**4 May - 1 June 2019**\n\nenquiries :\_ jennyblyth@btconnect.com\n\n\"I have spent a year through the seasons photographing Wolfson College and the gardens that run down to the River Cherwell.\_ The Brutalist architecture was groundbreaking in its time and remains at odds in a city known for its dreaming spires.\_ The gardens and trees are now matured, and nature has softened the geometry of the buildings creating reflections and shadows that play out across the surfaces changing colours, textures and moods so that each day, each hour is different.\_ I have been struck by the calm and joy in the environment of Wolfson that was designed to engender 'humane' living.\n\nI walk daily whatever the weather and find a sense of oneness with nature that I attempt to capture in my photographs.\_ I am drawn to the poetry in the landscape, and find that I am chasing beauty.\n\nI never tire of Port Meadow and have walked come rain or shine for years. I love the huge skies, and stepping onto the meadow that stretches towards Oxford, it presents like an old Dutch master, an ever-changing canvas. It is large enough to lose yourself in nature, to embrace the elements, and familiar enough to encourage a quiet meditation.\n\nThe seasons transform the landscape, shape-shifting and refreshing the palette. There is invariably something unexpected and beautiful to observe whether that is a hawthorn bush heady with musk scented flowers, or a murmur of plover that contours the broad backs of horses, their long tails sashaying. Gun-metal skies threaten thunder over a buttercup ocean in May, while hoar frost on winter days crystallises the floodplains under high blue skies. In autumn, the last of the black poplars shed yellow leaves that fringe the edge of the river like a golden thread.\n\nI am not technically minded, and shy away from photoshop so that the images are as true as they can be.\"\n\n© Jenny Blyth 2019\n\n**18 February - 28 March 2019**\n\n**Reflecting the Landscape at**\n\n**Wolfson College, Linton Road, OX2 6UD**\n\n&nbsp;"
+currentshow: true
+description_markdown: >-
+  ####  Across the Meadow and Beyond
+
+
+  #### 5 January – 14 February 2025
+
+
+  The Corridor Gallery, John Radcliffe Hospital (Main Entrance), Headley Way
+  email: [jennyblythart@gmail.com](mailto:jennyblythart@gmail.com) mobile: 07798
+  526 252
+
+
+  I attempt to capture a sense of oneness in my photographs – they are of
+  landscape on *Port Meadow* and *Oxford City,* and some of my favourite places
+  such as *Blenheim* (above), and the *Downs* above *Uffington, Oxfordshire*,
+  and farther afield. I have always been drawn to the poetry in photography, and
+  try to catch the moment as it feels on the day. I am not technically minded,
+  and shy away from photoshop so that the images are as true as they can be.
+
+
+  I never tire of Port Meadow and have walked daily whatever the weather for
+  years. I love the huge skies, and stepping onto the meadow that stretches
+  towards Oxford, it presents like an old Dutch master, an ever-changing canvas.
+  It is large enough to lose yourself in nature, to embrace the elements, and
+  familiar enough to allow a quiet meditation.
+
+
+  The seasons transform the landscape, shape-shifting and refreshing the
+  palette. There is invariably something unexpected and beautiful to observe
+  whether a young hawthorn tree valiant against the gathering storm, or a tern,
+  light winged and delicate, hovering before the last dive on a summer’s
+  evening. Gun-metal skies threaten thunder above a buttercup sea in June, while
+  hoar frost crystallizes the floodplains under apricot winter skies where hoof
+  print hollows break the ice. The horses and their foals winter on the meadow -
+  they don’t seem to mind the cold, their coats thick and soft.
+
+
+  Text by Jenny Blyth 2024
+
+
+  &nbsp;
+
+
+  #### REFLECTING THE LANDSCAPE
+
+
+  **Jenny Blyth shows 50 photographs of Port Meadow, Oxfordshire and
+  Beyond…(Scottish Highlands)**
+
+
+  **4 May - 1 June 2019**
+
+
+  enquiries :&nbsp; jennyblyth@btconnect.com
+
+
+  “I have spent a year through the seasons photographing Wolfson College and the
+  gardens that run down to the River Cherwell.&nbsp; The Brutalist architecture
+  was groundbreaking in its time and remains at odds in a city known for its
+  dreaming spires.&nbsp; The gardens and trees are now matured, and nature has
+  softened the geometry of the buildings creating reflections and shadows that
+  play out across the surfaces changing colours, textures and moods so that each
+  day, each hour is different.&nbsp; I have been struck by the calm and joy in
+  the environment of Wolfson that was designed to engender ‘humane’ living.
+
+
+  I walk daily whatever the weather and find a sense of oneness with nature that
+  I attempt to capture in my photographs.&nbsp; I am drawn to the poetry in the
+  landscape, and find that I am chasing beauty.
+
+
+  I never tire of Port Meadow and have walked come rain or shine for years. I
+  love the huge skies, and stepping onto the meadow that stretches towards
+  Oxford, it presents like an old Dutch master, an ever-changing canvas. It is
+  large enough to lose yourself in nature, to embrace the elements, and familiar
+  enough to encourage a quiet meditation.
+
+
+  The seasons transform the landscape, shape-shifting and refreshing the
+  palette. There is invariably something unexpected and beautiful to observe
+  whether that is a hawthorn bush heady with musk scented flowers, or a murmur
+  of plover that contours the broad backs of horses, their long tails sashaying.
+  Gun-metal skies threaten thunder over a buttercup ocean in May, while hoar
+  frost on winter days crystallises the floodplains under high blue skies. In
+  autumn, the last of the black poplars shed yellow leaves that fringe the edge
+  of the river like a golden thread.
+
+
+  I am not technically minded, and shy away from photoshop so that the images
+  are as true as they can be.”
+
+
+  © Jenny Blyth 2019
+
+
+  **18 February - 28 March 2019**
+
+
+  **Reflecting the Landscape at**
+
+
+  **Wolfson College, Linton Road, OX2 6UD**
+
+
+  &nbsp;
 homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2019-01-01 00:00:00
