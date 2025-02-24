@@ -151,6 +151,14 @@ images:
   - image_path: /uploads/gallery-images/susan-moxley/violin-case-woman-i-sm.jpg
     image_title:
     image_description:
+  - image_path: >-
+      /uploads/gallery-images/susan-moxley/jenny-blyth-fine-art-susan-moxley-before-the-journey.jpg
+    image_title: Before The Journey
+    image_description:
+  - image_path: >-
+      /uploads/gallery-images/susan-moxley/jenny-blyth-fine-art-susan-moxley-pitharia-ii-with-minoan-bird-03.jpg
+    image_title: Pitharia with Seated Bird
+    image_description:
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
