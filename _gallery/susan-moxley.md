@@ -171,7 +171,17 @@ images:
       /uploads/gallery-images/susan-moxley/website-jenny-blyth-fine-art-susan-moxley-pitharia-with-plates.jpg
     image_title: ''
     image_description:
-  - image_path: ''
+  - image_path: /uploads/gallery-images/susan-moxley/aegean-woman.jpg
+    image_title: ''
+    image_description:
+  - image_path: >-
+      /uploads/gallery-images/susan-moxley/jenny-blyth-fine-art-susan-moxley-violin-women-in-blue.jpg
+    image_title: ''
+    image_description:
+  - image_path: /uploads/gallery-images/susan-moxley/img-2965.jpg
+    image_title: ''
+    image_description:
+  - image_path: /uploads/gallery-images/susan-moxley/img-2968.jpg
     image_title: ''
     image_description:
 _options:
