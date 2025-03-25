@@ -144,18 +144,18 @@ images:
   - image_path: /uploads/gallery-images/susan-moxley/jbfa-susan-moxley-melody.jpg
     image_title: ''
     image_description:
-  - image_path: /uploads/gallery-images/susan-moxley/jbfa-susan-moxley-hot-sea-i.jpg
-    image_title: ''
-    image_description:
   - image_path: >-
       /uploads/gallery-images/susan-moxley/jenny-blyth-fine-art-susan-moxley-allegro-violin.jpg
+    image_title: ''
+    image_description:
+  - image_path: /uploads/gallery-images/susan-moxley/jbfa-susan-moxley-aegean-ii.jpg
     image_title: ''
     image_description:
   - image_path: >-
       /uploads/gallery-images/susan-moxley/jenny-blyth-fine-art-susan-moxley-pianola-1-mb.jpg
     image_title: ''
     image_description:
-  - image_path: /uploads/gallery-images/susan-moxley/jbfa-susan-moxley-aegean-ii.jpg
+  - image_path: /uploads/gallery-images/susan-moxley/jbfa-susan-moxley-hot-sea-i.jpg
     image_title: ''
     image_description:
   - image_path: >-
