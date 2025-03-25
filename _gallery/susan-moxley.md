@@ -6,7 +6,7 @@ description_markdown: >-
   **Susan MOXLEY**
 
 
-  ***Text by Jenny Blyth©June2024***
+  ***Text by Jenny Blyth***
 
 
   *Enquiries : jennyblythart@gmail.com*
@@ -20,14 +20,14 @@ description_markdown: >-
 
   Working in a variety of media, Susan creates exquisite collaged textiles,
   ceramic sculpture and monographs, hand coloured and collaged with chine
-  collee. Although her work is based in ﬁguration, it is largely abstracted.
+  colle.  Although her work is based in ﬁguration, it is largely abstracted.
   Social politics and narratives remain important to her.
 
 
   FRESH ART FAIR Cheltenham 2025 showcases her new work - textiles, ceramics and
-  monographs (hand coloured, collaged with chine collee) - reﬂecting the
-  changing traditions of community on an island in Greece that remains beautiful
-  and captivating in a fast-changing world.
+  monographs (hand coloured, collaged with chine colle) - reﬂecting the changing
+  traditions of community on an island in Greece that remains beautiful and
+  captivating in a fast-changing world.
 
 
   Textiles
@@ -38,7 +38,7 @@ description_markdown: >-
   imperfections that contribute to the island’s stories, inspiring me to draw
   their narratives into the present. I impose my own stories whilst always being
   aware and respectful of the island women who made them. Each piece is a
-  palimpsest - altered, superimposed, recontextualised while still bearing
+  palimpsest - altered, superimposed, re-contextualised while still bearing
   traces of its former use’*****.**
 
 
@@ -58,18 +58,12 @@ description_markdown: >-
   dyed with natural pigments.
 
 
-  &nbsp;
-
-
   While raising her children Susan spent many evenings with older women,
   learning their crafts and listening to their stories of village life,
   hardships, song and myth. She stitched these stories into the found fabrics
   while superimposing her own observations, feelings and artistic experiences,
   using the found fabrics as her canvas and palate, their repairs, tares and
   textures as inspiration and her stitched thread as the drawn line.
-
-
-  &nbsp;
 
 
   First Storm is a 2m collaged landscape that follows a gathering storm. The
@@ -82,26 +76,14 @@ description_markdown: >-
   azure blue of sea and sky.
 
 
-  &nbsp;
-
-
   During her search for hand woven fabrics, Susan found a discarded violin case.
   She has lined the case in woollen fabric, the female form, stitched in red
   thread creates a playful fusion of music and beauty. Her Violin Women are a
   conduit between the textiles and the ceramics.
 
 
-  &nbsp;
-
-
-  &nbsp;
-
-
   The connection between Woman and Pithari (vessel) is a recurring theme across
   Susan’s artistic practice - woman as container, container as woman.
-
-
-  &nbsp;
 
 
   Susan’s Pitharia in stoneware and terracotta celebrate the simplicity and
@@ -115,7 +97,7 @@ description_markdown: >-
   fabric , and birds.
 
 
-  Text by Jenny Blyth © 2025
+  &nbsp;
 
 
   &nbsp;
