@@ -165,12 +165,12 @@ images:
   - image_path: /uploads/gallery-images/susan-moxley/aegean-sea-ii-1-4-mb.jpg
     image_title: ''
     image_description:
+  - image_path: /uploads/gallery-images/susan-moxley/jbfa-susan-moxley-summer-storm.jpg
+    image_title: ''
+    image_description:
   - image_path: >-
       /uploads/gallery-images/susan-moxley/susan-moxley-sm-violin-woman-in-white-with-minoan-bird-1.jpg
     image_title:
-    image_description:
-  - image_path: /uploads/gallery-images/susan-moxley/violin-case-woman-i-sm.jpg
-    image_title: Violin Woman I
     image_description:
   - image_path: >-
       /uploads/gallery-images/susan-moxley/website-jenny-blyth-fine-art-susan-moxley-pitharia-with-minoan-bird.jpg
@@ -188,11 +188,11 @@ images:
       /uploads/gallery-images/susan-moxley/website-jenny-blyth-fine-art-susan-moxley-pitharia-with-plates.jpg
     image_title: ''
     image_description:
+  - image_path: /uploads/gallery-images/susan-moxley/violin-case-woman-i-sm.jpg
+    image_title: Violin Woman I
+    image_description:
   - image_path: >-
       /uploads/gallery-images/susan-moxley/chickens-jenny-blyth-fine-art-susan-moxley-when-chickens-fly.jpg
-    image_title: ''
-    image_description:
-  - image_path: /uploads/gallery-images/susan-moxley/jbfa-susan-moxley-summer-storm.jpg
     image_title: ''
     image_description:
   - image_path: /uploads/gallery-images/susan-moxley/sm-harbour-i-2.jpg
