@@ -144,6 +144,14 @@ images:
   - image_path: /uploads/gallery-images/susan-moxley/jbfa-susan-moxley-melody.jpg
     image_title: ''
     image_description:
+  - image_path: >-
+      /uploads/gallery-images/susan-moxley/jenny-blyth-fine-art-susan-moxley-allegro-violin.jpg
+    image_title: ''
+    image_description:
+  - image_path: >-
+      /uploads/gallery-images/susan-moxley/jenny-blyth-fine-art-susan-moxley-pianola-1-mb.jpg
+    image_title: ''
+    image_description:
   - image_path: /uploads/gallery-images/susan-moxley/jbfa-susan-moxley-aegean-ii.jpg
     image_title: ''
     image_description:
@@ -168,10 +176,6 @@ images:
     image_title: Violin Woman I
     image_description:
   - image_path: >-
-      /uploads/gallery-images/susan-moxley/jenny-blyth-fine-art-susan-moxley-before-the-journey.jpg
-    image_title: Before The Journey
-    image_description:
-  - image_path: >-
       /uploads/gallery-images/susan-moxley/website-jenny-blyth-fine-art-susan-moxley-pitharia-with-minoan-bird.jpg
     image_title: Pitharia with Seated Bird
     image_description:
@@ -185,10 +189,6 @@ images:
     image_description:
   - image_path: >-
       /uploads/gallery-images/susan-moxley/website-jenny-blyth-fine-art-susan-moxley-pitharia-with-plates.jpg
-    image_title: ''
-    image_description:
-  - image_path: >-
-      /uploads/gallery-images/susan-moxley/chickens-jenny-blyth-fine-art-susan-moxley-when-chickens-fly.jpg
     image_title: ''
     image_description:
 _options:
