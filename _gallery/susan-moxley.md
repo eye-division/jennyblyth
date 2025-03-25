@@ -141,6 +141,19 @@ archive: false
 main_image_path: /uploads/sm-sm-first-storm-68-x-205-cm.jpg
 display_title: true
 images:
+  - image_path: /uploads/gallery-images/susan-moxley/jbfa-susan-moxley-melody.jpg
+    image_title: ''
+    image_description:
+  - image_path: >-
+      /uploads/gallery-images/susan-moxley/jenny-blyth-fine-art-susan-moxley-violin-women-in-blue-1.jpg
+    image_title: ''
+    image_description:
+  - image_path: /uploads/gallery-images/susan-moxley/jbfa-susan-moxley-aegean-ii.jpg
+    image_title: ''
+    image_description:
+  - image_path: /uploads/gallery-images/susan-moxley/aegean-sea-ii-1-4-mb.jpg
+    image_title: ''
+    image_description:
   - image_path: /uploads/gallery-images/susan-moxley/sm-harbour-i-2.jpg
     image_title:
     image_description:
@@ -169,19 +182,6 @@ images:
     image_description:
   - image_path: >-
       /uploads/gallery-images/susan-moxley/website-jenny-blyth-fine-art-susan-moxley-pitharia-with-plates.jpg
-    image_title: ''
-    image_description:
-  - image_path: /uploads/gallery-images/susan-moxley/aegean-woman.jpg
-    image_title: ''
-    image_description:
-  - image_path: >-
-      /uploads/gallery-images/susan-moxley/jenny-blyth-fine-art-susan-moxley-violin-women-in-blue.jpg
-    image_title: ''
-    image_description:
-  - image_path: /uploads/gallery-images/susan-moxley/img-2965.jpg
-    image_title: ''
-    image_description:
-  - image_path: /uploads/gallery-images/susan-moxley/img-2968.jpg
     image_title: ''
     image_description:
 _options:
