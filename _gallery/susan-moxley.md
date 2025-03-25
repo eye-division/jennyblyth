@@ -3,9 +3,6 @@ title: Susan Moxley
 surname: Moxley
 currentshow: true
 description_markdown: >-
-  Susan Moxley *First Storm* textile, thread 68 x 205 cm
-
-
   **Susan MOXLEY**
 
 
@@ -15,124 +12,113 @@ description_markdown: >-
   *Enquiries : jennyblythart@gmail.com*
 
 
-  *Growing up in South Africa, Susan Moxley achieved the highest results in the
-  country for a Degree in Fine Art from Natal College of Art. She travelled to
-  London for a Post Grad in Printmaking and Illustration graduating with
-  Distinction before returning to South Africa for twelve months where she
-  joined a political group, was blacklisted, and determined to make a life as an
-  artist in Europe.*
+  Susan Moxley grew up in South Africa where she graduated with distinction from
+  Durban School of Art travelling to London for a Post Graduate Degree in
+  Printmaking. On her return to South Africa she worked for an NGO, but soon
+  returned again, determined to make a life as an artist in Europe.
 
 
-  Working with mixed media, SM is a printmaker supreme, creating exquisite
-  prints, collages, sculpture and jewellery. Although her work is based in
-  figuration, it is largely abstracted. Concepts and politics remain important
-  to her. Her new body of work focuses particularly on ‘textile paintings’ with
-  sculpture that celebrates music and the beauty of the female form.
+  Working in a variety of media, Susan creates exquisite collaged textiles,
+  ceramic sculpture and monographs, hand coloured and collaged with chine
+  collee. Although her work is based in ﬁguration, it is largely abstracted.
+  Social politics and narratives remain important to her.
 
 
-  Splitting their time between UK and Greece, SM and her husband Korky Paul,
-  have maintained a home together as artists on Kythera, home to Aphrodite - one
-  of seven Ionian islands, for more than 40 years. On the outskirts of the
-  village where they live, is a municipal dump picked over by cats where SM has
-  sourced discarded homemade cloth and blankets. Goats’ hair and flax was spun
-  into coarse wool that was traditionally woven on home looms into hardwearing
-  blankets. Laid out beneath the olive trees, they were used to collect the
-  olives harvested from the branches overhead. Felt for blankets and clothing
-  was made from sheep’s wool by rubbing the wool with salt water at the sea’s
-  edge to create a thick matted material. Traditional methods have long since
-  been lost. Islanders often winter in Athens. The women no longer sit out
-  beneath the trees talking and stitching. They no longer weave, and the skills
-  are not passed down to younger women. Hand-woven blankets handed down over
-  generations as family heirlooms have been thrown out. For artists, what we
-  discard often affords a treasure trove, and for SM the cloth remnants that she
-  finds amongst the rubbish are indeed treasure, infused with the essence of the
-  islanders and their land.
+  FRESH ART FAIR Cheltenham 2025 showcases her new work - textiles, ceramics and
+  monographs (hand coloured, collaged with chine collee) - reﬂecting the
+  changing traditions of community on an island in Greece that remains beautiful
+  and captivating in a fast-changing world.
 
 
-  The felted wools and woven fabrics were coloured with natural pigments and
-  minerals from earth and rock, plants and animals, infused with the family song
-  of hard manual work and thrift that underpinned traditional life on the
-  island. SM’s *mement**i*** represent the women, working a fine balance of
-  austerity and creativity - an apron marked with cooking oil, a fragment of
-  blanket darned, and over-darned… Some of the fabrics, heavy with flax like
-  fine chainmail, are over 100 years old. As Sufi food is made with love, so too
-  were the handmade fabrics that brought warmth and joy beyond the practical, a
-  binding together of generations and community.
+  Textiles
 
 
-  From her carefully selected remnants*,* SM creates abstracted landscapes,
-  vignettes of a beloved Greek Isle, that despite modernity in a fast-changing
-  world remains beautiful, captivating and the source of her inspiration. Living
-  six months a year for more than four decades on Kythera, she has observed
-  first-hand how traditions have been displaced by modernity as we know it
-  today, albeit slower in the relative quiet of the islands. She has raised her
-  children, as neighbour and friend to the grandmothers of today and yesteryear
-  who were at the heart of the culture that colours her compositions. Figures
-  depicted in her sculpture series are inspired by the women that she has
-  observed over decades whether collecting and carrying wood, felting, sewing –
-  a harsh life but in harmony with land, creating that family song and pride in
-  the community.
+  **‘*****My stitched paintings have a fragility. I use the same methods of
+  stitch and repair that I ﬁnd on the cloth, with all the faults and
+  imperfections that contribute to the island’s stories, inspiring me to draw
+  their narratives into the present. I impose my own stories whilst always being
+  aware and respectful of the island women who made them. Each piece is a
+  palimpsest - altered, superimposed, recontextualised while still bearing
+  traces of its former use’*****.**
 
 
-  Although she acknowledges Greece to be a matriarchal society at heart, she
-  describes the women as ‘vessels’ whilst simultaneously ‘contained’ within
-  their homes, as much by tradition as by the physicality of the tasks that that
-  coloured their lives. Contemporary life has liberated the younger generation,
-  yet with that freedom so much that has characterized the island and their
-  lives has been lost, and SM sees the narrative unfolding in Kythera as a
-  microcosm of what is happening globally as we advance technologically marching
-  ever faster towards an AI world.
+  Susan Moxley 2025
 
 
-  ***Long Storm*** is a four metre landscape that follows the gathering storm.
-  SM’s stitching captures the movement of the wind increasing in intensity as it
-  spins and dances a path between the houses, across the sky. The geometry of
-  her chosen fabrics speaks of the distinctive architecture of houses that we
-  see in her paintings, coloured by minerals and plants indigenous to the
-  island. The tones echo the sun-bleached whites of the buildings, rust-red
-  earth, and the azure blue of sea and sky. Storms are an increasing phenomenon
-  on Kythera where despite being surrounded by sea, they are short of water.
+  Splitting their time between UK and Greece, Susan and husband Korky Paul, have
+  maintained a home as artists on an Ionian island for more than four decades.
+  Over the years, she has collected old, hand spun yarns and handwoven
+  functional fabrics. Their patinas, stains and darned patches speak of the
+  island’s past austerity when resources were precious and everything was reused
+  and recycled. Traditional weaving methods have long been lost with the
+  post-war migration, commercial development and availability of modern
+  industrially-made textiles. The discarded fabrics that she selects for her
+  ‘textile paintings’ were woven by women on heavy wooden looms from goat and
+  sheep’s wool, ﬂax, cotton and linen that were grown, spun on the island and
+  dyed with natural pigments.
 
 
-  Tripping over a violin case on the street close to home in Oxford, a quiet
-  mecca for world class music, triggered a series of beautiful sculptures that
-  follow on from earlier paintings of the female form. Opening out the case, SM
-  has lined the inside with remnants of handwoven blankets overlaid with
-  hand-stitched wool that delineate the female body - a mellifluous mix of music
-  and form. They are playful, with a distinctly auditory sensibility. Excited by
-  her find, she sourced further casings online.
+  &nbsp;
 
 
-  Long has the hour-glass shape of the violin been associated with the female
-  form, as celebrated by Man Ray’s iconic photograph of the naked woman from
-  behind in ***Violin d’Ingres***. The very naming of parts of the instrument
-  echo female body parts – the cinch of the waist, the neck, rib and belly…
-  Whereas today women and men violinists are celebrated side by side, the
-  playing of the violin has in the past often been considered the domain of men.
-  Although Mozart, celebrated Regina Sacchi commending her highly for her
-  virtuosity, Yehudi Menuhin said that*…* “*The handling and playing of the
-  violin is a process of caress and evocation, of drawing out a sound that
-  awaits the hands of a master”.* Women, particularly in Victorian times, were
-  vilified for playing an instrument that ‘polite society’ thought should be
-  ‘caressed’ by male violinists. (***Note: 1)***
+  While raising her children Susan spent many evenings with older women,
+  learning their crafts and listening to their stories of village life,
+  hardships, song and myth. She stitched these stories into the found fabrics
+  while superimposing her own observations, feelings and artistic experiences,
+  using the found fabrics as her canvas and palate, their repairs, tares and
+  textures as inspiration and her stitched thread as the drawn line.
 
 
-  Doubly enchanting then to see SM’s ceramic nude with notes of Cycladic
-  figurines, in 3D white slab with edges pinched, bisque fired, the
-  ivory-coloured horse hair of the bow running from clavicle to pubic bone.
-  Matisse-like in their simplicity, her sculptures convey the aesthetics of
-  music and beauty, whilst giving voice also to elements of the animal spirits
-  infused into the making of the instruments – cat and sheep gut, horse hair and
-  elephant tusk for the box, the bow strings, and ivory decoration. With goods
-  bound and balanced above, Susan reminds us of the working lives of women of
-  Africa, land of her birth, that celebrate culture whilst reminding us of the
-  basics of subsistence farming and life where the duress of gathering wood and
-  water daily is a reality.
+  &nbsp;
 
 
-  *Note 1 : Emily Hogstad :* Madame Norman-Neruda and a short history of women
-  violinists, Part 1
-  [*https://www.violinist.com/blog/Mle/20106/11325/*](https://www.violinist.com/blog/Mle/20106/11325/)
+  First Storm is a 2m collaged landscape that follows a gathering storm. The
+  work acknowledges the impact of climate change on the island where water is
+  scarce. Susan’s stitching captures the movement of the wind increasing in
+  intensity as it spins and dances a path between the houses, across the sky.
+  The geometry that she creates in her kaleidoscope of chosen fabrics speaks of
+  the distinctive architecture, coloured by the earth’s pigments and ﬂora. The
+  tones echo the sun-bleached whites of the buildings, rust-red earth, and the
+  azure blue of sea and sky.
+
+
+  &nbsp;
+
+
+  During her search for hand woven fabrics, Susan found a discarded violin case.
+  She has lined the case in woollen fabric, the female form, stitched in red
+  thread creates a playful fusion of music and beauty. Her Violin Women are a
+  conduit between the textiles and the ceramics.
+
+
+  &nbsp;
+
+
+  &nbsp;
+
+
+  The connection between Woman and Pithari (vessel) is a recurring theme across
+  Susan’s artistic practice - woman as container, container as woman.
+
+
+  &nbsp;
+
+
+  Susan’s Pitharia in stoneware and terracotta celebrate the simplicity and
+  aesthetic of the ancient Cycladic female forms with their ﬂat planes and
+  geometric shapes that so inspired Picasso. There is an honesty and poise to
+  Susan’s ceramic slab -built, bisque fired and waxed nudes, pared back to the
+  abstract. The beautiful ***Pithari with Minoan Bird*** above, strung with
+  ivory-coloured horse hair of the violin bow from clavicle to pubic bone, is
+  one in a series of Woman as Vessel, while others hint at the weight of women’s
+  daily labours - balancing firewood, bowls, spindles, loom weights, bolts of
+  fabric , and birds.
+
+
+  Text by Jenny Blyth © 2025
+
+
+  &nbsp;
 homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2024-06-14 00:00:00
