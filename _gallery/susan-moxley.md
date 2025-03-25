@@ -144,11 +144,14 @@ images:
   - image_path: /uploads/gallery-images/susan-moxley/jbfa-susan-moxley-melody.jpg
     image_title: ''
     image_description:
-  - image_path: >-
-      /uploads/gallery-images/susan-moxley/jenny-blyth-fine-art-susan-moxley-violin-women-in-blue-1.jpg
+  - image_path: /uploads/gallery-images/susan-moxley/jbfa-susan-moxley-aegean-ii.jpg
     image_title: ''
     image_description:
-  - image_path: /uploads/gallery-images/susan-moxley/jbfa-susan-moxley-aegean-ii.jpg
+  - image_path: /uploads/gallery-images/susan-moxley/jbfa-susan-moxley-hot-sea-i.jpg
+    image_title: ''
+    image_description:
+  - image_path: >-
+      /uploads/gallery-images/susan-moxley/jenny-blyth-fine-art-susan-moxley-violin-women-in-blue-1.jpg
     image_title: ''
     image_description:
   - image_path: /uploads/gallery-images/susan-moxley/aegean-sea-ii-1-4-mb.jpg
@@ -182,6 +185,10 @@ images:
     image_description:
   - image_path: >-
       /uploads/gallery-images/susan-moxley/website-jenny-blyth-fine-art-susan-moxley-pitharia-with-plates.jpg
+    image_title: ''
+    image_description:
+  - image_path: >-
+      /uploads/gallery-images/susan-moxley/chickens-jenny-blyth-fine-art-susan-moxley-when-chickens-fly.jpg
     image_title: ''
     image_description:
 _options:
