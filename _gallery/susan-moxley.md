@@ -117,7 +117,9 @@ images:
   - image_path: >-
       /uploads/gallery-images/susan-moxley/jenny-blyth-fine-art-susan-moxley-allegro-violin.jpg
     image_title: ''
-    image_description:
+    image_description: >-
+      Allegro Violin<br />monograph, hand coloured & collaged with chine colle,
+      unique<br />95 x 90cm<br />&amp;pound; 2500
   - image_path: >-
       /uploads/gallery-images/susan-moxley/jenny-blyth-fine-art-susan-moxley-pianola-1-mb.jpg
     image_title: ''
