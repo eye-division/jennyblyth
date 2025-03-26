@@ -111,7 +111,9 @@ display_title: true
 images:
   - image_path: /uploads/gallery-images/susan-moxley/jbfa-susan-moxley-melody.jpg
     image_title: ''
-    image_description:
+    image_description: >-
+      Melody<br />monograph, hand coloured & collaged with chine colle,
+      unique<br />99 x 73cm<br />&amp;pound; 2150
   - image_path: >-
       /uploads/gallery-images/susan-moxley/jenny-blyth-fine-art-susan-moxley-allegro-violin.jpg
     image_title: ''
