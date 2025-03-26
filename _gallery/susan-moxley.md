@@ -156,8 +156,8 @@ images:
       /uploads/gallery-images/susan-moxley/susan-moxley-sm-violin-woman-in-white-with-minoan-bird-1.jpg
     image_title: Violin Woman with Piebald Bird
     image_description: >-
-      <br />bisque fired black stoneware with white clay dove<br />60 x 25 x
-      14cm<br />&amp;pound; 1500
+      <br />bisque firedstoneware with piebald clay bird<br />60 x 25 x 14cm<br
+      />&amp;pound; 1500
   - image_path: >-
       /uploads/gallery-images/susan-moxley/website-jenny-blyth-fine-art-susan-moxley-pitharia-ii-with-minoan-bird-03.jpg
     image_title: Pitharia with White Dove
@@ -168,8 +168,8 @@ images:
       /uploads/gallery-images/susan-moxley/website-jenny-blyth-fine-art-susan-moxley-pitharia-with-minoan-bird.jpg
     image_title: Violin Woman with Minoan Bird
     image_description: >-
-      <br />bisque fired black stoneware with white clay dove<br />68 x 25 x
-      14cm<br />&amp;pound; 2500
+      <br />bisque fired stoneware with white Minoan bird<br />68 x 25 x 14cm<br
+      />&amp;pound; 2500
   - image_path: >-
       /uploads/gallery-images/susan-moxley/website-jenny-blyth-fine-art-susan-moxley-pitharia-with-sticks.jpg
     image_title: Pitharia with Sticks
@@ -180,8 +180,8 @@ images:
       /uploads/gallery-images/susan-moxley/website-jenny-blyth-fine-art-susan-moxley-pitharia-with-plates.jpg
     image_title: Pitharia with Plates
     image_description: >-
-      <br />bisque fired black stoneware with white clay dove<br />45 x 25 x
-      25cm<br />&amp;pound; 1200
+      <br />bisque firedstoneware with white clay plates<br />45 x 25 x 25cm<br
+      />&amp;pound; 1200
   - image_path: /uploads/gallery-images/susan-moxley/susan-moxley-violin-women-2-1.jpg
     image_title: Violin Woman II
     image_description: >-
