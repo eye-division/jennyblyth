@@ -111,25 +111,37 @@ display_title: true
 images:
   - image_path: /uploads/gallery-images/susan-moxley/jbfa-susan-moxley-melody.jpg
     image_title: ''
-    image_description:
+    image_description: >-
+      Melody<br />monograph, hand coloured & collaged with chine colle,
+      unique<br />99 x 73cm<br />&amp;pound; 2150
   - image_path: >-
       /uploads/gallery-images/susan-moxley/jenny-blyth-fine-art-susan-moxley-allegro-violin.jpg
     image_title: ''
-    image_description:
+    image_description: >-
+      Allegro Violin<br />monograph, hand coloured & collaged with chine colle,
+      unique<br />95 x 90cm<br />&amp;pound; 2500
   - image_path: >-
       /uploads/gallery-images/susan-moxley/jenny-blyth-fine-art-susan-moxley-pianola-1-mb.jpg
     image_title: ''
-    image_description:
+    image_description: >-
+      Pianola<br />monograph, hand coloured & collaged with chine colle,
+      unique<br />98 x 75cm<br />&amp;pound; 2150
   - image_path: >-
       /uploads/gallery-images/susan-moxley/jenny-blyth-fine-art-susan-moxley-violin-women-in-blue-1.jpg
     image_title: ''
-    image_description:
+    image_description: >-
+      Violin Woman I & II<br />monograph, hand coloured & collaged with chine
+      colle, unique<br />Each: 91 x 67cm<br />&amp;pound; 2150 
   - image_path: /uploads/gallery-images/susan-moxley/jbfa-susan-moxley-aegean-ii.jpg
     image_title: ''
-    image_description:
+    image_description: >-
+      Aegean Sea I<br />monograph, hand coloured & collaged with chine colle,
+      unique<br />97 x 60cm<br />&amp;pound; 1500
   - image_path: /uploads/gallery-images/susan-moxley/jbfa-susan-moxley-hot-sea-i.jpg
     image_title: ''
-    image_description:
+    image_description: >-
+      Hot Sea I<br />monograph, hand coloured & collaged with chine colle,
+      unique<br />94 x 7cm<br />&amp;pound; 2150
   - image_path: /uploads/gallery-images/susan-moxley/aegean-sea-ii-1-4-mb.jpg
     image_title: ''
     image_description:
