@@ -123,7 +123,9 @@ images:
   - image_path: >-
       /uploads/gallery-images/susan-moxley/jenny-blyth-fine-art-susan-moxley-pianola-1-mb.jpg
     image_title: ''
-    image_description:
+    image_description: >-
+      Pianola<br />monograph, hand coloured & collaged with chine colle,
+      unique<br />98 x 75cm<br />&amp;pound; 2150
   - image_path: >-
       /uploads/gallery-images/susan-moxley/jenny-blyth-fine-art-susan-moxley-violin-women-in-blue-1.jpg
     image_title: ''
