@@ -134,10 +134,14 @@ images:
       colle, unique<br />Each: 91 x 67cm<br />&amp;pound; 2150 
   - image_path: /uploads/gallery-images/susan-moxley/jbfa-susan-moxley-aegean-ii.jpg
     image_title: ''
-    image_description:
+    image_description: >-
+      Aegean Sea I<br />monograph, hand coloured & collaged with chine colle,
+      unique<br />97 x 60cm<br />&amp;pound; 1500
   - image_path: /uploads/gallery-images/susan-moxley/jbfa-susan-moxley-hot-sea-i.jpg
     image_title: ''
-    image_description:
+    image_description: >-
+      Hot Sea I<br />monograph, hand coloured & collaged with chine colle,
+      unique<br />94 x 7cm<br />&amp;pound; 2150
   - image_path: /uploads/gallery-images/susan-moxley/aegean-sea-ii-1-4-mb.jpg
     image_title: ''
     image_description:
