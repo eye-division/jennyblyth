@@ -110,74 +110,95 @@ main_image_path: /uploads/sm-sm-first-storm-68-x-205-cm.jpg
 display_title: true
 images:
   - image_path: /uploads/gallery-images/susan-moxley/jbfa-susan-moxley-melody.jpg
-    image_title: ''
+    image_title: Melody
     image_description: >-
-      Melody<br />monograph, hand coloured & collaged with chine colle,
-      unique<br />99 x 73cm<br />&amp;pound; 2150
+      <br />monograph, hand coloured & collaged with chine colle, unique<br />99
+      x 73cm<br />&amp;pound; 2150
   - image_path: >-
       /uploads/gallery-images/susan-moxley/jenny-blyth-fine-art-susan-moxley-allegro-violin.jpg
-    image_title: ''
+    image_title: Allegro Violin
     image_description: >-
-      Allegro Violin<br />monograph, hand coloured & collaged with chine colle,
-      unique<br />95 x 90cm<br />&amp;pound; 2500
+      <br />monograph, hand coloured & collaged with chine colle, unique<br />95
+      x 90cm<br />&amp;pound; 2500
   - image_path: >-
       /uploads/gallery-images/susan-moxley/jenny-blyth-fine-art-susan-moxley-pianola-1-mb.jpg
-    image_title: ''
+    image_title: Pianola
     image_description: >-
-      Pianola<br />monograph, hand coloured & collaged with chine colle,
-      unique<br />98 x 75cm<br />&amp;pound; 2150
+      <br />monograph, hand coloured & collaged with chine colle, unique<br />98
+      x 75cm<br />&amp;pound; 2150
   - image_path: >-
       /uploads/gallery-images/susan-moxley/jenny-blyth-fine-art-susan-moxley-violin-women-in-blue-1.jpg
-    image_title: ''
+    image_title: Violin Women I & II
     image_description: >-
-      Violin Woman I & II<br />monograph, hand coloured & collaged with chine
-      colle, unique<br />Each: 91 x 67cm<br />&amp;pound; 2150 
+      <br />monograph, hand coloured & collaged with chine colle, unique<br
+      />Each: 91 x 67cm<br />&amp;pound; 2150 
   - image_path: /uploads/gallery-images/susan-moxley/jbfa-susan-moxley-aegean-ii.jpg
-    image_title: ''
+    image_title: Aegean Sea I
     image_description: >-
-      Aegean Sea I<br />monograph, hand coloured & collaged with chine colle,
-      unique<br />97 x 60cm<br />&amp;pound; 1500
+      <br />monograph, hand coloured & collaged with chine colle, unique<br />97
+      x 60cm<br />&amp;pound; 1500
   - image_path: /uploads/gallery-images/susan-moxley/jbfa-susan-moxley-hot-sea-i.jpg
-    image_title: ''
+    image_title: Hot Sea I
     image_description: >-
-      Hot Sea I<br />monograph, hand coloured & collaged with chine colle,
-      unique<br />94 x 7cm<br />&amp;pound; 2150
+      <br />monograph, hand coloured & collaged with chine colle, unique<br />94
+      x 78cm<br />&amp;pound; 1950
   - image_path: /uploads/gallery-images/susan-moxley/aegean-sea-ii-1-4-mb.jpg
-    image_title: ''
-    image_description:
+    image_title: Aegean Sea II
+    image_description: >-
+      <br />monograph, hand coloured & collaged with chine colle, unique<br />97
+      x 60cm<br />&amp;pound; 1500
   - image_path: /uploads/gallery-images/susan-moxley/jbfa-susan-moxley-summer-storm.jpg
-    image_title: ''
-    image_description:
+    image_title: Orange Storm
+    image_description: >-
+      <br />monograph, hand coloured & collaged with chine colle, unique<br
+      />7i2 x 103cm<br />&amp;pound; 2250
   - image_path: >-
       /uploads/gallery-images/susan-moxley/susan-moxley-sm-violin-woman-in-white-with-minoan-bird-1.jpg
-    image_title:
-    image_description:
+    image_title: Violin Woman with Piebald Bird
+    image_description: >-
+      <br />bisque fired black stoneware with white clay dove<br />60 x 25 x
+      14cm<br />&amp;pound; 1500
   - image_path: >-
       /uploads/gallery-images/susan-moxley/website-jenny-blyth-fine-art-susan-moxley-pitharia-ii-with-minoan-bird-03.jpg
-    image_title: ''
-    image_description:
+    image_title: Pitharia with White Dove
+    image_description: >-
+      <br />bisque fired black stoneware with white clay dove<br />60 x 25 x
+      14cm<br />&amp;pound; 2500
   - image_path: >-
       /uploads/gallery-images/susan-moxley/website-jenny-blyth-fine-art-susan-moxley-pitharia-with-minoan-bird.jpg
-    image_title: Pitharia with Seated Bird
-    image_description:
+    image_title: Violin Woman with Minoan Bird
+    image_description: >-
+      <br />bisque fired black stoneware with white clay dove<br />68 x 25 x
+      14cm<br />&amp;pound; 2500
   - image_path: >-
       /uploads/gallery-images/susan-moxley/website-jenny-blyth-fine-art-susan-moxley-pitharia-with-sticks.jpg
-    image_title: ''
-    image_description:
+    image_title: Pitharia with Sticks
+    image_description: >-
+      <br />bisque fired terracotta with terracotta sticks and hand spun
+      string<br />53 x 43 x 8cm<br />&amp;pound; 1950
   - image_path: >-
       /uploads/gallery-images/susan-moxley/website-jenny-blyth-fine-art-susan-moxley-pitharia-with-plates.jpg
-    image_title: ''
-    image_description:
-  - image_path: /uploads/gallery-images/susan-moxley/violin-case-woman-i-sm.jpg
-    image_title: Violin Woman I
-    image_description:
+    image_title: Pitharia with Plates
+    image_description: >-
+      <br />bisque fired black stoneware with white clay dove<br />45 x 25 x
+      25cm<br />&amp;pound; 1200
+  - image_path: /uploads/gallery-images/susan-moxley/susan-moxley-violin-women-2-1.jpg
+    image_title: Violin Woman II
+    image_description: >-
+      <br />Violin Case lined with vintage handspun, hand woven sheep's wool,
+      vintage thread<br />80 x 50 x 10cm<br />&amp;pound; 1500
   - image_path: >-
       /uploads/gallery-images/susan-moxley/chickens-jenny-blyth-fine-art-susan-moxley-when-chickens-fly.jpg
-    image_title: ''
-    image_description:
+    image_title: When Chickens Fly
+    image_description: >-
+      <br />home spun and hand woven goat hair, sheep’s wool, cotton & linen
+      dyed with natural pigments, flax & thread<br />86 x 135cm<br />&amp;pound;
+      2250
   - image_path: /uploads/gallery-images/susan-moxley/sm-harbour-i-2.jpg
-    image_title:
-    image_description:
+    image_title: Balanced (1 of 4)
+    image_description: >-
+      <br />home spun and hand woven goat hair, sheep’s wool, cotton & linen
+      dyed with natural pigments, & thread <br />70 x 68cm<br />&amp;pound; 
 _options:
   image_path:
     uploads_dir: uploads/gallery-images/:title
