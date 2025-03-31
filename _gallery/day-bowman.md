@@ -251,6 +251,13 @@ images:
       /uploads/day-bowman-marking-out-the-boundaries-5-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm.jpg
     image_title: Marking Out The Boundaries 7
     image_description: <br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; 10,000
+  - image_path: >-
+      /uploads/day-bowman-plashy-place-5-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm-2.jpg
+    image_title: Plashy Places 5
+    image_description: <br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; 7500
+  - image_path: /assets/images/54afe9d0bbf7b.jpg
+    image_title: Refinery 1
+    image_description: <br />oil on canvas<br />200 x 270 cm<br />&amp;pound; 12500
   - image_path: /uploads/db-fortress-4-140-x-150-x-3-cm-2021-dsc-1071.jpg
     image_title: Fortress 4
     image_description: <br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; 10,000
@@ -273,28 +280,21 @@ images:
       <br />oil, charcoal and conte on canvas<br />172 x 200 cm<br
       />&amp;pound;12,500 SOLD
   - image_path: >-
-      /uploads/day-bowman-plashy-place-5-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm-2.jpg
-    image_title: Plashy Places 5
-    image_description: <br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; 7500
-  - image_path: /assets/images/54afe9d0bbf7b.jpg
-    image_title: Refinery 1
-    image_description: <br />oil on canvas<br />200 x 270 cm<br />&amp;pound; 12500
-  - image_path: >-
       /uploads/jbfa-day-bowman-vertial-landscape-7-oil-and-charcoal-on-canvas-35-x-30-x-3-cm.jpg
-    image_title: ''
-    image_description: <br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; 10,000
+    image_title: Vertical 1
+    image_description: '<br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; '
   - image_path: >-
       /uploads/jbfa-day-bowman-vertical-landscape-1-oil-charcoal-and-conte-on-canvas-36-x-30-x-3-cm.jpg
-    image_title: ''
-    image_description: <br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; 10,000
+    image_title: Vertical 2
+    image_description: '<br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; '
   - image_path: >-
       /uploads/jbfa-day-bowman-vertical-landscape-2-oil-charcoal-and-conte-on-canvas-36-x-30-x-3-cm.jpg
-    image_title: ''
-    image_description: <br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; 10,000
+    image_title: Vertical 7
+    image_description: '<br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; '
   - image_path: >-
       /uploads/jbfa-day-bowman-vertical-landscape-8-oil-and-charcoal-on-canvas-35-x-30-x-3-cm.jpg
-    image_title: ''
-    image_description: <br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; 10,000
+    image_title: Vertical 8
+    image_description: '<br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; '
   - image_path: /uploads/day-bowman-footprint.jpg
     image_title: Footprint Study 1
     image_description: >-
