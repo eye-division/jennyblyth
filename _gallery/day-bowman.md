@@ -243,6 +243,18 @@ images:
     image_description: >-
       <br />oil, charcoal and conte on canvas<br />140 x 150 x 4 cm<br
       />&amp;pound; 10,000 
+  - image_path: >-
+      /uploads/jbfa-day-bowman-marking-out-the-boundaries-2-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm.jpg
+    image_title: ''
+    image_description: <br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; 10,000
+  - image_path: >-
+      /uploads/jbfa-day-bowman-marking-out-the-boundaries-5-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm.jpg
+    image_title: ''
+    image_description: <br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; 10,000
+  - image_path: >-
+      /uploads/day-bowman-marking-out-the-boundaries-5-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm.jpg
+    image_title: ''
+    image_description: <br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; 10,000
   - image_path: /uploads/db-fortress-4-140-x-150-x-3-cm-2021-dsc-1071.jpg
     image_title: Fortress 4
     image_description: <br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; 10,000
@@ -276,6 +288,22 @@ images:
     image_description: >-
       <br />oil, charcoal and graphite on cartridge paper<br />20 x 20 cm<br
       />&amp;pound; 275 Each: 4 SOLD 10 remaining
+  - image_path: >-
+      /uploads/jbfa-day-bowman-vertial-landscape-7-oil-and-charcoal-on-canvas-35-x-30-x-3-cm.jpg
+    image_title: ''
+    image_description: <br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; 10,000
+  - image_path: >-
+      /uploads/jbfa-day-bowman-vertical-landscape-1-oil-charcoal-and-conte-on-canvas-36-x-30-x-3-cm.jpg
+    image_title: ''
+    image_description: <br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; 10,000
+  - image_path: >-
+      /uploads/jbfa-day-bowman-vertical-landscape-2-oil-charcoal-and-conte-on-canvas-36-x-30-x-3-cm.jpg
+    image_title: ''
+    image_description: <br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; 10,000
+  - image_path: >-
+      /uploads/jbfa-day-bowman-vertical-landscape-8-oil-and-charcoal-on-canvas-35-x-30-x-3-cm.jpg
+    image_title: ''
+    image_description: <br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; 10,000
 _options:
   image_path:
     width: 1200
