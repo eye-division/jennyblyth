@@ -9,8 +9,13 @@ description_markdown: >-
   **30 Fenchurch Street**, Bishopsgate, City of London EC3 .
 
 
-  **EARTH :** Paintings by Day Bowman. **ANGELS :** Paintings and Drawings by
-  Gerry Judah. Curated by Jenny Blyth for Brookfield Properties.
+  **EARTH :** Paintings by Day Bowman.
+
+
+  **ANGELS :** Paintings and Drawings by Gerry Judah.
+
+
+  Curated by Jenny Blyth for Brookfield Properties.
 
 
   There is a shared polarity in the essence of Day Bowman’s and Gerry Judah’s
@@ -22,22 +27,20 @@ description_markdown: >-
   of climate change and conflict.
 
 
-  Fresh from the studio, **Marking the Boundaries** refers to the controlled
-  burning of moorland to inhibit wildfires that dazzled Day as a child. This
-  series of paintings captures the texture and colours of the moors with strong
-  lines demarcating zones to be burnt where rust-coloured earth, hot flames and
-  the black of charred stubble are set against sky blues. As ever Day brings
-  energy and passion to the canvas finding the poetry within.
+  ***Marking Out the Boundaries*** explore the management of land, the criteria
+  and contentious issues arising around the controlled burning of moorlands to
+  inhibit wild fires, and the marking out of the land for such - the pros and
+  cons of rewilding - how we manage and manipulate the landscape.  Day captures
+  the texture and colours of the moors with strong lines demarcating zones to be
+  burnt where rust-coloured earth, hot flames and the black of charred stubble
+  are set against sky blues. As ever she brings energy and passion to the canvas
+  whilst finding the poetry within.
 
 
-  Day Bowman’s latest work - ***Marking Out The Boundaries 4,5*** and ***6***
-  -are showing in **Earth & Angels** with ***Fortress 4***, and fourteen smaller
-  paintings from the same series.
-
-
-  The first painting in this series ***Swaling 1*** has been placed with several
-  further paintings from this and the previous series in a beautiful collection
-  in Greece by JBFA.
+  Day's work has developed coherently over many years from the wild places on
+  the edge of urbanity in a progression: ***Edgelands, Urban Wastelands, Plashy
+  Places*** and ***Seaside Citadels,*** to borders in ***Marking Out The
+  Boundaries***.
 
 
   **Previous Exhibitions** below with **Jenny Blyth Fine Art** at Carey Blyth
