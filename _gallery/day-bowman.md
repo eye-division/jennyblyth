@@ -249,7 +249,7 @@ images:
     image_description: <br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; 10,000
   - image_path: >-
       /uploads/day-bowman-marking-out-the-boundaries-5-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm.jpg
-    image_title: Marking Out The Boundaries 5
+    image_title: Marking Out The Boundaries 7
     image_description: <br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; 10,000
   - image_path: /uploads/db-fortress-4-140-x-150-x-3-cm-2021-dsc-1071.jpg
     image_title: Fortress 4
@@ -279,11 +279,6 @@ images:
   - image_path: /assets/images/54afe9d0bbf7b.jpg
     image_title: Refinery 1
     image_description: <br />oil on canvas<br />200 x 270 cm<br />&amp;pound; 12500
-  - image_path: /uploads/day-bowman-footprint.jpg
-    image_title: Footprint Study 1
-    image_description: >-
-      <br />oil, charcoal and graphite on cartridge paper<br />20 x 20 cm<br
-      />&amp;pound; 275 Each: 4 SOLD 10 remaining
   - image_path: >-
       /uploads/jbfa-day-bowman-vertial-landscape-7-oil-and-charcoal-on-canvas-35-x-30-x-3-cm.jpg
     image_title: ''
@@ -300,6 +295,11 @@ images:
       /uploads/jbfa-day-bowman-vertical-landscape-8-oil-and-charcoal-on-canvas-35-x-30-x-3-cm.jpg
     image_title: ''
     image_description: <br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; 10,000
+  - image_path: /uploads/day-bowman-footprint.jpg
+    image_title: Footprint Study 1
+    image_description: >-
+      <br />oil, charcoal and graphite on cartridge paper<br />20 x 20 cm<br
+      />&amp;pound; 275 Each: 4 SOLD 10 remaining
 _options:
   image_path:
     width: 1200
