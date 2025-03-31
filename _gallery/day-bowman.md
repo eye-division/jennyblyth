@@ -12,7 +12,7 @@ description_markdown: >-
   Boundaries***.
 
 
-  ***Day Bowman's*** new series of ***Marking Out the Boundaries*** explores the
+  ***Day Bowman’s*** new series of ***Marking Out the Boundaries*** explores the
   management of land, the criteria and contentious issues arising around the
   controlled burning of moorlands to inhibit wild fires, and the marking out of
   the land for such - the pros and cons of rewilding - how we manage and
@@ -287,20 +287,20 @@ images:
       />&amp;pound;12,500 SOLD
   - image_path: >-
       /uploads/jbfa-day-bowman-vertial-landscape-7-oil-and-charcoal-on-canvas-35-x-30-x-3-cm.jpg
-    image_title: Vertical 1
-    image_description: '<br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; '
+    image_title: Vertical Landscape  1
+    image_description: <br />oil on canvas<br />30 x 25 x 3 cm<br />&amp;pound; 800
   - image_path: >-
       /uploads/jbfa-day-bowman-vertical-landscape-1-oil-charcoal-and-conte-on-canvas-36-x-30-x-3-cm.jpg
-    image_title: Vertical 2
-    image_description: '<br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; '
+    image_title: Vertical Landscape 2
+    image_description: <br />oil on canvas<br />30 x 25 x 3 cm<br />&amp;pound; 800
   - image_path: >-
       /uploads/jbfa-day-bowman-vertical-landscape-2-oil-charcoal-and-conte-on-canvas-36-x-30-x-3-cm.jpg
-    image_title: Vertical 7
-    image_description: '<br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; '
+    image_title: Vertical Landscape 7
+    image_description: <br />oil on canvas<br />30 x 25 x 3 cm<br />&amp;pound; 800
   - image_path: >-
       /uploads/jbfa-day-bowman-vertical-landscape-8-oil-and-charcoal-on-canvas-35-x-30-x-3-cm.jpg
-    image_title: Vertical 8
-    image_description: '<br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; '
+    image_title: Vertical Landscape 8
+    image_description: <br />oil on canvas<br />30 x 25 x 3 cm<br />&amp;pound; 800
   - image_path: /uploads/day-bowman-footprint.jpg
     image_title: Footprint Study 1
     image_description: >-
