@@ -3,11 +3,10 @@ title: Day Bowman
 surname: Bowman
 currentshow: true
 description_markdown: >-
-  **Currently Showing until 14 February 2025 :**
+  **October 2024 - March 2025 : EARTH & ANGELS**
 
 
-  **EARTH & ANGELS** at **30 Fenchurch Street**, Bishopsgate, City of London EC3
-  .
+  **30 Fenchurch Street**, Bishopsgate, City of London EC3 .
 
 
   **EARTH :** Paintings by Day Bowman. **ANGELS :** Paintings and Drawings by
@@ -39,9 +38,6 @@ description_markdown: >-
   The first painting in this series ***Swaling 1*** has been placed with several
   further paintings from this and the previous series in a beautiful collection
   in Greece by JBFA.
-
-
-  &nbsp;
 
 
   **Previous Exhibitions** below with **Jenny Blyth Fine Art** at Carey Blyth
@@ -245,15 +241,15 @@ images:
       />&amp;pound; 10,000 
   - image_path: >-
       /uploads/jbfa-day-bowman-marking-out-the-boundaries-2-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm.jpg
-    image_title: ''
+    image_title: Marking Out The Boundaries 2
     image_description: <br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; 10,000
   - image_path: >-
       /uploads/jbfa-day-bowman-marking-out-the-boundaries-5-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm.jpg
-    image_title: ''
+    image_title: Marking Out The Boundaries 5
     image_description: <br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; 10,000
   - image_path: >-
       /uploads/day-bowman-marking-out-the-boundaries-5-oil-charcoal-and-conte-on-canvas-140-x-150-x-3-cm.jpg
-    image_title: ''
+    image_title: Marking Out The Boundaries 5
     image_description: <br />oil on canvas<br />140 x 150 x 4cm<br />&amp;pound; 10,000
   - image_path: /uploads/db-fortress-4-140-x-150-x-3-cm-2021-dsc-1071.jpg
     image_title: Fortress 4
