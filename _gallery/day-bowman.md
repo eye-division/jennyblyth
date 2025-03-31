@@ -3,6 +3,25 @@ title: Day Bowman
 surname: Bowman
 currentshow: true
 description_markdown: >-
+  **EXHIBITIONS & NEW WORK**
+
+
+  Day’s work has developed coherently over years exploring the wild places on
+  the edge of urbanity in a progression from ***Edgelands, Urban Wastelands,
+  Plashy Places*** and ***Seaside Citadels,*** to borders in ***Marking Out The
+  Boundaries***.
+
+
+  ***Day Bowman's*** new series of ***Marking Out the Boundaries*** explores the
+  management of land, the criteria and contentious issues arising around the
+  controlled burning of moorlands to inhibit wild fires, and the marking out of
+  the land for such - the pros and cons of rewilding - how we manage and
+  manipulate the landscape. Day captures the texture and colours of the moors
+  with strong lines demarcating zones to be burnt where rust-coloured earth, hot
+  flames and the black of charred stubble are set against sky blues. As ever she
+  brings energy and passion to the canvas whilst finding the poetry within.
+
+
   **October 2024 - March 2025 : EARTH & ANGELS**
 
 
@@ -25,22 +44,6 @@ description_markdown: >-
   score and scorch the Earth in **Marking Out The Boundaries** are set against
   high blue skies, whilst Gerry’s ethereal white **Angels** capture the ravages
   of climate change and conflict.
-
-
-  ***Marking Out the Boundaries*** explore the management of land, the criteria
-  and contentious issues arising around the controlled burning of moorlands to
-  inhibit wild fires, and the marking out of the land for such - the pros and
-  cons of rewilding - how we manage and manipulate the landscape.  Day captures
-  the texture and colours of the moors with strong lines demarcating zones to be
-  burnt where rust-coloured earth, hot flames and the black of charred stubble
-  are set against sky blues. As ever she brings energy and passion to the canvas
-  whilst finding the poetry within.
-
-
-  Day's work has developed coherently over many years from the wild places on
-  the edge of urbanity in a progression: ***Edgelands, Urban Wastelands, Plashy
-  Places*** and ***Seaside Citadels,*** to borders in ***Marking Out The
-  Boundaries***.
 
 
   **Previous Exhibitions** below with **Jenny Blyth Fine Art** at Carey Blyth
