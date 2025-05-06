@@ -3,7 +3,7 @@ title: Jenny Blyth
 surname: Blyth
 currentshow: true
 description_markdown: >-
-  ####  Across the Meadow and Beyond
+  #### Across the Meadow and Beyond
 
 
   #### 5 January – 14 February 2025
@@ -119,82 +119,79 @@ images:
     image_title: 'Raasay & Skye Across Applecross Bay '
     image_description: >-
       Digital Print in pigmented inks onto archival cotton rag paper<br />50 x
-      60 cm<br />&amp;pound;195 unframed. Limited Edition.
+      60 cm<br />&amp;pound; POE unframed. Limited Edition. 
   - image_path: /uploads/sea-grasses-applecross-bay.jpg
     image_title: Sea Grasses, Applecross Bay
     image_description: >-
       Digital Print in pigmented inks onto archival cotton rag paper<br />50 x
-      60 cm<br />&amp;pound;195 unframed. Limited Edition.
+      60 cm<br />&amp;pound; POE unframed. Limited Edition.
   - image_path: /uploads/towards-the-inner-sound-from-sand-bay.jpg
     image_title: Towards the Inner Sound from Sand Bay 2018
     image_description: >-
       Digital Print in pigmented inks onto archival cotton rag paper<br />50 x
-      60 cm<br />&amp;pound;195  Limited Edition of 12.
+      60 cm<br />&amp;pound; POE  Limited Edition.
   - image_path: /assets/images/5925ee2ab3ab6.jpg
     image_title: Flight Downstream
     image_description: >-
       Flight Downstream7<br />Digital Print in pigmented inks on archival
-      paper<br />40 x 50 cm<br />&amp;pound;195 unframed. Limited Edition.
+      paper<br />40 x 50 cm<br />&amp;pound;POE unframed. Limited Edition.
   - image_path: /assets/images/591eef6cdc862.jpg
     image_title: Walnut Spinney, Winter
     image_description: >-
       The Walnut Spinney - Snowscape <br />Photograph printed in pigmented inks
-      on cotton rag paper<br />60 x 50 cm<br />&amp;pound;195 unframed. Limited
+      on cotton rag paper<br />60 x 50 cm<br />&amp;pound;POE unframed. Limited
       Edition.
   - image_path: /assets/images/5925eefb6ff61.jpg
     image_title: Lime Trees, Snowscape, 2016
     image_description: >-
       Lime Trees, Snowscape, 2016<br />Photograph printed in pigmented inks on
-      cotton rag paper<br />40 x 50 cm<br />&amp;pound;175 Limited Edition of
-      25.
+      cotton rag paper<br />40 x 50 cm<br />&amp;pound;POE Limited Edition.
   - image_path: /assets/images/5925f0d5b1c84.jpg
     image_title: Morning Mist
     image_description: >-
       Morning Mist over The Thames<br />Photograph printed in pigmented inks on
-      cotton rag paper<br />40 x 50 cm<br />&amp;Acirc;&amp;pound;195 unframed.
+      cotton rag paper<br />40 x 50 cm<br />&amp;Acirc;&amp;pound;POE unframed.
       Limited Edition.
   - image_path: /assets/images/5925ebab9e529.jpg
     image_title: Flood Plains, 2016
     image_description: >-
       Flood Plains, 2016<br />Photograph printed in pigmented inks on cotton rag
-      paper<br />50 x 40 cm<br />&amp;pound;175  Limited Edition of 25
+      paper<br />50 x 40 cm<br />&amp;pound;POE  Limited Edition
   - image_path: /assets/images/591ef21d9b28e.jpg
     image_title: Summer Storm, May, 2015
     image_description: >-
       Summer Storm, May, 2015<br />Photograph printed in pigmented inks on
-      cotton rag paper<br />40 z 50 cm<br />&amp;pound;175  Limited Edition of
-      25
+      cotton rag paper<br />40 z 50 cm<br />&amp;pound;POE  Limited Edition
   - image_path: /assets/images/5925f01bf1d2c.jpg
     image_title: The Golden Thread, 2016
     image_description: >-
       The Golden Thread, 2016<br />Photograph printed in pigmented inks on
-      cotton rag paper<br />40 x 50 cm<br />&amp;pound;175 Limited Edition of 25
+      cotton rag paper<br />40 x 50 cm<br />&amp;pound;POE Limited Edition
   - image_path: /assets/images/591ef3b5b0a74.jpg
     image_title: Apollo Presides, Ashmolean, 2017
     image_description: >-
       Apollo Presides, Ashmolean, 2017<br />Photograph printed in pigmented inks
-      on cotton rag paper<br />40 x 50 cm<br />&amp;pound;175 Limited Edition of
-      25
+      on cotton rag paper<br />40 x 50 cm<br />&amp;pound;POE Limited Edition
   - image_path: /uploads/Reflections 4.JPG
     image_title: Reflections II, Rust & Blue 2018
     image_description: >-
       Photograph printed in pigmented inks onto archival cotton rag paper<br
-      />50 x 60 cm<br />&amp;pound;195  Limited Edition of 12.
+      />50 x 60 cm<br />&amp;pound;POE  Limited Edition.
   - image_path: /uploads/Reflections 2.JPG
     image_title: Reflections VIII, Moon in Blue 2018
     image_description: >-
       Photograph printed in pigmented inks onto archival cotton rag paper<br
-      />50 x 60 cm<br />&amp;pound;195  Limited Edition of 12.
+      />50 x 60 cm<br />&amp;pound;POE  Limited Edition.
   - image_path: /uploads/Reflection%203.JPG
     image_title: 'Reflections V : Clouds & Bars, 2018'
     image_description: >-
       Photograph printed in pigmented inks onto archival cotton rag paper<br
-      />50 x 60 cm<br />&amp;pound;195  Limited Edition of 12.
+      />50 x 60 cm<br />&amp;pound;POE  Limited Edition.
   - image_path: /uploads/Reflections%201.JPG
     image_title: 'Reflections X : Tree Houses 2018'
     image_description: >-
       Photograph printed in pigmented inks onto archival cotton rag paper<br
-      />&amp;pound;195  Limited Edition of 12.
+      />&amp;pound;POE  Limited Edition.
   - image_path:
     image_title:
     image_description:
