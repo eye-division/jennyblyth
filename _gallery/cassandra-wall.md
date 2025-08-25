@@ -1,6 +1,6 @@
 ---
 title: Cassandra Wall
-surname: Wall
+surname: WALL
 currentshow: true
 description_markdown: >-
   **Drinking Down The Light : 5 - 25 September 2025**
