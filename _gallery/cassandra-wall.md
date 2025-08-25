@@ -3,15 +3,15 @@ title: Cassandra Wall
 surname: Wall
 currentshow: true
 description_markdown: >-
-  **Cassandra Wall** will be showing new work at **The Sewell Gallery,
-  Oxfordshire** OX14  2HR in **September 2025** curated by Jenny Blyth.
+  **Drinking Down The Light : 5 - 25 September 2025**
+
+
+  **Cassandra Wall** showing textiles at **The Sewell Gallery, Radley College,
+  Oxfordshire** OX14  2HR, curated by Jenny Blyth.
 
 
   **Opening : Friday 5 September from 6-8 pm** : You are warmly welcome: 
   **RSVP**: jennyblythart@gmail.com
-
-
-  Drinking Down The Light
 
 
   Text by Jenny Blyth © 2025
@@ -120,16 +120,15 @@ description_markdown: >-
   melts into the blue of waters below.
 
 
-  **SNOW INTO WATER** Curated by Jenny Blyth
+  Previous Exhibitions :
 
 
-  **Textile Paintings by Cassandra WALL and paintings by Chloe FREMANTLE**
+  **SNOW INTO WATER**
 
 
-  for The North Wall Arts Centre, Oxford OX2 7JN
-
-
-  29 September - 10 October 2020
+  **Textile Paintings by Cassandra WALL and paintings by Chloe FREMANTLE** 
+  curated by Jenny Blyth for The North Wall Arts Centre, Oxford OX2 7JN : 29
+  September - 10 October 2020
 homepage_description_markdown: ''
 frontpage: true
 gallery_date:
