@@ -4,7 +4,84 @@ surname: Wall
 currentshow: true
 description_markdown: >-
   **Cassandra Wall** will be showing new work at **The Sewell Gallery,
-  Oxordshire** in **September 2025** curated by Jenny Blyth Fine Art.
+  Oxfordshire** OX14  2HR in **September 2025** curated by Jenny Blyth.
+
+
+  **Opening : Friday 5 September from 6-8 pm** : You are warmly welcome: 
+  **RSVP**: jennyblythart@gmail.com
+
+
+  Drinking Down The Light
+
+
+  Text by Jenny Blyth © 2025
+
+
+  *‘When I think of art, I think of beauty. Beauty is the mystery of life. It is
+  not in the eye, it is in the mind. In our minds there is awareness of
+  perfection’.*  Agnes Martin
+
+
+  Cassandra Wall composes moments in the landscape through colour and
+  patterning.  Her textile ‘paintings’ are hand-stitched patchwork in cottons,
+  colour-matched to her subject.  Although Cassandra acknowledges the origins of
+  patchwork created out of thrift by women pioneers of 19th century America, her
+  muses are contemporary Twentieth Century painters such as Agnes Martin, whose
+  beautiful abstract expressionist paintings such as Drift of Summer celebrated
+  the vast open spaces of the Saskatchewan prairies of her childhood. Also Anni
+  Albers, pioneer of textile art and design, whose inspirations ranged from
+  pre-Columbian art to Bauhaus.
+
+
+  Inspiration considered, Cassandra’s intention is founded in her Buddhist
+  practice of 30 years.  Celebrating nature and moments in the landscape has
+  been the path for her in finding that quiet limitless space that we associate
+  with meditation. The multiplicity of repetition in her patterning and use of
+  colour impart a sense of oneness and inner calm that we seek from the natural
+  world.
+
+
+  Whether it is the shimmer of light on turquoise seas, or blossom falling in
+  Spring, Cassandra’s textiles articulate a certain nuance of light, colour and
+  mood.  Drinking Down the Light recreates the half-light of dusk over a Greek
+  harbour infused with the indigos and lapiz blues of twilight. There is poetry
+  and balm in her abstractions.  Upflight captures the flutter of wings as doves
+  take flight, their feathers dusty pink and buff. Her tessellations are complex
+  - snowflakes falling silently in Snow into Water - as whites give way to
+  midnight blues.  Her Autumn Hedgerow is flush with damsons, sloes and
+  rosehips.
+
+
+  Cassandra’s working process involves an initial response to the landscape
+  collaged from torn, hand-coloured and sourced papers juxtaposed. Her paper
+  studies are figurative but inform the colour and rhythm of her textile
+  abstractions.  These collages are stand-alone art works, but exhibited
+  together with the ensuing textile, they make a beautiful pairing and a portal,
+  one to the other.
+
+
+  Dungeness: Summer and Winter is a seasonal depiction of Derek Jarman’s
+  Prospect Cottage on the longshore drift on the South East Coast where the
+  tides pile up and wash away the shingle, re-sculpting the littoral shoreline. 
+  Stitched to create a quadrant of seasonality - the garden in summer is joyous
+  in colour and form, set against the pared back winter landscape with ocean
+  waves rolling in from The Channel.  Cassandra’s collaged study captures the
+  outlook from a small cottage on the shingle of life, Jarman’s retreat during
+  his final years. Her ‘textile painting’ celebrates both the fisherman’s shed
+  ‘as was’, tarred in black with Jarman’s distinctive yellow window frames - and
+  the beautiful ‘boundless’ garden that he planted with native flints, flowers
+  and marine shrubs.  One can appreciate how his garden ‘without borders’
+  resonates with Cassandra’s Buddhist practice where ‘form and void are one and
+  the same’.
+
+
+  In addition to a profound love of British landscape, from Heather Hills in the
+  Peak District, to the Moon Tide series on the longshore drift of the Suffolk
+  coast, Cassandra Wall has for decades explored Greece, capturing the magic of
+  these ‘Islands of the Gods’ from Light on Grecian Seas, Ionian Islands to
+  Dhodhekanisos, Sunset. Her textiles are experiential. They read as paintings,
+  and thus we are able to share her moments in the landscape and immerse
+  ourselves in the beauty of the world around us.
 
 
   **Snow Into Water** **2020** featured textile landscapes (figurative &
