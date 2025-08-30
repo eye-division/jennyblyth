@@ -258,9 +258,12 @@ images:
   - image_path: ''
     image_title: ''
     image_description: ''
-  - image_path: /uploads/dsc-2125.jpg
-    image_title: ''
-    image_description: ''
+  - image_path: /uploads/dsc-2063.jpg
+    image_title: Drinking Down The Light
+    image_description: |-
+      Drinking Down The Light
+      handstitched textile in cottons - sourced, vintage, tea-dyed 
+      41 x 41 cm (white wood tray frame)
   - image_path: /uploads/heather-hills.jpg
     image_title:
     image_description: >-
