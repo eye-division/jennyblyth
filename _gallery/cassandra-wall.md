@@ -250,11 +250,11 @@ images:
       Upflight, Doves
       handstitched textile in cottons - sourced, vintage, tea-dyed 
       55 x 81 cm (white wood tray frame)
-  - image_path: /uploads/dsc-2072.jpg
-    image_title: Grecian Blues
+  - image_path: /uploads/dsc-2101.jpg
+    image_title: Symi Siesta
     image_description: |-
-      Grecian Blues
-      handstitched textile in cottons - sourced, vintage, tea-dyed 
+      Symi Siesta
+      collaged in torn papers, sourced and hand coloured
       43 x 37 cm (white wood tray frame)
   - image_path: ''
     image_title:
