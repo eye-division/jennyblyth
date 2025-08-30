@@ -191,13 +191,12 @@ images:
       Dungeness: Summer & Winter, (Derek Jarman's Prospect Cottage) 
       handstitched textile in cottons - sourced, vintage, tea-dyed 
       100 x 100 cm (white wood tray frame)
-  - image_path: /uploads/prospect-cottage-collage.jpg
-    image_title:
-    image_description: >
-      Prospect Cottage, Dungeness, torn paper 31 x 20.5 cm (white wood tray
-      frame) 
-
-      SOLD
+  - image_path: /uploads/view-from-prospect-cottage.jpeg
+    image_title: View From Prospect Cottage across the Longshore Drift
+    image_description: |-
+      Symi Siesta
+      collaged in torn papers, sourced and hand coloured
+      27 x 29 cm (white wood tray frame)
   - image_path: /uploads/hastings-shed.jpg
     image_title:
     image_description: >-
