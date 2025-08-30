@@ -256,9 +256,12 @@ images:
       Symi Siesta
       collaged in torn papers, sourced and hand coloured
       43 x 37 cm (white wood tray frame)
-  - image_path: ''
-    image_title:
-    image_description: ''
+  - image_path: /uploads/dsc-2128.jpg
+    image_title: Dhodhekanisos Bay
+    image_description: |-
+      Dhodhekanisos Bay
+      collaged in torn papers, sourced and hand coloured
+      43 x 37 cm (white wood tray frame)
   - image_path: ''
     image_title:
     image_description: ''
