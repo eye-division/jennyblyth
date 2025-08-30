@@ -288,9 +288,9 @@ images:
       handstitched textile in cottons - sourced, vintage, tea-dyed
       80 x 60 cm (white wood tray frame) 
   - image_path: /uploads/dsc-2060-1.jpg
-    image_title: Sunset Hour
+    image_title: Sundowner - Cocktail Hour
     image_description: |-
-      Sunset Hour
+      Sundowner - Cocktail Hour
       handstitched textile in cottons - sourced, vintage, tea-dyed
       80 x 60 cm (white wood tray frame) 
 _options:
