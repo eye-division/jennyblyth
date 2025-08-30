@@ -224,12 +224,12 @@ images:
     image_description: >-
       Greek Seas, Morning, handstitched textile in cottons - sourced, vintage,
       tea-dyed, 49 x 50 cm (white wood tray frame) 
-  - image_path: /uploads/dsc-2060.jpg
-    image_title: Greek Seas Study
+  - image_path: /uploads/dsc-2094.jpg
+    image_title: Drinking Down The Light Study
     image_description: |-
-      Sunset Hour, Greece
-      handstitched textile in cottons - sourced, vintage, tea-dyed 
-      41 x 41 cm (white wood tray frame)
+      Drinking Down The Light Study
+      collaged in torn papers, sourced and hand coloured
+      34 x 29 cm (white wood tray frame)
   - image_path: /uploads/silver-birch.jpg
     image_title:
     image_description: >-
