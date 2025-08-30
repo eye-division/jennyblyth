@@ -282,11 +282,11 @@ images:
       handstitched textile in cottons - sourced, vintage, tea-dyed 
       90 x 90 cm (white wood tray frame)
   - image_path: /uploads/dsc-1893.jpg
-    image_title: Backlit Spring
+    image_title: Golden Birch
     image_description: |-
-      Backlit Spring
+      Golden Birch
       handstitched textile in cottons - sourced, vintage, tea-dyed
-      80 x 60 cm (white wood tray frame) 
+      68 x 54 cm (white wood tray frame) 
   - image_path: /uploads/dsc-2060-1.jpg
     image_title: Sundowner - Cocktail Hour
     image_description: |-
