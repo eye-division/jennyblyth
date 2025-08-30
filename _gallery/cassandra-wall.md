@@ -250,9 +250,12 @@ images:
       Upflight, Doves
       handstitched textile in cottons - sourced, vintage, tea-dyed 
       55 x 81 cm (white wood tray frame)
-  - image_path: ''
-    image_title:
-    image_description: ''
+  - image_path: /uploads/dsc-2072.jpg
+    image_title: Grecian Blues
+    image_description: |-
+      Grecian Blues
+      handstitched textile in cottons - sourced, vintage, tea-dyed 
+      43 x 37 cm (white wood tray frame)
   - image_path: ''
     image_title:
     image_description: ''
