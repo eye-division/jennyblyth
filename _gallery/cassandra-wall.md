@@ -244,6 +244,21 @@ images:
       frame) 
 
       SOLD
+  - image_path: /uploads/dsc-2041.jpg
+    image_title: Upflight, Doves
+    image_description: |-
+      Upflight, Doves
+      handstitched textile in cottons - sourced, vintage, tea-dyed 
+      55 x 81 cm (white wood tray frame)
+  - image_path: ''
+    image_title:
+    image_description: ''
+  - image_path: ''
+    image_title:
+    image_description: ''
+  - image_path: ''
+    image_title:
+    image_description: ''
 _options:
   image_path:
     width: 1200
