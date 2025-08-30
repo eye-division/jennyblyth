@@ -249,10 +249,11 @@ images:
       handstitched textile in cottons - sourced, vintage, tea-dyed
       80 x 60 cm (white wood tray frame) 
   - image_path: /uploads/dsc-1860-1.jpg
-    image_title:
-    image_description: >-
-      Sun Through The Woods, collage in torn paper 44 x 38 cm (white wood tray
-      frame) 
+    image_title: Backlit Spring
+    image_description: |-
+      Backlit Spring
+      handstitched textile in cottons - sourced, vintage, tea-dyed
+      68 x 54 cm (white wood tray frame) 
   - image_path: /uploads/spring.jpg
     image_title:
     image_description: >-
@@ -283,10 +284,8 @@ images:
       90 x 90 cm (white wood tray frame)
   - image_path: /uploads/dsc-1893.jpg
     image_title: Golden Birch
-    image_description: |-
+    image_description: |
       Golden Birch
-      handstitched textile in cottons - sourced, vintage, tea-dyed
-      68 x 54 cm (white wood tray frame) 
   - image_path: /uploads/dsc-2060-1.jpg
     image_title: Sundowner - Cocktail Hour
     image_description: |-
