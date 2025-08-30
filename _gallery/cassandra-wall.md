@@ -238,9 +238,12 @@ images:
       Moon Tide - Spring
       handstitched textile in cottons - sourced, vintage, tea-dyed 
       72 x 72 cm (white wood tray frame)
-  - image_path: ''
-    image_title: ''
-    image_description: ''
+  - image_path: /uploads/dsc-2019.jpg
+    image_title: Moon Tide - Summer
+    image_description: |-
+      Moon Tide - Summer
+      handstitched textile in cottons - sourced, vintage, tea-dyed 
+      72 x 72 cm (white wood tray frame)
 _options:
   image_path:
     width: 1200
