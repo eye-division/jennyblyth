@@ -220,17 +220,8 @@ images:
       frame) 
 
       SOLD
-  - image_path: ''
-    image_title:
-    image_description: ''
-  - image_path: ''
-    image_title:
-    image_description: ''
-  - image_path: ''
-    image_title:
-    image_description: ''
-  - image_path: ''
-    image_title:
+  - image_path: /uploads/dsc-2024-copy-1.jpg
+    image_title: Moon Tide - Autumn
     image_description: ''
 _options:
   image_path:
