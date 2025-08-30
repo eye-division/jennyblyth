@@ -255,10 +255,11 @@ images:
       handstitched textile in cottons - sourced, vintage, tea-dyed
       68 x 54 cm (white wood tray frame) 
   - image_path: /uploads/spring.jpg
-    image_title:
-    image_description: >-
-      Spring: Impressionist Gardens, handstitched textile in cottons -sourced,
-      vintage, tea-dyed, 52 x 49 cm (white wood tray frame)
+    image_title: 'Impressionist Gardens, Spring '
+    image_description: |-
+      Impressionist Gardens, Spring
+      handstitched textile in cottons -sourced, vintage, tea-dyed
+      52 x 49 cm (white wood tray frame)
   - image_path: /uploads/autumn-hedges.jpg
     image_title:
     image_description: >-
