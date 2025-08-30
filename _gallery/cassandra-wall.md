@@ -220,6 +220,18 @@ images:
       frame) 
 
       SOLD
+  - image_path: /uploads/dsc-2024-copy-2.jpg
+    image_title: Moon Tide - Autumn
+    image_description: |-
+      Moon Tide - Autumn
+      handstitched textile in cottons - sourced, vintage, tea-dyed 
+      72 x 72 cm (white wood tray frame)
+  - image_path: /uploads/dsc-2021-2.jpg
+    image_title: Moon Tide - Winter
+    image_description: |-
+      Moon Tide - Winter
+      handstitched textile in cottons - sourced, vintage, tea-dyed 
+      72 x 72 cm (white wood tray frame)
 _options:
   image_path:
     width: 1200
