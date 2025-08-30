@@ -231,11 +231,6 @@ images:
   - image_path: /uploads/greek-seas-2.jpg
     image_title:
     image_description: Greek Seas (2), collage in torn paper 31 x 20.5 cm (white wood tray frame)
-  - image_path: /uploads/greek-sunsets.jpg
-    image_title:
-    image_description: >-
-      Sunset Islands (Dodecanese), handstitched textile in cottons - sourced,
-      vintage, tea-dyed, 49 x 50 cm (white wood tray frame) 
   - image_path: /uploads/silver-birch.jpg
     image_title:
     image_description: >-
@@ -263,6 +258,18 @@ images:
       frame) 
 
       SOLD
+  - image_path: /uploads/dsc-2118.jpg
+    image_title: Cherry Blossom
+    image_description: |-
+      Cherry Blossom
+      collaged in torn papers, sourced and hand coloured
+      34 x 29 cm (white wood tray frame)
+  - image_path: /uploads/dsc-2031.jpg
+    image_title: Moon Water
+    image_description: |-
+      Moon Water
+      handstitched textile in cottons - sourced, vintage, tea-dyed 
+      90 x 90 cm (white wood tray frame)
 _options:
   image_path:
     width: 1200
