@@ -269,9 +269,12 @@ images:
       Cherry Blossom
       collaged in torn papers, sourced and hand coloured
       34 x 29 cm (white wood tray frame)
-  - image_path: ''
-    image_title:
-    image_description: ''
+  - image_path: /uploads/dsc-2031.jpg
+    image_title: Moon Water
+    image_description: |-
+      Moon Water
+      handstitched textile in cottons - sourced, vintage, tea-dyed 
+      90 x 90 cm (white wood tray frame)
 _options:
   image_path:
     width: 1200
