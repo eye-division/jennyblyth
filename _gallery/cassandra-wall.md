@@ -281,10 +281,16 @@ images:
       Moon Water
       handstitched textile in cottons - sourced, vintage, tea-dyed 
       90 x 90 cm (white wood tray frame)
-  - image_path: /uploads/dsc-1860.jpg
+  - image_path: /uploads/dsc-1893.jpg
     image_title: Backlit Spring
     image_description: |-
       Backlit Spring
+      handstitched textile in cottons - sourced, vintage, tea-dyed
+      80 x 60 cm (white wood tray frame) 
+  - image_path: /uploads/dsc-2060-1.jpg
+    image_title: Sunset Hour
+    image_description: |-
+      Sunset Hour
       handstitched textile in cottons - sourced, vintage, tea-dyed
       80 x 60 cm (white wood tray frame) 
 _options:
