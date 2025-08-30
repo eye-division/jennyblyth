@@ -256,9 +256,12 @@ images:
     image_description: >-
       Sun Through The Woods, collage in torn paper 44 x 38 cm (white wood tray
       frame) 
-  - image_path: ''
-    image_title: ''
-    image_description: ''
+  - image_path: /uploads/dsc-2125-2.jpg
+    image_title: Ionian Bay
+    image_description: |-
+      Ionian Bay
+      collaged in torn papers, sourced and hand coloured
+      34 x 29 cm (white wood tray frame)
   - image_path: /uploads/heather-hills.jpg
     image_title:
     image_description: >-
