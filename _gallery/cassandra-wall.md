@@ -219,6 +219,11 @@ images:
       Cherry Blossom
       collaged in torn papers, sourced and hand coloured
       34 x 29 cm (white wood tray frame)
+  - image_path: /uploads/silver-birch.jpg
+    image_title:
+    image_description: >-
+      Snow Falls on Copper Waters, handstitched textile in cottons - sourced,
+      vintage, tea-dyed, 49 x 50 cm (white wood tray frame) 
   - image_path: /uploads/autumn-hedges.jpg
     image_title:
     image_description: >-
@@ -234,14 +239,12 @@ images:
     image_description: >-
       Greek Seas, Morning, handstitched textile in cottons - sourced, vintage,
       tea-dyed, 49 x 50 cm (white wood tray frame) 
-  - image_path: /uploads/greek-seas-2.jpg
-    image_title:
-    image_description: Greek Seas (2), collage in torn paper 31 x 20.5 cm (white wood tray frame)
-  - image_path: /uploads/silver-birch.jpg
-    image_title:
-    image_description: >-
-      Snow Falls on Copper Waters, handstitched textile in cottons - sourced,
-      vintage, tea-dyed, 49 x 50 cm (white wood tray frame) 
+  - image_path: /uploads/dsc-2125-1.jpg
+    image_title: Greek Seas Study
+    image_description: |-
+      Greek Seas
+      collage in torn paper 
+      31 x 20 cm (white wood tray frame)
   - image_path: /uploads/autumn-woodland-2.jpg
     image_title:
     image_description: >-
@@ -270,6 +273,9 @@ images:
       Moon Water
       handstitched textile in cottons - sourced, vintage, tea-dyed 
       90 x 90 cm (white wood tray frame)
+  - image_path: /uploads/dsc-2125.jpg
+    image_title: ''
+    image_description: ''
 _options:
   image_path:
     width: 1200
