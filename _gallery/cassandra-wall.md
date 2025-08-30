@@ -137,6 +137,30 @@ archive: false
 main_image_path: /uploads/cassandra-wall-prospect-cottage.jpg
 display_title: true
 images:
+  - image_path: /uploads/dsc-2024-copy-2.jpg
+    image_title: Moon Tide - Autumn
+    image_description: |-
+      Moon Tide - Autumn
+      handstitched textile in cottons - sourced, vintage, tea-dyed 
+      72 x 72 cm (white wood tray frame)
+  - image_path: /uploads/dsc-2021-2.jpg
+    image_title: Moon Tide - Winter
+    image_description: |-
+      Moon Tide - Winter
+      handstitched textile in cottons - sourced, vintage, tea-dyed 
+      72 x 72 cm (white wood tray frame)
+  - image_path: /uploads/dsc-2026.jpg
+    image_title: Moon Tide - Spring
+    image_description: |-
+      Moon Tide - Spring
+      handstitched textile in cottons - sourced, vintage, tea-dyed 
+      72 x 72 cm (white wood tray frame)
+  - image_path: /uploads/dsc-2019.jpg
+    image_title: Moon Tide - Summer
+    image_description: |-
+      Moon Tide - Summer
+      handstitched textile in cottons - sourced, vintage, tea-dyed 
+      72 x 72 cm (white wood tray frame)
   - image_path: /uploads/cassandra-wall-prospect-cottage.jpg
     image_title:
     image_description: |-
@@ -160,16 +184,16 @@ images:
     image_description: >-
       Walberswick, handstitched textile in cottons - sourced, vintage, tea-dyed
       - 189 x 169 cm  (white wood tray frame)
-  - image_path: /uploads/snow-into-water.jpg
-    image_title:
-    image_description: >-
-      Snow Into Water, handstitched textile in cottons - sourced, vintage,
-      tea-dyed, 100 x 100 cm (white wood tray frame)  SOLD
   - image_path: /uploads/cherry-blossom.jpg
     image_title:
     image_description: >-
       Blossom Falling, handstitched textile in cottons - sourced, vintage,
       tea-dyed, 61 x 62 cm (white wood tray frame) 
+  - image_path: /uploads/snow-into-water.jpg
+    image_title:
+    image_description: >-
+      Snow Into Water, handstitched textile in cottons - sourced, vintage,
+      tea-dyed, 100 x 100 cm (white wood tray frame)  SOLD
   - image_path: /uploads/autumn-hedges.jpg
     image_title:
     image_description: >-
@@ -198,16 +222,16 @@ images:
     image_description: >-
       Snow Falls on Copper Waters, handstitched textile in cottons - sourced,
       vintage, tea-dyed, 49 x 50 cm (white wood tray frame) 
-  - image_path: /uploads/autumn-woodland.jpg
-    image_title:
-    image_description: >-
-      Through the Autumn Woods, handstitched textile in cottons - sourced,
-      vintage, tea-dyed, 80 x 60 cm (white wood tray frame) 
   - image_path: /uploads/autumn-woodland-2.jpg
     image_title:
     image_description: >-
       Sun Through The Woods, collage in torn paper 44 x 38 cm (white wood tray
       frame) 
+  - image_path: /uploads/autumn-woodland.jpg
+    image_title:
+    image_description: >-
+      Through the Autumn Woods, handstitched textile in cottons - sourced,
+      vintage, tea-dyed, 80 x 60 cm (white wood tray frame) 
   - image_path: /uploads/heather-hills.jpg
     image_title:
     image_description: >-
@@ -220,30 +244,6 @@ images:
       frame) 
 
       SOLD
-  - image_path: /uploads/dsc-2024-copy-2.jpg
-    image_title: Moon Tide - Autumn
-    image_description: |-
-      Moon Tide - Autumn
-      handstitched textile in cottons - sourced, vintage, tea-dyed 
-      72 x 72 cm (white wood tray frame)
-  - image_path: /uploads/dsc-2021-2.jpg
-    image_title: Moon Tide - Winter
-    image_description: |-
-      Moon Tide - Winter
-      handstitched textile in cottons - sourced, vintage, tea-dyed 
-      72 x 72 cm (white wood tray frame)
-  - image_path: /uploads/dsc-2026.jpg
-    image_title: Moon Tide - Spring
-    image_description: |-
-      Moon Tide - Spring
-      handstitched textile in cottons - sourced, vintage, tea-dyed 
-      72 x 72 cm (white wood tray frame)
-  - image_path: /uploads/dsc-2019.jpg
-    image_title: Moon Tide - Summer
-    image_description: |-
-      Moon Tide - Summer
-      handstitched textile in cottons - sourced, vintage, tea-dyed 
-      72 x 72 cm (white wood tray frame)
 _options:
   image_path:
     width: 1200
