@@ -262,9 +262,12 @@ images:
       Dhodhekanisos Bay
       collaged in torn papers, sourced and hand coloured
       43 x 37 cm (white wood tray frame)
-  - image_path: ''
-    image_title:
-    image_description: ''
+  - image_path: /uploads/dsc-2072-1.jpg
+    image_title: Grecian Blues
+    image_description: |-
+      Dhodhekanisos, Sunset
+      handstitched textile in cottons - sourced, vintage, tea-dyed 
+      43 x 37 cm (white wood tray frame)
 _options:
   image_path:
     width: 1200
