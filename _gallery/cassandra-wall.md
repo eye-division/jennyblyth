@@ -179,7 +179,7 @@ images:
       Dhodhekanisos, Sunset
       handstitched textile in cottons - sourced, vintage, tea-dyed 
       43 x 37 cm (white wood tray frame)
-  - image_path: /uploads/dsc-2101.jpg
+  - image_path: /uploads/dsc-2101-1.jpg
     image_title: Symi Siesta
     image_description: |-
       Symi Siesta
