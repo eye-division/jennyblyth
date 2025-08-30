@@ -223,6 +223,9 @@ images:
   - image_path: /uploads/dsc-2024-copy-1.jpg
     image_title: Moon Tide - Autumn
     image_description: ''
+  - image_path: /uploads/dsc-2021-1.jpg
+    image_title: Moon Tide - Winter
+    image_description: ''
 _options:
   image_path:
     width: 1200
