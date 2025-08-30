@@ -192,7 +192,7 @@ images:
       handstitched textile in cottons - sourced, vintage, tea-dyed 
       100 x 100 cm (white wood tray frame)
   - image_path: /uploads/view-from-prospect-cottage.jpeg
-    image_title: View From Prospect Cottage across the Longshore Drift
+    image_title: ' From Prospect Cottage ...'
     image_description: |-
       Symi Siesta
       collaged in torn papers, sourced and hand coloured
