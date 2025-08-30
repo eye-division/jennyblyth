@@ -199,9 +199,10 @@ images:
       27 x 29 cm (white wood tray frame)
   - image_path: /uploads/hastings-shed.jpg
     image_title:
-    image_description: >-
-      Hastings: Net Shed, handstitched textile in cottons - sourced, vintage,
-      tea-dyed, 119 x 112 cm (white wood tray frame) 
+    image_description: |-
+      Net Sheds, Hastings 
+      handstitched textile in cottons - sourced, vintage, tea-dyed
+      119 x 112 cm (white wood tray frame) 
   - image_path: /uploads/cherry-blossom.jpg
     image_title:
     image_description: >-
