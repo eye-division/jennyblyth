@@ -244,12 +244,12 @@ images:
       frame) 
 
       SOLD
-  - image_path: /uploads/dsc-2041.jpg
-    image_title: Upflight, Doves
+  - image_path: /uploads/dsc-1908.jpg
+    image_title: Dhodhekanisos, Sunset
     image_description: |-
-      Upflight, Doves
+      Dhodhekanisos, Sunset
       handstitched textile in cottons - sourced, vintage, tea-dyed 
-      55 x 81 cm (white wood tray frame)
+      48 x 51 cm (white wood tray frame)
   - image_path: /uploads/dsc-2101.jpg
     image_title: Symi Siesta
     image_description: |-
