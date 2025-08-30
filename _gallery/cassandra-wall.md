@@ -161,6 +161,30 @@ images:
       Moon Tide - Summer
       handstitched textile in cottons - sourced, vintage, tea-dyed 
       72 x 72 cm (white wood tray frame)
+  - image_path: /uploads/dsc-1908.jpg
+    image_title: Dhodhekanisos, Sunset
+    image_description: |-
+      Dhodhekanisos, Sunset
+      handstitched textile in cottons - sourced, vintage, tea-dyed 
+      48 x 51 cm (white wood tray frame)
+  - image_path: /uploads/dsc-2128.jpg
+    image_title: Dhodhekanisos Bay
+    image_description: |-
+      Dhodhekanisos Bay
+      collaged in torn papers, sourced and hand coloured
+      43 x 37 cm (white wood tray frame)
+  - image_path: /uploads/dsc-2072-1.jpg
+    image_title: Grecian Blues
+    image_description: |-
+      Dhodhekanisos, Sunset
+      handstitched textile in cottons - sourced, vintage, tea-dyed 
+      43 x 37 cm (white wood tray frame)
+  - image_path: /uploads/dsc-2101.jpg
+    image_title: Symi Siesta
+    image_description: |-
+      Symi Siesta
+      collaged in torn papers, sourced and hand coloured
+      43 x 37 cm (white wood tray frame)
   - image_path: /uploads/cassandra-wall-prospect-cottage.jpg
     image_title:
     image_description: |-
@@ -179,11 +203,6 @@ images:
     image_description: >-
       Hastings: Net Shed, handstitched textile in cottons - sourced, vintage,
       tea-dyed, 119 x 112 cm (white wood tray frame) 
-  - image_path: /uploads/walberswick.jpg
-    image_title:
-    image_description: >-
-      Walberswick, handstitched textile in cottons - sourced, vintage, tea-dyed
-      - 189 x 169 cm  (white wood tray frame)
   - image_path: /uploads/cherry-blossom.jpg
     image_title:
     image_description: >-
@@ -244,30 +263,6 @@ images:
       frame) 
 
       SOLD
-  - image_path: /uploads/dsc-1908.jpg
-    image_title: Dhodhekanisos, Sunset
-    image_description: |-
-      Dhodhekanisos, Sunset
-      handstitched textile in cottons - sourced, vintage, tea-dyed 
-      48 x 51 cm (white wood tray frame)
-  - image_path: /uploads/dsc-2101.jpg
-    image_title: Symi Siesta
-    image_description: |-
-      Symi Siesta
-      collaged in torn papers, sourced and hand coloured
-      43 x 37 cm (white wood tray frame)
-  - image_path: /uploads/dsc-2128.jpg
-    image_title: Dhodhekanisos Bay
-    image_description: |-
-      Dhodhekanisos Bay
-      collaged in torn papers, sourced and hand coloured
-      43 x 37 cm (white wood tray frame)
-  - image_path: /uploads/dsc-2072-1.jpg
-    image_title: Grecian Blues
-    image_description: |-
-      Dhodhekanisos, Sunset
-      handstitched textile in cottons - sourced, vintage, tea-dyed 
-      43 x 37 cm (white wood tray frame)
 _options:
   image_path:
     width: 1200
