@@ -227,7 +227,7 @@ images:
       handstitched textile in cottons - sourced, vintage, tea-dyed 
       41 x 41 cm (white wood tray frame)
   - image_path: /uploads/dsc-2094.jpg
-    image_title: Drinking Down The Light Study
+    image_title: Harbour at Dusk
     image_description: |-
       Drinking Down The Light Study
       collaged in torn papers, sourced and hand coloured
@@ -245,7 +245,7 @@ images:
       collaged in torn papers, sourced and hand coloured
       34 x 29 cm (white wood tray frame)
   - image_path: /uploads/autumn-woodland.jpg
-    image_title: Through the Woods - Autumn
+    image_title: Through the Woods
     image_description: |-
       Through the Woods - Autumn
       handstitched textile in cottons - sourced, vintage, tea-dyed
@@ -257,7 +257,7 @@ images:
       handstitched textile in cottons - sourced, vintage, tea-dyed
       68 x 54 cm (white wood tray frame) 
   - image_path: /uploads/spring.jpg
-    image_title: 'Impressionist Gardens, Spring '
+    image_title: Impressionist Gardens
     image_description: |-
       Impressionist Gardens, Spring
       handstitched textile in cottons -sourced, vintage, tea-dyed
@@ -268,6 +268,16 @@ images:
       Autumn Hedgerows
       handstitched patchwork in cottons - sourced, vintage, tea-dyed
       45 x 49 cm (white wood tray frame) SOLD 
+  - image_path: /uploads/dsc-1893.jpg
+    image_title: Golden Birch
+    image_description: |
+      Golden Birch
+  - image_path: /uploads/dsc-2080.jpg
+    image_title: Roses
+    image_description: |-
+      Roses
+      handstitched textile in cottons - sourced, vintage, tea-dyed
+      38 x 35 cm (white wood tray frame) 
   - image_path: /uploads/heather-hills.jpg
     image_title: Heather Hills
     image_description: |-
@@ -275,7 +285,7 @@ images:
       handstitched textile in cottons - sourced, vintage, tea-dyed
       49 x 50 cm (white wood tray frame) SOLD
   - image_path: /uploads/heather-hills-2-1.jpg
-    image_title:
+    image_title: Peak District
     image_description: >-
       Heather Hills (2), collage in torn paper 32 x 24.5 cm (white wood tray
       frame) 
@@ -287,22 +297,12 @@ images:
       Moon Water
       handstitched textile in cottons - sourced, vintage, tea-dyed 
       90 x 90 cm (white wood tray frame)
-  - image_path: /uploads/dsc-1893.jpg
-    image_title: Golden Birch
-    image_description: |
-      Golden Birch
   - image_path: /uploads/dsc-2060-1.jpg
-    image_title: Sundowner - Cocktail Hour
+    image_title: 'Sundowner '
     image_description: |-
-      Sundowner - Cocktail Hour
+      Sundowner
       handstitched textile in cottons - sourced, vintage, tea-dyed
       80 x 60 cm (white wood tray frame) 
-  - image_path: /uploads/dsc-2080.jpg
-    image_title: Roses
-    image_description: |-
-      Roses
-      handstitched textile in cottons - sourced, vintage, tea-dyed
-      38 x 35 cm (white wood tray frame) 
 _options:
   image_path:
     width: 1200
