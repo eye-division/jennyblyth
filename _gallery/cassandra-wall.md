@@ -293,6 +293,12 @@ images:
       Sundowner - Cocktail Hour
       handstitched textile in cottons - sourced, vintage, tea-dyed
       80 x 60 cm (white wood tray frame) 
+  - image_path: /uploads/dsc-2080.jpg
+    image_title: Roses
+    image_description: |-
+      Roses
+      handstitched textile in cottons - sourced, vintage, tea-dyed
+      38 x 35 cm (white wood tray frame) 
 _options:
   image_path:
     width: 1200
