@@ -186,7 +186,7 @@ images:
       collaged in torn papers, sourced and hand coloured
       43 x 37 cm (white wood tray frame)
   - image_path: /uploads/cassandra-wall-prospect-cottage.jpg
-    image_title:
+    image_title: 'Dungeness:  Summer & Winter'
     image_description: |-
       Dungeness: Summer & Winter, (Derek Jarman's Prospect Cottage) 
       handstitched textile in cottons - sourced, vintage, tea-dyed 
@@ -204,15 +204,16 @@ images:
       handstitched textile in cottons - sourced, vintage, tea-dyed
       119 x 112 cm (white wood tray frame) 
   - image_path: /uploads/snow-into-water.jpg
-    image_title:
+    image_title: Snow Into Water
     image_description: >-
       Snow Into Water, handstitched textile in cottons - sourced, vintage,
       tea-dyed, 100 x 100 cm (white wood tray frame)  SOLD
   - image_path: /uploads/dsc-2038.jpg
-    image_title:
-    image_description: >-
-      Blossom Falling, handstitched textile in cottons - sourced, vintage,
-      tea-dyed, 61 x 62 cm (white wood tray frame) 
+    image_title: Blossom Falling
+    image_description: |-
+      Blossom Falling
+      handstitched textile in cottons - sourced, vintage, tea-dyed
+      61 x 62 cm (white wood tray frame) 
   - image_path: /uploads/dsc-2118.jpg
     image_title: Cherry Blossom
     image_description: |-
@@ -232,10 +233,11 @@ images:
       collaged in torn papers, sourced and hand coloured
       34 x 29 cm (white wood tray frame)
   - image_path: /uploads/greek-seas.jpg
-    image_title:
-    image_description: >-
-      Greek Seas, Morning, handstitched textile in cottons - sourced, vintage,
-      tea-dyed, 49 x 50 cm (white wood tray frame) 
+    image_title: Grecian Seas - Morning
+    image_description: |-
+      Grecian Seas - Morning
+      handstitched textile in cottons - sourced, vintage, tea-dyed
+      49 x 50 cm (white wood tray frame) 
   - image_path: /uploads/dsc-2125-2.jpg
     image_title: Ionian Bay
     image_description: |-
@@ -243,31 +245,35 @@ images:
       collaged in torn papers, sourced and hand coloured
       34 x 29 cm (white wood tray frame)
   - image_path: /uploads/autumn-woodland.jpg
-    image_title:
+    image_title: Through the Woods - Autumn
     image_description: |-
-      Through the Autumn Woods
+      Through the Woods - Autumn
       handstitched textile in cottons - sourced, vintage, tea-dyed
       80 x 60 cm (white wood tray frame) 
-  - image_path: /uploads/autumn-woodland-2.jpg
-    image_title:
-    image_description: >-
-      Sun Through The Woods, collage in torn paper 44 x 38 cm (white wood tray
-      frame) 
+  - image_path: /uploads/dsc-1860-1.jpg
+    image_title: Backlit Spring
+    image_description: |-
+      Backlit Spring
+      handstitched textile in cottons - sourced, vintage, tea-dyed
+      68 x 54 cm (white wood tray frame) 
   - image_path: /uploads/spring.jpg
-    image_title:
-    image_description: >-
-      Spring: Impressionist Gardens, handstitched textile in cottons -sourced,
-      vintage, tea-dyed, 52 x 49 cm (white wood tray frame)
+    image_title: 'Impressionist Gardens, Spring '
+    image_description: |-
+      Impressionist Gardens, Spring
+      handstitched textile in cottons -sourced, vintage, tea-dyed
+      52 x 49 cm (white wood tray frame)
   - image_path: /uploads/autumn-hedges.jpg
-    image_title:
-    image_description: >-
-      Autumn Hedgerows, handstitched patchwork in cottons - sourced, vintage,
-      te4a-dyed, 45 x 49 cm (white wood tray frame) SOLD 
+    image_title: Autumn Hedgerows
+    image_description: |-
+      Autumn Hedgerows
+      handstitched patchwork in cottons - sourced, vintage, tea-dyed
+      45 x 49 cm (white wood tray frame) SOLD 
   - image_path: /uploads/heather-hills.jpg
-    image_title:
-    image_description: >-
-      Heather Hills, handstitched textile in cottons - sourced, vintage,
-      tea-dyed, 49 x 50 cm (white wood tray frame) SOLD
+    image_title: Heather Hills
+    image_description: |-
+      Heather Hills
+      handstitched textile in cottons - sourced, vintage, tea-dyed
+      49 x 50 cm (white wood tray frame) SOLD
   - image_path: /uploads/heather-hills-2-1.jpg
     image_title:
     image_description: >-
@@ -283,10 +289,8 @@ images:
       90 x 90 cm (white wood tray frame)
   - image_path: /uploads/dsc-1893.jpg
     image_title: Golden Birch
-    image_description: |-
+    image_description: |
       Golden Birch
-      handstitched textile in cottons - sourced, vintage, tea-dyed
-      68 x 54 cm (white wood tray frame) 
   - image_path: /uploads/dsc-2060-1.jpg
     image_title: Sundowner - Cocktail Hour
     image_description: |-
