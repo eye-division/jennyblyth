@@ -248,7 +248,7 @@ images:
       Through the Autumn Woods
       handstitched textile in cottons - sourced, vintage, tea-dyed
       80 x 60 cm (white wood tray frame) 
-  - image_path: /uploads/autumn-woodland-2.jpg
+  - image_path: /uploads/dsc-1860-1.jpg
     image_title:
     image_description: >-
       Sun Through The Woods, collage in torn paper 44 x 38 cm (white wood tray
