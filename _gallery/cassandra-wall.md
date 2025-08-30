@@ -242,26 +242,27 @@ images:
       Ionian Bay
       collaged in torn papers, sourced and hand coloured
       34 x 29 cm (white wood tray frame)
-  - image_path: /uploads/autumn-hedges.jpg
-    image_title:
-    image_description: >-
-      Autumn Hedgerows, handstitched patchwork in cottons - sourced, vintage,
-      te4a-dyed, 45 x 49 cm (white wood tray frame) SOLD 
-  - image_path: /uploads/spring.jpg
-    image_title:
-    image_description: >-
-      Spring: Impressionist Gardens, handstitched textile in cottons -sourced,
-      vintage, tea-dyed, 52 x 49 cm (white wood tray frame)
   - image_path: /uploads/autumn-woodland.jpg
     image_title:
-    image_description: >-
-      Through the Autumn Woods, handstitched textile in cottons - sourced,
-      vintage, tea-dyed, 80 x 60 cm (white wood tray frame) 
+    image_description: |-
+      Through the Autumn Woods
+      handstitched textile in cottons - sourced, vintage, tea-dyed
+      80 x 60 cm (white wood tray frame) 
   - image_path: /uploads/autumn-woodland-2.jpg
     image_title:
     image_description: >-
       Sun Through The Woods, collage in torn paper 44 x 38 cm (white wood tray
       frame) 
+  - image_path: /uploads/spring.jpg
+    image_title:
+    image_description: >-
+      Spring: Impressionist Gardens, handstitched textile in cottons -sourced,
+      vintage, tea-dyed, 52 x 49 cm (white wood tray frame)
+  - image_path: /uploads/autumn-hedges.jpg
+    image_title:
+    image_description: >-
+      Autumn Hedgerows, handstitched patchwork in cottons - sourced, vintage,
+      te4a-dyed, 45 x 49 cm (white wood tray frame) SOLD 
   - image_path: /uploads/heather-hills.jpg
     image_title:
     image_description: >-
@@ -280,9 +281,12 @@ images:
       Moon Water
       handstitched textile in cottons - sourced, vintage, tea-dyed 
       90 x 90 cm (white wood tray frame)
-  - image_path: ''
-    image_title: ''
-    image_description: ''
+  - image_path: /uploads/dsc-1860.jpg
+    image_title: Backlit Spring
+    image_description: |-
+      Backlit Spring
+      handstitched textile in cottons - sourced, vintage, tea-dyed
+      80 x 60 cm (white wood tray frame) 
 _options:
   image_path:
     width: 1200
