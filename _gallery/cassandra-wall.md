@@ -203,16 +203,22 @@ images:
       Net Sheds, Hastings 
       handstitched textile in cottons - sourced, vintage, tea-dyed
       119 x 112 cm (white wood tray frame) 
-  - image_path: /uploads/cherry-blossom.jpg
-    image_title:
-    image_description: >-
-      Blossom Falling, handstitched textile in cottons - sourced, vintage,
-      tea-dyed, 61 x 62 cm (white wood tray frame) 
   - image_path: /uploads/snow-into-water.jpg
     image_title:
     image_description: >-
       Snow Into Water, handstitched textile in cottons - sourced, vintage,
       tea-dyed, 100 x 100 cm (white wood tray frame)  SOLD
+  - image_path: /uploads/dsc-2038.jpg
+    image_title:
+    image_description: >-
+      Blossom Falling, handstitched textile in cottons - sourced, vintage,
+      tea-dyed, 61 x 62 cm (white wood tray frame) 
+  - image_path: /uploads/dsc-2118.jpg
+    image_title: Cherry Blossom
+    image_description: |-
+      Cherry Blossom
+      collaged in torn papers, sourced and hand coloured
+      34 x 29 cm (white wood tray frame)
   - image_path: /uploads/autumn-hedges.jpg
     image_title:
     image_description: >-
@@ -258,12 +264,6 @@ images:
       frame) 
 
       SOLD
-  - image_path: /uploads/dsc-2118.jpg
-    image_title: Cherry Blossom
-    image_description: |-
-      Cherry Blossom
-      collaged in torn papers, sourced and hand coloured
-      34 x 29 cm (white wood tray frame)
   - image_path: /uploads/dsc-2031.jpg
     image_title: Moon Water
     image_description: |-
