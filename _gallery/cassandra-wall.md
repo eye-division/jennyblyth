@@ -219,22 +219,23 @@ images:
       Cherry Blossom
       collaged in torn papers, sourced and hand coloured
       34 x 29 cm (white wood tray frame)
-  - image_path: /uploads/greek-seas.jpg
-    image_title:
-    image_description: >-
-      Greek Seas, Morning, handstitched textile in cottons - sourced, vintage,
-      tea-dyed, 49 x 50 cm (white wood tray frame) 
+  - image_path: /uploads/dsc-2063.jpg
+    image_title: Drinking Down The Light
+    image_description: |-
+      Drinking Down The Light
+      handstitched textile in cottons - sourced, vintage, tea-dyed 
+      41 x 41 cm (white wood tray frame)
   - image_path: /uploads/dsc-2094.jpg
     image_title: Drinking Down The Light Study
     image_description: |-
       Drinking Down The Light Study
       collaged in torn papers, sourced and hand coloured
       34 x 29 cm (white wood tray frame)
-  - image_path: /uploads/silver-birch.jpg
+  - image_path: /uploads/greek-seas.jpg
     image_title:
     image_description: >-
-      Snow Falls on Copper Waters, handstitched textile in cottons - sourced,
-      vintage, tea-dyed, 49 x 50 cm (white wood tray frame) 
+      Greek Seas, Morning, handstitched textile in cottons - sourced, vintage,
+      tea-dyed, 49 x 50 cm (white wood tray frame) 
   - image_path: /uploads/autumn-hedges.jpg
     image_title:
     image_description: >-
@@ -258,12 +259,6 @@ images:
   - image_path: ''
     image_title: ''
     image_description: ''
-  - image_path: /uploads/dsc-2063.jpg
-    image_title: Drinking Down The Light
-    image_description: |-
-      Drinking Down The Light
-      handstitched textile in cottons - sourced, vintage, tea-dyed 
-      41 x 41 cm (white wood tray frame)
   - image_path: /uploads/heather-hills.jpg
     image_title:
     image_description: >-
