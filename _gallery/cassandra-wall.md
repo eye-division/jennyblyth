@@ -198,7 +198,7 @@ images:
       collaged in torn papers, sourced and hand coloured
       27 x 29 cm (white wood tray frame)
   - image_path: /uploads/hastings-shed.jpg
-    image_title:
+    image_title: Net Sheds, Hastings
     image_description: |-
       Net Sheds, Hastings 
       handstitched textile in cottons - sourced, vintage, tea-dyed
