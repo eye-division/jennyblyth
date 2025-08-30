@@ -220,6 +220,18 @@ images:
       frame) 
 
       SOLD
+  - image_path: ''
+    image_title:
+    image_description: ''
+  - image_path: ''
+    image_title:
+    image_description: ''
+  - image_path: ''
+    image_title:
+    image_description: ''
+  - image_path: ''
+    image_title:
+    image_description: ''
 _options:
   image_path:
     width: 1200
