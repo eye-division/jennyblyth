@@ -184,7 +184,7 @@ images:
     image_description: |-
       Symi Siesta
       collaged in torn papers, sourced and hand coloured
-      43 x 37 cm (white wood tray frame)
+      43 x 37 cm (white wood tray frame) SOLD
   - image_path: /uploads/cassandra-wall-prospect-cottage.jpg
     image_title: 'Dungeness:  Summer & Winter'
     image_description: |-
@@ -237,7 +237,7 @@ images:
     image_description: |-
       Grecian Seas - Morning
       handstitched textile in cottons - sourced, vintage, tea-dyed
-      49 x 50 cm (white wood tray frame) 
+      49 x 50 cm (white wood tray frame)  SOLD
   - image_path: /uploads/dsc-2125-2.jpg
     image_title: Ionian Bay
     image_description: |-
