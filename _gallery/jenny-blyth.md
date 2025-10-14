@@ -192,6 +192,9 @@ images:
     image_description: >-
       Photograph printed in pigmented inks onto archival cotton rag paper<br
       />&amp;pound;POE  Limited Edition.
+  - image_path: /uploads/cloud-trees.jpg
+    image_title: River Clouds & Trees at Sunset
+    image_description:
   - image_path:
     image_title:
     image_description:
