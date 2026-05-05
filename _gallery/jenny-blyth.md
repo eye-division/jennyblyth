@@ -195,8 +195,8 @@ images:
   - image_path: /uploads/cloud-trees.jpg
     image_title: River Clouds & Trees at Sunset
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /uploads/dsc-1166-all-souls-dusk.jpg
+    image_title: All Souls College, Oxford
     image_description:
 _options:
   image_path:
