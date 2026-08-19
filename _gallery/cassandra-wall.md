@@ -3,15 +3,66 @@ title: Cassandra Wall
 surname: WALL
 currentshow: true
 description_markdown: >-
-  **Drinking Down The Light : 5 - 25 September 2025**
+  **Cassandra Wall**
 
 
-  **Cassandra Wall** showing textiles at **The Sewell Gallery, Radley College,
-  Oxfordshire** OX14  2HR, curated by Jenny Blyth.
+  **Recent Work 2026 : Cosmic Landscape & Moon Tides**
 
 
-  **Opening : Friday 5 September from 6-8 pm** : You are warmly welcome: 
-  **RSVP**: jennyblythart@gmail.com
+  Text JB/CW
+
+
+  **Cosmic Landscape**
+
+
+  My work celebrates landscape in all its manifestations. Our natural world and
+  planet are balanced, one with the other, within the cosmos. ***Cosmic
+  Landscape*** celebrates that inter-galactic relationship and follows through
+  from my ***Moon Tide*** landscapes that explore the *balance of play* between
+  the moon and the tides and the poetry in the rhythm of the landscape through
+  the seasons.
+
+
+  Handstitched in vintage and contemporary cottons, sourced and tea-dyed, my
+  textiles present a contemporary take on the patchwork of the early Pioneers in
+  America who explored the new world, reflecting the beauty of the natural world
+  in their designs.
+
+
+  I have maintained a Buddhist practice for 30 years, and that sense of
+  contemplation informs my art. Despite all the noise that challenges us daily,
+  reflected in the multiplicity of my tessellations, one finds a quietness.
+  Artists like Agnes Martin, who captured the wind playing over the grasses of
+  the Saskatchewan prairies in paintings such as *Drift of Summer,* did exactly
+  that.
+
+
+  **Moon Tide - Autumn**
+
+
+  The sea bites into the shore eroding the land and my ***Moon Tide*** series
+  reflects the changing contours of the littoral shoreline through the lunar
+  cycle - quarter, half and full moon. I have designed tessellations that echo
+  the interwoven movement of waves in the shallows shaping the shingle. My
+  palette celebrates Autumn, rich and plentiful with scarlet berries and sunsets
+  against the deep browns of earth and woods. Subdued blues colour the sea as we
+  step towards winter.
+
+
+  **Moon Tide - Winter**
+
+
+  ***Moon Tide – Winter*** reflects the luminescence and shadows that pass
+  across the face of the moon as we see it from earth, illuminated by the sun. I
+  have tried to capture the surface of the moon and the cool of the pearl pale
+  light, that shapes and colours our winter landscape on land or at sea. The
+  tessellation reflects the different phases of the moon waxing and waning,
+  illusive at times when occluded by clouds. It is as much the landscape of the
+  night skies as a part of our earthly night-time landscape.
+
+
+  **Drinking Down The Light : 5 - 25 September 2025** at **The Sewell Gallery,
+  Radley College, Oxfordshire** OX14  2HR, curated by Jenny Blyth.
 
 
   Text by Jenny Blyth © 2025
